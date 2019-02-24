@@ -13,21 +13,17 @@ This dictionary bases on the English edition of "Döderlein's Hand-book of Latin
 This project is aimed at transforming the dictionary into [XDXF format][1] campatible with computer dictionary shells, such as [GoldenDict][2] (Windows/Linux) or [Alpus][3] (Android). Besides, existing tools make it possible to translate XDXF into other popular formats, such as DSL for [ABBYY Lingvo][4] or Slob for [Aard2][5].
 
 
-## Changelog
+## Work in progress
 
-1. Initial release
-2. Replacing æ/œ to ae/oe (only in keys) in correspondence to the Huspell's Latin dictionary
-3. Resolve abbreviation for literary sources to their full form
-
-
-## ToDo
-
-4. Convert references to the Döderlein's grand "Lateinische Synonyme und Etymologieen" into Internet links
-1. Dictionary keys: change nouns to singular form
-1. Dictionary keys: change verbs to form of 1st person ind. (amare > amo)
-1. Dictionary keys: replace "j" to "i" in keys
-1. Add missing keys (from lines "XXX, see YYY")
-1. Add Greek keys (if needed)
+* [x] Initial release
+* [x] Dictionary keys: replace æ/œ to ae/oe
+* [x] Resolve abbreviation for literary sources to their full form
+* [ ] Convert references to the Döderlein's grand "Lateinische Synonyme und Etymologieen" into Internet links
+* [ ] Dictionary keys: change nouns to singular form
+* [ ] Dictionary keys: change verbs to form of 1st person ind. (amare > amo)
+* [ ] Dictionary keys: replace "j" to "i" in keys
+* [ ] Add missing keys (from lines "XXX, see YYY")
+* [ ] Add Greek keys (if needed)
 
 
 ## Usage guidelines
