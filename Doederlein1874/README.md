@@ -5,7 +5,7 @@ Dictionary of **Latin** synonyms with explanations on **English** in XDXF format
 
 ## Introduction
 
-This dictionary bases on the English edition published in 1875 and transcribed for Gutenberd project in 2010:
+This dictionary bases on the English edition of "Döderlein's Hand-book of Latin Synonymes" published in 1875 and transcribed for Gutenberd project in 2010:
     
 1. Von Döderlein, L.; Taylor, S. H. & Arnold, H. H. _Döderlein's Hand-book of Latin Synonymes._ Warren F. Draper, 1875. URL: <https://archive.org/details/dderleinshandbo00arnogoog> \[Accessed 24 February 2019\].
 1. Von Döderlein, L.; Taylor, S. H. & Arnold, H. H. _Döderlein’s Hand-Book of Latin Synonymes by Ludwig von Doederlein_, 2010. Edited by Hope L. and Spehar I. Gutenber project. URL: <http://www.gutenberg.org/ebooks/33197> \[Accessed 24 February 2019\].
