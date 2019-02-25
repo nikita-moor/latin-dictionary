@@ -15,15 +15,15 @@ This project is aimed at transforming the dictionary into [XDXF format][1] campa
 
 ## Work in progress
 
-* [x] Initial release
-* [x] Dictionary keys: replace æ/œ to ae/oe
-* [x] Resolve abbreviation for literary sources to their full form
-* [ ] Convert references to the Döderlein's grand "Lateinische Synonyme und Etymologieen" into Internet links
-* [ ] Dictionary keys: change nouns to singular form
-* [ ] Dictionary keys: change verbs to form of 1st person ind. (amare > amo)
-* [ ] Dictionary keys: replace "j" to "i" in keys
-* [ ] Add missing keys (from lines "XXX, see YYY")
-* [ ] Add Greek keys (if needed)
+* [x] initial release
+* [x] dictionary keys: replace æ/œ/j to ae/oe/i
+* [x] resolve abbreviation for literary sources to their full form (still unknown: Cic. ap. Colum.; Cic. Civ.; Cic. Cœl.; Cic. N. T.; Cic. Quint.; Lucil. Fr. Sat.; Quintil. Decl. ult.)
+* [x] convert references to the Döderlein's grand "Lateinische Synonyme und Etymologieen" into Internet links
+* [x] split articles into sub-definitions
+* [ ] dictionary keys: change nouns to singular form
+* [ ] dictionary keys: change verbs to form of 1st person ind. (amare > amo)
+* [ ] add missing keys: 1) from lines "XXX, see YYY"; 2) from articles' text (see "abolere" for "delere")
+* [ ] add Greek keys (if needed)
 
 
 ## Usage guidelines
@@ -35,7 +35,7 @@ This project is aimed at transforming the dictionary into [XDXF format][1] campa
 
 XDXF edition of the Döderlein's dictionary is made in aid of practical use by students of Latin courses, so its formatting may diverge from the original book. Correct transcript of the [dictionary as it was published](http://www.gutenberg.org/ebooks/33197) could be retrived from the Gutenber project.
 
-Normalization of input words (pæne > paene; prāva > pravus; amavit > amo) in GoldenDict is based on Huspell library, which in turns requires dictionary of lemmas. In this project we use the most complete [Latin morphology dictionary][6] built by Karl Zeiler and Jean-Pierre Sutto. Keywords of the Döderlein's dictionary should be harmonized with the hunspell's output: "iuv" spelling; without "æ" and "œ"; without macrones; verbs in 1st person singular.
+Normalization of input words (pæne > paene; prāva > pravus; amavit > amo) in GoldenDict is based on Huspell library, which in turns requires dictionary of lemmas. In this project we use the most complete [Latin morphology dictionary][6] built by Karl Zeiler and Jean-Pierre Sutto. Keywords of the Döderlein's dictionary should be harmonized with the hunspell's output: "iuv" spelling; no ligatures (æ/œ); no macrones; verbs in 1st person singular form.
 
 [1]: https://en.wikipedia.org/wiki/XDXF
 [2]: https://en.wikipedia.org/wiki/GoldenDict
