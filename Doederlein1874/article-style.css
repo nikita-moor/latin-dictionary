@@ -1,0 +1,30 @@
+/* 
+ * GoldenDict's styles
+ *
+ * Put this file into the directory:
+ * Linux: ~/.goldendict
+ * Windows: %APPDATA%\GoldenDict
+ *
+ */
+
+.xdxf_headwords {
+    font-size: 120%;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+
+.xdxf_headwords + .xdxf_headwords {
+    margin-top: 0px;
+}
+
+.xdxf_headwords + .xdxf_def {
+    margin-top: 10px;
+}
+
+.xdxf_num {
+    margin-left: -20px;
+}
+
+.xdxf_def {
+    border-style: none;
+}
