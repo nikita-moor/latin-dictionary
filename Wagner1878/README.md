@@ -12,7 +12,7 @@ Early production version. Part 1 of 18 — words from A to ANGUSTUS.
 
 ## Sources
 
-This dictionary bases on the French edition published in 1878 year (with triple index) and being transcribed for Gutenberd project (2017–):
+This dictionary bases on the French edition published in 1878 year (with triple index) and being transcribed for Gutenberd project (2017–now):
     
 1. Wagner, Franz S. J.; Borgnet, Auguste. _Lexicon latinum seu Corpus Phraseologiæ._ Brugis, 1878. URL: <https://archive.org/details/LexiconLatinum> \[Accessed 4 March 2019\].
 1. On-going transcribe project. URL: <https://www.pgdp.net/c/project.php?id=projectID5b3d9b5f27ee1> \[Accessed 4 March 2019\].
