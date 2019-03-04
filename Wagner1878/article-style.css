@@ -1,0 +1,27 @@
+/* 
+ * GoldenDict's styles
+ *
+ * Put this file into the directory:
+ * Linux: ~/.goldendict
+ * Windows: %APPDATA%\GoldenDict
+ *
+ */
+
+.xdxf_num {
+    margin-left: -18px;
+}
+
+.xdxf_def {
+    border-style: none;
+}
+
+.xdxf_ex {
+    color: #3465a4;
+}
+
+input.wagner ~ span .xdxf_ex{display: none;}
+input.wagner:checked ~ span .xdxf_ex{display: block;}
+
+.wagner {
+    background-image: linear-gradient(to right, #9cff68ff, #FFFFFFFF);
+}
