@@ -7,8 +7,8 @@ Early production version. Part 1 of 18 — words from A to ANGUSTUS.
 
 ## Exemplum
 
-![](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-1s.png)
-![](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-2s.png)
+[![](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-1s.png)](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-1.png)
+[![](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-2s.png)](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-2.png)
 
 ## Sources
 
