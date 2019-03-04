@@ -4,7 +4,7 @@ This phraseological dictionary of **Latin** language contains translation of a w
 
 Computer version in XDXF format.
 
-Early production version. Part 1/18 — words from A to ANGUSTUS.
+Early production version; part 1/18 — words from A to ANGUSTUS.
 
 
 ## Exemplum
@@ -29,7 +29,10 @@ Format and structure of the dictionary hardly fit the XDXF format, so this _draf
 
 ## License
 
-ToDo: Creative Commons or other compatible with Guttenberg…
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
 
 
 ## Development schedule

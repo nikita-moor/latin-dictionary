@@ -43,7 +43,10 @@ In order to fully reproduce original book, edition with Greek keys was prepared 
 
 ## License
 
-ToDo: Creative Commons or other compatible with Guttenberg…
+<a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
+<img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
+     style="border-style: none;" alt="Public Domain Mark" />
+</a>
 
 
 ## Work in progress
