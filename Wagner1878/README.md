@@ -7,8 +7,7 @@ Early production version. Part 1 of 18 — words from A to ANGUSTUS.
 
 ## Exemplum
 
-ToDo
-
+![screenshot-1](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-1.png) ![screenshot-2](https://raw.githubusercontent.com/nikita-moor/latin-dictionary/master/Wagner1878/screenshot-2.png)
 
 ## Sources
 
@@ -20,7 +19,7 @@ This dictionary bases on the French edition published in 1878 year (with triple 
 
 ## Usage guidelines
 
-Format and structure of the dictionary could hardly fit the XDXF format, so this _draft_ edition fails DTD test and probably will diverge more from the XDXF format in future editions. This file was tested only in [GoldenDict][1] and could be incompatible with other dictionary shells. It is strongly adviced using additional styles for GoldenDict (hide/show full article), see `article-style.css` file.
+Format and structure of the dictionary hardly fit the XDXF format, so this _draft_ edition fails test agains DTD schema and probably will diverge more from the XDXF format in future editions. This file was tested only in [GoldenDict][1] and could be incompatible with other dictionary shells. It is strongly adviced using additional styles for GoldenDict (hide/show full article), see `article-style.css` file.
 
 [GoldenDict][1] dictionary application supports normalization of input words (pæne > paene; prāva > pravus). We recommend using ["Latin spelling and hyphenation dictionaries"][2] in combination with our Döderlein's dictionary.
 
