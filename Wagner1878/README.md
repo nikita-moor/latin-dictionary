@@ -1,8 +1,10 @@
 # Wagner, Lexicon Latinum (1878)
 
-This phraseological dictionary of **Latin** language contains translation of a word into **French**, synonyms, antonyms, adjectives or adverbs applicable to this word, and example phrases from classic Latin works on the topic of the word. Computer version in XDXF format.
+This phraseological dictionary of **Latin** language contains translation of a word into **French**, synonyms, antonyms, adjectives or adverbs applicable to this word, and example phrases from classic Latin works on the topic of the word. Addendum folds in an index of Latin neologisms [Lat-Lat], profesisonal lexicon [Fra-Lat], and **French-Latin** dictionary.
 
-Early production version. Part 1 of 18 — words from A to ANGUSTUS.
+Computer version in XDXF format.
+
+Early production version. Part 1/18 — words from A to ANGUSTUS.
 
 
 ## Exemplum
@@ -39,7 +41,7 @@ Current state of the transcript project (2018-03-04):
 * Parts 1–2: Formatting round (F2)
 * Parts 3–18: Profreading round (P2–P3)
 
-By the most optimistic variant, Part 1 will be released in 2-3 months, by pessimistic — can be delayed for years. For example, ["A Smaller Dictionary of Greek and Roman Antiquities"][3] is in Post-Processing since 2011.
+By the most optimistic variant, Part 1 will be released in 2–3 months, by pessimistic — can be delayed for years. For example, ["A Smaller Dictionary of Greek and Roman Antiquities"][3] is in Post-Processing since 2011.
 
 Anyway, I am open for suggestions about formatting, or noticed errors in the text.
 
