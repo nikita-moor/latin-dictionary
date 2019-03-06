@@ -38,7 +38,7 @@ Normalization of input words (pæne > paene; prāva > pravus; amavit > amo) in G
 
 We tried to extract as much of machine readable information as possible, so the dictionary in XDXF format is almost logical. Handling of literal sources was made only in part, transforming quotations into examples (`<ex>`) requires complex approach and was postponed for future, considering difficulty of the problem and insignificance of the result. Imbedded styling (`<c c="#color">`) is used only (and exclusively) for Greek words. Also, three non-lexical articles were included to represent information about the dictionary: ABOUT_DOEDERLEIN, DOEDERLEIN_INTRO, and DOEDERLEIN_PREFACE.
 
-In order to fully reproduce original book, edition with Greek keys was prepared (`Doederlein1874_Greek.zip`). However, its practical use is questinable and for ordinal students of Latin courses we recommend downloading simple Latin version (`Doederlein1874.zip`). _Download section to be made with release._
+In order to fully reproduce original book, edition with Greek keys was prepared (`Doederlein1874_Greek.zip`). However, its practical use is questinable and for ordinal students of Latin courses we recommend downloading simple Latin version (`Doederlein1874.zip`). _Download section to be made on release._
 
 
 ## License
@@ -61,7 +61,7 @@ In order to fully reproduce original book, edition with Greek keys was prepared 
 * [x] fix em-dash symbols
 * [x] GoldenDict CSS styles
 * [x] add Greek keys (if needed)
-* [ ] dictionary keys: lemmatization (amare > amo; annales > annalis) — **65% WIP**
+* [ ] dictionary keys: lemmatization (amare > amo; annales > annalis) — **80% WIP**
 * [ ] add missing keys: 1) from lines "XXX, see YYY"; 2) from articles' text (see "abolere" for "delere")
 
 
