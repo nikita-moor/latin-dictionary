@@ -35,7 +35,7 @@ Format and structure of the dictionary hardly fit the XDXF format, so this _draf
 </a>
 
 
-## Development schedule
+## Development plan
 
 This draft bases on the WIP version of the transcript and I am not going to do any improvements till the 1st part of the dictionary be finished.
 
