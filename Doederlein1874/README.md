@@ -60,8 +60,8 @@ In order to fully reproduce original book, edition with Greek keys was prepared 
 * [x] add 3 auxiliary articles: ABOUT_DOEDERLEIN, DOEDERLEIN_INTRO, DOEDERLEIN_PREFACE
 * [x] fix em-dash symbols
 * [x] GoldenDict CSS styles
-* [x] add Greek keys (if needed)
-* [ ] dictionary keys: lemmatization (amare > amo; annales > annalis) — **80% WIP**
+* [x] dictionary keys: lemmatization (amare > amo; annales > annalis)
+* [ ] add Greek keys (if needed)
 * [ ] add missing keys: 1) from lines "XXX, see YYY"; 2) from articles' text (see "abolere" for "delere")
 
 
