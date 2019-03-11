@@ -1,6 +1,6 @@
 # Döderlein's Hand-book of Latin Synonymes
 
-Dictionary of **Latin** synonyms with explanations on **English** in XDXF format.
+Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format.
 
 
 ## Exemplum
