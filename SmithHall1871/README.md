@@ -1,15 +1,13 @@
 # A Copious and Critical English-Latin Dictionary
 
-**English-Latin** dictionary of Smith & Hall. _Draft version._
+**English-Latin** dictionary of Smith & Hall (1871). _Draft version._
 
-Another digital edition of this dictionary was made by 
-[Johan Winge](https://github.com/Alatius), his version is available on-line on 
-the [web-site Latinitium][1].
+Another digital edition of this dictionary was made by [Johan Winge](https://github.com/Alatius), his version is available on-line on the [web-site Latinitium][1]. As of the current date (2019-03-11) it can be more correct and reliable.
 
 
 ## Exemplum
 
-_ToDo…_
+[![screenshot](https://user-images.githubusercontent.com/13879891/54139965-b445b980-4433-11e9-85a7-b543f46bc2b1.png)](https://user-images.githubusercontent.com/13879891/54139972-b60f7d00-4433-11e9-9ca9-3bfb99f447e2.png)
 
 
 ## Sources
