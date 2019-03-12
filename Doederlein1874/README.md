@@ -5,12 +5,7 @@ Dictionary of **Latin** synonyms with explanations on **English**, in XDXF forma
 
 ## Exemplum
 
-> Femina; Mulier; Uxor; Coniunx; Marita
-> 
-> 1. **Femina** (φυομένη) denotes woman with regard to her physical nature and sex, as bringing forth, in opp. to _mas_; 
-> whereas **mulier** (from mollis), woman, in a physical point of view, as the weaker and more tender sex, in opp. to _vir_; 
-> whence **femina** only can be used for the female of an animal. 
-> 2. **Mulier** denotes also the married woman, in opp. to _virgo_, Cic. Verr. ii. 1; whereas **uxor** and **conjux**…
+[![puella-small](https://user-images.githubusercontent.com/13879891/54175983-eb50b500-449d-11e9-8c00-a9869ef148aa.png)](https://user-images.githubusercontent.com/13879891/54175982-eb50b500-449d-11e9-9620-ad1bbec759e0.png) [![lacrimare-small](https://user-images.githubusercontent.com/13879891/54175880-944ae000-449d-11e9-888a-281afb307037.png)](https://user-images.githubusercontent.com/13879891/54175878-944ae000-449d-11e9-92c5-a27193247c62.png)
 
 
 ## Sources
