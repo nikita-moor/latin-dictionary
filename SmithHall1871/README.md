@@ -29,6 +29,6 @@ Smith & Hall (1871) and bases on the next publications:
 
 ## Work plans
 
-The ongoing transcribe project is far from completeness, so the text still contains OCR errors and lack of formatting. I do not plan to make significant improvements to my computer version in near future, or till significant progress of proofreading.
+The ongoing transcribe project is far from completeness, so the text still contains OCR errors and lack of formatting. I do not plan to make significant improvements to my XDXF version till significant progress of proofreading.
 
 [1]: https://www.latinitium.com/smithhall
