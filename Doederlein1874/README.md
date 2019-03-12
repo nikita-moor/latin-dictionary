@@ -51,7 +51,7 @@ In order to fully reproduce original book, edition with Greek keys was prepared 
 * [x] resolve abbreviation for literary sources to their full forms (still unknown: Cic. ap. Colum.; Cic. Civ.; Cic. Cœl.; Cic. N. T.; Cic. Quint.; Lucil. Fr. Sat.; Quintil. Decl. ult.)
 * [x] convert references to the Döderlein's grand "Lateinische Synonyme und Etymologieen" into Internet links
 * [x] split articles into sub-definitions
-* [x] Greek words are highlighted by color
+* [x] Greek words are highlighted with color
 * [x] add 3 auxiliary articles: ABOUT_DOEDERLEIN, DOEDERLEIN_INTRO, DOEDERLEIN_PREFACE
 * [x] fix em-dash symbols
 * [x] GoldenDict CSS styles
