@@ -18,7 +18,7 @@ This dictionary bases on the English edition of "Döderlein's Hand-book of Latin
 
 ## Usage guidelines
 
-This project is aimed at transforming the dictionary into [XDXF format][1] campatible with computer dictionary shells, such as [GoldenDict][2] (Windows/Linux/Mac) or [Alpus][3] (Android). Besides, existing tools make it possible to translate XDXF into other popular formats, such as DSL for [ABBYY Lingvo][4] or Slob for [Aard2][5].
+This project is aimed at transforming the dictionary into [XDXF format][1] compatible with computer dictionary shells, such as [GoldenDict][2] (Windows/Linux/Mac) or [Alpus][3] (Android). Besides, existing tools make it possible to translate XDXF into other popular formats, such as DSL for [ABBYY Lingvo][4] or Slob for [Aard2][5].
 
 [GoldenDict][2] dictionary application supports normalization of input words (pæne > paene; prāva > pravus). We recommend using ["Latin spelling and hyphenation dictionaries"][6] in combination with our Döderlein's dictionary.
 

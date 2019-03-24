@@ -24,7 +24,7 @@ This dictionary bases on the French edition published in 1878 year (with triple 
 
 Format and structure of the dictionary hardly fit the XDXF format, so this _draft_ edition fails test agains DTD schema and probably will diverge more from the XDXF format in future editions. This file was tested only in [GoldenDict][1] and could be incompatible with other dictionary shells. It is strongly adviced using additional styles for GoldenDict (hide/show full article), see `article-style.css` file.
 
-[GoldenDict][1] dictionary application supports normalization of input words (pæne > paene; prāva > pravus). We recommend using ["Latin spelling and hyphenation dictionaries"][2] in combination with our Döderlein's dictionary.
+[GoldenDict][1] dictionary application supports normalization of input words (pæne > paene; prāva > pravus). We recommend using ["Latin spelling and hyphenation dictionaries"][2] in combination with this dictionary.
 
 
 ## License
