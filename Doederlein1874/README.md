@@ -28,7 +28,7 @@ Default formatting styles for XDXF in GoldenDict do not fit well this dictionary
 
 XDXF edition of the Döderlein's dictionary is made in aid of students of Latin courses, so its formatting may diverge from the original book. Exact transcript of the dictionary as it was published [could be retrived][8] from the Gutenber project.
 
-Dictionary keys were normalized (`pæne > paene`, `vicini > vicinus`, `amare > amo`) in accordance with [Latin morphology dictionary][6] built by Karl Zeiler and Jean-Pierre Sutto for Hunspell: "iuv" spelling without ligatures (æ/œ). About 300 keys were added to make indexing more convinient, these keys represent infrormation already existing in the articles and add nothing to the content (e.g. `olor` and `olidus` added to `olere`).
+Dictionary keys were normalized (`pæne > paene`, `vicini > vicinus`, `amare > amo`) in accordance with [Latin morphology dictionary][6] built by Karl Zeiler and Jean-Pierre Sutto for Hunspell: "iuv" spelling without ligatures (æ/œ). About 300 keys were added to make indexing more convinient, these keys represent infrormation already existing in the articles and add nothing to the content (e.g. "olor" and "olidus" were added to "olere").
 
 Greek keys are added as stub article "For αβγ see abc". It is not very convenient, so to open the corresponding article user need to make additional click, but prevents bloating of the keywords lists (i.e. visual design problem). I am not competent in Greek language, so all Greek keys are left without normalization or any change, and save their form as is in the text.
 
