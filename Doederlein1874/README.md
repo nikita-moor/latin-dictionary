@@ -56,7 +56,7 @@ Small changes in formatting (such as change of bold to italic) were made in the 
 </a>
 
 
-## ToDo (in the far future)
+## ToDo (in the distant future)
 
 * [ ] fix lemmatizing process for "j"-spelling
 * [ ] develop smarter algorithm for authors detection
