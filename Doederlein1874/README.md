@@ -37,13 +37,13 @@ We tried to extract as much of machine readable information as possible, so the 
 
 ## Errata
 
-Typos found and fixed in the text of the edition of 1863 (line numbers by the transcript):
+Typos found and fixed in the text of the book (line numbers from the transcript):
 
 1. "sodes" to "sordes", line #5583
 1. "prædia" to "prædæ", line #7236
 1. "diutunus" to "diuturnus", line #7333
 
-Reference "(295.)" in "casus" article was resolved to "(v. 295.)".
+Reference "(295.)" in "casus" was resolved to "(v. 295.)".
 
 Small changes in formatting (such as change of bold to italic) were made in the articles discussing following words: "numen", "tellus", "ludicrum", "restituere", "pigritia", "perperam", "sacer".
 
@@ -57,6 +57,8 @@ Small changes in formatting (such as change of bold to italic) were made in the 
 
 
 ## ToDo (in the distant future)
+
+The work is finished, I could only regret the method I choosed to lemmatize keys, which now prevents me producing good j-spelling variant of the dictionary. Though it's possible, but requires several days of handy work, and I think they could be used more productively working on another dictionaries.
 
 * [ ] fix lemmatizing process for "j"-spelling
 * [ ] develop smarter algorithm for authors detection
