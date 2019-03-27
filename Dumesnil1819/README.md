@@ -4,7 +4,7 @@ Full title is "Latin synonyms, with their different significations, and examples
 
 Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format.
 
-It is not a real transcript, but only index of keywords. In place of the dictionary articles are links to the corresponding scans in the Internet.
+It is not a real transcript, but only index of keywords. In place of the dictionary articles are links to the corresponding scanned pages in the Internet.
 
 ## Exemplum
 
