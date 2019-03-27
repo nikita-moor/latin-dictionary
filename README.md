@@ -6,3 +6,6 @@
     [Lat-Fra-Lat] phraseological dictionary
 * [A Copious and Critical English-Latin Dictionary](https://github.com/nikita-moor/latin-dictionary/tree/master/SmithHall1871) (Smith & Hall, 1871) \
     [Eng-Lat] dictionary
+
+* [Latin synonyms, with their different significations](https://github.com/nikita-moor/latin-dictionary/tree/master/Dumesnil1819) (Dumesnil, 1819) \
+    [Lat-Eng] dictionary of synonyms
