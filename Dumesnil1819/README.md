@@ -18,11 +18,16 @@ This dictionary bases on the English edition of the Dumesnil's book published in
 1. Gardin-Dumesnil, J. B.; Gosset, J. M. (translator). _Latin synonyms, with their different significations, and examples taken from the best Latin authors (2nd edition)._ Whittaker, London, 1819. URL: <https://archive.org/details/latinsynonymswit00garduoft> \[Accessed 27 March 2019\].
 
 
+## Usage guidelines
+
+Attached styles [article-style.css](article-style.css) are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
+
+
 ## States and limitations
 
 Originally, this work was only an experiment on producing index of scanned pages from OCR text with possibly high level of errors. In spite of my low expectations, about 80% of the dictionary structure was recognized correctly (garbage characters still could present) and the result can practically be used.
 
-I am going to continue fixing this index. Text of the articles will be transcribed, but it will take very long time.
+I am going to continue fixing this index. Text of the articles will be transcribed, but it could take very long time.
 
 
 ## License
@@ -37,8 +42,11 @@ This XDXF dictionary is not in copyright (Public Domain). Links in the articles 
 
 ## ToDo
 
-* [ ] fix non-recognized articles
-* [ ] fix OCR errors in the articles' keys
-* [ ] add lemmas
-* [ ] transcribe full text
+1. [ ] fix non-recognized articles
+1. [ ] fix OCR errors in the articles' keys
+1. [ ] add lemmas
+1. [ ] transcribe full text
+
+
+[1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
 
