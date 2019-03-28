@@ -42,10 +42,10 @@ This XDXF dictionary is not in copyright (Public Domain). Links in the articles 
 
 ## ToDo
 
-1. [ ] fix non-recognized articles
-1. [ ] fix OCR errors in the articles' keys
-1. [ ] add lemmas
-1. [ ] transcribe full text
+* [ ] fix non-recognized articles
+* [ ] fix OCR errors in the articles' keys
+* [ ] add lemmas
+* [ ] transcribe full text
 
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
