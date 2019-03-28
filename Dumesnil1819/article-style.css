@@ -1,0 +1,16 @@
+/* 
+ * GoldenDict's styles
+ *
+ * Put this file into the directory:
+ * Linux: ~/.goldendict
+ * Windows: %APPDATA%\GoldenDict
+ */
+
+.xdxf_ex:before { content:"• "; }
+.xdxf_ex {
+    color: #000;
+    text-indent: -13px;
+}
+ex_orig { color: #3465a4; }
+ex_tran { font-style: italic; }
+
