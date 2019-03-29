@@ -13,7 +13,7 @@ To the date, most of the articles contains only links to the scans of the corres
 
 ## Sources
 
-This dictionary bases on the English edition of the Dumesnil's book published in 1819:
+This dictionary bases on the English edition:
     
 1. Gardin-Dumesnil, J. B.; Gosset, J. M. (translator). _Latin synonyms, with their different significations, and examples taken from the best Latin authors (2nd edition)._ Whittaker, London, 1819. URL: <https://archive.org/details/latinsynonymswit00garduoft> \[Accessed 27 March 2019\].
 
