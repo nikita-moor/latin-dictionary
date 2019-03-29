@@ -42,7 +42,7 @@ This XDXF dictionary is not in copyright (Public Domain). Links in the articles 
 
 ## ToDo
 
-* [ ] fix non-recognized articles
+* [x] fix non-recognized articles
 * [ ] fix OCR errors in the articles' keys
 * [ ] add lemmas
 * [ ] transcribe full text
