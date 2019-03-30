@@ -1,0 +1,6 @@
+<def><deftext>
+The horses put nearest the pole of a coach were called <dtrn>Equi jugales</dtrn>; and those placed on the sides were called <dtrn>Equi funales</dtrn>. That which was at the right hand side was called <dtrn>Dexterior funalis</dtrn>; and that at the left, <dtrn>Sinisterior funalis</dtrn>: it must be understood of horses placed 
+all abreast.
+* Sinisteriori funali equo Tiberius, dexteriori Marcellus. #Suet.#
+* Jugales equi in medio; funales ab utroque latere. #G. D.#
+
