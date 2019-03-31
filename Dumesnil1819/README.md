@@ -5,9 +5,9 @@ Full title is "Latin synonyms, with their different significations, and examples
 Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format.
 
 To the date, most of the articles contain only links to the scans of the corresponding pages in the Internet. Only small part was transcribed. If you want to help:
-* please, open an issue stating your desire
-* choose a range of articles for transcription
-* check [sources](sources) for the required format (plain text).
+1) please, open an issue stating your desire
+1) choose a range of articles for transcription
+1) check [sources](sources) for the required format (plain text).
 
 ## Exemplum
 
