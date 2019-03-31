@@ -1,0 +1,2458 @@
+{
+  "1": {
+    "page": 4,
+    "english": [
+      "Abandon"
+    ],
+    "latin": [
+      "deserere",
+      "relinquere"
+    ]
+  },
+  "2": {
+    "page": 4,
+    "english": [
+      "Acknowledge"
+    ],
+    "latin": [
+      "confiteri",
+      "fateri",
+      "ferre",
+      "profiteri"
+    ]
+  },
+  "3": {
+    "page": 4,
+    "english": [
+      "Admire"
+    ],
+    "latin": [
+      "admirari",
+      "mirari"
+    ]
+  },
+  "4": {
+    "page": 4,
+    "english": [
+      "African"
+    ],
+    "latin": [
+      "Afer",
+      "Africanus",
+      "Africus"
+    ]
+  },
+  "5": {
+    "page": 4,
+    "english": [
+      "Afterwards"
+    ],
+    "latin": [
+      "postea",
+      "posthac"
+    ]
+  },
+  "6": {
+    "page": 5,
+    "english": [
+      "Again"
+    ],
+    "latin": [
+      "denuo",
+      "integer",
+      "iterum",
+      "rursus"
+    ]
+  },
+  "7": {
+    "page": 5,
+    "english": [
+      "Age"
+    ],
+    "latin": [
+      "senectus"
+    ]
+  },
+  "8": {
+    "page": 5,
+    "english": [
+      "Agreeable"
+    ],
+    "latin": [
+      "gratus",
+      "iucundus"
+    ]
+  },
+  "9": {
+    "page": 5,
+    "english": [
+      "All"
+    ],
+    "latin": [
+      "cunctus",
+      "integer",
+      "omnis",
+      "totus",
+      "universus"
+    ]
+  },
+  "10": {
+    "page": 5,
+    "english": [
+      "Almost"
+    ],
+    "latin": [
+      "fere",
+      "paene",
+      "prope"
+    ]
+  },
+  "11": {
+    "page": 6,
+    "english": [
+      "Ambitious Canvass"
+    ],
+    "latin": [
+      "ambitus",
+      "ambitio"
+    ]
+  },
+  "12": {
+    "page": 6,
+    "english": [
+      "Animal"
+    ],
+    "latin": [
+      "animal",
+      "belua",
+      "bestia",
+      "fera"
+    ]
+  },
+  "13": {
+    "page": 6,
+    "english": [
+      "Anyhow",
+      "At least"
+    ],
+    "latin": [
+      "certe",
+      "quidem",
+      "saltem"
+    ]
+  },
+  "14": {
+    "page": 6,
+    "english": [
+      "Arms"
+    ],
+    "latin": [
+      "arma",
+      "tela"
+    ]
+  },
+  "15": {
+    "page": 6,
+    "english": [
+      "Army"
+    ],
+    "latin": [
+      "acies",
+      "agmen",
+      "copia",
+      "exercitus"
+    ]
+  },
+  "16": {
+    "page": 6,
+    "english": [
+      "Ask",
+      "Request"
+    ],
+    "latin": [
+      "implorare",
+      "obsecrare",
+      "orare",
+      "petere",
+      "precari",
+      "rogare",
+      "supplicare"
+    ]
+  },
+  "17": {
+    "page": 7,
+    "english": [
+      "Assembly"
+    ],
+    "latin": [
+      "coitus",
+      "comitia",
+      "contio",
+      "conventus"
+    ]
+  },
+  "18": {
+    "page": 7,
+    "english": [
+      "Author"
+    ],
+    "latin": [
+      "auctor",
+      "scriptor"
+    ]
+  },
+  "19": {
+    "page": 7,
+    "english": [
+      "Bear"
+    ],
+    "latin": [
+      "ferre",
+      "gerere",
+      "pati",
+      "permittere",
+      "portare",
+      "sinere",
+      "sustinere",
+      "tolerare",
+      "vehere"
+    ]
+  },
+  "20": {
+    "page": 8,
+    "english": [
+      "Beautiful"
+    ],
+    "latin": [
+      "amoenus",
+      "bellus",
+      "formosus",
+      "pulcher",
+      "venustus"
+    ]
+  },
+  "21": {
+    "page": 8,
+    "english": [
+      "Because of"
+    ],
+    "latin": [
+      "causa",
+      "ob",
+      "per",
+      "prae",
+      "propter"
+    ]
+  },
+  "22": {
+    "page": 8,
+    "english": [
+      "Become"
+    ],
+    "latin": [
+      "evadere",
+      "exsistere",
+      "fieri"
+    ]
+  },
+  "23": {
+    "page": 8,
+    "english": [
+      "Before"
+    ],
+    "latin": [
+      "apud",
+      "coram"
+    ]
+  },
+  "24": {
+    "page": 9,
+    "english": [
+      "Begin"
+    ],
+    "latin": [
+      "coepisse",
+      "exordiri",
+      "inchoare",
+      "incipere",
+      "ordiri"
+    ]
+  },
+  "25": {
+    "page": 9,
+    "english": [
+      "Beginning"
+    ],
+    "latin": [
+      "exordium",
+      "initium",
+      "principium"
+    ]
+  },
+  "26": {
+    "page": 9,
+    "english": [
+      "Believe",
+      "Think"
+    ],
+    "latin": [
+      "censere",
+      "credere",
+      "existimare",
+      "iudicare",
+      "opinari",
+      "putare",
+      "ratus"
+    ]
+  },
+  "27": {
+    "page": 9,
+    "english": [
+      "Besiege (assault)"
+    ],
+    "latin": [
+      "expugnare",
+      "obsidere",
+      "oppugnare"
+    ]
+  },
+  "28": {
+    "page": 9,
+    "english": [
+      "Beyond"
+    ],
+    "latin": [
+      "flumen",
+      "trans",
+      "ultra"
+    ]
+  },
+  "29": {
+    "page": 10,
+    "english": [
+      "Black"
+    ],
+    "latin": [
+      "ater",
+      "niger"
+    ]
+  },
+  "30": {
+    "page": 10,
+    "english": [
+      "Blame"
+    ],
+    "latin": [
+      "increpare",
+      "objurgare",
+      "reprehendere",
+      "vituperare"
+    ]
+  },
+  "31": {
+    "page": 10,
+    "english": [
+      "Blood"
+    ],
+    "latin": [
+      "cruor",
+      "sanguis"
+    ]
+  },
+  "32": {
+    "page": 10,
+    "english": [
+      "Booty"
+    ],
+    "latin": [
+      "manubiae",
+      "praecia",
+      "spolia"
+    ]
+  },
+  "33": {
+    "page": 10,
+    "english": [
+      "Both"
+    ],
+    "latin": [
+      "ambo",
+      "et",
+      "uterque"
+    ]
+  },
+  "34": {
+    "page": 11,
+    "english": [
+      "Certainly",
+      "In truth"
+    ],
+    "latin": [
+      "certe",
+      "certo",
+      "nae",
+      "ne",
+      "profecto",
+      "sane",
+      "vero",
+      "verus"
+    ]
+  },
+  "35": {
+    "page": 11,
+    "english": [
+      "Children"
+    ],
+    "latin": [
+      "liberi",
+      "puer"
+    ]
+  },
+  "36": {
+    "page": 11,
+    "english": [
+      "Choose"
+    ],
+    "latin": [
+      "cooptare",
+      "creare",
+      "deligere",
+      "designare",
+      "eligere"
+    ]
+  },
+  "37": {
+    "page": 11,
+    "english": [
+      "City"
+    ],
+    "latin": [
+      "oppidum",
+      "urbs"
+    ]
+  },
+  "38": {
+    "page": 11,
+    "english": [
+      "Clothing"
+    ],
+    "latin": [
+      "vestimentum",
+      "vestis",
+      "vestitus"
+    ]
+  },
+  "39": {
+    "page": 12,
+    "english": [
+      "Command"
+    ],
+    "latin": [
+      "edicere",
+      "imperare",
+      "iubere",
+      "mandare",
+      "praecipere"
+    ]
+  },
+  "40": {
+    "page": 12,
+    "english": [
+      "Complaint"
+    ],
+    "latin": [
+      "querela",
+      "querimonia",
+      "questus"
+    ]
+  },
+  "41": {
+    "page": 12,
+    "english": [
+      "Consider"
+    ],
+    "latin": [
+      "adspicere",
+      "considerare",
+      "contemplari",
+      "intueri",
+      "spectare",
+      "speculari"
+    ]
+  },
+  "42": {
+    "page": 12,
+    "english": [
+      "Corpse"
+    ],
+    "latin": [
+      "cadaver",
+      "corpus"
+    ]
+  },
+  "43": {
+    "page": 12,
+    "english": [
+      "Correct"
+    ],
+    "latin": [
+      "corrigere",
+      "emendare"
+    ]
+  },
+  "44": {
+    "page": 13,
+    "english": [
+      "Country (adj.)"
+    ],
+    "latin": [
+      "agrestis",
+      "rusticanus",
+      "rusticus"
+    ]
+  },
+  "45": {
+    "page": 13,
+    "english": [
+      "Cultured"
+    ],
+    "latin": [
+      "doctus",
+      "eruditus",
+      "litteratus"
+    ]
+  },
+  "46": {
+    "page": 13,
+    "english": [
+      "Damage"
+    ],
+    "latin": [
+      "calamitas",
+      "damnum",
+      "detrimentum",
+      "fraus",
+      "iactura"
+    ]
+  },
+  "47": {
+    "page": 13,
+    "english": [
+      "Death"
+    ],
+    "latin": [
+      "mors",
+      "nex"
+    ]
+  },
+  "48": {
+    "page": 14,
+    "english": [
+      "Decree"
+    ],
+    "latin": [
+      "auctoritas",
+      "consultum",
+      "decretum",
+      "edictum",
+      "scitum"
+    ]
+  },
+  "49": {
+    "page": 14,
+    "english": [
+      "Deed",
+      "Evil deed"
+    ],
+    "latin": [
+      "consilia",
+      "facinus",
+      "factum",
+      "flagitium",
+      "maleficium",
+      "nefas",
+      "res",
+      "scelus"
+    ]
+  },
+  "50": {
+    "page": 14,
+    "english": [
+      "Deep"
+    ],
+    "latin": [
+      "altus",
+      "profundus"
+    ]
+  },
+  "51": {
+    "page": 14,
+    "english": [
+      "Deprive"
+    ],
+    "latin": [
+      "exuere",
+      "orbare",
+      "privare",
+      "spoliare"
+    ]
+  },
+  "52": {
+    "page": 15,
+    "english": [
+      "Despise"
+    ],
+    "latin": [
+      "aspernari",
+      "contemnere",
+      "despicere",
+      "fastidire",
+      "neglegere",
+      "recusare",
+      "spernere"
+    ]
+  },
+  "53": {
+    "page": 15,
+    "english": [
+      "Destruction"
+    ],
+    "latin": [
+      "pernicies",
+      "pestilentia",
+      "pestis"
+    ]
+  },
+  "54": {
+    "page": 15,
+    "english": [
+      "Different"
+    ],
+    "latin": [
+      "diversus",
+      "varius"
+    ]
+  },
+  "55": {
+    "page": 16,
+    "english": [
+      "Discuss"
+    ],
+    "latin": [
+      "disceptare",
+      "disputare",
+      "disserere"
+    ]
+  },
+  "56": {
+    "page": 16,
+    "english": [
+      "Doubt"
+    ],
+    "latin": [
+      "dubitatione",
+      "dubium"
+    ]
+  },
+  "57": {
+    "page": 16,
+    "english": [
+      "Earth"
+    ],
+    "latin": [
+      "humus",
+      "solum",
+      "tellus",
+      "terra"
+    ]
+  },
+  "58": {
+    "page": 16,
+    "english": [
+      "Educate"
+    ],
+    "latin": [
+      "conformare",
+      "educare",
+      "educere",
+      "erudire",
+      "informare",
+      "instituere",
+      "instruere"
+    ]
+  },
+  "59": {
+    "page": 17,
+    "english": [
+      "Eloquent"
+    ],
+    "latin": [
+      "copiosus",
+      "dicax",
+      "disertus",
+      "eloquens",
+      "facundus",
+      "loquax"
+    ]
+  },
+  "60": {
+    "page": 17,
+    "english": [
+      "Else"
+    ],
+    "latin": [
+      "alias",
+      "alibi",
+      "aliter",
+      "ceteri"
+    ]
+  },
+  "61": {
+    "page": 17,
+    "english": [
+      "Empty"
+    ],
+    "latin": [
+      "inanis"
+    ]
+  },
+  "62": {
+    "page": 17,
+    "english": [
+      "Enemy"
+    ],
+    "latin": [
+      "hostis",
+      "inimicus"
+    ]
+  },
+  "63": {
+    "page": 17,
+    "english": [
+      "Enjoy"
+    ],
+    "latin": [
+      "frui",
+      "uti"
+    ]
+  },
+  "64": {
+    "page": 17,
+    "english": [
+      "Entrance",
+      "Door",
+      "Gate"
+    ],
+    "latin": [
+      "foris",
+      "ianua",
+      "ostium",
+      "porta",
+      "valvae"
+    ]
+  },
+  "65": {
+    "page": 18,
+    "english": [
+      "Especially"
+    ],
+    "latin": [
+      "imprimis",
+      "maxime",
+      "nominatim",
+      "potissimum",
+      "praecipue",
+      "praesertim"
+    ]
+  },
+  "66": {
+    "page": 18,
+    "english": [
+      "Experience"
+    ],
+    "latin": [
+      "comperire",
+      "experiri"
+    ]
+  },
+  "67": {
+    "page": 18,
+    "english": [
+      "Explain"
+    ],
+    "latin": [
+      "declarare",
+      "dicere",
+      "explanare",
+      "explicare",
+      "exponere",
+      "interpretari",
+      "profiteri"
+    ]
+  },
+  "68": {
+    "page": 18,
+    "english": [
+      "Fail"
+    ],
+    "latin": [
+      "abesse",
+      "deesse",
+      "deficere"
+    ]
+  },
+  "69": {
+    "page": 19,
+    "english": [
+      "Famous"
+    ],
+    "latin": [
+      "aio",
+      "celeber",
+      "clarus",
+      "nobilis"
+    ]
+  },
+  "70": {
+    "page": 19,
+    "english": [
+      "Favor"
+    ],
+    "latin": [
+      "aura",
+      "favor",
+      "gratia",
+      "studium"
+    ]
+  },
+  "71": {
+    "page": 19,
+    "english": [
+      "Fear (to fear)"
+    ],
+    "latin": [
+      "formido",
+      "horror",
+      "metuere",
+      "metus",
+      "pavor",
+      "timere",
+      "timor",
+      "trepidatio",
+      "verecundia",
+      "vereri"
+    ]
+  },
+  "72": {
+    "page": 19,
+    "english": [
+      "Finally"
+    ],
+    "latin": [
+      "demum",
+      "denique",
+      "postremus",
+      "tandem"
+    ]
+  },
+  "73": {
+    "page": 20,
+    "english": [
+      "Find"
+    ],
+    "latin": [
+      "acquiescere",
+      "habere",
+      "invenire",
+      "probari",
+      "reperire"
+    ]
+  },
+  "74": {
+    "page": 20,
+    "english": [
+      "Fitted"
+    ],
+    "latin": [
+      "aptus",
+      "commodus",
+      "idoneus",
+      "opportunus",
+      "utilis"
+    ]
+  },
+  "75": {
+    "page": 20,
+    "english": [
+      "Flatter"
+    ],
+    "latin": [
+      "adulari",
+      "assentari",
+      "blandiri"
+    ]
+  },
+  "76": {
+    "page": 20,
+    "english": [
+      "Follow"
+    ],
+    "latin": [
+      "assequi",
+      "consequi",
+      "insequi",
+      "obsequi",
+      "persequi",
+      "prosequi",
+      "sequi",
+      "subsequi",
+      "succedere"
+    ]
+  },
+  "77": {
+    "page": 21,
+    "english": [
+      "Foreign"
+    ],
+    "latin": [
+      "alienus",
+      "externus",
+      "exterus"
+    ]
+  },
+  "78": {
+    "page": 21,
+    "english": [
+      "Foremost (adj.)"
+    ],
+    "latin": [
+      "primus",
+      "princeps"
+    ]
+  },
+  "79": {
+    "page": 21,
+    "english": [
+      "Form"
+    ],
+    "latin": [
+      "figura",
+      "forma",
+      "species"
+    ]
+  },
+  "80": {
+    "page": 21,
+    "english": [
+      "Fortunate"
+    ],
+    "latin": [
+      "beatus",
+      "faustus",
+      "felix",
+      "fortunatus",
+      "prosperus",
+      "secundus"
+    ]
+  },
+  "81": {
+    "page": 22,
+    "english": [
+      "Fortune"
+    ],
+    "latin": [
+      "felicitas",
+      "fors",
+      "fortuna",
+      "res"
+    ]
+  },
+  "82": {
+    "page": 22,
+    "english": [
+      "Freedman"
+    ],
+    "latin": [
+      "libertinus",
+      "libertus"
+    ]
+  },
+  "83": {
+    "page": 22,
+    "english": [
+      "Fruit"
+    ],
+    "latin": [
+      "fructus",
+      "fruges",
+      "frumentum"
+    ]
+  },
+  "84": {
+    "page": 23,
+    "english": [
+      "Gift"
+    ],
+    "latin": [
+      "donum",
+      "munus"
+    ]
+  },
+  "85": {
+    "page": 23,
+    "english": [
+      "Grief",
+      "Mourning"
+    ],
+    "latin": [
+      "dolor",
+      "luctus",
+      "maeror",
+      "maestitia",
+      "tristitia"
+    ]
+  },
+  "86": {
+    "page": 23,
+    "english": [
+      "Happen"
+    ],
+    "latin": [
+      "accidere",
+      "contingere",
+      "evenire",
+      "fieri",
+      "obtingere",
+      "venire"
+    ]
+  },
+  "87": {
+    "page": 23,
+    "english": [
+      "Hear"
+    ],
+    "latin": [
+      "audire",
+      "auscultare",
+      "exaudire"
+    ]
+  },
+  "88": {
+    "page": 23,
+    "english": [
+      "Heart"
+    ],
+    "latin": [
+      "animus",
+      "cor"
+    ]
+  },
+  "89": {
+    "page": 23,
+    "english": [
+      "Hinder"
+    ],
+    "latin": [
+      "illaquere",
+      "impedire",
+      "implicare",
+      "in reti re",
+      "prohibere"
+    ]
+  },
+  "90": {
+    "page": 24,
+    "english": [
+      "History"
+    ],
+    "latin": [
+      "fabula",
+      "gerere",
+      "narratio",
+      "narratiuncula",
+      "res"
+    ]
+  },
+  "91": {
+    "page": 24,
+    "english": [
+      "Holy"
+    ],
+    "latin": [
+      "augustus",
+      "sacer",
+      "sanctus"
+    ]
+  },
+  "92": {
+    "page": 24,
+    "english": [
+      "Hostile"
+    ],
+    "latin": [
+      "hostilis",
+      "hostis",
+      "infensus",
+      "infestus"
+    ]
+  },
+  "93": {
+    "page": 25,
+    "english": [
+      "Ignorance"
+    ],
+    "latin": [
+      "ignorantia",
+      "ignoratio",
+      "inscientia"
+    ]
+  },
+  "94": {
+    "page": 25,
+    "english": [
+      "Ignorant"
+    ],
+    "latin": [
+      "insciens",
+      "inscius",
+      "nescius"
+    ]
+  },
+  "95": {
+    "page": 25,
+    "english": [
+      "Indicate",
+      "Show"
+    ],
+    "latin": [
+      "demonstrare",
+      "exhibere",
+      "indicare",
+      "monstrare",
+      "ostendere",
+      "significare"
+    ]
+  },
+  "96": {
+    "page": 25,
+    "english": [
+      "Industry",
+      "Industrious"
+    ],
+    "latin": [
+      "assiduitas",
+      "assiduus",
+      "industrius",
+      "industria",
+      "labor",
+      "laboriosus"
+    ]
+  },
+  "97": {
+    "page": 25,
+    "english": [
+      "Inhabit",
+      "Dwell in"
+    ],
+    "latin": [
+      "commorari",
+      "habitare",
+      "incolere"
+    ]
+  },
+  "98": {
+    "page": 26,
+    "english": [
+      "Interrogate"
+    ],
+    "latin": [
+      "interrogare",
+      "percontari",
+      "quaerere",
+      "rogare",
+      "sciscitari"
+    ]
+  },
+  "99": {
+    "page": 26,
+    "english": [
+      "Joy"
+    ],
+    "latin": [
+      "laetitia"
+    ]
+  },
+  "100": {
+    "page": 26,
+    "english": [
+      "Kill"
+    ],
+    "latin": [
+      "afferre",
+      "caedere",
+      "consciscere",
+      "interficere",
+      "interimere",
+      "iugulare",
+      "manus",
+      "mors",
+      "necare",
+      "occidere",
+      "percutere",
+      "perimere",
+      "sibi",
+      "trucidare"
+    ]
+  },
+  "101": {
+    "page": 27,
+    "english": [
+      "Lack"
+    ],
+    "latin": [
+      "carere",
+      "indigere"
+    ]
+  },
+  "102": {
+    "page": 27,
+    "english": [
+      "Land"
+    ],
+    "latin": [
+      "ager",
+      "rus",
+      "terra"
+    ]
+  },
+  "103": {
+    "page": 27,
+    "english": [
+      "Last"
+    ],
+    "latin": [
+      "extremus",
+      "postremus",
+      "supremus",
+      "ultimus"
+    ]
+  },
+  "104": {
+    "page": 27,
+    "english": [
+      "Laziness"
+    ],
+    "latin": [
+      "desidia",
+      "ignavia",
+      "inertia",
+      "pigritia",
+      "segnitia"
+    ]
+  },
+  "105": {
+    "page": 28,
+    "english": [
+      "Letter"
+    ],
+    "latin": [
+      "codicilli",
+      "epistula",
+      "litterae"
+    ]
+  },
+  "106": {
+    "page": 28,
+    "english": [
+      "Light (adj.)"
+    ],
+    "latin": [
+      "facilis",
+      "levis"
+    ]
+  },
+  "107": {
+    "page": 28,
+    "english": [
+      "Light (subst.)"
+    ],
+    "latin": [
+      "lumen",
+      "lux"
+    ]
+  },
+  "108": {
+    "page": 28,
+    "english": [
+      "Lightning"
+    ],
+    "latin": [
+      "fulgor",
+      "fulmen"
+    ]
+  },
+  "109": {
+    "page": 28,
+    "english": [
+      "Live stock"
+    ],
+    "latin": [
+      "armentum",
+      "iumentum",
+      "pecus"
+    ]
+  },
+  "110": {
+    "page": 29,
+    "english": [
+      "Long since",
+      "For a long time"
+    ],
+    "latin": [
+      "diu",
+      "dudum",
+      "iamdiu",
+      "iamdudum",
+      "iampridem",
+      "pridem"
+    ]
+  },
+  "111": {
+    "page": 29,
+    "english": [
+      "Lose"
+    ],
+    "latin": [
+      "amittere",
+      "perciere"
+    ]
+  },
+  "112": {
+    "page": 29,
+    "english": [
+      "Love"
+    ],
+    "latin": [
+      "adamare",
+      "amare",
+      "diligere"
+    ]
+  },
+  "113": {
+    "page": 29,
+    "english": [
+      "Man"
+    ],
+    "latin": [
+      "homo",
+      "homunculus",
+      "vir"
+    ]
+  },
+  "114": {
+    "page": 30,
+    "english": [
+      "Marry"
+    ],
+    "latin": [
+      "ducere",
+      "iungi",
+      "matrimonium",
+      "nubere",
+      "uxor"
+    ]
+  },
+  "115": {
+    "page": 30,
+    "english": [
+      "Moment"
+    ],
+    "latin": [
+      "discrimen",
+      "momentum",
+      "punctum",
+      "tempus"
+    ]
+  },
+  "116": {
+    "page": 30,
+    "english": [
+      "Money"
+    ],
+    "latin": [
+      "nummi",
+      "pecunia"
+    ]
+  },
+  "117": {
+    "page": 30,
+    "english": [
+      "More"
+    ],
+    "latin": [
+      "amplius",
+      "iam",
+      "magis",
+      "nihil",
+      "plus",
+      "potius"
+    ]
+  },
+  "118": {
+    "page": 30,
+    "english": [
+      "Most"
+    ],
+    "latin": [
+      "plerique",
+      "plurimi"
+    ]
+  },
+  "119": {
+    "page": 31,
+    "english": [
+      "Name (verb)"
+    ],
+    "latin": [
+      "appellate",
+      "nominare",
+      "nuncupare",
+      "vocare"
+    ]
+  },
+  "120": {
+    "page": 31,
+    "english": [
+      "Natural"
+    ],
+    "latin": [
+      "nativus",
+      "naturalis"
+    ]
+  },
+  "121": {
+    "page": 31,
+    "english": [
+      "Need"
+    ],
+    "latin": [
+      "egere",
+      "indigere"
+    ]
+  },
+  "122": {
+    "page": 31,
+    "english": [
+      "Neighbor"
+    ],
+    "latin": [
+      "finitimus",
+      "vicinus"
+    ]
+  },
+  "123": {
+    "page": 31,
+    "english": [
+      "New"
+    ],
+    "latin": [
+      "novus",
+      "recens"
+    ]
+  },
+  "124": {
+    "page": 31,
+    "english": [
+      "Noble"
+    ],
+    "latin": [
+      "bonus",
+      "clarus",
+      "generosus",
+      "honestus",
+      "ingenuus",
+      "insignis",
+      "liberalis",
+      "nobilis"
+    ]
+  },
+  "125": {
+    "page": 32,
+    "english": [
+      "Oath"
+    ],
+    "latin": [
+      "iusiurandum",
+      "sacramentum"
+    ]
+  },
+  "126": {
+    "page": 32,
+    "english": [
+      "Obey"
+    ],
+    "latin": [
+      "audire",
+      "dictum",
+      "oboedire",
+      "obsequi",
+      "obtemperare",
+      "parere"
+    ]
+  },
+  "127": {
+    "page": 32,
+    "english": [
+      "Obtain"
+    ],
+    "latin": [
+      "adipisci",
+      "assequi",
+      "consequi",
+      "deprehendere",
+      "impetrare",
+      "invenire",
+      "nancisci",
+      "reperire"
+    ]
+  },
+  "128": {
+    "page": 32,
+    "english": [
+      "Old"
+    ],
+    "latin": [
+      "antiquus",
+      "obsoletus",
+      "priscus",
+      "pristinus",
+      "vetus",
+      "vetustus"
+    ]
+  },
+  "129": {
+    "page": 33,
+    "english": [
+      "Omit"
+    ],
+    "latin": [
+      "dimittere",
+      "neglegere",
+      "omittere",
+      "praetermittere"
+    ]
+  },
+  "130": {
+    "page": 33,
+    "english": [
+      "Once"
+    ],
+    "latin": [
+      "olim",
+      "quondam"
+    ]
+  },
+  "131": {
+    "page": 33,
+    "english": [
+      "Only"
+    ],
+    "latin": [
+      "dumtaxat",
+      "modo",
+      "nisi",
+      "non",
+      "tantum"
+    ]
+  },
+  "132": {
+    "page": 34,
+    "english": [
+      "Openly"
+    ],
+    "latin": [
+      "aperte",
+      "palam",
+      "publice"
+    ]
+  },
+  "133": {
+    "page": 34,
+    "english": [
+      "Opinion"
+    ],
+    "latin": [
+      "opinio",
+      "sententia"
+    ]
+  },
+  "134": {
+    "page": 34,
+    "english": [
+      "Orator"
+    ],
+    "latin": [
+      "orator",
+      "rhetor"
+    ]
+  },
+  "135": {
+    "page": 34,
+    "english": [
+      "Others"
+    ],
+    "latin": [
+      "alius",
+      "ceteri",
+      "reliquus"
+    ]
+  },
+  "136": {
+    "page": 34,
+    "english": [
+      "Ought"
+    ],
+    "latin": [
+      "cogi",
+      "debere",
+      "—ndum est",
+      "necesse",
+      "oportet",
+      "opus"
+    ]
+  },
+  "137": {
+    "page": 35,
+    "english": [
+      "Party"
+    ],
+    "latin": [
+      "factio",
+      "pars"
+    ]
+  },
+  "138": {
+    "page": 35,
+    "english": [
+      "Paternal"
+    ],
+    "latin": [
+      "paternus",
+      "patrius"
+    ]
+  },
+  "139": {
+    "page": 35,
+    "english": [
+      "Peace"
+    ],
+    "latin": [
+      "otium",
+      "pax"
+    ]
+  },
+  "140": {
+    "page": 35,
+    "english": [
+      "People"
+    ],
+    "latin": [
+      "gens",
+      "multitudo",
+      "natio",
+      "plebs",
+      "populus",
+      "vulgus"
+    ]
+  },
+  "141": {
+    "page": 36,
+    "english": [
+      "Person"
+    ],
+    "latin": [
+      "coram",
+      "homo",
+      "inimicus",
+      "ipse",
+      "praesens",
+      "vir"
+    ]
+  },
+  "142": {
+    "page": 36,
+    "english": [
+      "Permit"
+    ],
+    "latin": [
+      "concedere",
+      "pati",
+      "permittere",
+      "sinere",
+      "tolerare"
+    ]
+  },
+  "143": {
+    "page": 36,
+    "english": [
+      "Poem"
+    ],
+    "latin": [
+      "carmen",
+      "poema"
+    ]
+  },
+  "144": {
+    "page": 36,
+    "english": [
+      "Power"
+    ],
+    "latin": [
+      "imperium",
+      "ops",
+      "potentia",
+      "potestas",
+      "robur",
+      "vis"
+    ]
+  },
+  "145": {
+    "page": 36,
+    "english": [
+      "Pretend"
+    ],
+    "latin": [
+      "dissimulare",
+      "simulare"
+    ]
+  },
+  "146": {
+    "page": 36,
+    "english": [
+      "Promise"
+    ],
+    "latin": [
+      "polliceri",
+      "promittere",
+      "recipere"
+    ]
+  },
+  "147": {
+    "page": 37,
+    "english": [
+      "Proof"
+    ],
+    "latin": [
+      "argumentum",
+      "ratio"
+    ]
+  },
+  "148": {
+    "page": 37,
+    "english": [
+      "Prudent"
+    ],
+    "latin": [
+      "consultus",
+      "peritus",
+      "prudens",
+      "sollers"
+    ]
+  },
+  "149": {
+    "page": 37,
+    "english": [
+      "Punishment",
+      "Punish"
+    ],
+    "latin": [
+      "castigatio",
+      "multa",
+      "poena",
+      "supplicium"
+    ]
+  },
+  "150": {
+    "page": 37,
+    "english": [
+      "Recently"
+    ],
+    "latin": [
+      "modo",
+      "nuper"
+    ]
+  },
+  "151": {
+    "page": 37,
+    "english": [
+      "Recognize",
+      "Learn"
+    ],
+    "latin": [
+      "agnoscere",
+      "cognoscere"
+    ]
+  },
+  "152": {
+    "page": 38,
+    "english": [
+      "Relatives"
+    ],
+    "latin": [
+      "affinis",
+      "cognatus",
+      "consanguineus",
+      "necessarius",
+      "propinquus"
+    ]
+  },
+  "153": {
+    "page": 38,
+    "english": [
+      "Remaining"
+    ],
+    "latin": [
+      "relinquere",
+      "reliquus",
+      "restat"
+    ]
+  },
+  "154": {
+    "page": 38,
+    "english": [
+      "Remember"
+    ],
+    "latin": [
+      "memini",
+      "recordari",
+      "reminisci"
+    ]
+  },
+  "155": {
+    "page": 38,
+    "english": [
+      "Request"
+    ],
+    "latin": [
+      "flagitare",
+      "petere",
+      "poscere",
+      "postulare"
+    ]
+  },
+  "156": {
+    "page": 39,
+    "english": [
+      "Best"
+    ],
+    "latin": [
+      "otium",
+      "quies",
+      "requies",
+      "tranquillitas"
+    ]
+  },
+  "157": {
+    "page": 39,
+    "english": [
+      "Rich"
+    ],
+    "latin": [
+      "dives",
+      "locuples"
+    ]
+  },
+  "158": {
+    "page": 39,
+    "english": [
+      "Right"
+    ],
+    "latin": [
+      "fas",
+      "ius"
+    ]
+  },
+  "159": {
+    "page": 39,
+    "english": [
+      "Royal"
+    ],
+    "latin": [
+      "regalis",
+      "regius"
+    ]
+  },
+  "160": {
+    "page": 39,
+    "english": [
+      "Rule (vb.)"
+    ],
+    "latin": [
+      "dominari",
+      "regere",
+      "regnare"
+    ]
+  },
+  "161": {
+    "page": 40,
+    "english": [
+      "Rule (subst.)"
+    ],
+    "latin": [
+      "lex",
+      "praeceptum"
+    ]
+  },
+  "162": {
+    "page": 40,
+    "english": [
+      "Safe"
+    ],
+    "latin": [
+      "certus",
+      "securus",
+      "tutus"
+    ]
+  },
+  "163": {
+    "page": 40,
+    "english": [
+      "Scarcely"
+    ],
+    "latin": [
+      "aegre",
+      "vix"
+    ]
+  },
+  "164": {
+    "page": 40,
+    "english": [
+      "Science"
+    ],
+    "latin": [
+      "ars",
+      "cognitio",
+      "disciplina",
+      "doctrina",
+      "litterae",
+      "notitia",
+      "scientia"
+    ]
+  },
+  "165": {
+    "page": 40,
+    "english": [
+      "Second"
+    ],
+    "latin": [
+      "alter",
+      "secundus"
+    ]
+  },
+  "166": {
+    "page": 41,
+    "english": [
+      "See"
+    ],
+    "latin": [
+      "cernere",
+      "videre"
+    ]
+  },
+  "167": {
+    "page": 41,
+    "english": [
+      "Several"
+    ],
+    "latin": [
+      "complures",
+      "plures"
+    ]
+  },
+  "168": {
+    "page": 41,
+    "english": [
+      "Sex"
+    ],
+    "latin": [
+      "sexus"
+    ]
+  },
+  "169": {
+    "page": 41,
+    "english": [
+      "Shame"
+    ],
+    "latin": [
+      "pudicitia",
+      "pudor"
+    ]
+  },
+  "170": {
+    "page": 41,
+    "english": [
+      "Shore"
+    ],
+    "latin": [
+      "litus",
+      "ora",
+      "ripa"
+    ]
+  },
+  "171": {
+    "page": 41,
+    "english": [
+      "Shrewd",
+      "Cunning"
+    ],
+    "latin": [
+      "astutus",
+      "callidus"
+    ]
+  },
+  "172": {
+    "page": 41,
+    "english": [
+      "Sickness"
+    ],
+    "latin": [
+      "aegrotatio",
+      "morbus"
+    ]
+  },
+  "173": {
+    "page": 42,
+    "english": [
+      "Silent (to be)",
+      "Not to speak"
+    ],
+    "latin": [
+      "silere",
+      "tacere"
+    ]
+  },
+  "174": {
+    "page": 42,
+    "english": [
+      "Some one"
+    ],
+    "latin": [
+      "aliquis",
+      "quidam"
+    ]
+  },
+  "175": {
+    "page": 42,
+    "english": [
+      "Sovereignty"
+    ],
+    "latin": [
+      "dominatio",
+      "dominatus",
+      "imperium",
+      "principatus",
+      "regnum"
+    ]
+  },
+  "176": {
+    "page": 42,
+    "english": [
+      "Speak",
+      "Say"
+    ],
+    "latin": [
+      "aio",
+      "dicere",
+      "fari",
+      "inquam",
+      "loqui"
+    ]
+  },
+  "177": {
+    "page": 42,
+    "english": [
+      "Speech"
+    ],
+    "latin": [
+      "lingua",
+      "oratio",
+      "sermo"
+    ]
+  },
+  "178": {
+    "page": 43,
+    "english": [
+      "Spirit",
+      "Soul"
+    ],
+    "latin": [
+      "anima",
+      "animus",
+      "ingenium",
+      "mens"
+    ]
+  },
+  "179": {
+    "page": 43,
+    "english": [
+      "Star"
+    ],
+    "latin": [
+      "astrum",
+      "sidus",
+      "stella"
+    ]
+  },
+  "180": {
+    "page": 43,
+    "english": [
+      "State"
+    ],
+    "latin": [
+      "civitas",
+      "res publica"
+    ]
+  },
+  "181": {
+    "page": 43,
+    "english": [
+      "Statue"
+    ],
+    "latin": [
+      "signum",
+      "statua"
+    ]
+  },
+  "182": {
+    "page": 43,
+    "english": [
+      "Stream"
+    ],
+    "latin": [
+      "amnis",
+      "flumen",
+      "fluvius",
+      "rivulus",
+      "rivus"
+    ]
+  },
+  "183": {
+    "page": 43,
+    "english": [
+      "Subdue"
+    ],
+    "latin": [
+      "redigere",
+      "subicere",
+      "subigere"
+    ]
+  },
+  "184": {
+    "page": 44,
+    "english": [
+      "Take"
+    ],
+    "latin": [
+      "adimere",
+      "auferre",
+      "demere",
+      "eripere",
+      "sumere"
+    ]
+  },
+  "185": {
+    "page": 44,
+    "english": [
+      "Thanks",
+      "To thank"
+    ],
+    "latin": [
+      "debere",
+      "grates",
+      "gratia",
+      "habere",
+      "mereri",
+      "referre"
+    ]
+  },
+  "186": {
+    "page": 44,
+    "english": [
+      "Time"
+    ],
+    "latin": [
+      "aetas",
+      "aevum",
+      "tempestas",
+      "tempus"
+    ]
+  },
+  "187": {
+    "page": 45,
+    "english": [
+      "Together"
+    ],
+    "latin": [
+      "idem",
+      "simul",
+      "una"
+    ]
+  },
+  "188": {
+    "page": 45,
+    "english": [
+      "Translate"
+    ],
+    "latin": [
+      "convertere",
+      "interpretari",
+      "transferre",
+      "vertere"
+    ]
+  },
+  "189": {
+    "page": 45,
+    "english": [
+      "Tribute"
+    ],
+    "latin": [
+      "tributum",
+      "vectigal"
+    ]
+  },
+  "190": {
+    "page": 45,
+    "english": [
+      "Truth"
+    ],
+    "latin": [
+      "certe",
+      "profecto",
+      "sane",
+      "vero",
+      "verum"
+    ]
+  },
+  "191": {
+    "page": 45,
+    "english": [
+      "Undertake"
+    ],
+    "latin": [
+      "recipere",
+      "suscipere"
+    ]
+  },
+  "192": {
+    "page": 45,
+    "english": [
+      "Use"
+    ],
+    "latin": [
+      "adhibere",
+      "remedia",
+      "uti"
+    ]
+  },
+  "193": {
+    "page": 46,
+    "english": [
+      "Vainly",
+      "In vain"
+    ],
+    "latin": [
+      "frustra",
+      "nequiquam"
+    ]
+  },
+  "194": {
+    "page": 46,
+    "english": [
+      "Voluntarily"
+    ],
+    "latin": [
+      "sponte",
+      "ultro"
+    ]
+  },
+  "195": {
+    "page": 46,
+    "english": [
+      "Vote"
+    ],
+    "latin": [
+      "dicere",
+      "ferre",
+      "sententia",
+      "suffragium"
+    ]
+  },
+  "196": {
+    "page": 46,
+    "english": [
+      "Wall"
+    ],
+    "latin": [
+      "moenia",
+      "murus"
+    ]
+  },
+  "197": {
+    "page": 46,
+    "english": [
+      "Warlike"
+    ],
+    "latin": [
+      "bellicosus",
+      "bellicus"
+    ]
+  },
+  "198": {
+    "page": 46,
+    "english": [
+      "Way"
+    ],
+    "latin": [
+      "iter",
+      "via"
+    ]
+  },
+  "199": {
+    "page": 46,
+    "english": [
+      "Weak"
+    ],
+    "latin": [
+      "debilis",
+      "imbecillus",
+      "infirmus"
+    ]
+  },
+  "200": {
+    "page": 47,
+    "english": [
+      "While (a little)"
+    ],
+    "latin": [
+      "parumper",
+      "paulisper"
+    ]
+  },
+  "201": {
+    "page": 47,
+    "english": [
+      "White"
+    ],
+    "latin": [
+      "albus",
+      "candidus"
+    ]
+  },
+  "202": {
+    "page": 47,
+    "english": [
+      "Wish"
+    ],
+    "latin": [
+      "cupere",
+      "desiderare",
+      "expetere",
+      "optare"
+    ]
+  },
+  "203": {
+    "page": 47,
+    "english": [
+      "Witness"
+    ],
+    "latin": [
+      "arbiter",
+      "testis"
+    ]
+  },
+  "204": {
+    "page": 47,
+    "english": [
+      "Woman",
+      "Wife"
+    ],
+    "latin": [
+      "coniunx",
+      "femina",
+      "matrona",
+      "mulier",
+      "uxor"
+    ]
+  },
+  "205": {
+    "page": 48,
+    "english": [
+      "Word"
+    ],
+    "latin": [
+      "dictum",
+      "nomen",
+      "scitum",
+      "sententia",
+      "verbum",
+      "vox"
+    ]
+  },
+  "206": {
+    "page": 48,
+    "english": [
+      "Work"
+    ],
+    "latin": [
+      "contentio",
+      "labor",
+      "opera",
+      "opus"
+    ]
+  },
+  "207": {
+    "page": 48,
+    "english": [
+      "World"
+    ],
+    "latin": [
+      "mundus",
+      "orbis",
+      "terra"
+    ]
+  },
+  "208": {
+    "page": 49,
+    "english": [
+      "Worse"
+    ],
+    "latin": [
+      "deterior",
+      "peior"
+    ]
+  },
+  "209": {
+    "page": 49,
+    "english": [
+      "Worth"
+    ],
+    "latin": [
+      "dignitas",
+      "praestantia",
+      "tribuere",
+      "virtus"
+    ]
+  },
+  "210": {
+    "page": 49,
+    "english": [
+      "Yearly"
+    ],
+    "latin": [
+      "anniversarius",
+      "annuus",
+      "quotannis",
+      "solemnis"
+    ]
+  }
+}
