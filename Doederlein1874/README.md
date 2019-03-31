@@ -58,7 +58,7 @@ Small changes in formatting (such as change of bold to italic) were made in the 
 
 ## ToDo (in the distant future)
 
-The work is finished, I could only regret the method I chose to lemmatize keys, which now prevents me producing good j-spelling variant of the dictionary. Though it's possible, but requires several days of handy work, and I think they could be used more productively working on another dictionaries.
+The work is finished, I could only regret the method I chose to lemmatize keys, which now prevents me producing good j-spelling variant of the dictionary. Though it's possible, but requires several days of handy work, and I think could find them better application working on another dictionaries.
 
 * [ ] fix lemmatizing process for "j"-spelling
 * [ ] develop smarter algorithm for authors detection
