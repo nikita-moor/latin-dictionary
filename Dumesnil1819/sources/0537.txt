@@ -1,8 +1,7 @@
-+Cœna+, (_from_ κοίνος, _common_) was the evening meal amongst the ancients, when all the family met.
++Cœna+, (_from_ κοίνος, _common_) was %the evening meal amongst the ancients, when all the family met%.
 * Cœnato mihi et jam dormitanti. #Cic.#
-+Prandium+, (_from_ παρὰ ἔνδιον, meridianum) is what we call dinner, a repast or refreshment at noon.
++Prandium+, (_from_ παρὰ ἔνδιον, meridianum) is what we call %dinner, a repast or refreshment at noon%.
 * Quid ego istius prandia et cœnas commemorem? #Cic.#
-+Comessatio+, (_is what the Greeks called_ κωμάζειν, _to go and pay a visit to Comus_) a revelling, when after supping at home people went out somewhere else to resume drinking and to make themselves merry.
++Comessatio+, (_is what the Greeks called_ κωμάζειν, _to go and pay a visit to Comus_) %a revelling, when after supping at home people went out somewhere else to resume drinking and to make themselves merry%.
 * Ad mediam noctem comessationem cum aliis extendere. #Suet.#
 * Epulas trifariam semper, interdum quadrifariam dispertiebat, in jentacula, in prandia, et cœnas comessationesque. #Id.#
-

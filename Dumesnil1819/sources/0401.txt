@@ -1,9 +1,9 @@
-+Cædere+, to beat, to cut, to tear to pieces.
++Cædere+, %to beat, to cut, to tear to pieces%.
 * Virgis ad necem cædi. #Cic.#
 * Januam cædere saxis. #Id.#
-_Cædere_, said of stones, signifies to cut them off from a quarry; whereas _secare_ is to saw them previous to the laying them out to use.
+_Cædere_, said of stones, signifies %to cut them off% from a quarry; whereas _secare_ is %to saw% them previous to the laying them out to use.
 * Marmora secanda locas. #Hor.#
-+Secare+, to cut.
++Secare+, %to cut%.
 * Secare varices alicui. #Cic.#
 Figuratively:
 * Quo multæ magnæque secantur judice lites. #Hor.#

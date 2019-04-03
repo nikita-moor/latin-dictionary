@@ -1,4 +1,4 @@
-+Deflorare+, to take off the blossom or flowers.
++Deflorare+, %to take off the blossom or flowers%.
 * Deflorati fructus. #Quint.#
 Figuratively:
 * Casu illo gloria victoriæ deflorata est. #Liv.#
@@ -6,5 +6,3 @@ Figuratively:
 * Flos tenui carptus defloruit ungui. #Tib.#
 Figuratively:
 * Cum corporibus vigent, et deflorescunt animi. #Liv.#
-
-

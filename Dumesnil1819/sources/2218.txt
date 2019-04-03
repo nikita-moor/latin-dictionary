@@ -1,9 +1,9 @@
-+Senes+, old people, those that are advanced in years.
++Senes+, %old people%, those that are advanced in years.
 * Longævosque senes ac fessas æquore matres. #Virg.#
 +Veteres+, those that are past, and existed before us, even if they never attained old age.
 * Si credendum est veteribus, ut aiunt, viris. #Cic.#
 * Veteres auctores, #Id.#, The authors that lived before us.
-+Antiqui+, is said of the two foregoing ones; the ancients.
++Antiqui+, is said of the two foregoing ones; %the ancients%.
 * Plus apud me auctoritas antiquorum valet. #Cic.#
 * Majores nostri, veteres illi admodum antiqui. #Id.#
 * Senes vocantur quantum ad privatam ipsorum vitam, quod usque ad ætatem senilem vixerunt; veteres quantum ad publicum tempus, quod alia ætate vixerunt, etiamsi ad senium non pervenerint; antiqui utrique dicuntur, sed magis veteres quam senes. Senibus et antiquis habendus honos, non item veteribus, nam quidam juniores sæpe sunt seniores veteribus. #G. D.#

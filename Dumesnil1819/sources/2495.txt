@@ -1,13 +1,13 @@
-+Vinea+, a vine-tree, a vineyard.
++Vinea+, %a vine-tree, a vineyard%.
 * Vulpes alta in vinea appetebat uvam. #Phæd.#
 * Imputata vinea. #Hor.#
 * Pratis et vineis res rusticæ lætæ sunt. #Id.#
 * Vinea pubescit. #Virg.#
-+Vitis+, a vine.
++Vitis+, %a vine%.
 * Propagatio vitium. #Cic.#
 * Amicta vitibus ulmus. #Hor.#
 * In censum referatur vinea quot vites habebat. #Ulp.#
-+Viticula+, a little vine, a small vineyard.
++Viticula+, %a little vine, a small vineyard%.
 * At enim minora Dii negligunt, neque agellos singulorum, neque viticulas persequuntur. #Cic.#
 +Vinetum+, a soil full of vineyards.
 * Vineta et oliveta. #Cic.#

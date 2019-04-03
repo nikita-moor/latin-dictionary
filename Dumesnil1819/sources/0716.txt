@@ -1,8 +1,7 @@
-+Crudescere+, (_from_ crudus) to increase, to grow worse.
++Crudescere+, (_from_ crudus) %to increase, to grow worse%.
 * Crudescit pugna. #Virg.#
 * Crudescit morbus. #Id.#
-+Recrudescere+, to begin again.
++Recrudescere+, %to begin again%.
 * Pugna recruduit. #Liv.#
 * Recrudescit seditio. #Id.#
 * Recruduit soporatus dolor. #Q. Curt.#
-

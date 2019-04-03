@@ -1109,7 +1109,7 @@
   {
     "article": 123,
     "keys": [
-      "Ægrolus",
+      "Ægrotus",
       "Æger"
     ],
     "page": 29
@@ -2014,7 +2014,7 @@
       "Animus",
       "Anima",
       "Mens",
-      "Spirilus"
+      "Spiritus"
     ],
     "page": 53
   },
@@ -4040,7 +4040,7 @@
       "Cassis",
       "Galea",
       "Galerus",
-      "JEgis"
+      "Ægis"
     ],
     "page": 105
   },
@@ -4048,7 +4048,7 @@
     "article": 448,
     "keys": [
       "Cassus",
-      "Irrilus"
+      "Irritus"
     ],
     "page": 106
   },
@@ -4059,15 +4059,16 @@
       "Punire",
       "Animadvertere",
       "Plectere",
-      "Mulctare"
+      "Mulctare",
+      "Mulcare"
     ],
     "page": 106
   },
   {
     "article": 450,
     "keys": [
-      "Caslilas",
-      "Caslimonia",
+      "Castitas",
+      "Castimonia",
       "Pudor",
       "Pudicitia"
     ],
@@ -4076,7 +4077,7 @@
   {
     "article": 451,
     "keys": [
-      "Castra (estiva, hyberna, stativa, navalia"
+      "Castra æstiva, hyberna, stativa, navalia"
     ],
     "page": 107
   },
@@ -4087,14 +4088,14 @@
       "Pudicus",
       "Pudens",
       "Pudibundus",
-      "Ferecundus"
+      "Verecundus"
     ],
     "page": 107
   },
   {
     "article": 453,
     "keys": [
-      "Casus Evenlus",
+      "Casus Eventus",
       "Eventum",
       "Exitus"
     ],
@@ -4104,8 +4105,8 @@
     "article": 454,
     "keys": [
       "Catena",
-      "Vinculum,",
-      "Laifueus"
+      "Vinculum",
+      "Laqueus"
     ],
     "page": 108
   },
@@ -4138,7 +4139,7 @@
     "keys": [
       "Cavea",
       "Circus",
-      "Constssus"
+      "Consessus"
     ],
     "page": 108
   },
@@ -4146,14 +4147,14 @@
     "article": 459,
     "keys": [
       "Cavere",
-      "Dedinare"
+      "Declinare"
     ],
     "page": 109
   },
   {
     "article": 460,
     "keys": [
-      "Cavere al'iquem",
+      "Cavere aliquem",
       "Cavere ab aliquo"
     ],
     "page": 109
@@ -4165,14 +4166,14 @@
       "Antrum",
       "Specus",
       "Spelunca",
-      "Spelccum"
+      "Spelæum"
     ],
     "page": 109
   },
   {
     "article": 462,
     "keys": [
-      "Cavillalio",
+      "Cavillatio",
       "Dicacitas"
     ],
     "page": 109
@@ -4213,7 +4214,7 @@
     "article": 467,
     "keys": [
       "Causam dicere",
-      "Causam percrare"
+      "Causam perorare"
     ],
     "page": 110
   },
@@ -4221,7 +4222,7 @@
     "article": 468,
     "keys": [
       "Causam sustinere",
-      "Causam defenderc"
+      "Causam defendere"
     ],
     "page": 110
   },
@@ -4229,7 +4230,7 @@
     "article": 469,
     "keys": [
       "Causari",
-      "Prelexere"
+      "Prætexere"
     ],
     "page": 111
   },
@@ -4238,7 +4239,7 @@
     "keys": [
       "Cautio",
       "Satisdatio",
-      "Satisdaium"
+      "Satisdatum"
     ],
     "page": 111
   },
@@ -4265,9 +4266,10 @@
       "Celare",
       "Silere",
       "Tacere",
-      "Obticcre",
+      "Obticere",
       "Reticere",
-      "Conticere"
+      "Conticere",
+      "Obmutescere"
     ],
     "page": 112
   },
@@ -4334,14 +4336,14 @@
     "article": 481,
     "keys": [
       "Centuriata lex",
-      "Curiatalex"
+      "Curiata lex"
     ],
     "page": 114
   },
   {
     "article": 482,
     "keys": [
-      "Cerelrosus",
+      "Cerebrosus",
       "Ceritus"
     ],
     "page": 114
@@ -4367,10 +4369,10 @@
   {
     "article": 485,
     "keys": [
-      "Cerlus",
-      "Comptrtus",
+      "Certus",
+      "Compertus",
       "Ratus",
-      "Exploralus"
+      "Exploratus"
     ],
     "page": 115
   },
@@ -4395,7 +4397,7 @@
   {
     "article": 488,
     "keys": [
-      "Ceslus",
+      "Cestus",
       "Zona"
     ],
     "page": 115
@@ -4403,7 +4405,7 @@
   {
     "article": 489,
     "keys": [
-      "Ccu",
+      "Ceu",
       "Sive",
       "Sen"
     ],
@@ -4440,8 +4442,9 @@
       "Poculum",
       "Cyathus",
       "Cantharus",
-      "Scvphus",
-      "Cupa"
+      "Scyphus",
+      "Cupa",
+      "Trulla"
     ],
     "page": 116
   },
@@ -4487,7 +4490,7 @@
       "Circa",
       "Circum",
       "Circumcirca",
-      "CiTciter"
+      "Circiter"
     ],
     "page": 118
   },
@@ -4495,7 +4498,7 @@
     "article": 499,
     "keys": [
       "Circinare",
-      "Circulars"
+      "Circulare"
     ],
     "page": 118
   },
@@ -4512,9 +4515,9 @@
     "keys": [
       "Circulus",
       "Orbis",
-      "Orbila",
+      "Orbita",
       "Rota",
-      "Glolus",
+      "Globus",
       "Gyrus",
       "Spira"
     ],
@@ -4530,16 +4533,17 @@
   {
     "article": 503,
     "keys": [
-      "Circunivenire",
+      "Circumvenire",
       "Circuire",
-      "Circumire Circumvadere"
+      "Circumire",
+      "Circumvadere"
     ],
     "page": 119
   },
   {
     "article": 504,
     "keys": [
-      "Circunivenire",
+      "Circumvenire",
       "Circumscribere"
     ],
     "page": 119
@@ -4557,10 +4561,16 @@
     "keys": [
       "Citus",
       "Properus",
-      "Prceproperus Festinus",
+      "Præproperus",
+      "Festinus",
       "Rapidus",
       "Velox",
-      "Oder"
+      "Celer",
+      "Levis",
+      "Pernix",
+      "Præpes",
+      "Alacer",
+      "Promptus"
     ],
     "page": 119
   },
@@ -4568,7 +4578,7 @@
     "article": 507,
     "keys": [
       "Civicus",
-      "Civilis/"
+      "Civilis"
     ],
     "page": 120
   },
@@ -4585,7 +4595,7 @@
     "article": 509,
     "keys": [
       "Civis",
-      "Incnla"
+      "Incola"
     ],
     "page": 120
   },
@@ -4610,12 +4620,13 @@
     "article": 512,
     "keys": [
       "Clam",
-      "Cl&nculum",
+      "Clanculum",
       "Occulte",
       "Furtim",
       "Furtive",
       "Obscure",
-      "Secreto"
+      "Secreto",
+      "Tacite"
     ],
     "page": 121
   },
@@ -4639,7 +4650,7 @@
   {
     "article": 515,
     "keys": [
-      "Ciamosus",
+      "Clamosus",
       "Clamatorius"
     ],
     "page": 122
@@ -4656,7 +4667,7 @@
     "article": 517,
     "keys": [
       "Clarus",
-      "Manifest us"
+      "Manifestus"
     ],
     "page": 122
   },
@@ -4692,7 +4703,7 @@
     "article": 521,
     "keys": [
       "Classis",
-      "Scho/a"
+      "Schola"
     ],
     "page": 123
   },
@@ -4701,9 +4712,10 @@
     "keys": [
       "Claudere",
       "Obserare",
-      "Olturare",
+      "Obturare",
       "Obstruere",
-      "Oppilare Olsepire"
+      "Oppilare",
+      "Obsepire"
     ],
     "page": 123
   },
@@ -4756,7 +4768,7 @@
   {
     "article": 528,
     "keys": [
-      "Clitellce",
+      "Clitellæ",
       "Ephippia"
     ],
     "page": 125
@@ -4767,7 +4779,7 @@
       "Clypeus",
       "Parma",
       "Scutum",
-      "Umlo",
+      "Umbo",
       "Pelta",
       "Ancile"
     ],
@@ -4820,7 +4832,7 @@
   {
     "article": 535,
     "keys": [
-      "Caelestis",
+      "Cœlestis",
       "Divinus"
     ],
     "page": 127
@@ -4828,7 +4840,7 @@
   {
     "article": 536,
     "keys": [
-      "Ccelum",
+      "Cœlum",
       "Polus",
       "Olympus"
     ],
@@ -4854,8 +4866,8 @@
   {
     "article": 539,
     "keys": [
-      "Caenaculum",
-      "Coenatio",
+      "Cœnaculum",
+      "Cœnatio",
       "Triclinium"
     ],
     "page": 128
@@ -4863,7 +4875,7 @@
   {
     "article": 540,
     "keys": [
-      "Cosnum",
+      "Cœnum",
       "Lutum",
       "Limus"
     ],
@@ -4881,7 +4893,7 @@
     "article": 542,
     "keys": [
       "Cogitare",
-      "Eicogitare"
+      "Excogitare"
     ],
     "page": 128
   },
@@ -4904,15 +4916,15 @@
   {
     "article": 545,
     "keys": [
-      "Cogitationem Jigere in aliqua re",
-      "Cogilalionem abjicere in ali-"
+      "Cogitationem figere in aliqua re",
+      "Cogitationem abjicere in aliquam rem"
     ],
     "page": 129
   },
   {
     "article": 546,
     "keys": [
-      "In cogilationem cadere",
+      "In cogitationem cadere",
       "In cogitationem venire"
     ],
     "page": 129
@@ -4958,7 +4970,8 @@
       "Clivus",
       "Mons",
       "Jugum",
-      "Tumulus, Agger"
+      "Tumulus",
+      "Agger"
     ],
     "page": 130
   },
@@ -4969,8 +4982,9 @@
       "Continere",
       "Coercere",
       "Comprimere",
-      "Frcenare",
-      "Com-"
+      "Frænare",
+      "Compescere",
+      "Inhibere"
     ],
     "page": 131
   },
@@ -5003,8 +5017,8 @@
   {
     "article": 556,
     "keys": [
-      "Coloniee Romance",
-      "Coloniee Latince"
+      "Coloniæ Romanæ",
+      "Coloniæ Latinæ"
     ],
     "page": 132
   },
@@ -5057,7 +5071,7 @@
       "Coma",
       "Capillus",
       "Crinis",
-      "Ccesaries",
+      "Cæsaries",
       "Cincinnus"
     ],
     "page": 133
@@ -5107,10 +5121,11 @@
   {
     "article": 568,
     "keys": [
-      "Comitia Concilium",
+      "Comitia",
+      "Concilium",
       "Concio",
-      "Costus",
-      "Convening"
+      "Cœtus",
+      "Conventus"
     ],
     "page": 135
   },
@@ -5145,8 +5160,8 @@
   {
     "article": 572,
     "keys": [
-      "Commemoralio",
-      "Menlio"
+      "Commemoratio",
+      "Mentio"
     ],
     "page": 136
   },
@@ -5275,7 +5290,7 @@
     "keys": [
       "Comparabilis",
       "Comparandus",
-      "Comparativus "
+      "Comparativus"
     ],
     "page": 140
   },
@@ -5283,7 +5298,7 @@
     "article": 588,
     "keys": [
       "Compendiarius",
-      "Compendiosut"
+      "Compendiosus"
     ],
     "page": 140
   },
@@ -5291,7 +5306,7 @@
     "article": 589,
     "keys": [
       "Compes",
-      "Monica",
+      "Manica",
       "Nervus"
     ],
     "page": 140
@@ -5299,7 +5314,7 @@
   {
     "article": 590,
     "keys": [
-      "Compilart;",
+      "Compilare",
       "Expilare"
     ],
     "page": 140
@@ -5316,7 +5331,7 @@
     "article": 592,
     "keys": [
       "Complementum",
-      "Supplamentum"
+      "Supplementum"
     ],
     "page": 140
   },
@@ -5324,7 +5339,8 @@
     "article": 593,
     "keys": [
       "Complexio",
-      "Complexus, Comprehensio"
+      "Complexus",
+      "Comprehensio"
     ],
     "page": 141
   },
@@ -5342,7 +5358,7 @@
     "article": 595,
     "keys": [
       "Componere",
-      "Scrilere",
+      "Scribere",
       "Scriptitare"
     ],
     "page": 141
@@ -5418,7 +5434,7 @@
   {
     "article": 604,
     "keys": [
-      "Concsntus",
+      "Concentus",
       "Harmonia"
     ],
     "page": 143
@@ -5426,14 +5442,15 @@
   {
     "article": 605,
     "keys": [
-      "Concerlars Controversari"
+      "Concertare",
+      "Controversari"
     ],
     "page": 143
   },
   {
     "article": 606,
     "keys": [
-      "Cancer latorius",
+      "Concertatorius",
       "Concertativus"
     ],
     "page": 143
@@ -5492,7 +5509,7 @@
       "Concitare",
       "Excitare",
       "Incitare",
-      "Jnstigare",
+      "Instigare",
       "Extimulare"
     ],
     "page": 145
@@ -5535,7 +5552,7 @@
     "article": 618,
     "keys": [
       "Concrescere",
-      "Gladare",
+      "Glaciare",
       "Rigere"
     ],
     "page": 146
@@ -5551,9 +5568,9 @@
   {
     "article": 620,
     "keys": [
-      "Conculina",
+      "Concubina",
       "Pellex",
-      "Merelrix"
+      "Meretrix"
     ],
     "page": 146
   },
@@ -5561,7 +5578,7 @@
     "article": 621,
     "keys": [
       "Concurrere",
-      "Concursnre"
+      "Concursare"
     ],
     "page": 146
   },
@@ -5577,9 +5594,9 @@
   {
     "article": 623,
     "keys": [
-      "Conculere",
+      "Concutere",
       "Discutere",
-      "Ejccutere"
+      "Excutere"
     ],
     "page": 147
   },
@@ -5602,7 +5619,7 @@
   {
     "article": 626,
     "keys": [
-      "Conditionem offerre, proponere,ferre"
+      "Conditionem offerre, proponere, ferre"
     ],
     "page": 148
   },
@@ -5653,7 +5670,7 @@
   {
     "article": 632,
     "keys": [
-      "Cortfigere",
+      "Configere",
       "Defigere",
       "Refigere"
     ],
@@ -5672,7 +5689,7 @@
     "keys": [
       "Confluere",
       "Influere",
-      "Prqfluere"
+      "Profluere"
     ],
     "page": 149
   },
@@ -5687,7 +5704,7 @@
   {
     "article": 636,
     "keys": [
-      "Confundtre",
+      "Confundere",
       "Miscere",
       "Turbare",
       "Perturbare"
@@ -12734,7 +12751,7 @@
   {
     "article": 1448,
     "keys": [
-      "Juxtb",
+      "Juxta",
       "Secundum",
       "Propter"
     ],
@@ -14547,8 +14564,7 @@
     "article": 1656,
     "keys": [
       "Missio",
-      "Exauctoraiio",
-      ""
+      "Exauctoraiio"
     ],
     "page": 387
   },
@@ -19762,9 +19778,9 @@
       "Situs",
       "Squalor",
       "Sordes",
-      "Pador",
+      "Pædor",
       "Illuvies",
-      "Fceces"
+      "Fæces"
     ],
     "page": 517
   },

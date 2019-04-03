@@ -1,10 +1,10 @@
-+Bonum+, any good or blessing, an advantage.
++Bonum+, %any good or blessing, an advantage%.
 * Bonum formæ, #Ovid.#, The advantages of beauty.
 * Patria bona alicui eripere. #Cic.#
 * Bonum litterarum, #Id.#, The advantages of learning.
 * Paucis temeritas est bono, multis malo. #Phæd.#
 * Bonum, quod est natura appetendum, aut quod prodest, aut quod juvat. #Cic.#
-+Bonitas+, goodness.
++Bonitas+, %goodness%.
 * Quid præclarius bonitate et beneficentia? #Cic.#
 * Divina bonitas. #Id.#
 * Causae bonitas. #Id.#

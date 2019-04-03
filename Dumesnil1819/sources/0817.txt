@@ -1,4 +1,4 @@
-+Descendere+, (scandere de) to descend.
++Descendere+, (scandere de) %to descend%.
 * Equo descendere. #Liv.#
 * Descendere in forum. #Cic.#
 * In curiam. #Id.#
@@ -10,10 +10,10 @@ Because the grandees of Rome lived on the hills. This verb has an extensive sign
 * Descendere in certamen. #Cic.#
 * Descendere ad conditiones oblatas, #Id.#, To accept the conditions offered.
 * Paratus ad omnia descendo, #Cæs.# is in the same sense.
-+Exscendere+, (scandere ex) is an expression relating to the sea, to debark, to land.
++Exscendere+, (scandere ex) is an expression relating to the sea, %to debark, to land%.
 * Legati Asiam petentes cum exscendissent. #Liv.#
 * Exscensu e navibus in terram facto. #Id.#
-+Desilire+, (salire de) denotes a greater quickness than _descendere_, to leap down.
++Desilire+, (salire de) denotes a greater quickness than _descendere_, %to leap down%.
 * Ex equo desiluit. #Liv.#
 * Lecto desilit. #Hor.#
 * Ex equo descendit senex; desilit juvenis. #G. D.#

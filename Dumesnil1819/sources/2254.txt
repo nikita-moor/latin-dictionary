@@ -1,8 +1,7 @@
-+Singulatim+, +Singillatim+, +Sigillatim+, (_from_ singulus) every thing by itself, one by one, one after another.
++Singulatim+, +Singillatim+, +Sigillatim+, (_from_ singulus) %every thing by itself, one by one, one after another%.
 * Quid ego de cæteris civium Romanorum suppliciis sigillatim potius quam generatim atque universe loquar? #Cic.#
 * Quid ego nunc commemorem singillatim qualis in istum fuerim? #Id.#
 * Singulatim unicuique respondere. #Id.#
-+Singulariter+, singularly, above all others.
++Singulariter+, %singularly, above all others%.
 * De pluribus singulariter. #Quint.#
 * Quem ego in Prætura mea singulariter dilexissem. #Cic.#
-

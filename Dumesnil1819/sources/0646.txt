@@ -1,15 +1,13 @@
-+Connubium+, (nubere cum) an alliance by marriage.
++Connubium+, (nubere cum) %an alliance by marriage%.
 * Connubia patrum et plebis. #Liv.#
 * Sequuntur connubia et affinitates. #Cic.#
-+Conjugium+, (jungere cum) marriage, the conjugal union.
++Conjugium+, (jungere cum) %marriage, the conjugal union%.
 * Conjugia virorum et uxorum. #Cic.# It is said of animals.
 * Sæpe sine ullis conjugiis vento gravidæ, #Virg.#, speaking of mares.
-+Matrimonium+, (matris munus) wedlock, matrimony.
++Matrimonium+, (matris munus) %wedlock, matrimony%.
 * Matrimonii jus castum et legitimum. #Cic.#
-+Nuptiæ+, the wedding, the marriage solemnities.
++Nuptiæ+, %the wedding, the marriage solemnities%.
 * Cœnare apud aliquem in nuptiis. #Cic.#
 * Nuptiæ non matrimonii dignitate, sed sceleris societate conjunctae. #Id.#
 * Matrimonia copulant nuptiarum solemnibus. #Arnob.#
-Nuptiæ sunt matrimonii celebratio, quæ legitimum esse conjugium testificatur; connubium vero jus 
-legitimi matrimonii. #G. D.#
-
+* Nuptiæ sunt matrimonii celebratio, quæ legitimum esse conjugium testificatur; connubium vero jus legitimi matrimonii. #G. D.#

@@ -1,4 +1,4 @@
-+Barbarus+, properly, foreign.
++Barbarus+, properly, %foreign%.
 * Mare barbarum, #Hor.#, the foreign sea, the Indian sea.
 * Tam barbari lingua et natione illi, quam tu natura et moribus. #Cic.#
 The Greeks called those barbarous who did not speak properly.
@@ -6,33 +6,33 @@ The Greeks called those barbarous who did not speak properly.
 Cicero uses _barbarus_ in opposition to _disertus_, _doctus_.
 * Gens immanis ac barbara, cui opponitur humana atque docta. #Cic.#
 * Qui aliis barbarus, isti uni disertus videretur. #Id.#
-+Atrox+, inflexible, terrible, dreadful.
++Atrox+, %inflexible, terrible, dreadful%.
 * Præter atrocem animum Catonis. #Hor.#
 * Inimicus atrox. #Ter.#
 * Atrocissimæ litteræ. #Cic.#
-+Immitis+, (non mitis) sour, unripe, crabbed.
++Immitis+, (non mitis) %sour, unripe, crabbed%.
 * Uva immitis. #Hor.#
 Figuratively: cruel, without pity.
 * Immite minaxque edictum. #Cic.#
-+Immanis+, of an unfeeling nature, of a bad heart.
++Immanis+, %of an unfeeling nature, of a bad heart%.
 * Immanis natura. #Cic.#
 * Immanis ac fera bellua. #Id.#
-+Inhumanus+, without humanity or lenity.
++Inhumanus+, %without humanity or lenity%.
 * Inhumana crudelitas. #Liv.#
-+Trux+, fierce, savage.
++Trux+, %fierce, savage%.
 * Truces oculi. #Cic.#
 * Horridus et trux tribunus plebis. #Id.#
 * Truces inimicitiæ. #Hor.#
-+Dirus+, direful, destructive, fatal.
++Dirus+, %direful, destructive, fatal%.
 * Dira execratio. #Liv.#
 * Grando dira. #Hor.#
-+Durus+, hard, such as marble, stones, &c. are.
++Durus+, %hard, such as marble, stones, &c. are%.
 * Duris genuit te cautibus horrens Caucasus. #Virg.#
 Figuratively:
 * Corda dura. #Ovid.#
 * Dura domina cupiditas. #Cic.#
 * Dura fames. #Hor.#
-+Ferox+, high-spirited, is only said of animate things, either to praise or to blame.
++Ferox+, %high-spirited, is only said of animate things, either to praise or to blame%.
 * Reddit hominem ferociorem impotentioremque victoria. #Cic.#
 * Sceleribus suis ferox atque præclarus. #Sall.#
 * Ille animo feroci negat. #Id.#
@@ -44,13 +44,13 @@ Figuratively:
 _Ferus_ always implies cruelty, and _ferox_ often signifies courage, bravery.
 * Ex feris et immanibus mites reddidit et mansuetos. #Cic.#
 * Feri cultus. #Hor.# Rude and uncivil manners.
-+Crudelis+, a cruel and inexorable man.
++Crudelis+, %a cruel and inexorable man%.
 * In alicujus calamitate crudelem esse. #Cic.#
-+Sævus+, furious, is always the effect of anger.
++Sævus+, %furious%, is always the effect of anger.
 * Sævæ memorem Junonis ob iram. #Virg.#
 It signifies also brave, formidable.
 * Maternis sævus in armis. #Virg.#
-+Teter+, foul, stinking, nasty.
++Teter+, %foul, stinking, nasty%.
 * Aqua teterrima. #Hor.#
 Figuratively:
 * Libido tetra. #Hor.#
@@ -59,7 +59,7 @@ Cicero opposes _teter_ to _clarus_.
 It is used for cruel.
 * In alios teter. #Cic.#
 * Bellum teterrimum. #Id.#
-+Truculentus+, (trux oculis) one of a ferocious and savage look.
++Truculentus+, (trux oculis) %one of a ferocious and savage look%.
 * Truculentus aspectu. #Cic.#
 * Truculentius se gerebat, quam cæteri. #Id.#
 * Barbarus erudiri potest; atrociter minamur; adeo Syllæ victoris immite fuit ingenium, ut barbaros immanitate superaret; calamitosis illudere inhumanum est; trucem aspectum contorquemus; vulneratum Philoctetem saxo durior Ulysses in insula destituit; feros magis quam feroces viros alit Africa; etsi natura crudelis foret Alexander Pheræus, non tamen semper et in omnes et ubique sævus; tetrum averseris, et horreas; hostis truculentus et terribilis aspectu. #G. D.#
