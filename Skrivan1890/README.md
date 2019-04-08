@@ -12,7 +12,7 @@ _Work in progress._
 
 ## Sources
 
-1. Skřivan, A. _Latinská Synonymika._ Chrudim, 1890. URL: <https://archive.org/details/SkivanLatinskSynonymika> \[Accessed 8 April 2019\].
+1. Skřivan, A. _Latinská synonymika pro školu i dům._ Chrudim, 1890. URL: <https://archive.org/details/SkivanLatinskSynonymika> \[Accessed 8 April 2019\].
 
 See also blog of [Iohannes Brunensis][3].
 
