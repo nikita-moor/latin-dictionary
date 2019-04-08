@@ -41,7 +41,7 @@ _To be written_
 * [ ] add lemmas
 
 
-[1]: https://archive.org/details/SkivanLatinskSynonymika/page/n2
-[2]: https://archive.org/details/SkivanLatinskSynonymika/page/n6
+[1]: http://www.archive.org/stream/SkivanLatinskSynonymika#page/n2
+[2]: http://www.archive.org/stream/SkivanLatinskSynonymika#page/n6
 [3]: http://www.litteraelatinae.eu/?p=606
 [4]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
