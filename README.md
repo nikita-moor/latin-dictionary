@@ -10,8 +10,10 @@
     [Lat-Eng] dictionary of synonyms
 * [A Hand-Book of Latin Synonymes][5] (Shumway, 1898) \
     [Eng-Lat] dictionary of synonyms
-* [The synonymes of the Latin language][6] (John Hill, 1804)
+* [The synonymes of the Latin language][6] (John Hill, 1804) \
     [Lat-Eng] dictionary of synonyms and prepositions
+* [Latinská Synonymika][7] (Skřivan, 1890) \
+    [Lat-Ces] dictionary of synonyms (in Czech)
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/Doederlein1874
@@ -20,4 +22,5 @@
 [4]: https://github.com/nikita-moor/latin-dictionary/tree/master/Dumesnil1819
 [5]: https://github.com/nikita-moor/latin-dictionary/tree/master/Shumway1898
 [6]: https://github.com/nikita-moor/latin-dictionary/tree/master/HillJohn1804
+[7]: https://github.com/nikita-moor/latin-dictionary/tree/master/Skrivan1890
 
