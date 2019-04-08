@@ -1,0 +1,3202 @@
+[
+  {
+    "header": "A, Ab, Abs",
+    "page": 1,
+    "keys": [
+      "A, Ab, Abs"
+    ]
+  },
+  {
+    "header": "Abdere, Condere, Abscondere, Occulere, Celare",
+    "page": 12,
+    "keys": [
+      "Abdere",
+      "Condere",
+      "Abscondere",
+      "Occulere",
+      "Celare"
+    ]
+  },
+  {
+    "header": "Abjurare, Ejurare",
+    "page": 17,
+    "keys": [
+      "Abjurare",
+      "Ejurare"
+    ]
+  },
+  {
+    "header": "Abnormis, Enormis",
+    "page": 18,
+    "keys": [
+      "Abnormis",
+      "Enormis"
+    ]
+  },
+  {
+    "header": "Aborsus, Abortus",
+    "page": 19,
+    "keys": [
+      "Aborsus",
+      "Abortus"
+    ]
+  },
+  {
+    "header": "Absque",
+    "page": 20,
+    "keys": [
+      "Absque"
+    ]
+  },
+  {
+    "header": "Acclivis, Declivis, Præceps",
+    "page": 21,
+    "keys": [
+      "Acclivis",
+      "Declivis",
+      "Præceps"
+    ]
+  },
+  {
+    "header": "Accola, Incola, Civis",
+    "page": 23,
+    "keys": [
+      "Accola",
+      "Incola",
+      "Civis"
+    ]
+  },
+  {
+    "header": "Ad",
+    "page": 25,
+    "keys": [
+      "Ad"
+    ]
+  },
+  {
+    "header": "Adoptare, Adsciscere",
+    "page": 37,
+    "keys": [
+      "Adoptare",
+      "Adsciscere"
+    ]
+  },
+  {
+    "header": "Advena, Convenæ, Hospes, Peregrinus",
+    "page": 38,
+    "keys": [
+      "Advena",
+      "Convenæ",
+      "Hospes",
+      "Peregrinus"
+    ]
+  },
+  {
+    "header": "Advenire, Adventare",
+    "page": 40,
+    "keys": [
+      "Advenire",
+      "Adventare"
+    ]
+  },
+  {
+    "header": "Adversus, vel Adversum",
+    "page": 41,
+    "keys": [
+      "Adversus"
+    ]
+  },
+  {
+    "header": "Adulari, Blandiri, Assentari",
+    "page": 42,
+    "keys": [
+      "Adulari",
+      "Blandiri",
+      "Assentari"
+    ]
+  },
+  {
+    "header": "Æger, Ægrotus",
+    "page": 44,
+    "keys": [
+      "Æger",
+      "Ægrotus"
+    ]
+  },
+  {
+    "header": "Æqualis, Par, Similis",
+    "page": 45,
+    "keys": [
+      "Æqualis",
+      "Par",
+      "Similis"
+    ]
+  },
+  {
+    "header": "Æquor, Campus",
+    "page": 50,
+    "keys": [
+      "Æquor",
+      "Campus"
+    ]
+  },
+  {
+    "header": "Aer, Æther",
+    "page": 52,
+    "keys": [
+      "Aer",
+      "Æther"
+    ]
+  },
+  {
+    "header": "Affectare, Ambire",
+    "page": 53,
+    "keys": [
+      "Affectare",
+      "Ambire"
+    ]
+  },
+  {
+    "header": "Affirmare, Asseverare",
+    "page": 55,
+    "keys": [
+      "Affirmare",
+      "Asseverare"
+    ]
+  },
+  {
+    "header": "Agere, Facere, Gerere",
+    "page": 57,
+    "keys": [
+      "Agere",
+      "Facere",
+      "Gerere"
+    ]
+  },
+  {
+    "header": "Agnati, Cognati, Affines",
+    "page": 60,
+    "keys": [
+      "Agnati",
+      "Cognati",
+      "Affines"
+    ]
+  },
+  {
+    "header": "Alapa, Colaphus",
+    "page": 62,
+    "keys": [
+      "Alapa",
+      "Colaphus"
+    ]
+  },
+  {
+    "header": "Alga, Ulva",
+    "page": 63,
+    "keys": [
+      "Alga",
+      "Ulva"
+    ]
+  },
+  {
+    "header": "Alibi, Alicubi; Alio, Aliquo; Aliunde, Alicunde",
+    "page": 64,
+    "keys": [
+      "Alibi",
+      "Alicubi",
+      "Alio",
+      "Aliquo",
+      "Aliunde",
+      "Alicunde"
+    ]
+  },
+  {
+    "header": "Alius, Cætera, Reliquus",
+    "page": 67,
+    "keys": [
+      "Alius",
+      "Cætera",
+      "Reliquus"
+    ]
+  },
+  {
+    "header": "Altus, Arduus",
+    "page": 71,
+    "keys": [
+      "Altus",
+      "Arduus"
+    ]
+  },
+  {
+    "header": "Amare, Diligere",
+    "page": 72,
+    "keys": [
+      "Amare",
+      "Diligere"
+    ]
+  },
+  {
+    "header": "Amator, Amicus",
+    "page": 74,
+    "keys": [
+      "Amator",
+      "Amicus"
+    ]
+  },
+  {
+    "header": "Ambitio, Ambitus",
+    "page": 76,
+    "keys": [
+      "Ambitio",
+      "Ambitus"
+    ]
+  },
+  {
+    "header": "An, Aut, Vel, Sive",
+    "page": 77,
+    "keys": [
+      "An",
+      "Aut",
+      "Vel",
+      "Sive"
+    ]
+  },
+  {
+    "header": "Angustus, Arctus",
+    "page": 83,
+    "keys": [
+      "Angustus",
+      "Arctus"
+    ]
+  },
+  {
+    "header": "Anima, Animus, Mens",
+    "page": 85,
+    "keys": [
+      "Anima",
+      "Animus",
+      "Mens"
+    ]
+  },
+  {
+    "header": "Animadvertere, Observare",
+    "page": 88,
+    "keys": [
+      "Animadvertere",
+      "Observare"
+    ]
+  },
+  {
+    "header": "Annuus, Anniversarius, Solennis",
+    "page": 90,
+    "keys": [
+      "Annuus",
+      "Anniversarius",
+      "Solennis"
+    ]
+  },
+  {
+    "header": "Ante",
+    "page": 93,
+    "keys": [
+      "Ante"
+    ]
+  },
+  {
+    "header": "Antea, Supra",
+    "page": 95,
+    "keys": [
+      "Antea",
+      "Supra"
+    ]
+  },
+  {
+    "header": "Aperire, Pandere, Recludere",
+    "page": 96,
+    "keys": [
+      "Aperire",
+      "Pandere",
+      "Recludere"
+    ]
+  },
+  {
+    "header": "Appetere, Expetere",
+    "page": 100,
+    "keys": [
+      "Appetere",
+      "Expetere"
+    ]
+  },
+  {
+    "header": "Apud",
+    "page": 102,
+    "keys": [
+      "Apud"
+    ]
+  },
+  {
+    "header": "Aqua, Unda",
+    "page": 106,
+    "keys": [
+      "Aqua",
+      "Unda"
+    ]
+  },
+  {
+    "header": "Arcanus, Occultus",
+    "page": 108,
+    "keys": [
+      "Arcanus",
+      "Occultus"
+    ]
+  },
+  {
+    "header": "Ardere, Flagrare, Urere, Cremare",
+    "page": 110,
+    "keys": [
+      "Ardere",
+      "Flagrare",
+      "Urere",
+      "Cremare"
+    ]
+  },
+  {
+    "header": "Arena, Sabulum vel Sabulo, Saburra",
+    "page": 113,
+    "keys": [
+      "Arena",
+      "Sabulum",
+      "Saburra"
+    ]
+  },
+  {
+    "header": "Aridus, Siccus",
+    "page": 115,
+    "keys": [
+      "Aridus",
+      "Siccus"
+    ]
+  },
+  {
+    "header": "Arridere, Irridere",
+    "page": 116,
+    "keys": [
+      "Arridere",
+      "Irridere"
+    ]
+  },
+  {
+    "header": "Astutus, Vafer, Callidus, Recoctus",
+    "page": 119,
+    "keys": [
+      "Astutus",
+      "Vafer",
+      "Callidus",
+      "Recoctus"
+    ]
+  },
+  {
+    "header": "Ater, Niger, Fuscus",
+    "page": 122,
+    "keys": [
+      "Ater",
+      "Niger",
+      "Fuscus"
+    ]
+  },
+  {
+    "header": "Audacia, Audentia, Fortitudo, Temeritas",
+    "page": 125,
+    "keys": [
+      "Audacia",
+      "Audentia",
+      "Fortitudo",
+      "Temeritas"
+    ]
+  },
+  {
+    "header": "Audire, Obedire, Obtemperare, Parere, Servire",
+    "page": 126,
+    "keys": [
+      "Audire",
+      "Obedire",
+      "Obtemperare",
+      "Parere",
+      "Servire"
+    ]
+  },
+  {
+    "header": "Avius, Invius, Devius",
+    "page": 130,
+    "keys": [
+      "Avius",
+      "Invius",
+      "Devius"
+    ]
+  },
+  {
+    "header": "Aura, Flatus, Ventus, Procella, Turbo",
+    "page": 132,
+    "keys": [
+      "Aura",
+      "Flatus",
+      "Ventus",
+      "Procella",
+      "Turbo"
+    ]
+  },
+  {
+    "header": "Auspicium, Ductus",
+    "page": 137,
+    "keys": [
+      "Auspicium",
+      "Ductus"
+    ]
+  },
+  {
+    "header": "Auxilium, Suppetiæ, Opis",
+    "page": 138,
+    "keys": [
+      "Auxilium",
+      "Suppetiæ",
+      "Opis"
+    ]
+  },
+  {
+    "header": "Avunculus, Patruus",
+    "page": 140,
+    "keys": [
+      "Avunculus",
+      "Patruus"
+    ]
+  },
+  {
+    "header": "Balbus, Blæsus",
+    "page": 142,
+    "keys": [
+      "Balbus",
+      "Blæsus"
+    ]
+  },
+  {
+    "header": "Bellicus, Bellicosus",
+    "page": 144,
+    "keys": [
+      "Bellicus",
+      "Bellicosus"
+    ]
+  },
+  {
+    "header": "Bellum, Prælium, Pugna, Certamen",
+    "page": 146,
+    "keys": [
+      "Bellum",
+      "Prælium",
+      "Pugna",
+      "Certamen"
+    ]
+  },
+  {
+    "header": "Benignus, Beneficus",
+    "page": 150,
+    "keys": [
+      "Benignus",
+      "Beneficus"
+    ]
+  },
+  {
+    "header": "Bestia, Bellua, Fera",
+    "page": 151,
+    "keys": [
+      "Bestia",
+      "Bellua",
+      "Fera"
+    ]
+  },
+  {
+    "header": "Bonus, Probus",
+    "page": 153,
+    "keys": [
+      "Bonus",
+      "Probus"
+    ]
+  },
+  {
+    "header": "Caballus, Mannus",
+    "page": 155,
+    "keys": [
+      "Caballus",
+      "Mannus"
+    ]
+  },
+  {
+    "header": "Cadere, Ruere, Labi, Labare",
+    "page": 156,
+    "keys": [
+      "Cadere",
+      "Ruere",
+      "Labi",
+      "Labare"
+    ]
+  },
+  {
+    "header": "Calamitas, Clades",
+    "page": 160,
+    "keys": [
+      "Calamitas",
+      "Clades"
+    ]
+  },
+  {
+    "header": "Calere, Tepere, Fervere",
+    "page": 161,
+    "keys": [
+      "Calere",
+      "Tepere",
+      "Fervere"
+    ]
+  },
+  {
+    "header": "Candidus, Albus",
+    "page": 164,
+    "keys": [
+      "Candidus",
+      "Albus"
+    ]
+  },
+  {
+    "header": "Cantus, Canticum, Cantilena",
+    "page": 166,
+    "keys": [
+      "Cantus",
+      "Canticum",
+      "Cantilena"
+    ]
+  },
+  {
+    "header": "Capere, Sumere, Accipere, Excipere, Recipere",
+    "page": 167,
+    "keys": [
+      "Capere",
+      "Sumere",
+      "Accipere",
+      "Excipere",
+      "Recipere"
+    ]
+  },
+  {
+    "header": "Caper, Hircus",
+    "page": 174,
+    "keys": [
+      "Caper",
+      "Hircus"
+    ]
+  },
+  {
+    "header": "Carbo, Pruna",
+    "page": 174,
+    "keys": [
+      "Carbo",
+      "Pruna"
+    ]
+  },
+  {
+    "header": "Carere, Egere, Desiderare",
+    "page": 175,
+    "keys": [
+      "Carere",
+      "Egere",
+      "Desiderare"
+    ]
+  },
+  {
+    "header": "Casus, Eventus, Exitus",
+    "page": 178,
+    "keys": [
+      "Casus",
+      "Eventus",
+      "Exitus"
+    ]
+  },
+  {
+    "header": "Cernere hæreditatem, Adire hæreditatem",
+    "page": 181,
+    "keys": [
+      "Cernere hæreditatem",
+      "Adire hæreditatem"
+    ]
+  },
+  {
+    "header": "Certus, Quidam",
+    "page": 181,
+    "keys": [
+      "Certus",
+      "Quidam"
+    ]
+  },
+  {
+    "header": "Cessare, Requiescere",
+    "page": 183,
+    "keys": [
+      "Cessare",
+      "Requiescere"
+    ]
+  },
+  {
+    "header": "Circa, Circum, Circiter",
+    "page": 184,
+    "keys": [
+      "Circa",
+      "Circum",
+      "Circiter"
+    ]
+  },
+  {
+    "header": "Circumcidere, Amputare",
+    "page": 188,
+    "keys": [
+      "Circumcidere",
+      "Amputare"
+    ]
+  },
+  {
+    "header": "Cis, Citra",
+    "page": 189,
+    "keys": [
+      "Cis",
+      "Citra"
+    ]
+  },
+  {
+    "header": "Civitas, Urbs",
+    "page": 191,
+    "keys": [
+      "Civitas",
+      "Urbs"
+    ]
+  },
+  {
+    "header": "Clientela, Tutela",
+    "page": 192,
+    "keys": [
+      "Clientela",
+      "Tutela"
+    ]
+  },
+  {
+    "header": "Cœlebs, Innupta",
+    "page": 193,
+    "keys": [
+      "Cœlebs",
+      "Innupta"
+    ]
+  },
+  {
+    "header": "Cœpisse, Ordiri, Inchoare",
+    "page": 193,
+    "keys": [
+      "Cœpisse",
+      "Ordiri",
+      "Inchoare"
+    ]
+  },
+  {
+    "header": "Cogitare, Meditari, Putare",
+    "page": 196,
+    "keys": [
+      "Cogitare",
+      "Meditari",
+      "Putare"
+    ]
+  },
+  {
+    "header": "Colere, Venerari",
+    "page": 199,
+    "keys": [
+      "Colere",
+      "Venerari"
+    ]
+  },
+  {
+    "header": "Collum, Cervix, Gula, Jugulum, Guttur",
+    "page": 201,
+    "keys": [
+      "Collum",
+      "Cervix",
+      "Gula",
+      "Jugulum",
+      "Guttur"
+    ]
+  },
+  {
+    "header": "Colonus, Villicus, Inquilinus",
+    "page": 204,
+    "keys": [
+      "Colonus",
+      "Villicus",
+      "Inquilinus"
+    ]
+  },
+  {
+    "header": "Comes, Satelles, Socius, Sodalis",
+    "page": 205,
+    "keys": [
+      "Comes",
+      "Satelles",
+      "Socius",
+      "Sodalis"
+    ]
+  },
+  {
+    "header": "Comis, Clemens, Mansuetus",
+    "page": 207,
+    "keys": [
+      "Comis",
+      "Clemens",
+      "Mansuetus"
+    ]
+  },
+  {
+    "header": "Comitari, Stipare",
+    "page": 209,
+    "keys": [
+      "Comitari",
+      "Stipare"
+    ]
+  },
+  {
+    "header": "Commodare, Mutuo dare",
+    "page": 210,
+    "keys": [
+      "Commodare",
+      "Mutuo dare"
+    ]
+  },
+  {
+    "header": "Commodus, Opportunus, Tempestivus",
+    "page": 211,
+    "keys": [
+      "Commodus",
+      "Opportunus",
+      "Tempestivus"
+    ]
+  },
+  {
+    "header": "Communicare, Partiri",
+    "page": 213,
+    "keys": [
+      "Communicare",
+      "Partiri"
+    ]
+  },
+  {
+    "header": "Conari, Moliri, Niti",
+    "page": 214,
+    "keys": [
+      "Conari",
+      "Moliri",
+      "Niti"
+    ]
+  },
+  {
+    "header": "Concubina, Pellex, Meretrix",
+    "page": 217,
+    "keys": [
+      "Concubina",
+      "Pellex",
+      "Meretrix"
+    ]
+  },
+  {
+    "header": "Conficere, Perficere",
+    "page": 218,
+    "keys": [
+      "Conficere",
+      "Perficere"
+    ]
+  },
+  {
+    "header": "Congiarium, Donativum, Donarium",
+    "page": 220,
+    "keys": [
+      "Congiarium",
+      "Donativum",
+      "Donarium"
+    ]
+  },
+  {
+    "header": "Conjectura, Suspicio",
+    "page": 222,
+    "keys": [
+      "Conjectura",
+      "Suspicio"
+    ]
+  },
+  {
+    "header": "Constantia, Perseverantia, Pertinacia",
+    "page": 223,
+    "keys": [
+      "Constantia",
+      "Perseverantia",
+      "Pertinacia"
+    ]
+  },
+  {
+    "header": "Contemnere, Spernere, Despicere",
+    "page": 226,
+    "keys": [
+      "Contemnere",
+      "Spernere",
+      "Despicere"
+    ]
+  },
+  {
+    "header": "Continuo, Continenter",
+    "page": 228,
+    "keys": [
+      "Continuo",
+      "Continenter"
+    ]
+  },
+  {
+    "header": "Conviva, Convictor, Convivator",
+    "page": 230,
+    "keys": [
+      "Conviva",
+      "Convictor",
+      "Convivator"
+    ]
+  },
+  {
+    "header": "Copia, Abundantia, Ubertas",
+    "page": 230,
+    "keys": [
+      "Copia",
+      "Abundantia",
+      "Ubertas"
+    ]
+  },
+  {
+    "header": "Coram, Palam",
+    "page": 233,
+    "keys": [
+      "Coram",
+      "Palam"
+    ]
+  },
+  {
+    "header": "Corium, Aluta, Pellis, Cutis",
+    "page": 234,
+    "keys": [
+      "Corium",
+      "Aluta",
+      "Pellis",
+      "Cutis"
+    ]
+  },
+  {
+    "header": "Corona, Diadema",
+    "page": 236,
+    "keys": [
+      "Corona",
+      "Diadema"
+    ]
+  },
+  {
+    "header": "Crassus, Densus",
+    "page": 237,
+    "keys": [
+      "Crassus",
+      "Densus"
+    ]
+  },
+  {
+    "header": "Criminari, Insimulare, Accusare, Arguere",
+    "page": 238,
+    "keys": [
+      "Criminari",
+      "Insimulare",
+      "Accusare",
+      "Arguere"
+    ]
+  },
+  {
+    "header": "Culpa, Peccatum",
+    "page": 241,
+    "keys": [
+      "Culpa",
+      "Peccatum"
+    ]
+  },
+  {
+    "header": "Cum",
+    "page": 243,
+    "keys": [
+      "Cum"
+    ]
+  },
+  {
+    "header": "Cumulus, Acervus, Strages",
+    "page": 247,
+    "keys": [
+      "Cumulus",
+      "Acervus",
+      "Farrago",
+      "Strages"
+    ]
+  },
+  {
+    "header": "Cunctari, Morari",
+    "page": 250,
+    "keys": [
+      "Cunctari",
+      "Morari"
+    ]
+  },
+  {
+    "header": "Cura, Sollicitudo, Angor, Anxietas, Ærumna",
+    "page": 252,
+    "keys": [
+      "Cura",
+      "Sollicitudo",
+      "Angor",
+      "Anxietas",
+      "Ærumna"
+    ]
+  },
+  {
+    "header": "Currus, Essedum, Rheda, Carpentum, Pilentum, Plaustrum",
+    "page": 255,
+    "keys": [
+      "Currus",
+      "Essedum",
+      "Rheda",
+      "Carpentum",
+      "Pilentum",
+      "Plaustrum"
+    ]
+  },
+  {
+    "header": "Curvare, Flectere, Plicare",
+    "page": 258,
+    "keys": [
+      "Curvare",
+      "Flectere",
+      "Plicare"
+    ]
+  },
+  {
+    "header": "Curvus, Uncus",
+    "page": 259,
+    "keys": [
+      "Curvus",
+      "Uncus"
+    ]
+  },
+  {
+    "header": "Damnum, Detrimentum, Jactura",
+    "page": 261,
+    "keys": [
+      "Damnum",
+      "Detrimentum",
+      "Jactura"
+    ]
+  },
+  {
+    "header": "Dare, Tribuere, Donare, Largiri",
+    "page": 264,
+    "keys": [
+      "Dare",
+      "Tribuere",
+      "Donare",
+      "Largiri"
+    ]
+  },
+  {
+    "header": "De",
+    "page": 267,
+    "keys": [
+      "De"
+    ]
+  },
+  {
+    "header": "Decedere, Discedere",
+    "page": 273,
+    "keys": [
+      "Decedere",
+      "Discedere"
+    ]
+  },
+  {
+    "header": "Decet, Oportet, Necesse est",
+    "page": 275,
+    "keys": [
+      "Decet",
+      "Oportet",
+      "Necesse est"
+    ]
+  },
+  {
+    "header": "Decolor, Discolor",
+    "page": 276,
+    "keys": [
+      "Decolor",
+      "Discolor"
+    ]
+  },
+  {
+    "header": "Decus, Decor",
+    "page": 278,
+    "keys": [
+      "Decus",
+      "Decor"
+    ]
+  },
+  {
+    "header": "Deesse, Deficere",
+    "page": 279,
+    "keys": [
+      "Deesse",
+      "Deficere"
+    ]
+  },
+  {
+    "header": "Defungi, Perfungi",
+    "page": 280,
+    "keys": [
+      "Defungi",
+      "Perfungi"
+    ]
+  },
+  {
+    "header": "Delere, Obliterare, Abolere",
+    "page": 281,
+    "keys": [
+      "Delere",
+      "Obliterare",
+      "Abolere"
+    ]
+  },
+  {
+    "header": "Delirare, Desipere, Insanire, Furere",
+    "page": 283,
+    "keys": [
+      "Delirare",
+      "Desipere",
+      "Insanire",
+      "Furere"
+    ]
+  },
+  {
+    "header": "Differentia, Dissimilitudo, Discrimen, Discrepantia",
+    "page": 286,
+    "keys": [
+      "Differentia",
+      "Dissimilitudo",
+      "Discrimen",
+      "Discrepantia"
+    ]
+  },
+  {
+    "header": "Differre, Proferre",
+    "page": 287,
+    "keys": [
+      "Differre",
+      "Proferre"
+    ]
+  },
+  {
+    "header": "Diu, Dudum, Pridem",
+    "page": 289,
+    "keys": [
+      "Diu",
+      "Dudum",
+      "Pridem"
+    ]
+  },
+  {
+    "header": "Diversorium, Hospitium, Caupona",
+    "page": 291,
+    "keys": [
+      "Diversorium",
+      "Hospitium",
+      "Caupona"
+    ]
+  },
+  {
+    "header": "Docere, Erudire, Instituere, Imbuere",
+    "page": 293,
+    "keys": [
+      "Docere",
+      "Erudire",
+      "Instituere",
+      "Imbuere"
+    ]
+  },
+  {
+    "header": "Dolor, Mœror, Luctus",
+    "page": 297,
+    "keys": [
+      "Dolor",
+      "Mœror",
+      "Luctus"
+    ]
+  },
+  {
+    "header": "Dubius, Anceps, Ambiguus",
+    "page": 298,
+    "keys": [
+      "Dubius",
+      "Anceps",
+      "Ambiguus"
+    ]
+  },
+  {
+    "header": "Duo, Ambo, Bini",
+    "page": 301,
+    "keys": [
+      "Duo",
+      "Ambo",
+      "Bini"
+    ]
+  },
+  {
+    "header": "Duplex, Duplus",
+    "page": 304,
+    "keys": [
+      "Duplex",
+      "Duplus"
+    ]
+  },
+  {
+    "header": "E, Ex",
+    "page": 306,
+    "keys": [
+      "E, Ex"
+    ]
+  },
+  {
+    "header": "Ebrius, Ebriosus",
+    "page": 311,
+    "keys": [
+      "Ebrius",
+      "Ebriosus"
+    ]
+  },
+  {
+    "header": "Elegans, Concinnus, Mundus, Lautus",
+    "page": 312,
+    "keys": [
+      "Elegans",
+      "Concinnus",
+      "Mundus",
+      "Lautus"
+    ]
+  },
+  {
+    "header": "Eloquens, Disertus",
+    "page": 316,
+    "keys": [
+      "Eloquens",
+      "Disertus"
+    ]
+  },
+  {
+    "header": "Emplastrum, Malagma, Pastillus",
+    "page": 317,
+    "keys": [
+      "Emplastrum",
+      "Malagma",
+      "Pastillus"
+    ]
+  },
+  {
+    "header": "En, Ecce",
+    "page": 317,
+    "keys": [
+      "En",
+      "Ecce"
+    ]
+  },
+  {
+    "header": "Epulæ, Epulum",
+    "page": 319,
+    "keys": [
+      "Epulæ",
+      "Epulum"
+    ]
+  },
+  {
+    "header": "Erga",
+    "page": 320,
+    "keys": [
+      "Erga"
+    ]
+  },
+  {
+    "header": "Errare, Vagari, Palari",
+    "page": 320,
+    "keys": [
+      "Errare",
+      "Vagari",
+      "Palari"
+    ]
+  },
+  {
+    "header": "Esse, Existere, Fieri",
+    "page": 322,
+    "keys": [
+      "Esse",
+      "Existere",
+      "Extare",
+      "Fieri"
+    ]
+  },
+  {
+    "header": "Excellere, Præstare",
+    "page": 325,
+    "keys": [
+      "Excellere",
+      "Præstare"
+    ]
+  },
+  {
+    "header": "Excubiæ, Vigiliæ",
+    "page": 327,
+    "keys": [
+      "Excubiæ",
+      "Vigiliæ"
+    ]
+  },
+  {
+    "header": "Execrari, Detestari, Abominari",
+    "page": 328,
+    "keys": [
+      "Execrari",
+      "Detestari",
+      "Abominari"
+    ]
+  },
+  {
+    "header": "Exilis, Macer",
+    "page": 329,
+    "keys": [
+      "Exilis",
+      "Macer"
+    ]
+  },
+  {
+    "header": "Expectare, Sperare, Opperiri, Præstolari",
+    "page": 332,
+    "keys": [
+      "Expectare",
+      "Sperare",
+      "Opperiri",
+      "Præstolari"
+    ]
+  },
+  {
+    "header": "Expers, Exsors, Immunis",
+    "page": 334,
+    "keys": [
+      "Expers",
+      "Exsors",
+      "Immunis"
+    ]
+  },
+  {
+    "header": "Extinguere, Opprimere",
+    "page": 336,
+    "keys": [
+      "Extinguere",
+      "Opprimere"
+    ]
+  },
+  {
+    "header": "Extra",
+    "page": 337,
+    "keys": [
+      "Extra"
+    ]
+  },
+  {
+    "header": "Exul, Extorris, Deportatus, Relegatus",
+    "page": 339,
+    "keys": [
+      "Exul",
+      "Extorris",
+      "Deportatus",
+      "Relegatus"
+    ]
+  },
+  {
+    "header": "Facetus, Urbanus",
+    "page": 342,
+    "keys": [
+      "Facetus",
+      "Urbanus"
+    ]
+  },
+  {
+    "header": "Facinus, Scelus, Flagitium",
+    "page": 343,
+    "keys": [
+      "Facinus",
+      "Scelus",
+      "Flagitium"
+    ]
+  },
+  {
+    "header": "Fallere, Decipere",
+    "page": 345,
+    "keys": [
+      "Fallere",
+      "Decipere"
+    ]
+  },
+  {
+    "header": "Fama, Rumor",
+    "page": 347,
+    "keys": [
+      "Fama",
+      "Rumor"
+    ]
+  },
+  {
+    "header": "Fames, Inedia, Jejunium",
+    "page": 349,
+    "keys": [
+      "Fames",
+      "Inedia",
+      "Jejunium"
+    ]
+  },
+  {
+    "header": "Fari, Loqui, Dicere, Disserere, Narrare",
+    "page": 351,
+    "keys": [
+      "Fari",
+      "Loqui",
+      "Dicere",
+      "Disserere",
+      "Narrare"
+    ]
+  },
+  {
+    "header": "Fas, Jus",
+    "page": 355,
+    "keys": [
+      "Fas",
+      "Jus"
+    ]
+  },
+  {
+    "header": "Fateri, Confiteri, Profiteri, Præ se ferre",
+    "page": 356,
+    "keys": [
+      "Fateri",
+      "Confiteri",
+      "Profiteri",
+      "Præ se ferre"
+    ]
+  },
+  {
+    "header": "Favilla, Scintilla",
+    "page": 358,
+    "keys": [
+      "Favilla",
+      "Scintilla"
+    ]
+  },
+  {
+    "header": "Felix, Beatus",
+    "page": 360,
+    "keys": [
+      "Felix",
+      "Beatus"
+    ]
+  },
+  {
+    "header": "Ferre, Gerere, Portare, Vehere",
+    "page": 363,
+    "keys": [
+      "Ferre",
+      "Gerere",
+      "Portare",
+      "Vehere"
+    ]
+  },
+  {
+    "header": "Ferre, Pati, Tolerare",
+    "page": 366,
+    "keys": [
+      "Ferre",
+      "Pati",
+      "Tolerare"
+    ]
+  },
+  {
+    "header": "Ferus, Ferox, Ferinus",
+    "page": 369,
+    "keys": [
+      "Ferus",
+      "Ferox",
+      "Ferinus"
+    ]
+  },
+  {
+    "header": "Festinare, Properare, Maturare",
+    "page": 370,
+    "keys": [
+      "Festinare",
+      "Properare",
+      "Maturare"
+    ]
+  },
+  {
+    "header": "Figura, Forma",
+    "page": 373,
+    "keys": [
+      "Figura",
+      "Forma"
+    ]
+  },
+  {
+    "header": "Flere, Vagire, Plorare, Ejulare, Ululare, Plangere",
+    "page": 375,
+    "keys": [
+      "Flere",
+      "Vagire",
+      "Plorare",
+      "Ejulare",
+      "Ululare",
+      "Plangere"
+    ]
+  },
+  {
+    "header": "Fluere, Manare",
+    "page": 377,
+    "keys": [
+      "Fluere",
+      "Manare"
+    ]
+  },
+  {
+    "header": "Fœtus, Pullus, Catulus, Hinnulus",
+    "page": 379,
+    "keys": [
+      "Fœtus",
+      "Pullus",
+      "Catulus",
+      "Hinnulus"
+    ]
+  },
+  {
+    "header": "Forte, Fortasse",
+    "page": 382,
+    "keys": [
+      "Forte",
+      "Fortasse"
+    ]
+  },
+  {
+    "header": "Frangere, Rumpere",
+    "page": 384,
+    "keys": [
+      "Frangere",
+      "Rumpere"
+    ]
+  },
+  {
+    "header": "Frequens, Creber",
+    "page": 385,
+    "keys": [
+      "Frequens",
+      "Creber"
+    ]
+  },
+  {
+    "header": "Fugax, Fugitivus",
+    "page": 388,
+    "keys": [
+      "Fugax",
+      "Fugitivus"
+    ]
+  },
+  {
+    "header": "Gaudium, Lætitia",
+    "page": 389,
+    "keys": [
+      "Gaudium",
+      "Lætitia"
+    ]
+  },
+  {
+    "header": "Gelidus, Egelidus",
+    "page": 390,
+    "keys": [
+      "Gelidus",
+      "Egelidus"
+    ]
+  },
+  {
+    "header": "Gens, Natio",
+    "page": 391,
+    "keys": [
+      "Gens",
+      "Natio"
+    ]
+  },
+  {
+    "header": "Gracilis, Tenuis, Teres",
+    "page": 392,
+    "keys": [
+      "Gracilis",
+      "Tenuis",
+      "Teres"
+    ]
+  },
+  {
+    "header": "Grammaticus, Grammatista",
+    "page": 394,
+    "keys": [
+      "Grammaticus",
+      "Grammatista"
+    ]
+  },
+  {
+    "header": "Grex, Armentum",
+    "page": 394,
+    "keys": [
+      "Grex",
+      "Armentum",
+      "Pecus, pecoris",
+      "Pecus, pecudis"
+    ]
+  },
+  {
+    "header": "Gustare, Sapere",
+    "page": 396,
+    "keys": [
+      "Gustare",
+      "Sapere"
+    ]
+  },
+  {
+    "header": "Habere, Tenere, Possidere",
+    "page": 398,
+    "keys": [
+      "Habere",
+      "Tenere",
+      "Possidere"
+    ]
+  },
+  {
+    "header": "Habitus, Vestitus",
+    "page": 400,
+    "keys": [
+      "Habitus",
+      "Vestitus"
+    ]
+  },
+  {
+    "header": "Homo, Vir",
+    "page": 401,
+    "keys": [
+      "Homo",
+      "Vir"
+    ]
+  },
+  {
+    "header": "Hortari, Suadere, Persuadere, Monere",
+    "page": 403,
+    "keys": [
+      "Hortari",
+      "Suadere",
+      "Persuadere",
+      "Monere"
+    ]
+  },
+  {
+    "header": "Hortus, Horti",
+    "page": 405,
+    "keys": [
+      "Hortus",
+      "Horti"
+    ]
+  },
+  {
+    "header": "Hostis, Inimicus, Adversarius",
+    "page": 406,
+    "keys": [
+      "Hostis",
+      "Inimicus",
+      "Adversarius"
+    ]
+  },
+  {
+    "header": "Humane vel Humaniter, Humanitus",
+    "page": 409,
+    "keys": [
+      "Humane",
+      "Humaniter",
+      "Humanitus"
+    ]
+  },
+  {
+    "header": "Humidus, Uvidus, Madidus",
+    "page": 411,
+    "keys": [
+      "Humidus",
+      "Uvidus",
+      "Madidus"
+    ]
+  },
+  {
+    "header": "Idoneus, Aptus",
+    "page": 415,
+    "keys": [
+      "Idoneus",
+      "Aptus"
+    ]
+  },
+  {
+    "header": "Ignominia, Infamia",
+    "page": 418,
+    "keys": [
+      "Ignominia",
+      "Infamia"
+    ]
+  },
+  {
+    "header": "Imago, Umbra, Effigies, Simulacrum, Statua",
+    "page": 418,
+    "keys": [
+      "Imago",
+      "Umbra",
+      "Effigies",
+      "Simulacrum",
+      "Statua"
+    ]
+  },
+  {
+    "header": "Imber, Nimbus, Pluvia",
+    "page": 424,
+    "keys": [
+      "Imber",
+      "Nimbus",
+      "Pluvia"
+    ]
+  },
+  {
+    "header": "Imperare, Jubere, Regere, Gubernare",
+    "page": 425,
+    "keys": [
+      "Imperare",
+      "Jubere",
+      "Regere",
+      "Gubernare"
+    ]
+  },
+  {
+    "header": "In",
+    "page": 428,
+    "keys": [
+      "In"
+    ]
+  },
+  {
+    "header": "Inanis, Vacuus, Cassus",
+    "page": 441,
+    "keys": [
+      "Inanis",
+      "Vacuus",
+      "Cassus"
+    ]
+  },
+  {
+    "header": "Indignus, Immerens",
+    "page": 443,
+    "keys": [
+      "Indignus",
+      "Immerens"
+    ]
+  },
+  {
+    "header": "Indoles, Ingenium",
+    "page": 444,
+    "keys": [
+      "Indoles",
+      "Ingenium"
+    ]
+  },
+  {
+    "header": "Industria, Diligentia, Solertia",
+    "page": 445,
+    "keys": [
+      "Industria",
+      "Diligentia",
+      "Solertia"
+    ]
+  },
+  {
+    "header": "Infra",
+    "page": 447,
+    "keys": [
+      "Infra"
+    ]
+  },
+  {
+    "header": "Insania, Furor, Rabies",
+    "page": 450,
+    "keys": [
+      "Insania",
+      "Furor",
+      "Rabies"
+    ]
+  },
+  {
+    "header": "Insomnis, Vigil",
+    "page": 451,
+    "keys": [
+      "Insomnis",
+      "Vigil"
+    ]
+  },
+  {
+    "header": "Instare, Impendere, Imminere",
+    "page": 453,
+    "keys": [
+      "Instare",
+      "Impendere",
+      "Imminere"
+    ]
+  },
+  {
+    "header": "Inter",
+    "page": 455,
+    "keys": [
+      "Inter"
+    ]
+  },
+  {
+    "header": "Interea, Interim",
+    "page": 460,
+    "keys": [
+      "Interea",
+      "Interim"
+    ]
+  },
+  {
+    "header": "Interpres, Conjector",
+    "page": 461,
+    "keys": [
+      "Interpres",
+      "Conjector"
+    ]
+  },
+  {
+    "header": "Intra",
+    "page": 462,
+    "keys": [
+      "Intra"
+    ]
+  },
+  {
+    "header": "Invenire, Reperire, Comperire",
+    "page": 464,
+    "keys": [
+      "Invenire",
+      "Reperire",
+      "Comperire"
+    ]
+  },
+  {
+    "header": "Invidia, Invidentia",
+    "page": 466,
+    "keys": [
+      "Invidia",
+      "Invidentia"
+    ]
+  },
+  {
+    "header": "Invitare, Arcessere",
+    "page": 467,
+    "keys": [
+      "Invitare",
+      "Arcessere"
+    ]
+  },
+  {
+    "header": "Ira, Iracundia",
+    "page": 468,
+    "keys": [
+      "Ira",
+      "Iracundia"
+    ]
+  },
+  {
+    "header": "Irasci, Succensere, Stomachari",
+    "page": 469,
+    "keys": [
+      "Irasci",
+      "Succensere",
+      "Stomachari"
+    ]
+  },
+  {
+    "header": "Ire, Vadere, Meare, Gradi, Incedere, Ambulare, Spatiari",
+    "page": 472,
+    "keys": [
+      "Ire",
+      "Vadere",
+      "Meare",
+      "Gradi",
+      "Incedere",
+      "Ambulare",
+      "Spatiari"
+    ]
+  },
+  {
+    "header": "Jucundus, Gratus, Gratiosus, Amœnus",
+    "page": 475,
+    "keys": [
+      "Jucundus",
+      "Gratus",
+      "Gratiosus",
+      "Amœnus"
+    ]
+  },
+  {
+    "header": "Judex, Arbiter",
+    "page": 478,
+    "keys": [
+      "Judex",
+      "Arbiter"
+    ]
+  },
+  {
+    "header": "Jurgium, Rixa, Simultas, Lis",
+    "page": 479,
+    "keys": [
+      "Jurgium",
+      "Rixa",
+      "Simultas",
+      "Lis",
+      "Turba"
+    ]
+  },
+  {
+    "header": "Juxta",
+    "page": 482,
+    "keys": [
+      "Juxta"
+    ]
+  },
+  {
+    "header": "Lacus, Palus, Stagnum",
+    "page": 484,
+    "keys": [
+      "Lacus",
+      "Palus",
+      "Stagnum"
+    ]
+  },
+  {
+    "header": "Lævis, Glaber",
+    "page": 487,
+    "keys": [
+      "Lævis",
+      "Glaber"
+    ]
+  },
+  {
+    "header": "Lambere, Lingere, Ligurire",
+    "page": 488,
+    "keys": [
+      "Lambere",
+      "Lingere",
+      "Ligurire"
+    ]
+  },
+  {
+    "header": "Lamina, Bractea",
+    "page": 489,
+    "keys": [
+      "Lamina",
+      "Bractea"
+    ]
+  },
+  {
+    "header": "Laus, Gloria",
+    "page": 490,
+    "keys": [
+      "Laus",
+      "Gloria"
+    ]
+  },
+  {
+    "header": "Legare, Allegare",
+    "page": 491,
+    "keys": [
+      "Legare",
+      "Allegare"
+    ]
+  },
+  {
+    "header": "Legere, Carpere",
+    "page": 493,
+    "keys": [
+      "Legere",
+      "Carpere"
+    ]
+  },
+  {
+    "header": "Lepos, Jocus, Sal",
+    "page": 495,
+    "keys": [
+      "Lepos",
+      "Jocus",
+      "Sal"
+    ]
+  },
+  {
+    "header": "Liberi, Filii, Filiæ",
+    "page": 497,
+    "keys": [
+      "Liberi",
+      "Filii",
+      "Filiæ"
+    ]
+  },
+  {
+    "header": "Lippus, Luscus, Lusciosus, Cocles, Pætus, Strabo",
+    "page": 497,
+    "keys": [
+      "Lippus",
+      "Luscus",
+      "Lusciosus",
+      "Cocles",
+      "Pætus",
+      "Strabo"
+    ]
+  },
+  {
+    "header": "Lutum, Limus, Cœnum",
+    "page": 499,
+    "keys": [
+      "Lutum",
+      "Limus",
+      "Cœnum"
+    ]
+  },
+  {
+    "header": "Magnitudo, Majestas",
+    "page": 500,
+    "keys": [
+      "Magnitudo",
+      "Majestas"
+    ]
+  },
+  {
+    "header": "Magnus, Ingens, Amplus, Procerus",
+    "page": 502,
+    "keys": [
+      "Magnus",
+      "Ingens",
+      "Amplus",
+      "Procerus"
+    ]
+  },
+  {
+    "header": "Mala, Gena, Maxilla",
+    "page": 504,
+    "keys": [
+      "Mala",
+      "Gena",
+      "Bucca",
+      "Maxilla"
+    ]
+  },
+  {
+    "header": "Maledictum, Convicium, Probrum",
+    "page": 506,
+    "keys": [
+      "Maledictum",
+      "Convicium",
+      "Probrum"
+    ]
+  },
+  {
+    "header": "Marinus, Maritimus",
+    "page": 509,
+    "keys": [
+      "Marinus",
+      "Maritimus"
+    ]
+  },
+  {
+    "header": "Meminisse, Reminisci, Recordari",
+    "page": 510,
+    "keys": [
+      "Meminisse",
+      "Reminisci",
+      "Recordari"
+    ]
+  },
+  {
+    "header": "Memorare, Narrare",
+    "page": 513,
+    "keys": [
+      "Memorare",
+      "Narrare"
+    ]
+  },
+  {
+    "header": "Mercator, Institor, Negotiator",
+    "page": 515,
+    "keys": [
+      "Mercator",
+      "Institor",
+      "Negotiator"
+    ]
+  },
+  {
+    "header": "Modo, Recens, Nuper",
+    "page": 517,
+    "keys": [
+      "Modo",
+      "Recens",
+      "Nuper"
+    ]
+  },
+  {
+    "header": "Morbus, Ægrotatio, Ægritudo",
+    "page": 519,
+    "keys": [
+      "Morbus",
+      "Ægrotatio",
+      "Ægritudo"
+    ]
+  },
+  {
+    "header": "Moriturus, Moribundus",
+    "page": 521,
+    "keys": [
+      "Moriturus",
+      "Moribundus"
+    ]
+  },
+  {
+    "header": "Mors, Nex",
+    "page": 523,
+    "keys": [
+      "Mors",
+      "Nex"
+    ]
+  },
+  {
+    "header": "Mos, Consuetudo",
+    "page": 524,
+    "keys": [
+      "Mos",
+      "Consuetudo"
+    ]
+  },
+  {
+    "header": "Multiplex, Varius, Multifarius",
+    "page": 525,
+    "keys": [
+      "Multiplex",
+      "Varius",
+      "Multifarius"
+    ]
+  },
+  {
+    "header": "Murus, Mœnia, Paries",
+    "page": 527,
+    "keys": [
+      "Murus",
+      "Mœnia",
+      "Paries"
+    ]
+  },
+  {
+    "header": "Mutus, Infans",
+    "page": 529,
+    "keys": [
+      "Mutus",
+      "Infans"
+    ]
+  },
+  {
+    "header": "Nativus, Natalis",
+    "page": 531,
+    "keys": [
+      "Nativus",
+      "Natalis"
+    ]
+  },
+  {
+    "header": "Navis, Ratis, Cymba, Scapha, Linter",
+    "page": 533,
+    "keys": [
+      "Navis",
+      "Ratis",
+      "Cymba",
+      "Scapha",
+      "Linter"
+    ]
+  },
+  {
+    "header": "Nefandus, Infandus",
+    "page": 535,
+    "keys": [
+      "Nefandus",
+      "Infandus"
+    ]
+  },
+  {
+    "header": "Negare, Infitiari, Abnuere, Recusare",
+    "page": 536,
+    "keys": [
+      "Negare",
+      "Infitiari",
+      "Abnuere",
+      "Recusare"
+    ]
+  },
+  {
+    "header": "Norma, Regula, Libella",
+    "page": 539,
+    "keys": [
+      "Norma",
+      "Regula",
+      "Libella"
+    ]
+  },
+  {
+    "header": "Novus, Recens",
+    "page": 540,
+    "keys": [
+      "Novus",
+      "Recens"
+    ]
+  },
+  {
+    "header": "Nutrire, Alere",
+    "page": 541,
+    "keys": [
+      "Nutrire",
+      "Alere"
+    ]
+  },
+  {
+    "header": "Ob",
+    "page": 543,
+    "keys": [
+      "Ob"
+    ]
+  },
+  {
+    "header": "Obsidere, Oppugnare",
+    "page": 548,
+    "keys": [
+      "Obsidere",
+      "Oppugnare"
+    ]
+  },
+  {
+    "header": "Obstare, Obsistere, Officere",
+    "page": 548,
+    "keys": [
+      "Obstare",
+      "Obsistere",
+      "Officere"
+    ]
+  },
+  {
+    "header": "Odor, Nidor",
+    "page": 550,
+    "keys": [
+      "Odor",
+      "Nidor"
+    ]
+  },
+  {
+    "header": "Officina, Taberna",
+    "page": 551,
+    "keys": [
+      "Officina",
+      "Taberna"
+    ]
+  },
+  {
+    "header": "Officium, Munus",
+    "page": 552,
+    "keys": [
+      "Officium",
+      "Munus"
+    ]
+  },
+  {
+    "header": "Opacus, Umbrosus, Umbratilis",
+    "page": 554,
+    "keys": [
+      "Opacus",
+      "Umbrosus",
+      "Umbratilis"
+    ]
+  },
+  {
+    "header": "Opportunitas, Occasio",
+    "page": 556,
+    "keys": [
+      "Opportunitas",
+      "Occasio"
+    ]
+  },
+  {
+    "header": "Ordo, Series",
+    "page": 557,
+    "keys": [
+      "Ordo",
+      "Series"
+    ]
+  },
+  {
+    "header": "Ornare, Redimire",
+    "page": 559,
+    "keys": [
+      "Ornare",
+      "Redimire"
+    ]
+  },
+  {
+    "header": "Ostium, Janua, Porta",
+    "page": 560,
+    "keys": [
+      "Ostium",
+      "Janua",
+      "Porta"
+    ]
+  },
+  {
+    "header": "Parare, Parere, Acquirere, Conciliare, Adipisci, Nancisci, Sortiri",
+    "page": 563,
+    "keys": [
+      "Parare",
+      "Parere",
+      "Acquirere",
+      "Conciliare",
+      "Adipisci",
+      "Consequi",
+      "Nancisci",
+      "Sortiri"
+    ]
+  },
+  {
+    "header": "Pars, Portio",
+    "page": 567,
+    "keys": [
+      "Pars",
+      "Portio"
+    ]
+  },
+  {
+    "header": "Paupertas, Inopia, Egestas",
+    "page": 568,
+    "keys": [
+      "Paupertas",
+      "Inopia",
+      "Egestas"
+    ]
+  },
+  {
+    "header": "Pejor, Deterior",
+    "page": 570,
+    "keys": [
+      "Pejor",
+      "Deterior"
+    ]
+  },
+  {
+    "header": "Pellere, Trudere, Tundere",
+    "page": 571,
+    "keys": [
+      "Pellere",
+      "Trudere",
+      "Tundere"
+    ]
+  },
+  {
+    "header": "Penes",
+    "page": 573,
+    "keys": [
+      "Penes"
+    ]
+  },
+  {
+    "header": "Penna, Pluma",
+    "page": 575,
+    "keys": [
+      "Penna",
+      "Pluma"
+    ]
+  },
+  {
+    "header": "Per",
+    "page": 575,
+    "keys": [
+      "Per"
+    ]
+  },
+  {
+    "header": "Peragrare, Peregrinari, Rusticari",
+    "page": 581,
+    "keys": [
+      "Peragrare",
+      "Peregrinari",
+      "Rusticari"
+    ]
+  },
+  {
+    "header": "Percontari, Sciscitari",
+    "page": 583,
+    "keys": [
+      "Percontari",
+      "Sciscitari"
+    ]
+  },
+  {
+    "header": "Perdere, Amittere",
+    "page": 585,
+    "keys": [
+      "Perdere",
+      "Amittere"
+    ]
+  },
+  {
+    "header": "Perfuga, Profugus",
+    "page": 587,
+    "keys": [
+      "Perfuga",
+      "Profugus"
+    ]
+  },
+  {
+    "header": "Perinde, Prout",
+    "page": 588,
+    "keys": [
+      "Perinde",
+      "Prout"
+    ]
+  },
+  {
+    "header": "Piget, Tædet",
+    "page": 591,
+    "keys": [
+      "Piget",
+      "Tædet"
+    ]
+  },
+  {
+    "header": "Pigritia, Ignavia, Inertia",
+    "page": 592,
+    "keys": [
+      "Pigritia",
+      "Ignavia",
+      "Inertia"
+    ]
+  },
+  {
+    "header": "Pœna, Supplicium",
+    "page": 594,
+    "keys": [
+      "Pœna",
+      "Supplicium"
+    ]
+  },
+  {
+    "header": "Pondus, Onus, Sarcina",
+    "page": 596,
+    "keys": [
+      "Pondus",
+      "Onus",
+      "Sarcina"
+    ]
+  },
+  {
+    "header": "Populus, Plebs",
+    "page": 598,
+    "keys": [
+      "Populus",
+      "Plebs"
+    ]
+  },
+  {
+    "header": "Posse, Valere, Pollere, Callere",
+    "page": 599,
+    "keys": [
+      "Posse",
+      "Valere",
+      "Pollere",
+      "Callere"
+    ]
+  },
+  {
+    "header": "Post",
+    "page": 602,
+    "keys": [
+      "Post",
+      "Pone"
+    ]
+  },
+  {
+    "header": "Potentia, Potestas, Facultas",
+    "page": 604,
+    "keys": [
+      "Potentia",
+      "Potestas",
+      "Facultas",
+      "Facilitas"
+    ]
+  },
+  {
+    "header": "Præ",
+    "page": 606,
+    "keys": [
+      "Præ"
+    ]
+  },
+  {
+    "header": "Præter",
+    "page": 611,
+    "keys": [
+      "Præter"
+    ]
+  },
+  {
+    "header": "Præda, Spolium, Exuviæ, Manubiæ",
+    "page": 614,
+    "keys": [
+      "Præda",
+      "Spolium",
+      "Exuviæ",
+      "Manubiæ"
+    ]
+  },
+  {
+    "header": "Prædo, Latro, Pirata",
+    "page": 616,
+    "keys": [
+      "Prædo",
+      "Latro",
+      "Pirata",
+      "Fur"
+    ]
+  },
+  {
+    "header": "Priscus, Pristinus",
+    "page": 618,
+    "keys": [
+      "Priscus",
+      "Pristinus"
+    ]
+  },
+  {
+    "header": "Privare, Orbare, Spoliare, Expilare, Depeculari",
+    "page": 619,
+    "keys": [
+      "Privare",
+      "Orbare",
+      "Spoliare",
+      "Expilare",
+      "Depeculari"
+    ]
+  },
+  {
+    "header": "Pro",
+    "page": 622,
+    "keys": [
+      "Pro"
+    ]
+  },
+  {
+    "header": "Procax, Petulans, Protervus",
+    "page": 628,
+    "keys": [
+      "Procax",
+      "Petulans",
+      "Protervus"
+    ]
+  },
+  {
+    "header": "Profligatus, Perditus",
+    "page": 631,
+    "keys": [
+      "Profligatus",
+      "Perditus"
+    ]
+  },
+  {
+    "header": "Promittere, Polliceri, Recipere, Spondere",
+    "page": 632,
+    "keys": [
+      "Promittere",
+      "Polliceri",
+      "Recipere",
+      "Spondere"
+    ]
+  },
+  {
+    "header": "Propter",
+    "page": 635,
+    "keys": [
+      "Propter"
+    ]
+  },
+  {
+    "header": "Provocare, Lacessere, Irritare",
+    "page": 637,
+    "keys": [
+      "Provocare",
+      "Lacessere",
+      "Irritare"
+    ]
+  },
+  {
+    "header": "Pudor, Pudicitia, Castitas, Verecundia",
+    "page": 639,
+    "keys": [
+      "Pudor",
+      "Pudicitia",
+      "Castitas",
+      "Verecundia"
+    ]
+  },
+  {
+    "header": "Pungere, Stimulare",
+    "page": 642,
+    "keys": [
+      "Pungere",
+      "Stimulare"
+    ]
+  },
+  {
+    "header": "Punire, Castigare, Plecti",
+    "page": 643,
+    "keys": [
+      "Punire",
+      "Castigare",
+      "Plecti"
+    ]
+  },
+  {
+    "header": "Quantus, Quot, Quotus",
+    "page": 646,
+    "keys": [
+      "Quantus",
+      "Quot",
+      "Quotus"
+    ]
+  },
+  {
+    "header": "Quærere, Scrutari, Rimari",
+    "page": 649,
+    "keys": [
+      "Quærere",
+      "Scrutari",
+      "Rimari"
+    ]
+  },
+  {
+    "header": "Quæstus, Lucrum",
+    "page": 651,
+    "keys": [
+      "Quæstus",
+      "Lucrum",
+      "Mercatura"
+    ]
+  },
+  {
+    "header": "Quinquennis, Quinquennalis",
+    "page": 652,
+    "keys": [
+      "Quinquennis",
+      "Quinquennalis"
+    ]
+  },
+  {
+    "header": "Regnum, Principatus, Dominatus",
+    "page": 653,
+    "keys": [
+      "Regnum",
+      "Principatus",
+      "Dominatus"
+    ]
+  },
+  {
+    "header": "Relinquere, Deserere",
+    "page": 655,
+    "keys": [
+      "Relinquere",
+      "Deserere"
+    ]
+  },
+  {
+    "header": "Repudium, Divortium",
+    "page": 656,
+    "keys": [
+      "Repudium",
+      "Divortium"
+    ]
+  },
+  {
+    "header": "Reviviscere, Renasci",
+    "page": 658,
+    "keys": [
+      "Reviviscere",
+      "Renasci"
+    ]
+  },
+  {
+    "header": "Reus, Sons",
+    "page": 659,
+    "keys": [
+      "Reus",
+      "Sons"
+    ]
+  },
+  {
+    "header": "Ridere, Subridere, Cachinnari",
+    "page": 660,
+    "keys": [
+      "Ridere",
+      "Subridere",
+      "Cachinnari"
+    ]
+  },
+  {
+    "header": "Rogare, Petere, Postulare, Poscere, Flagitare",
+    "page": 661,
+    "keys": [
+      "Rogare",
+      "Petere",
+      "Postulare",
+      "Poscere",
+      "Flagitare"
+    ]
+  },
+  {
+    "header": "Rus, Ager, Pascuum, Arvum",
+    "page": 668,
+    "keys": [
+      "Rus",
+      "Ager",
+      "Pascuum",
+      "Arvum"
+    ]
+  },
+  {
+    "header": "Sacrificare, Litare, Parentare",
+    "page": 671,
+    "keys": [
+      "Sacrificare",
+      "Litare",
+      "Parentare"
+    ]
+  },
+  {
+    "header": "Salire, Exultare, Gestire",
+    "page": 672,
+    "keys": [
+      "Salire",
+      "Exultare",
+      "Gestire"
+    ]
+  },
+  {
+    "header": "Salubris, Salutaris",
+    "page": 674,
+    "keys": [
+      "Salubris",
+      "Salutaris"
+    ]
+  },
+  {
+    "header": "Sanguis, Cruor, Sanies",
+    "page": 675,
+    "keys": [
+      "Sanguis",
+      "Cruor",
+      "Sanies"
+    ]
+  },
+  {
+    "header": "Sapiens, Prudens, Sciens",
+    "page": 677,
+    "keys": [
+      "Sapiens",
+      "Prudens",
+      "Sciens"
+    ]
+  },
+  {
+    "header": "Satisfacere, Satiare, Saturare",
+    "page": 679,
+    "keys": [
+      "Satisfacere",
+      "Satiare",
+      "Saturare"
+    ]
+  },
+  {
+    "header": "Scindere, Cædere, Secare, Putare",
+    "page": 681,
+    "keys": [
+      "Scindere",
+      "Cædere",
+      "Secare",
+      "Putare"
+    ]
+  },
+  {
+    "header": "Scire, Noscere",
+    "page": 684,
+    "keys": [
+      "Scire",
+      "Noscere"
+    ]
+  },
+  {
+    "header": "Sebum vel Sevum, Adeps",
+    "page": 687,
+    "keys": [
+      "Sebum",
+      "Adeps"
+    ]
+  },
+  {
+    "header": "Secundum",
+    "page": 688,
+    "keys": [
+      "Secundum"
+    ]
+  },
+  {
+    "header": "Semianimis, Seminex",
+    "page": 692,
+    "keys": [
+      "Semianimis",
+      "Seminex"
+    ]
+  },
+  {
+    "header": "Sepelire, Humare",
+    "page": 694,
+    "keys": [
+      "Sepelire",
+      "Humare"
+    ]
+  },
+  {
+    "header": "Servus, Verna",
+    "page": 694,
+    "keys": [
+      "Servus",
+      "Verna"
+    ]
+  },
+  {
+    "header": "Signum, Nota, Indicium, Præsagium",
+    "page": 696,
+    "keys": [
+      "Signum",
+      "Nota",
+      "Indicium",
+      "Præsagium"
+    ]
+  },
+  {
+    "header": "Silere, Tacere",
+    "page": 698,
+    "keys": [
+      "Silere",
+      "Tacere"
+    ]
+  },
+  {
+    "header": "Simulare, Dissimulare",
+    "page": 700,
+    "keys": [
+      "Simulare",
+      "Dissimulare"
+    ]
+  },
+  {
+    "header": "Sine",
+    "page": 701,
+    "keys": [
+      "Sine"
+    ]
+  },
+  {
+    "header": "Sinus, Gremium",
+    "page": 702,
+    "keys": [
+      "Sinus",
+      "Gremium"
+    ]
+  },
+  {
+    "header": "Solere, Assuescere",
+    "page": 703,
+    "keys": [
+      "Solere",
+      "Assuescere"
+    ]
+  },
+  {
+    "header": "Somnus, Sopor",
+    "page": 705,
+    "keys": [
+      "Somnus",
+      "Sopor"
+    ]
+  },
+  {
+    "header": "Sonus, Sonitus, Crepitus, Strepitus, Fremitus, Stridor, Fragor",
+    "page": 706,
+    "keys": [
+      "Sonus",
+      "Sonitus",
+      "Crepitus",
+      "Strepitus",
+      "Clamor",
+      "Fremitus",
+      "Stridor",
+      "Fragor"
+    ]
+  },
+  {
+    "header": "Sordes, Pædor, Squalor, Fæces",
+    "page": 711,
+    "keys": [
+      "Sordes",
+      "Pædor",
+      "Squalor",
+      "Fæces"
+    ]
+  },
+  {
+    "header": "Sordidus, Sordidatus",
+    "page": 713,
+    "keys": [
+      "Sordidus",
+      "Sordidatus"
+    ]
+  },
+  {
+    "header": "Strenuus, Gnavus",
+    "page": 715,
+    "keys": [
+      "Strenuus",
+      "Gnavus",
+      "Agilis"
+    ]
+  },
+  {
+    "header": "Strues, Moles, Agger",
+    "page": 716,
+    "keys": [
+      "Strues",
+      "Moles",
+      "Agger"
+    ]
+  },
+  {
+    "header": "Stultus, Stolidus, Fatuus",
+    "page": 718,
+    "keys": [
+      "Stultus",
+      "Stolidus",
+      "Fatuus"
+    ]
+  },
+  {
+    "header": "Sub",
+    "page": 720,
+    "keys": [
+      "Sub"
+    ]
+  },
+  {
+    "header": "Subter",
+    "page": 727,
+    "keys": [
+      "Subter"
+    ]
+  },
+  {
+    "header": "Super",
+    "page": 728,
+    "keys": [
+      "Super"
+    ]
+  },
+  {
+    "header": "Superbia, Arrogantia, Fastus",
+    "page": 732,
+    "keys": [
+      "Superbia",
+      "Arrogantia",
+      "Fastus"
+    ]
+  },
+  {
+    "header": "Supra",
+    "page": 734,
+    "keys": [
+      "Supra"
+    ]
+  },
+  {
+    "header": "Sylva, Nemus, Saltus, Lucus",
+    "page": 734,
+    "keys": [
+      "Sylva",
+      "Nemus",
+      "Saltus",
+      "Lucus"
+    ]
+  },
+  {
+    "header": "Syngrapha, Chirographum",
+    "page": 737,
+    "keys": [
+      "Syngrapha",
+      "Chirographum"
+    ]
+  },
+  {
+    "header": "Tenebræ, Caligo",
+    "page": 738,
+    "keys": [
+      "Tenebræ",
+      "Caligo"
+    ]
+  },
+  {
+    "header": "Tentare, Experiri",
+    "page": 739,
+    "keys": [
+      "Tentare",
+      "Experiri"
+    ]
+  },
+  {
+    "header": "Tenus",
+    "page": 740,
+    "keys": [
+      "Tenus"
+    ]
+  },
+  {
+    "header": "Timere, Metuere, Vereri",
+    "page": 742,
+    "keys": [
+      "Timere",
+      "Metuere",
+      "Vereri"
+    ]
+  },
+  {
+    "header": "Trahere, Ducere, Allicere",
+    "page": 745,
+    "keys": [
+      "Trahere",
+      "Ducere",
+      "Allicere"
+    ]
+  },
+  {
+    "header": "Trans",
+    "page": 747,
+    "keys": [
+      "Trans"
+    ]
+  },
+  {
+    "header": "Tumultuosus, Tumultuarius",
+    "page": 749,
+    "keys": [
+      "Tumultuosus",
+      "Tumultuarius"
+    ]
+  },
+  {
+    "header": "Vas, Præs",
+    "page": 749,
+    "keys": [
+      "Vas",
+      "Præs"
+    ]
+  },
+  {
+    "header": "Velle, Cupere, Optare",
+    "page": 750,
+    "keys": [
+      "Velle",
+      "Cupere",
+      "Optare"
+    ]
+  },
+  {
+    "header": "Versus",
+    "page": 754,
+    "keys": [
+      "Versus"
+    ]
+  },
+  {
+    "header": "Vesci, Edere, Mandere, Vorare, Rodere",
+    "page": 755,
+    "keys": [
+      "Vesci",
+      "Edere",
+      "Mandere",
+      "Vorare",
+      "Rodere"
+    ]
+  },
+  {
+    "header": "Via, Trames, Semita, Callis",
+    "page": 756,
+    "keys": [
+      "Via",
+      "Trames",
+      "Semita",
+      "Callis"
+    ]
+  },
+  {
+    "header": "Vicinus, Confinis",
+    "page": 759,
+    "keys": [
+      "Vicinus",
+      "Confinis"
+    ]
+  },
+  {
+    "header": "Videre, Visere, Cernere",
+    "page": 760,
+    "keys": [
+      "Videre",
+      "Visere",
+      "Cernere"
+    ]
+  },
+  {
+    "header": "Villa, Vicus, Pagus",
+    "page": 762,
+    "keys": [
+      "Villa",
+      "Vicus",
+      "Pagus"
+    ]
+  },
+  {
+    "header": "Vincere, Debellare",
+    "page": 764,
+    "keys": [
+      "Vincere",
+      "Debellare"
+    ]
+  },
+  {
+    "header": "Vincire, Ligare, Stringere",
+    "page": 765,
+    "keys": [
+      "Vincire",
+      "Ligare",
+      "Stringere"
+    ]
+  },
+  {
+    "header": "Vinculum, Catena",
+    "page": 767,
+    "keys": [
+      "Vinculum",
+      "Catena"
+    ]
+  },
+  {
+    "header": "Violare, Offendere",
+    "page": 769,
+    "keys": [
+      "Violare",
+      "Offendere",
+      "Illidere",
+      "Lædere"
+    ]
+  },
+  {
+    "header": "Ulcisci, Vindicare",
+    "page": 770,
+    "keys": [
+      "Ulcisci",
+      "Vindicare"
+    ]
+  },
+  {
+    "header": "Ultra",
+    "page": 771,
+    "keys": [
+      "Ultra"
+    ]
+  },
+  {
+    "header": "Unus, Unicus, Solus",
+    "page": 772,
+    "keys": [
+      "Unus",
+      "Unicus",
+      "Solus"
+    ]
+  },
+  {
+    "header": "Volucris, Avis, Ales",
+    "page": 775,
+    "keys": [
+      "Volucris",
+      "Avis",
+      "Ales"
+    ]
+  },
+  {
+    "header": "Usura, Fœnus",
+    "page": 776,
+    "keys": [
+      "Usura",
+      "Fœnus"
+    ]
+  },
+  {
+    "header": "Ut, Sicut, Velut",
+    "page": 779,
+    "keys": [
+      "Ut",
+      "Sicut",
+      "Velut"
+    ]
+  },
+  {
+    "header": "Vulgo, Communiter",
+    "page": 781,
+    "keys": [
+      "Vulgo",
+      "Communiter"
+    ]
+  }
+]

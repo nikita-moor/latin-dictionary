@@ -1,0 +1,5074 @@
+{
+  "A, Ab, Abs": {
+    "pages": [1],
+    "flag": false,
+    "lemmas": [
+      "a",
+      "ab",
+      "abs"
+    ]
+  },
+  "Abdere": {
+    "pages": [12],
+    "flag": false,
+    "lemmas": [
+      "abdo<opt>, abdere</opt>"
+    ]
+  },
+  "Abjurare": {
+    "pages": [17],
+    "flag": false,
+    "lemmas": [
+      "abjuro<opt>, abjurare</opt>"
+    ]
+  },
+  "Abnormis": {
+    "pages": [18],
+    "flag": false
+  },
+  "Abnuere": {
+    "pages": [538],
+    "flag": false,
+    "lemmas": [
+      "abnuo<opt>, abnuere</opt>"
+    ]
+  },
+  "Abolere": {
+    "pages": [283],
+    "flag": false,
+    "lemmas": [
+      "aboleo<opt>, abolere</opt>"
+    ]
+  },
+  "Abominari": {
+    "pages": [328],
+    "flag": false,
+    "lemmas": [
+      "abominor<opt>, abominari</opt>"
+    ]
+  },
+  "Aborsus": {
+    "pages": [19],
+    "flag": false
+  },
+  "Abortus": {
+    "pages": [19],
+    "flag": false
+  },
+  "Abscondere": {
+    "pages": [14],
+    "flag": false,
+    "lemmas": [
+      "abscondo<opt>, abscondere</opt>"
+    ]
+  },
+  "Absque": {
+    "pages": [20],
+    "flag": false
+  },
+  "Abundantia": {
+    "pages": [231],
+    "flag": false
+  },
+  "Accipere": {
+    "pages": [171],
+    "flag": false,
+    "lemmas": [
+      "accipio<opt>, accipere</opt>"
+    ]
+  },
+  "Acclivis": {
+    "pages": [21],
+    "flag": false
+  },
+  "Accola": {
+    "pages": [23],
+    "flag": false
+  },
+  "Accusare": {
+    "pages": [240],
+    "flag": false,
+    "lemmas": [
+      "accuso<opt>, accusare</opt>"
+    ]
+  },
+  "Acervus": {
+    "pages": [248],
+    "flag": false
+  },
+  "Acquirere": {
+    "pages": [564],
+    "flag": false,
+    "lemmas": [
+      "acquiro<opt>, acquirere</opt>"
+    ]
+  },
+  "Ad": {
+    "pages": [25],
+    "flag": false
+  },
+  "Adeps": {
+    "pages": [687],
+    "flag": false
+  },
+  "Adipisci": {
+    "pages": [565],
+    "flag": false,
+    "lemmas": [
+      "adipiscor<opt>, adipisci</opt>"
+    ]
+  },
+  "Adire hæreditatem": {
+    "pages": [181],
+    "flag": false,
+    "lemmas": [
+      "haereditatis",
+      "hereditatis"
+    ]
+  },
+  "Adoptare": {
+    "pages": [37],
+    "flag": false,
+    "lemmas": [
+      "adopto<opt>, adoptare</opt>"
+    ]
+  },
+  "Adsciscere": {
+    "pages": [37],
+    "flag": false,
+    "lemmas": [
+      "adscisco<opt>, adsciscere</opt>"
+    ]
+  },
+  "Advena": {
+    "pages": [38],
+    "flag": false
+  },
+  "Advenire": {
+    "pages": [40],
+    "flag": false,
+    "lemmas": [
+      "advenio<opt>, advenire</opt>"
+    ]
+  },
+  "Adventare": {
+    "pages": [40],
+    "flag": false,
+    "lemmas": [
+      "advento<opt>, adventare</opt>"
+    ]
+  },
+  "Adversarius": {
+    "pages": [408],
+    "flag": false
+  },
+  "Adversus": {
+    "pages": [41],
+    "flag": false,
+    "lemmas": [
+      "adversus",
+      "adversum"
+    ]
+  },
+  "Adulari": {
+    "pages": [42],
+    "flag": false,
+    "lemmas": [
+      "adulor<opt>, adulari</opt>"
+    ]
+  },
+  "Æger": {
+    "pages": [44],
+    "flag": false,
+    "lemmas": [
+      "aeger"
+    ]
+  },
+  "Ægritudo": {
+    "pages": [520],
+    "flag": false,
+    "lemmas": [
+      "aegritudo"
+    ]
+  },
+  "Ægrotatio": {
+    "pages": [520],
+    "flag": false,
+    "lemmas": [
+      "aegrotatio"
+    ]
+  },
+  "Æqualis": {
+    "pages": [45],
+    "flag": false,
+    "lemmas": [
+      "aequalis"
+    ]
+  },
+  "Æquor": {
+    "pages": [50],
+    "flag": false,
+    "lemmas": [
+      "aequor"
+    ]
+  },
+  "Aer": {
+    "pages": [52],
+    "flag": false
+  },
+  "Æther": {
+    "pages": [52],
+    "flag": false,
+    "lemmas": [
+      "aether"
+    ]
+  },
+  "Ærumna": {
+    "pages": [254],
+    "flag": false,
+    "lemmas": [
+      "aerumna"
+    ]
+  },
+  "Affectare": {
+    "pages": [53],
+    "flag": false,
+    "lemmas": [
+      "affecto<opt>, affectare</opt>"
+    ]
+  },
+  "Affines": {
+    "pages": [61],
+    "flag": false,
+    "lemmas": [
+      "affinis"
+    ]
+  },
+  "Affirmare": {
+    "pages": [55],
+    "flag": false,
+    "lemmas": [
+      "affirmo<opt>, affirmare</opt>"
+    ]
+  },
+  "Ager": {
+    "pages": [669],
+    "flag": false
+  },
+  "Agger": {
+    "pages": [717],
+    "flag": false
+  },
+  "Agere": {
+    "pages": [57],
+    "flag": false,
+    "lemmas": [
+      "ago<opt>, agere</opt>"
+    ]
+  },
+  "Agilis": {
+    "pages": [716],
+    "flag": true
+  },
+  "Agnati": {
+    "pages": [60],
+    "flag": false,
+    "lemmas": [
+      "agnatus"
+    ]
+  },
+  "Alapa": {
+    "pages": [62],
+    "flag": false
+  },
+  "Albus": {
+    "pages": [165],
+    "flag": false
+  },
+  "Alere": {
+    "pages": [542],
+    "flag": false,
+    "lemmas": [
+      "alo<opt>, alere</opt>"
+    ]
+  },
+  "Ales": {
+    "pages": [776],
+    "flag": false
+  },
+  "Alga": {
+    "pages": [63],
+    "flag": false
+  },
+  "Alibi": {
+    "pages": [64],
+    "flag": false
+  },
+  "Alicubi": {
+    "pages": [65],
+    "flag": false
+  },
+  "Alicunde": {
+    "pages": [66],
+    "flag": false
+  },
+  "Alio": {
+    "pages": [65],
+    "flag": false
+  },
+  "Aliquo": {
+    "pages": [66],
+    "flag": false
+  },
+  "Aliunde": {
+    "pages": [66],
+    "flag": false
+  },
+  "Alius": {
+    "pages": [67],
+    "flag": false
+  },
+  "Allegare": {
+    "pages": [492],
+    "flag": false,
+    "lemmas": [
+      "allego<opt>, allegare</opt>"
+    ]
+  },
+  "Allicere": {
+    "pages": [745],
+    "flag": false,
+    "lemmas": [
+      "allicio<opt>, allicere</opt>"
+    ]
+  },
+  "Altus": {
+    "pages": [71],
+    "flag": false
+  },
+  "Aluta": {
+    "pages": [234],
+    "flag": false
+  },
+  "Amare": {
+    "pages": [72],
+    "flag": false,
+    "lemmas": [
+      "amo<opt>, amare</opt>"
+    ]
+  },
+  "Amator": {
+    "pages": [74],
+    "flag": false
+  },
+  "Ambiguus": {
+    "pages": [299],
+    "flag": false
+  },
+  "Ambire": {
+    "pages": [54],
+    "flag": false,
+    "lemmas": [
+      "ambio<opt>, ambire</opt>"
+    ]
+  },
+  "Ambitio": {
+    "pages": [76],
+    "flag": false
+  },
+  "Ambitus": {
+    "pages": [76],
+    "flag": false
+  },
+  "Ambo": {
+    "pages": [302],
+    "flag": false
+  },
+  "Ambulare": {
+    "pages": [474],
+    "flag": false,
+    "lemmas": [
+      "ambulo<opt>, ambulare</opt>"
+    ]
+  },
+  "Amicus": {
+    "pages": [75],
+    "flag": false
+  },
+  "Amittere": {
+    "pages": [586],
+    "flag": false,
+    "lemmas": [
+      "amitto<opt>, amittere</opt>"
+    ]
+  },
+  "Amœnus": {
+    "pages": [475],
+    "flag": false,
+    "lemmas": [
+      "amoenus"
+    ]
+  },
+  "Amplus": {
+    "pages": [503],
+    "flag": false
+  },
+  "Amputare": {
+    "pages": [188],
+    "flag": false,
+    "lemmas": [
+      "amputo<opt>, amputare</opt>"
+    ]
+  },
+  "An": {
+    "pages": [77],
+    "flag": false
+  },
+  "Anceps": {
+    "pages": [299],
+    "flag": false
+  },
+  "Angor": {
+    "pages": [254],
+    "flag": false
+  },
+  "Angustus": {
+    "pages": [83],
+    "flag": false
+  },
+  "Anima": {
+    "pages": [85],
+    "flag": false
+  },
+  "Animadvertere": {
+    "pages": [88],
+    "flag": false,
+    "lemmas": [
+      "animadverto<opt>, animadvertere</opt>"
+    ]
+  },
+  "Animus": {
+    "pages": [86],
+    "flag": false
+  },
+  "Anniversarius": {
+    "pages": [91],
+    "flag": false
+  },
+  "Annuus": {
+    "pages": [90],
+    "flag": false
+  },
+  "Anxietas": {
+    "pages": [254],
+    "flag": false
+  },
+  "Aperire": {
+    "pages": [97],
+    "flag": false,
+    "lemmas": [
+      "aperio<opt>, aperire</opt>"
+    ]
+  },
+  "Appetere": {
+    "pages": [100],
+    "flag": false,
+    "lemmas": [
+      "appeto<opt>, appetere</opt>"
+    ]
+  },
+  "Aptus": {
+    "pages": [415],
+    "flag": false
+  },
+  "Apud": {
+    "pages": [102],
+    "flag": false
+  },
+  "Aqua": {
+    "pages": [106],
+    "flag": false
+  },
+  "Arbiter": {
+    "pages": [478],
+    "flag": false
+  },
+  "Arcanus": {
+    "pages": [108],
+    "flag": false
+  },
+  "Arcessere": {
+    "pages": [467],
+    "flag": false,
+    "lemmas": [
+      "arcesso<opt>, arcessere</opt>"
+    ]
+  },
+  "Arctus": {
+    "pages": [83],
+    "flag": false
+  },
+  "Ardere": {
+    "pages": [110],
+    "flag": false,
+    "lemmas": [
+      "ardeo<opt>, ardere</opt>"
+    ]
+  },
+  "Arduus": {
+    "pages": [71],
+    "flag": false
+  },
+  "Arena": {
+    "pages": [113],
+    "flag": false
+  },
+  "Arguere": {
+    "pages": [240],
+    "flag": false,
+    "lemmas": [
+      "arguo<opt>, arguere</opt>"
+    ]
+  },
+  "Aridus": {
+    "pages": [115],
+    "flag": false
+  },
+  "Armentum": {
+    "pages": [394],
+    "flag": false
+  },
+  "Arridere": {
+    "pages": [116],
+    "flag": false,
+    "lemmas": [
+      "arrideo<opt>, arridere</opt>"
+    ]
+  },
+  "Arrogantia": {
+    "pages": [732],
+    "flag": false
+  },
+  "Arvum": {
+    "pages": [670],
+    "flag": false
+  },
+  "Assentari": {
+    "pages": [43],
+    "flag": false,
+    "lemmas": [
+      "assentor<opt>, assentari</opt>"
+    ]
+  },
+  "Asseverare": {
+    "pages": [56],
+    "flag": false,
+    "lemmas": [
+      "assevero<opt>, asseverare</opt>"
+    ]
+  },
+  "Assuescere": {
+    "pages": [704],
+    "flag": false,
+    "lemmas": [
+      "assuesco<opt>, assuescere</opt>"
+    ]
+  },
+  "Astutus": {
+    "pages": [119],
+    "flag": false
+  },
+  "Ater": {
+    "pages": [122],
+    "flag": false
+  },
+  "Audacia": {
+    "pages": [125],
+    "flag": false
+  },
+  "Audentia": {
+    "pages": [125],
+    "flag": false
+  },
+  "Audire": {
+    "pages": [120],
+    "flag": false,
+    "lemmas": [
+      "audio<opt>, audire</opt>"
+    ]
+  },
+  "Avis": {
+    "pages": [775],
+    "flag": false
+  },
+  "Avius": {
+    "pages": [130],
+    "flag": false
+  },
+  "Aura": {
+    "pages": [132],
+    "flag": false
+  },
+  "Auspicium": {
+    "pages": [137],
+    "flag": false
+  },
+  "Aut": {
+    "pages": [78],
+    "flag": false
+  },
+  "Auxilium": {
+    "pages": [138],
+    "flag": false
+  },
+  "Avunculus": {
+    "pages": [141],
+    "flag": false
+  },
+  "Balbus": {
+    "pages": [142],
+    "flag": false
+  },
+  "Beatus": {
+    "pages": [361],
+    "flag": false
+  },
+  "Bellicosus": {
+    "pages": [145],
+    "flag": false
+  },
+  "Bellicus": {
+    "pages": [144],
+    "flag": false
+  },
+  "Bellua": {
+    "pages": [151],
+    "flag": false,
+    "lemmas": [
+      "belua<opt>, bellua</opt>"
+    ]
+  },
+  "Beneficus": {
+    "pages": [150],
+    "flag": false
+  },
+  "Benignus": {
+    "pages": [150],
+    "flag": false
+  },
+  "Bestia": {
+    "pages": [151],
+    "flag": false
+  },
+  "Bini": {
+    "pages": [302],
+    "flag": false
+  },
+  "Blæsus": {
+    "pages": [143],
+    "flag": false,
+    "lemmas": [
+      "blaesus"
+    ]
+  },
+  "Blandiri": {
+    "pages": [43],
+    "flag": false,
+    "lemmas": [
+      "blandior<opt>, blandiri</opt>"
+    ]
+  },
+  "Bractea": {
+    "pages": [489],
+    "flag": false
+  },
+  "Bucca": {
+    "pages": [506],
+    "flag": true
+  },
+  "Caballus": {
+    "pages": [155],
+    "flag": false
+  },
+  "Cachinnari": {
+    "pages": [661],
+    "flag": false
+  },
+  "Cadere": {
+    "pages": [156],
+    "flag": false,
+    "lemmas": [
+      "cado<opt>, cadere</opt>"
+    ]
+  },
+  "Cædere": {
+    "pages": [682],
+    "flag": false,
+    "lemmas": [
+      "caedo<opt>, caedere</opt>"
+    ]
+  },
+  "Cætera": {
+    "pages": [68],
+    "flag": false,
+    "lemmas": [
+      "caeterus"
+    ]
+  },
+  "Calamitas": {
+    "pages": [160],
+    "flag": false
+  },
+  "Calere": {
+    "pages": [161],
+    "flag": false,
+    "lemmas": [
+      "caleo<opt>, calere</opt>"
+    ]
+  },
+  "Caligo": {
+    "pages": [738],
+    "flag": false
+  },
+  "Callere": {
+    "pages": [601],
+    "flag": false,
+    "lemmas": [
+      "calleo<opt>, callere</opt>"
+    ]
+  },
+  "Callidus": {
+    "pages": [120],
+    "flag": false
+  },
+  "Callis": {
+    "pages": [758],
+    "flag": false
+  },
+  "Campus": {
+    "pages": [51],
+    "flag": false
+  },
+  "Candidus": {
+    "pages": [164],
+    "flag": false
+  },
+  "Canticum": {
+    "pages": [167],
+    "flag": false
+  },
+  "Cantilena": {
+    "pages": [167],
+    "flag": false
+  },
+  "Cantus": {
+    "pages": [166],
+    "flag": false
+  },
+  "Capere": {
+    "pages": [167],
+    "flag": false,
+    "lemmas": [
+      "capio<opt>, capere</opt>"
+    ]
+  },
+  "Carbo": {
+    "pages": [174],
+    "flag": false
+  },
+  "Carere": {
+    "pages": [175],
+    "flag": false,
+    "lemmas": [
+      "careo<opt>, carere</opt>"
+    ]
+  },
+  "Carpentum": {
+    "pages": [257],
+    "flag": false
+  },
+  "Carpere": {
+    "pages": [494],
+    "flag": false,
+    "lemmas": [
+      "carpo<opt>, carpere</opt>"
+    ]
+  },
+  "Cassus": {
+    "pages": [442],
+    "flag": false
+  },
+  "Castigare": {
+    "pages": [644],
+    "flag": false,
+    "lemmas": [
+      "castigo<opt>, castigare</opt>"
+    ]
+  },
+  "Castitas": {
+    "pages": [641],
+    "flag": false
+  },
+  "Casus": {
+    "pages": [178],
+    "flag": false
+  },
+  "Catena": {
+    "pages": [768],
+    "flag": false
+  },
+  "Catulus": {
+    "pages": [380],
+    "flag": false
+  },
+  "Caupona": {
+    "pages": [293],
+    "flag": false
+  },
+  "Celare": {
+    "pages": [16],
+    "flag": false,
+    "lemmas": [
+      "celo<opt>, celare</opt>"
+    ]
+  },
+  "Cernere": {
+    "pages": [761],
+    "flag": false,
+    "lemmas": [
+      "cerno<opt>, cernere</opt>"
+    ]
+  },
+  "Cernere hæreditatem": {
+    "pages": [181],
+    "flag": false,
+    "lemmas": [
+      "haereditatis",
+      "hereditatis"
+    ]
+  },
+  "Certamen": {
+    "pages": [148],
+    "flag": false
+  },
+  "Certus": {
+    "pages": [181],
+    "flag": false
+  },
+  "Cervix": {
+    "pages": [202],
+    "flag": false
+  },
+  "Cessare": {
+    "pages": [183],
+    "flag": false,
+    "lemmas": [
+      "cesso<opt>, cessare</opt>"
+    ]
+  },
+  "Chirographum": {
+    "pages": [737],
+    "flag": false
+  },
+  "Circa": {
+    "pages": [184],
+    "flag": false
+  },
+  "Circiter": {
+    "pages": [187],
+    "flag": false
+  },
+  "Circum": {
+    "pages": [186],
+    "flag": false
+  },
+  "Circumcidere": {
+    "pages": [188],
+    "flag": false,
+    "lemmas": [
+      "circumcido<opt>, circumcidere</opt>"
+    ]
+  },
+  "Cis": {
+    "pages": [189],
+    "flag": false
+  },
+  "Citra": {
+    "pages": [190],
+    "flag": false
+  },
+  "Civis": {
+    "pages": [24],
+    "flag": false
+  },
+  "Civitas": {
+    "pages": [191],
+    "flag": false
+  },
+  "Clamor": {
+    "pages": [708],
+    "flag": true
+  },
+  "Clades": {
+    "pages": [161],
+    "flag": false
+  },
+  "Clemens": {
+    "pages": [208],
+    "flag": false
+  },
+  "Clientela": {
+    "pages": [192],
+    "flag": false
+  },
+  "Cocles": {
+    "pages": [498],
+    "flag": false
+  },
+  "Cœlebs": {
+    "pages": [193],
+    "flag": false,
+    "lemmas": [
+      "caelebs<opt>, coelebs</opt>"
+    ]
+  },
+  "Cœnum": {
+    "pages": [500],
+    "flag": false,
+    "lemmas": [
+      "caenum<opt>, coenum</opt>"
+    ]
+  },
+  "Cœpisse": {
+    "pages": [193],
+    "flag": false,
+    "lemmas": [
+      "coepio<opt>, coepisse</opt>"
+    ]
+  },
+  "Cogitare": {
+    "pages": [196],
+    "flag": false,
+    "lemmas": [
+      "cogito<opt>, cogitare</opt>"
+    ]
+  },
+  "Cognati": {
+    "pages": [61],
+    "flag": false,
+    "lemmas": [
+      "cognatus"
+    ]
+  },
+  "Colaphus": {
+    "pages": [63],
+    "flag": false
+  },
+  "Colere": {
+    "pages": [199],
+    "flag": false,
+    "lemmas": [
+      "colo<opt>, colere</opt>"
+    ]
+  },
+  "Collum": {
+    "pages": [201],
+    "flag": false
+  },
+  "Colonus": {
+    "pages": [204],
+    "flag": false
+  },
+  "Comes": {
+    "pages": [205],
+    "flag": false
+  },
+  "Comis": {
+    "pages": [207],
+    "flag": false
+  },
+  "Comitari": {
+    "pages": [209],
+    "flag": false,
+    "lemmas": [
+      "comitor<opt>, comitari</opt>"
+    ]
+  },
+  "Commodare": {
+    "pages": [210],
+    "flag": false,
+    "lemmas": [
+      "commodo<opt>, commodare</opt>"
+    ]
+  },
+  "Commodus": {
+    "pages": [211],
+    "flag": false
+  },
+  "Communicare": {
+    "pages": [213],
+    "flag": false,
+    "lemmas": [
+      "communico<opt>, communicare</opt>"
+    ]
+  },
+  "Communiter": {
+    "pages": [782],
+    "flag": false
+  },
+  "Comperire": {
+    "pages": [465],
+    "flag": false,
+    "lemmas": [
+      "comperio<opt>, comperire</opt>"
+    ]
+  },
+  "Conari": {
+    "pages": [214],
+    "flag": false,
+    "lemmas": [
+      "conor<opt>, conari</opt>"
+    ]
+  },
+  "Conciliare": {
+    "pages": [564],
+    "flag": false,
+    "lemmas": [
+      "concilio<opt>, conciliare</opt>"
+    ]
+  },
+  "Concinnus": {
+    "pages": [313],
+    "flag": false
+  },
+  "Concubina": {
+    "pages": [217],
+    "flag": false
+  },
+  "Condere": {
+    "pages": [13],
+    "flag": false,
+    "lemmas": [
+      "condo<opt>, condere</opt>"
+    ]
+  },
+  "Conficere": {
+    "pages": [218],
+    "flag": false,
+    "lemmas": [
+      "conficio<opt>, conficere</opt>"
+    ]
+  },
+  "Confinis": {
+    "pages": [760],
+    "flag": false
+  },
+  "Confiteri": {
+    "pages": [356],
+    "flag": false,
+    "lemmas": [
+      "confiteor<opt>, confiteri</opt>"
+    ]
+  },
+  "Congiarium": {
+    "pages": [220],
+    "flag": false
+  },
+  "Conjector": {
+    "pages": [461],
+    "flag": false
+  },
+  "Conjectura": {
+    "pages": [222],
+    "flag": false
+  },
+  "Consequi": {
+    "pages": [565],
+    "flag": true,
+    "lemmas": [
+      "consequor<opt>, consequi</opt>"
+    ]
+  },
+  "Constantia": {
+    "pages": [223],
+    "flag": false
+  },
+  "Consuetudo": {
+    "pages": [524],
+    "flag": false
+  },
+  "Contemnere": {
+    "pages": [226],
+    "flag": false,
+    "lemmas": [
+      "contemno<opt>, contemnere</opt>"
+    ]
+  },
+  "Continenter": {
+    "pages": [228],
+    "flag": false
+  },
+  "Continuo": {
+    "pages": [228],
+    "flag": false
+  },
+  "Convenæ": {
+    "pages": [39],
+    "flag": false,
+    "lemmas": [
+      "convena"
+    ]
+  },
+  "Convicium": {
+    "pages": [507],
+    "flag": false
+  },
+  "Convictor": {
+    "pages": [230],
+    "flag": false
+  },
+  "Conviva": {
+    "pages": [230],
+    "flag": false
+  },
+  "Convivator": {
+    "pages": [230],
+    "flag": false
+  },
+  "Copia": {
+    "pages": [230],
+    "flag": false
+  },
+  "Coram": {
+    "pages": [233],
+    "flag": false
+  },
+  "Corium": {
+    "pages": [234],
+    "flag": false
+  },
+  "Corona": {
+    "pages": [236],
+    "flag": false
+  },
+  "Crassus": {
+    "pages": [237],
+    "flag": false
+  },
+  "Creber": {
+    "pages": [385],
+    "flag": false
+  },
+  "Cremare": {
+    "pages": [113],
+    "flag": false,
+    "lemmas": [
+      "cremo<opt>, cremare</opt>"
+    ]
+  },
+  "Crepitus": {
+    "pages": [707],
+    "flag": false
+  },
+  "Criminari": {
+    "pages": [238],
+    "flag": false,
+    "lemmas": [
+      "criminor<opt>, criminari</opt>"
+    ]
+  },
+  "Cruor": {
+    "pages": [676],
+    "flag": false
+  },
+  "Culpa": {
+    "pages": [242],
+    "flag": false
+  },
+  "Cum": {
+    "pages": [243],
+    "flag": false
+  },
+  "Cumulus": {
+    "pages": [247],
+    "flag": false
+  },
+  "Cunctari": {
+    "pages": [250],
+    "flag": false,
+    "lemmas": [
+      "cunctor<opt>, cunctari</opt>"
+    ]
+  },
+  "Cupere": {
+    "pages": [751],
+    "flag": false,
+    "lemmas": [
+      "cupio<opt>, cupere</opt>"
+    ]
+  },
+  "Cura": {
+    "pages": [252],
+    "flag": false
+  },
+  "Currus": {
+    "pages": [255],
+    "flag": false
+  },
+  "Curvare": {
+    "pages": [258],
+    "flag": false,
+    "lemmas": [
+      "curvo<opt>, curvare</opt>"
+    ]
+  },
+  "Curvus": {
+    "pages": [259],
+    "flag": false
+  },
+  "Cutis": {
+    "pages": [235],
+    "flag": false
+  },
+  "Cymba": {
+    "pages": [534],
+    "flag": false
+  },
+  "Damnum": {
+    "pages": [261],
+    "flag": false
+  },
+  "Dare": {
+    "pages": [264],
+    "flag": false,
+    "lemmas": [
+      "do<opt>, dare</opt>"
+    ]
+  },
+  "De": {
+    "pages": [267],
+    "flag": false
+  },
+  "Debellare": {
+    "pages": [764],
+    "flag": false,
+    "lemmas": [
+      "debello<opt>, debellare</opt>"
+    ]
+  },
+  "Decedere": {
+    "pages": [273],
+    "flag": false,
+    "lemmas": [
+      "decedo<opt>, decedere</opt>"
+    ]
+  },
+  "Decet": {
+    "pages": [275],
+    "flag": false,
+    "lemmas": [
+      "deceo<opt>, decet</opt>"
+    ]
+  },
+  "Decipere": {
+    "pages": [347],
+    "flag": false,
+    "lemmas": [
+      "decipio<opt>, decipere</opt>"
+    ]
+  },
+  "Declivis": {
+    "pages": [22],
+    "flag": false
+  },
+  "Decolor": {
+    "pages": [276],
+    "flag": false
+  },
+  "Decor": {
+    "pages": [278],
+    "flag": false
+  },
+  "Decus": {
+    "pages": [278],
+    "flag": false
+  },
+  "Deesse": {
+    "pages": [279],
+    "flag": false,
+    "lemmas": [
+      "desum<opt>, deesse</opt>"
+    ]
+  },
+  "Deficere": {
+    "pages": [279],
+    "flag": false,
+    "lemmas": [
+      "deficio<opt>, deficere</opt>"
+    ]
+  },
+  "Defungi": {
+    "pages": [280],
+    "flag": false,
+    "lemmas": [
+      "defungor<opt>, defungi</opt>"
+    ]
+  },
+  "Delere": {
+    "pages": [281],
+    "flag": false,
+    "lemmas": [
+      "deleo<opt>, delere</opt>"
+    ]
+  },
+  "Delirare": {
+    "pages": [283],
+    "flag": false,
+    "lemmas": [
+      "deliro<opt>, delirare</opt>"
+    ]
+  },
+  "Densus": {
+    "pages": [237],
+    "flag": false
+  },
+  "Depeculari": {
+    "pages": [621],
+    "flag": false,
+    "lemmas": [
+      "depeculor<opt>, depeculari</opt>"
+    ]
+  },
+  "Deportatus": {
+    "pages": [341],
+    "flag": false
+  },
+  "Deserere": {
+    "pages": [655],
+    "flag": false,
+    "lemmas": [
+      "desero<opt>, deserere</opt>"
+    ]
+  },
+  "Desiderare": {
+    "pages": [178],
+    "flag": false,
+    "lemmas": [
+      "desidero<opt>, desiderare</opt>"
+    ]
+  },
+  "Desipere": {
+    "pages": [284],
+    "flag": false,
+    "lemmas": [
+      "desipio<opt>, desipere</opt>"
+    ]
+  },
+  "Despicere": {
+    "pages": [226],
+    "flag": false,
+    "lemmas": [
+      "despicio<opt>, despicere</opt>"
+    ]
+  },
+  "Deterior": {
+    "pages": [570],
+    "flag": false
+  },
+  "Detestari": {
+    "pages": [328],
+    "flag": false,
+    "lemmas": [
+      "detestor<opt>, detestari</opt>"
+    ]
+  },
+  "Detrimentum": {
+    "pages": [262],
+    "flag": false
+  },
+  "Devius": {
+    "pages": [131],
+    "flag": false
+  },
+  "Diadema": {
+    "pages": [236],
+    "flag": false
+  },
+  "Dicere": {
+    "pages": [353],
+    "flag": false,
+    "lemmas": [
+      "dico<opt>, dicere</opt>"
+    ]
+  },
+  "Differentia": {
+    "pages": [286],
+    "flag": false
+  },
+  "Differre": {
+    "pages": [287],
+    "flag": false,
+    "lemmas": [
+      "differo<opt>, differre</opt>"
+    ]
+  },
+  "Diligentia": {
+    "pages": [446],
+    "flag": false
+  },
+  "Diligere": {
+    "pages": [73],
+    "flag": false,
+    "lemmas": [
+      "diligo<opt>, diligere</opt>"
+    ]
+  },
+  "Discrepantia": {
+    "pages": [287],
+    "flag": false
+  },
+  "Discrimen": {
+    "pages": [287],
+    "flag": false
+  },
+  "Discedere": {
+    "pages": [274],
+    "flag": false,
+    "lemmas": [
+      "discedo<opt>, discedere</opt>"
+    ]
+  },
+  "Discolor": {
+    "pages": [277],
+    "flag": false
+  },
+  "Disertus": {
+    "pages": [316],
+    "flag": false
+  },
+  "Disserere": {
+    "pages": [354],
+    "flag": false,
+    "lemmas": [
+      "dissero<opt>, disserere</opt>"
+    ]
+  },
+  "Dissimulare": {
+    "pages": [700],
+    "flag": false,
+    "lemmas": [
+      "dissimulo<opt>, dissimulare</opt>"
+    ]
+  },
+  "Diu": {
+    "pages": [289],
+    "flag": false
+  },
+  "Diversorium": {
+    "pages": [291],
+    "flag": false
+  },
+  "Divortium": {
+    "pages": [657],
+    "flag": false
+  },
+  "Docere": {
+    "pages": [293],
+    "flag": false,
+    "lemmas": [
+      "doceo<opt>, docere</opt>"
+    ]
+  },
+  "Dolor": {
+    "pages": [297],
+    "flag": false
+  },
+  "Dominatus": {
+    "pages": [654],
+    "flag": false
+  },
+  "Donare": {
+    "pages": [266],
+    "flag": false,
+    "lemmas": [
+      "dono<opt>, donare</opt>"
+    ]
+  },
+  "Donarium": {
+    "pages": [221],
+    "flag": false
+  },
+  "Donativum": {
+    "pages": [221],
+    "flag": false
+  },
+  "Dubius": {
+    "pages": [295],
+    "flag": false
+  },
+  "Ducere": {
+    "pages": [746],
+    "flag": false,
+    "lemmas": [
+      "duco<opt>, ducere</opt>"
+    ]
+  },
+  "Ductus": {
+    "pages": [137],
+    "flag": false
+  },
+  "Dudum": {
+    "pages": [290],
+    "flag": false
+  },
+  "Duo": {
+    "pages": [301],
+    "flag": false
+  },
+  "Duplex": {
+    "pages": [304],
+    "flag": false
+  },
+  "Duplus": {
+    "pages": [305],
+    "flag": false
+  },
+  "E, Ex": {
+    "pages": [306],
+    "flag": false,
+    "lemmas": [
+      "e",
+      "ex"
+    ]
+  },
+  "Ebriosus": {
+    "pages": [312],
+    "flag": false
+  },
+  "Ebrius": {
+    "pages": [311],
+    "flag": false
+  },
+  "Ecce": {
+    "pages": [317],
+    "flag": false
+  },
+  "Edere": {
+    "pages": [755],
+    "flag": false,
+    "lemmas": [
+      "edo<opt>, edere</opt>"
+    ]
+  },
+  "Effigies": {
+    "pages": [421],
+    "flag": false
+  },
+  "Egelidus": {
+    "pages": [390],
+    "flag": false
+  },
+  "Egere": {
+    "pages": [177],
+    "flag": false,
+    "lemmas": [
+      "egeo<opt>, egere</opt>"
+    ]
+  },
+  "Egestas": {
+    "pages": [569],
+    "flag": false
+  },
+  "Ejulare": {
+    "pages": [376],
+    "flag": false,
+    "lemmas": [
+      "ejulo<opt>, ejulare</opt>"
+    ]
+  },
+  "Ejurare": {
+    "pages": [17],
+    "flag": false,
+    "lemmas": [
+      "ejuro<opt>, ejurare</opt>"
+    ]
+  },
+  "Elegans": {
+    "pages": [312],
+    "flag": false
+  },
+  "Eloquens": {
+    "pages": [316],
+    "flag": false
+  },
+  "Emplastrum": {
+    "pages": [317],
+    "flag": false
+  },
+  "En": {
+    "pages": [317],
+    "flag": false
+  },
+  "Enormis": {
+    "pages": [18],
+    "flag": false
+  },
+  "Epulæ": {
+    "pages": [319],
+    "flag": false,
+    "lemmas": [
+      "epulae"
+    ]
+  },
+  "Epulum": {
+    "pages": [319],
+    "flag": false
+  },
+  "Erga": {
+    "pages": [320],
+    "flag": false
+  },
+  "Errare": {
+    "pages": [320],
+    "flag": false,
+    "lemmas": [
+      "erro<opt>, errare</opt>"
+    ]
+  },
+  "Erudire": {
+    "pages": [293],
+    "flag": false,
+    "lemmas": [
+      "erudio<opt>, erudire</opt>"
+    ]
+  },
+  "Esse": {
+    "pages": [322],
+    "flag": false,
+    "lemmas": [
+      "sum<opt>, esse</opt>"
+    ]
+  },
+  "Essedum": {
+    "pages": [256],
+    "flag": false
+  },
+  "Eventus": {
+    "pages": [179],
+    "flag": false
+  },
+  "Excellere": {
+    "pages": [325],
+    "flag": false,
+    "lemmas": [
+      "excello<opt>, excellere</opt>"
+    ]
+  },
+  "Excubiæ": {
+    "pages": [327],
+    "flag": false,
+    "lemmas": [
+      "excubiae"
+    ]
+  },
+  "Execrari": {
+    "pages": [328],
+    "flag": false,
+    "lemmas": [
+      "execror<opt>, execrari</opt>",
+      "exsecror<opt>, exsecrari</opt>"
+    ]
+  },
+  "Exilis": {
+    "pages": [329],
+    "flag": false
+  },
+  "Existere": {
+    "pages": [323],
+    "flag": false,
+    "lemmas": [
+      "existo<opt>, existere</opt>"
+    ]
+  },
+  "Exitus": {
+    "pages": [180],
+    "flag": false
+  },
+  "Expectare": {
+    "pages": [332],
+    "flag": false,
+    "lemmas": [
+      "ex-pecto<opt>, expectare</opt>"
+    ]
+  },
+  "Experiri": {
+    "pages": [740],
+    "flag": false,
+    "lemmas": [
+      "experior<opt>, experiri</opt>"
+    ]
+  },
+  "Expers": {
+    "pages": [334],
+    "flag": false
+  },
+  "Expetere": {
+    "pages": [101],
+    "flag": false,
+    "lemmas": [
+      "expeto<opt>, expetere</opt>"
+    ]
+  },
+  "Expilare": {
+    "pages": [621],
+    "flag": false,
+    "lemmas": [
+      "expilo<opt>, expilare</opt>"
+    ]
+  },
+  "Extare": {
+    "pages": [324],
+    "flag": true,
+    "lemmas": [
+      "exto<opt>, extare</opt>"
+    ]
+  },
+  "Extinguere": {
+    "pages": [336],
+    "flag": false,
+    "lemmas": [
+      "extinguo<opt>, extinguere</opt>"
+    ]
+  },
+  "Extorris": {
+    "pages": [340],
+    "flag": false
+  },
+  "Extra": {
+    "pages": [337],
+    "flag": false
+  },
+  "Exul": {
+    "pages": [339],
+    "flag": false,
+    "lemmas": [
+      "exul",
+      "exsul"
+    ]
+  },
+  "Exultare": {
+    "pages": [673],
+    "flag": false,
+    "lemmas": [
+      "exulto<opt>, exultare</opt>",
+      "exsulto<opt>, exsultare</opt>"
+    ]
+  },
+  "Exuviæ": {
+    "pages": [615],
+    "flag": false,
+    "lemmas": [
+      "exuvia"
+    ]
+  },
+  "Facere": {
+    "pages": [58],
+    "flag": false,
+    "lemmas": [
+      "facio<opt>, facere</opt>"
+    ]
+  },
+  "Facetus": {
+    "pages": [342],
+    "flag": false
+  },
+  "Facilitas": {
+    "pages": [606],
+    "flag": true
+  },
+  "Facinus": {
+    "pages": [343],
+    "flag": false
+  },
+  "Facultas": {
+    "pages": [604],
+    "flag": false
+  },
+  "Fæces": {
+    "pages": [712],
+    "flag": false,
+    "lemmas": [
+      "faeces"
+    ]
+  },
+  "Fallere": {
+    "pages": [345],
+    "flag": false,
+    "lemmas": [
+      "fallo<opt>, fallere</opt>"
+    ]
+  },
+  "Fama": {
+    "pages": [347],
+    "flag": false
+  },
+  "Fames": {
+    "pages": [349],
+    "flag": false
+  },
+  "Fari": {
+    "pages": [351],
+    "flag": false,
+    "lemmas": [
+      "for<opt>, fari</opt>"
+    ]
+  },
+  "Farrago": {
+    "pages": [248],
+    "flag": true
+  },
+  "Fas": {
+    "pages": [355],
+    "flag": false
+  },
+  "Fastus": {
+    "pages": [733],
+    "flag": false
+  },
+  "Fateri": {
+    "pages": [356],
+    "flag": false,
+    "lemmas": [
+      "fateor<opt>, fateri</opt>"
+    ]
+  },
+  "Fatuus": {
+    "pages": [720],
+    "flag": false
+  },
+  "Favilla": {
+    "pages": [358],
+    "flag": false
+  },
+  "Felix": {
+    "pages": [360],
+    "flag": false
+  },
+  "Fera": {
+    "pages": [152],
+    "flag": false
+  },
+  "Ferre": {
+    "pages": [363, 366],
+    "flag": false,
+    "lemmas": [
+      "fero<opt>, ferre</opt>",
+      "ferre"
+    ]
+  },
+  "Fervere": {
+    "pages": [163],
+    "flag": false,
+    "lemmas": [
+      "ferveo<opt>, fervere</opt>"
+    ]
+  },
+  "Ferinus": {
+    "pages": [370],
+    "flag": false
+  },
+  "Ferox": {
+    "pages": [369],
+    "flag": false
+  },
+  "Ferus": {
+    "pages": [369],
+    "flag": false
+  },
+  "Festinare": {
+    "pages": [370],
+    "flag": false,
+    "lemmas": [
+      "festino<opt>, festinare</opt>"
+    ]
+  },
+  "Figura": {
+    "pages": [373],
+    "flag": false
+  },
+  "Filiæ": {
+    "pages": [497],
+    "flag": false,
+    "lemmas": [
+      "filia"
+    ]
+  },
+  "Filii": {
+    "pages": [497],
+    "flag": false,
+    "lemmas": [
+      "filius"
+    ]
+  },
+  "Flagitare": {
+    "pages": [666],
+    "flag": false,
+    "lemmas": [
+      "flagito<opt>, flagitare</opt>"
+    ]
+  },
+  "Flagitium": {
+    "pages": [345],
+    "flag": false
+  },
+  "Flagrare": {
+    "pages": [110],
+    "flag": false,
+    "lemmas": [
+      "flagro<opt>, flagrare</opt>"
+    ]
+  },
+  "Flatus": {
+    "pages": [134],
+    "flag": false
+  },
+  "Flectere": {
+    "pages": [259],
+    "flag": false,
+    "lemmas": [
+      "flecto<opt>, flectere</opt>"
+    ]
+  },
+  "Flere": {
+    "pages": [375],
+    "flag": false,
+    "lemmas": [
+      "fleo<opt>, flere</opt>"
+    ]
+  },
+  "Fluere": {
+    "pages": [377],
+    "flag": false,
+    "lemmas": [
+      "fluo<opt>, fluere</opt>"
+    ]
+  },
+  "Fœnus": {
+    "pages": [778],
+    "flag": false,
+    "lemmas": [
+      "faenus<opt>, foenus</opt>"
+    ]
+  },
+  "Fœtus": {
+    "pages": [379],
+    "flag": false,
+    "lemmas": [
+      "fetus<opt>, foetus</opt>"
+    ]
+  },
+  "Forma": {
+    "pages": [373],
+    "flag": false
+  },
+  "Fortasse": {
+    "pages": [382],
+    "flag": false
+  },
+  "Forte": {
+    "pages": [382],
+    "flag": false
+  },
+  "Fortitudo": {
+    "pages": [125],
+    "flag": false
+  },
+  "Fragor": {
+    "pages": [710],
+    "flag": false
+  },
+  "Frangere": {
+    "pages": [384],
+    "flag": false,
+    "lemmas": [
+      "frango<opt>, frangere</opt>"
+    ]
+  },
+  "Fremitus": {
+    "pages": [709],
+    "flag": false
+  },
+  "Frequens": {
+    "pages": [385],
+    "flag": false
+  },
+  "Fugitivus": {
+    "pages": [388],
+    "flag": false
+  },
+  "Fugax": {
+    "pages": [388],
+    "flag": false
+  },
+  "Fur": {
+    "pages": [617],
+    "flag": true
+  },
+  "Furere": {
+    "pages": [285],
+    "flag": false,
+    "lemmas": [
+      "furo<opt>, furere</opt>"
+    ]
+  },
+  "Furor": {
+    "pages": [450],
+    "flag": false
+  },
+  "Fuscus": {
+    "pages": [124],
+    "flag": false
+  },
+  "Gaudium": {
+    "pages": [389],
+    "flag": false
+  },
+  "Gelidus": {
+    "pages": [390],
+    "flag": false
+  },
+  "Gena": {
+    "pages": [506],
+    "flag": false
+  },
+  "Gens": {
+    "pages": [391],
+    "flag": false
+  },
+  "Gerere": {
+    "pages": [59, 364],
+    "flag": false,
+    "lemmas": [
+      "gero<opt>, gerere</opt>"
+    ]
+  },
+  "Gestire": {
+    "pages": [673],
+    "flag": false,
+    "lemmas": [
+      "gestio<opt>, gestire</opt>"
+    ]
+  },
+  "Glaber": {
+    "pages": [487],
+    "flag": false
+  },
+  "Gloria": {
+    "pages": [490],
+    "flag": false
+  },
+  "Gracilis": {
+    "pages": [392],
+    "flag": false
+  },
+  "Gradi": {
+    "pages": [472],
+    "flag": false,
+    "lemmas": [
+      "gradior<opt>, gradi</opt>"
+    ]
+  },
+  "Grammaticus": {
+    "pages": [394],
+    "flag": false
+  },
+  "Grammatista": {
+    "pages": [394],
+    "flag": false
+  },
+  "Gratiosus": {
+    "pages": [477],
+    "flag": false
+  },
+  "Gratus": {
+    "pages": [476],
+    "flag": false
+  },
+  "Gremium": {
+    "pages": [703],
+    "flag": false
+  },
+  "Grex": {
+    "pages": [394],
+    "flag": false
+  },
+  "Gubernare": {
+    "pages": [427],
+    "flag": false,
+    "lemmas": [
+      "guberno<opt>, gubernare</opt>"
+    ]
+  },
+  "Gula": {
+    "pages": [202],
+    "flag": false
+  },
+  "Gustare": {
+    "pages": [396],
+    "flag": false,
+    "lemmas": [
+      "gusto<opt>, gustare</opt>"
+    ]
+  },
+  "Guttur": {
+    "pages": [203],
+    "flag": false
+  },
+  "Habere": {
+    "pages": [398],
+    "flag": false,
+    "lemmas": [
+      "habeo<opt>, habere</opt>"
+    ]
+  },
+  "Habitus": {
+    "pages": [400],
+    "flag": false
+  },
+  "Homo": {
+    "pages": [401],
+    "flag": false
+  },
+  "Hortari": {
+    "pages": [403],
+    "flag": false,
+    "lemmas": [
+      "hortor<opt>, hortari</opt>"
+    ]
+  },
+  "Horti": {
+    "pages": [406],
+    "flag": false,
+    "lemmas": [
+      "horti"
+    ]
+  },
+  "Hortus": {
+    "pages": [405],
+    "flag": false
+  },
+  "Hospes": {
+    "pages": [39],
+    "flag": false
+  },
+  "Hospitium": {
+    "pages": [292],
+    "flag": false
+  },
+  "Hostis": {
+    "pages": [406],
+    "flag": false
+  },
+  "Humane": {
+    "pages": [409],
+    "flag": false
+  },
+  "Humaniter": {
+    "pages": [409],
+    "flag": false
+  },
+  "Humanitus": {
+    "pages": [411],
+    "flag": false
+  },
+  "Humare": {
+    "pages": [694],
+    "flag": false,
+    "lemmas": [
+      "humo<opt>, humare</opt>"
+    ]
+  },
+  "Humidus": {
+    "pages": [411],
+    "flag": false
+  },
+  "Jactura": {
+    "pages": [263],
+    "flag": false
+  },
+  "Janua": {
+    "pages": [561],
+    "flag": false
+  },
+  "Idoneus": {
+    "pages": [415],
+    "flag": false
+  },
+  "Jejunium": {
+    "pages": [350],
+    "flag": false
+  },
+  "Ignavia": {
+    "pages": [592],
+    "flag": false
+  },
+  "Ignominia": {
+    "pages": [418],
+    "flag": false
+  },
+  "Illidere": {
+    "pages": [770],
+    "flag": true,
+    "lemmas": [
+      "illido<opt>, illidere</opt>"
+    ]
+  },
+  "Imago": {
+    "pages": [418],
+    "flag": false
+  },
+  "Imber": {
+    "pages": [424],
+    "flag": false
+  },
+  "Imbuere": {
+    "pages": [293],
+    "flag": false,
+    "lemmas": [
+      "imbuo<opt>, imbuere</opt>"
+    ]
+  },
+  "Immerens": {
+    "pages": [444],
+    "flag": false
+  },
+  "Imminere": {
+    "pages": [454],
+    "flag": false,
+    "lemmas": [
+      "immineo<opt>, imminere</opt>"
+    ]
+  },
+  "Impendere": {
+    "pages": [453],
+    "flag": false,
+    "lemmas": [
+      "impendo<opt>, impendere</opt>"
+    ]
+  },
+  "Imperare": {
+    "pages": [425],
+    "flag": false,
+    "lemmas": [
+      "impero<opt>, imperare</opt>"
+    ]
+  },
+  "In": {
+    "pages": [428],
+    "flag": false
+  },
+  "Inanis": {
+    "pages": [441],
+    "flag": false
+  },
+  "Inchoare": {
+    "pages": [195],
+    "flag": false,
+    "lemmas": [
+      "inchoo<opt>, inchoare</opt>"
+    ]
+  },
+  "Incola": {
+    "pages": [23],
+    "flag": false
+  },
+  "Indicium": {
+    "pages": [697],
+    "flag": false
+  },
+  "Indignus": {
+    "pages": [444],
+    "flag": false
+  },
+  "Indoles": {
+    "pages": [444],
+    "flag": false
+  },
+  "Industria": {
+    "pages": [445],
+    "flag": false
+  },
+  "Inedia": {
+    "pages": [350],
+    "flag": false
+  },
+  "Inertia": {
+    "pages": [593],
+    "flag": false
+  },
+  "Infamia": {
+    "pages": [418],
+    "flag": false
+  },
+  "Infandus": {
+    "pages": [535],
+    "flag": false
+  },
+  "Infans": {
+    "pages": [529],
+    "flag": false
+  },
+  "Infitiari": {
+    "pages": [537],
+    "flag": false,
+    "lemmas": [
+      "infitior<opt>, infitiari</opt>"
+    ]
+  },
+  "Infra": {
+    "pages": [447],
+    "flag": false
+  },
+  "Ingenium": {
+    "pages": [445],
+    "flag": false
+  },
+  "Inimicus": {
+    "pages": [407],
+    "flag": false
+  },
+  "Innupta": {
+    "pages": [193],
+    "flag": false,
+    "lemmas": [
+      "innuptus<opt>, innupta</opt>"
+    ]
+  },
+  "Inopia": {
+    "pages": [569],
+    "flag": false
+  },
+  "Inquilinus": {
+    "pages": [204],
+    "flag": false
+  },
+  "Insania": {
+    "pages": [450],
+    "flag": false
+  },
+  "Insanire": {
+    "pages": [284],
+    "flag": false,
+    "lemmas": [
+      "insanio<opt>, insanire</opt>"
+    ]
+  },
+  "Insimulare": {
+    "pages": [239],
+    "flag": false,
+    "lemmas": [
+      "insimulo<opt>, insimulare</opt>"
+    ]
+  },
+  "Insomnis": {
+    "pages": [451],
+    "flag": false
+  },
+  "Instare": {
+    "pages": [453],
+    "flag": false,
+    "lemmas": [
+      "insto<opt>, instare</opt>"
+    ]
+  },
+  "Institor": {
+    "pages": [516],
+    "flag": false
+  },
+  "Instituere": {
+    "pages": [295],
+    "flag": false,
+    "lemmas": [
+      "instituo<opt>, instituere</opt>"
+    ]
+  },
+  "Inter": {
+    "pages": [455],
+    "flag": false
+  },
+  "Interea": {
+    "pages": [460],
+    "flag": false
+  },
+  "Interim": {
+    "pages": [461],
+    "flag": false
+  },
+  "Interpres": {
+    "pages": [461],
+    "flag": false
+  },
+  "Intra": {
+    "pages": [462],
+    "flag": false
+  },
+  "Invenire": {
+    "pages": [464],
+    "flag": false,
+    "lemmas": [
+      "invenio<opt>, invenire</opt>"
+    ]
+  },
+  "Invidentia": {
+    "pages": [466],
+    "flag": false
+  },
+  "Invidia": {
+    "pages": [466],
+    "flag": false
+  },
+  "Invitare": {
+    "pages": [467],
+    "flag": false,
+    "lemmas": [
+      "invito<opt>, invitare</opt>"
+    ]
+  },
+  "Invius": {
+    "pages": [131],
+    "flag": false
+  },
+  "Ira": {
+    "pages": [468],
+    "flag": false
+  },
+  "Iracundia": {
+    "pages": [469],
+    "flag": false
+  },
+  "Irasci": {
+    "pages": [469],
+    "flag": false,
+    "lemmas": [
+      "irascor<opt>, irasci</opt>"
+    ]
+  },
+  "Ire": {
+    "pages": [472],
+    "flag": false,
+    "lemmas": [
+      "eo<opt>, ire</opt>",
+      "ire"
+    ]
+  },
+  "Irridere": {
+    "pages": [118],
+    "flag": false,
+    "lemmas": [
+      "irrideo<opt>, irridere</opt>"
+    ]
+  },
+  "Irritare": {
+    "pages": [638],
+    "flag": false,
+    "lemmas": [
+      "irrito<opt>, irritare</opt>"
+    ]
+  },
+  "Jocus": {
+    "pages": [495],
+    "flag": false
+  },
+  "Jubere": {
+    "pages": [426],
+    "flag": false,
+    "lemmas": [
+      "jubeo<opt>, jubere</opt>"
+    ]
+  },
+  "Jucundus": {
+    "pages": [475],
+    "flag": false
+  },
+  "Judex": {
+    "pages": [478],
+    "flag": false
+  },
+  "Jugulum": {
+    "pages": [203],
+    "flag": false
+  },
+  "Jurgium": {
+    "pages": [479],
+    "flag": false
+  },
+  "Jus": {
+    "pages": [335],
+    "flag": false
+  },
+  "Juxta": {
+    "pages": [482],
+    "flag": false
+  },
+  "Labare": {
+    "pages": [159],
+    "flag": false,
+    "lemmas": [
+      "labo<opt>, labare</opt>"
+    ]
+  },
+  "Labi": {
+    "pages": [158],
+    "flag": false,
+    "lemmas": [
+      "labor<opt>, labi</opt>"
+    ]
+  },
+  "Lacessere": {
+    "pages": [638],
+    "flag": false,
+    "lemmas": [
+      "lacesso<opt>, lacessere</opt>"
+    ]
+  },
+  "Lacus": {
+    "pages": [484],
+    "flag": false
+  },
+  "Lambere": {
+    "pages": [488],
+    "flag": false,
+    "lemmas": [
+      "lambo<opt>, lambere</opt>"
+    ]
+  },
+  "Lamina": {
+    "pages": [489],
+    "flag": false
+  },
+  "Largiri": {
+    "pages": [266],
+    "flag": false,
+    "lemmas": [
+      "largior<opt>, largiri</opt>"
+    ]
+  },
+  "Latro": {
+    "pages": [617],
+    "flag": false
+  },
+  "Laus": {
+    "pages": [490],
+    "flag": false
+  },
+  "Lautus": {
+    "pages": [312],
+    "flag": false
+  },
+  "Legare": {
+    "pages": [491],
+    "flag": false,
+    "lemmas": [
+      "lego<opt>, legare</opt>"
+    ]
+  },
+  "Legere": {
+    "pages": [493],
+    "flag": false,
+    "lemmas": [
+      "lego<opt>, legere</opt>"
+    ]
+  },
+  "Lepos": {
+    "pages": [495],
+    "flag": false
+  },
+  "Libella": {
+    "pages": [540],
+    "flag": false
+  },
+  "Liberi": {
+    "pages": [497],
+    "flag": false,
+    "lemmas": [
+      "liber"
+    ]
+  },
+  "Ligare": {
+    "pages": [766],
+    "flag": false,
+    "lemmas": [
+      "ligo<opt>, ligare</opt>"
+    ]
+  },
+  "Ligurire": {
+    "pages": [489],
+    "flag": false,
+    "lemmas": [
+      "ligurio<opt>, ligurire</opt>"
+    ]
+  },
+  "Limus": {
+    "pages": [499],
+    "flag": false
+  },
+  "Lingere": {
+    "pages": [488],
+    "flag": false,
+    "lemmas": [
+      "lingo<opt>, lingere</opt>"
+    ]
+  },
+  "Linter": {
+    "pages": [534],
+    "flag": false
+  },
+  "Lippus": {
+    "pages": [497],
+    "flag": false
+  },
+  "Lis": {
+    "pages": [481],
+    "flag": false
+  },
+  "Litare": {
+    "pages": [671],
+    "flag": false,
+    "lemmas": [
+      "lito<opt>, litare</opt>"
+    ]
+  },
+  "Loqui": {
+    "pages": [352],
+    "flag": false,
+    "lemmas": [
+      "loquor<opt>, loqui</opt>"
+    ]
+  },
+  "Lucrum": {
+    "pages": [651],
+    "flag": false
+  },
+  "Luctus": {
+    "pages": [298],
+    "flag": false
+  },
+  "Lusciosus": {
+    "pages": [498],
+    "flag": false
+  },
+  "Luscus": {
+    "pages": [498],
+    "flag": false
+  },
+  "Lutum": {
+    "pages": [499],
+    "flag": false
+  },
+  "Lædere": {
+    "pages": [770],
+    "flag": true,
+    "lemmas": [
+      "laedo<opt>, laedere</opt>"
+    ]
+  },
+  "Lætitia": {
+    "pages": [389],
+    "flag": false,
+    "lemmas": [
+      "laetitia"
+    ]
+  },
+  "Lævis": {
+    "pages": [487],
+    "flag": false,
+    "lemmas": [
+      "levis<opt>, lævis</opt>"
+    ]
+  },
+  "Macer": {
+    "pages": [331],
+    "flag": false
+  },
+  "Madidus": {
+    "pages": [414],
+    "flag": false
+  },
+  "Magnitudo": {
+    "pages": [500],
+    "flag": false
+  },
+  "Magnus": {
+    "pages": [502],
+    "flag": false
+  },
+  "Majestas": {
+    "pages": [501],
+    "flag": false
+  },
+  "Mala": {
+    "pages": [504],
+    "flag": false
+  },
+  "Malagma": {
+    "pages": [317],
+    "flag": false
+  },
+  "Maledictum": {
+    "pages": [506],
+    "flag": false
+  },
+  "Manare": {
+    "pages": [378],
+    "flag": false,
+    "lemmas": [
+      "mano<opt>, manare</opt>"
+    ]
+  },
+  "Mandere": {
+    "pages": [755],
+    "flag": false,
+    "lemmas": [
+      "mando<opt>, mandere</opt>"
+    ]
+  },
+  "Mannus": {
+    "pages": [155],
+    "flag": false
+  },
+  "Mansuetus": {
+    "pages": [208],
+    "flag": false
+  },
+  "Manubiæ": {
+    "pages": [616],
+    "flag": false,
+    "lemmas": [
+      "manubiae"
+    ]
+  },
+  "Marinus": {
+    "pages": [509],
+    "flag": false
+  },
+  "Maritimus": {
+    "pages": [509],
+    "flag": false
+  },
+  "Maturare": {
+    "pages": [372],
+    "flag": false,
+    "lemmas": [
+      "maturo<opt>, maturare</opt>"
+    ]
+  },
+  "Maxilla": {
+    "pages": [506],
+    "flag": false
+  },
+  "Meare": {
+    "pages": [473],
+    "flag": false,
+    "lemmas": [
+      "meo<opt>, meare</opt>"
+    ]
+  },
+  "Meditari": {
+    "pages": [197],
+    "flag": false,
+    "lemmas": [
+      "meditor<opt>, meditari</opt>"
+    ]
+  },
+  "Meminisse": {
+    "pages": [510],
+    "flag": false,
+    "lemmas": [
+      "memini<opt>, meminisse</opt>"
+    ]
+  },
+  "Memorare": {
+    "pages": [513],
+    "flag": false,
+    "lemmas": [
+      "memoro<opt>, memorare</opt>"
+    ]
+  },
+  "Mens": {
+    "pages": [87],
+    "flag": false
+  },
+  "Mercator": {
+    "pages": [515],
+    "flag": false
+  },
+  "Mercatura": {
+    "pages": [651],
+    "flag": true
+  },
+  "Meretrix": {
+    "pages": [218],
+    "flag": false
+  },
+  "Metuere": {
+    "pages": [743],
+    "flag": false,
+    "lemmas": [
+      "metuo<opt>, metuere</opt>"
+    ]
+  },
+  "Modo": {
+    "pages": [517],
+    "flag": false
+  },
+  "Moles": {
+    "pages": [717],
+    "flag": false
+  },
+  "Moliri": {
+    "pages": [215],
+    "flag": false,
+    "lemmas": [
+      "molior<opt>, moliri</opt>"
+    ]
+  },
+  "Monere": {
+    "pages": [404],
+    "flag": false,
+    "lemmas": [
+      "moneo<opt>, monere</opt>"
+    ]
+  },
+  "Morari": {
+    "pages": [251],
+    "flag": false,
+    "lemmas": [
+      "moror<opt>, morari</opt>"
+    ]
+  },
+  "Morbus": {
+    "pages": [519],
+    "flag": false
+  },
+  "Moribundus": {
+    "pages": [522],
+    "flag": false
+  },
+  "Moriturus": {
+    "pages": [521],
+    "flag": false
+  },
+  "Mors": {
+    "pages": [523],
+    "flag": false
+  },
+  "Mos": {
+    "pages": [524],
+    "flag": false
+  },
+  "Multifarius": {
+    "pages": [527],
+    "flag": false
+  },
+  "Multiplex": {
+    "pages": [525],
+    "flag": false
+  },
+  "Mundus": {
+    "pages": [314],
+    "flag": false
+  },
+  "Munus": {
+    "pages": [553],
+    "flag": false
+  },
+  "Murus": {
+    "pages": [527],
+    "flag": false
+  },
+  "Mutuo dare": {
+    "pages": [210],
+    "flag": false,
+    "lemmas": [
+      "mutuo<opt> dare</opt>"
+    ]
+  },
+  "Mutus": {
+    "pages": [529],
+    "flag": false
+  },
+  "Mœnia": {
+    "pages": [528],
+    "flag": false,
+    "lemmas": [
+      "moenia"
+    ]
+  },
+  "Mœror": {
+    "pages": [297],
+    "flag": false,
+    "lemmas": [
+      "moeror",
+      "maeror"
+    ]
+  },
+  "Nancisci": {
+    "pages": [566],
+    "flag": false,
+    "lemmas": [
+      "nanciscor<opt>, nancisci</opt>"
+    ]
+  },
+  "Narrare": {
+    "pages": [354],
+    "flag": false,
+    "lemmas": [
+      "narro<opt>, narrare</opt>"
+    ]
+  },
+  "Natalis": {
+    "pages": [531],
+    "flag": false
+  },
+  "Natio": {
+    "pages": [391],
+    "flag": false
+  },
+  "Nativus": {
+    "pages": [531],
+    "flag": false
+  },
+  "Navis": {
+    "pages": [533],
+    "flag": false
+  },
+  "Necesse est": {
+    "pages": [276],
+    "flag": false,
+    "lemmas": [
+      "necesse<opt> est</opt>"
+    ]
+  },
+  "Nefandus": {
+    "pages": [535],
+    "flag": false
+  },
+  "Negare": {
+    "pages": [536],
+    "flag": false,
+    "lemmas": [
+      "nego<opt>, negare</opt>"
+    ]
+  },
+  "Negotiator": {
+    "pages": [516],
+    "flag": false
+  },
+  "Nemus": {
+    "pages": [735],
+    "flag": false
+  },
+  "Nex": {
+    "pages": [523],
+    "flag": false
+  },
+  "Nidor": {
+    "pages": [538],
+    "flag": false
+  },
+  "Niger": {
+    "pages": [124],
+    "flag": false
+  },
+  "Nimbus": {
+    "pages": [424],
+    "flag": false
+  },
+  "Niti": {
+    "pages": [216],
+    "flag": false,
+    "lemmas": [
+      "nitor<opt>, niti</opt>"
+    ]
+  },
+  "Norma": {
+    "pages": [539],
+    "flag": false
+  },
+  "Noscere": {
+    "pages": [685],
+    "flag": false,
+    "lemmas": [
+      "nosco<opt>, noscere</opt>"
+    ]
+  },
+  "Nota": {
+    "pages": [696],
+    "flag": false
+  },
+  "Novus": {
+    "pages": [540],
+    "flag": false
+  },
+  "Nuper": {
+    "pages": [519],
+    "flag": false
+  },
+  "Nutrire": {
+    "pages": [541],
+    "flag": false,
+    "lemmas": [
+      "nutrio<opt>, nutrire</opt>"
+    ]
+  },
+  "Ob": {
+    "pages": [543],
+    "flag": false
+  },
+  "Obedire": {
+    "pages": [127],
+    "flag": false,
+    "lemmas": [
+      "obedio<opt>, obedire</opt>"
+    ]
+  },
+  "Obliterare": {
+    "pages": [282],
+    "flag": false,
+    "lemmas": [
+      "oblitero<opt>, obliterare</opt>"
+    ]
+  },
+  "Observare": {
+    "pages": [89],
+    "flag": false,
+    "lemmas": [
+      "observo<opt>, observare</opt>"
+    ]
+  },
+  "Obsidere": {
+    "pages": [548],
+    "flag": false,
+    "lemmas": [
+      "obsido<opt>, obsidere</opt>"
+    ]
+  },
+  "Obsistere": {
+    "pages": [549],
+    "flag": false,
+    "lemmas": [
+      "obsisto<opt>, obsistere</opt>"
+    ]
+  },
+  "Obstare": {
+    "pages": [548],
+    "flag": false,
+    "lemmas": [
+      "obsto<opt>, obstare</opt>"
+    ]
+  },
+  "Obtemperare": {
+    "pages": [127],
+    "flag": false,
+    "lemmas": [
+      "obtempero<opt>, obtemperare</opt>"
+    ]
+  },
+  "Occasio": {
+    "pages": [556],
+    "flag": false
+  },
+  "Occulere": {
+    "pages": [15],
+    "flag": false,
+    "lemmas": [
+      "occulo<opt>, occulere</opt>"
+    ]
+  },
+  "Occultus": {
+    "pages": [109],
+    "flag": false
+  },
+  "Odor": {
+    "pages": [550],
+    "flag": false
+  },
+  "Offendere": {
+    "pages": [769],
+    "flag": false,
+    "lemmas": [
+      "offendo<opt>, offendere</opt>"
+    ]
+  },
+  "Officere": {
+    "pages": [549],
+    "flag": false,
+    "lemmas": [
+      "officio<opt>, officere</opt>"
+    ]
+  },
+  "Officina": {
+    "pages": [551],
+    "flag": false
+  },
+  "Officium": {
+    "pages": [551],
+    "flag": false
+  },
+  "Onus": {
+    "pages": [597],
+    "flag": false
+  },
+  "Opacus": {
+    "pages": [554],
+    "flag": false
+  },
+  "Opis": {
+    "pages": [140],
+    "flag": false,
+    "lemmas": [
+      "ops<opt>, opis</opt>"
+    ]
+  },
+  "Oportet": {
+    "pages": [275],
+    "flag": false,
+    "lemmas": [
+      "oporteo<opt>, oportet</opt>"
+    ]
+  },
+  "Opperiri": {
+    "pages": [332],
+    "flag": false,
+    "lemmas": [
+      "opperior<opt>, opperiri</opt>"
+    ]
+  },
+  "Opprimere": {
+    "pages": [337],
+    "flag": false,
+    "lemmas": [
+      "opprimo<opt>, opprimere</opt>"
+    ]
+  },
+  "Opportunitas": {
+    "pages": [556],
+    "flag": false
+  },
+  "Opportunus": {
+    "pages": [212],
+    "flag": false
+  },
+  "Oppugnare": {
+    "pages": [548],
+    "flag": false,
+    "lemmas": [
+      "oppugno<opt>, oppugnare</opt>"
+    ]
+  },
+  "Optare": {
+    "pages": [752],
+    "flag": false,
+    "lemmas": [
+      "opto<opt>, optare</opt>"
+    ]
+  },
+  "Orbare": {
+    "pages": [620],
+    "flag": false,
+    "lemmas": [
+      "orbo<opt>, orbare</opt>"
+    ]
+  },
+  "Ordiri": {
+    "pages": [194],
+    "flag": false,
+    "lemmas": [
+      "ordior<opt>, ordiri</opt>"
+    ]
+  },
+  "Ordo": {
+    "pages": [557],
+    "flag": false
+  },
+  "Ornare": {
+    "pages": [559],
+    "flag": false,
+    "lemmas": [
+      "orno<opt>, ornare</opt>"
+    ]
+  },
+  "Ostium": {
+    "pages": [560],
+    "flag": false
+  },
+  "Pædor": {
+    "pages": [711],
+    "flag": false,
+    "lemmas": [
+      "paedor"
+    ]
+  },
+  "Pætus": {
+    "pages": [498],
+    "flag": false,
+    "lemmas": [
+      "paetus"
+    ]
+  },
+  "Pagus": {
+    "pages": [763],
+    "flag": false
+  },
+  "Palari": {
+    "pages": [321],
+    "flag": false,
+    "lemmas": [
+      "palor<opt>, palari</opt>"
+    ]
+  },
+  "Palus": {
+    "pages": [485],
+    "flag": false
+  },
+  "Pandere": {
+    "pages": [97],
+    "flag": false,
+    "lemmas": [
+      "pando<opt>, pandere</opt>"
+    ]
+  },
+  "Par": {
+    "pages": [48],
+    "flag": false
+  },
+  "Parare": {
+    "pages": [563],
+    "flag": false,
+    "lemmas": [
+      "paro<opt>, parāre</opt>"
+    ]
+  },
+  "Parere": {
+    "pages": [129],
+    "flag": false,
+    "lemmas": [
+      "pareo<opt>, pārēre</opt>"
+    ]
+  },
+  "Parere": {
+    "pages": [564],
+    "flag": false,
+    "lemmas": [
+      "pario<opt>, parere</opt>"
+    ]
+  },
+  "Parentare": {
+    "pages": [671],
+    "flag": false,
+    "lemmas": [
+      "parento<opt>, parentare</opt>"
+    ]
+  },
+  "Paries": {
+    "pages": [529],
+    "flag": false
+  },
+  "Pars": {
+    "pages": [567],
+    "flag": false
+  },
+  "Partiri": {
+    "pages": [213],
+    "flag": false,
+    "lemmas": [
+      "partior<opt>, partiri</opt>"
+    ]
+  },
+  "Pascuum": {
+    "pages": [670],
+    "flag": false
+  },
+  "Pastillus": {
+    "pages": [317],
+    "flag": false
+  },
+  "Pati": {
+    "pages": [367],
+    "flag": false,
+    "lemmas": [
+      "patior<opt>, pati</opt>"
+    ]
+  },
+  "Patruus": {
+    "pages": [141],
+    "flag": false
+  },
+  "Paupertas": {
+    "pages": [568],
+    "flag": false
+  },
+  "Peccatum": {
+    "pages": [243],
+    "flag": false
+  },
+  "Pecus, pecoris": {
+    "pages": [395],
+    "flag": true,
+    "lemmas": [
+      "pecus<opt>, pecoris</opt>"
+    ]
+  },
+  "Pecus, pecudis": {
+    "pages": [395],
+    "flag": true,
+    "lemmas": [
+      "pecus<opt>, pecudis</opt>"
+    ]
+  },
+  "Pejor": {
+    "pages": [570],
+    "flag": false
+  },
+  "Pellere": {
+    "pages": [571],
+    "flag": false,
+    "lemmas": [
+      "pello<opt>, pellere</opt>"
+    ]
+  },
+  "Pellex": {
+    "pages": [217],
+    "flag": false
+  },
+  "Pellis": {
+    "pages": [235],
+    "flag": false
+  },
+  "Penes": {
+    "pages": [573],
+    "flag": false
+  },
+  "Penna": {
+    "pages": [575],
+    "flag": false
+  },
+  "Per": {
+    "pages": [575],
+    "flag": false
+  },
+  "Peragrare": {
+    "pages": [581],
+    "flag": false,
+    "lemmas": [
+      "peragro<opt>, peragrare</opt>"
+    ]
+  },
+  "Percontari": {
+    "pages": [583],
+    "flag": false,
+    "lemmas": [
+      "percontor<opt>, percontari</opt>"
+    ]
+  },
+  "Perdere": {
+    "pages": [585],
+    "flag": false,
+    "lemmas": [
+      "perdo<opt>, perdere</opt>"
+    ]
+  },
+  "Perditus": {
+    "pages": [631],
+    "flag": false
+  },
+  "Peregrinari": {
+    "pages": [582],
+    "flag": false,
+    "lemmas": [
+      "peregrinor<opt>, peregrinari</opt>"
+    ]
+  },
+  "Peregrinus": {
+    "pages": [39],
+    "flag": false
+  },
+  "Perficere": {
+    "pages": [220],
+    "flag": false,
+    "lemmas": [
+      "perficio<opt>, perficere</opt>"
+    ]
+  },
+  "Perfuga": {
+    "pages": [587],
+    "flag": false
+  },
+  "Perfungi": {
+    "pages": [281],
+    "flag": false,
+    "lemmas": [
+      "perfungor<opt>, perfungi</opt>"
+    ]
+  },
+  "Perinde": {
+    "pages": [588],
+    "flag": false
+  },
+  "Perseverantia": {
+    "pages": [224],
+    "flag": false
+  },
+  "Pertinacia": {
+    "pages": [225],
+    "flag": false
+  },
+  "Petere": {
+    "pages": [662],
+    "flag": false,
+    "lemmas": [
+      "peto<opt>, petere</opt>"
+    ]
+  },
+  "Petulans": {
+    "pages": [629],
+    "flag": false
+  },
+  "Piget": {
+    "pages": [591],
+    "flag": false,
+    "lemmas": [
+      "pigeo<opt>, piget</opt>"
+    ]
+  },
+  "Pigritia": {
+    "pages": [592],
+    "flag": false
+  },
+  "Pilentum": {
+    "pages": [257],
+    "flag": false
+  },
+  "Plangere": {
+    "pages": [377],
+    "flag": false,
+    "lemmas": [
+      "plango<opt>, plangere</opt>"
+    ]
+  },
+  "Plebs": {
+    "pages": [599],
+    "flag": false
+  },
+  "Plecti": {
+    "pages": [645],
+    "flag": false,
+    "lemmas": [
+      "plecto<opt>, plectere</opt>"
+    ]
+  },
+  "Plicare": {
+    "pages": [215],
+    "flag": false,
+    "lemmas": [
+      "plico<opt>, plicare</opt>"
+    ]
+  },
+  "Plorare": {
+    "pages": [375],
+    "flag": false,
+    "lemmas": [
+      "ploro<opt>, plorare</opt>"
+    ]
+  },
+  "Pluma": {
+    "pages": [575],
+    "flag": false
+  },
+  "Pluvia": {
+    "pages": [424],
+    "flag": false
+  },
+  "Pœna": {
+    "pages": [594],
+    "flag": false,
+    "lemmas": [
+      "poena"
+    ]
+  },
+  "Pollere": {
+    "pages": [601],
+    "flag": false,
+    "lemmas": [
+      "polleo<opt>, pollere</opt>"
+    ]
+  },
+  "Polliceri": {
+    "pages": [632],
+    "flag": false,
+    "lemmas": [
+      "polliceor<opt>, polliceri</opt>"
+    ]
+  },
+  "Pondus": {
+    "pages": [596],
+    "flag": false
+  },
+  "Pone": {
+    "pages": [604],
+    "flag": true
+  },
+  "Populus": {
+    "pages": [598],
+    "flag": false
+  },
+  "Porta": {
+    "pages": [562],
+    "flag": false
+  },
+  "Portare": {
+    "pages": [363],
+    "flag": false,
+    "lemmas": [
+      "porto<opt>, portare</opt>"
+    ]
+  },
+  "Portio": {
+    "pages": [568],
+    "flag": false
+  },
+  "Poscere": {
+    "pages": [664],
+    "flag": false,
+    "lemmas": [
+      "posco<opt>, poscere</opt>"
+    ]
+  },
+  "Posse": {
+    "pages": [599],
+    "flag": false,
+    "lemmas": [
+      "possum<opt>, posse</opt>"
+    ]
+  },
+  "Possidere": {
+    "pages": [399],
+    "flag": false,
+    "lemmas": [
+      "possideo<opt>, possidēre</opt>"
+    ]
+  },
+  "Post": {
+    "pages": [602],
+    "flag": false
+  },
+  "Postulare": {
+    "pages": [663],
+    "flag": false,
+    "lemmas": [
+      "postulo<opt>, postulare</opt>"
+    ]
+  },
+  "Potentia": {
+    "pages": [604],
+    "flag": false
+  },
+  "Potestas": {
+    "pages": [604],
+    "flag": false
+  },
+  "Præ": {
+    "pages": [606],
+    "flag": false,
+    "lemmas": [
+      "prae"
+    ]
+  },
+  "Præter": {
+    "pages": [611],
+    "flag": false,
+    "lemmas": [
+      "praeter"
+    ]
+  },
+  "Præ se ferre": {
+    "pages": [358],
+    "flag": false,
+    "lemmas": [
+      "prae se ferre"
+    ]
+  },
+  "Præda": {
+    "pages": [614],
+    "flag": false,
+    "lemmas": [
+      "praeda"
+    ]
+  },
+  "Prædo": {
+    "pages": [616],
+    "flag": false,
+    "lemmas": [
+      "praedo"
+    ]
+  },
+  "Pridem": {
+    "pages": [291],
+    "flag": false
+  },
+  "Principatus": {
+    "pages": [654],
+    "flag": false
+  },
+  "Priscus": {
+    "pages": [618],
+    "flag": false
+  },
+  "Pristinus": {
+    "pages": [618],
+    "flag": false
+  },
+  "Privare": {
+    "pages": [619],
+    "flag": false,
+    "lemmas": [
+      "privo<opt>, privare</opt>"
+    ]
+  },
+  "Pro": {
+    "pages": [622],
+    "flag": false
+  },
+  "Probrum": {
+    "pages": [508],
+    "flag": false
+  },
+  "Probus": {
+    "pages": [153],
+    "flag": false
+  },
+  "Procax": {
+    "pages": [628],
+    "flag": false
+  },
+  "Procella": {
+    "pages": [135],
+    "flag": false
+  },
+  "Procerus": {
+    "pages": [504],
+    "flag": false
+  },
+  "Proferre": {
+    "pages": [288],
+    "flag": false,
+    "lemmas": [
+      "profero<opt>, proferre</opt>"
+    ]
+  },
+  "Profiteri": {
+    "pages": [357],
+    "flag": false,
+    "lemmas": [
+      "profiteor<opt>, profiteri</opt>"
+    ]
+  },
+  "Profligatus": {
+    "pages": [631],
+    "flag": false
+  },
+  "Profugus": {
+    "pages": [587],
+    "flag": false
+  },
+  "Promittere": {
+    "pages": [632],
+    "flag": false,
+    "lemmas": [
+      "promitto<opt>, promittere</opt>"
+    ]
+  },
+  "Properare": {
+    "pages": [371],
+    "flag": false,
+    "lemmas": [
+      "propero<opt>, properare</opt>"
+    ]
+  },
+  "Propter": {
+    "pages": [635],
+    "flag": false
+  },
+  "Protervus": {
+    "pages": [630],
+    "flag": false
+  },
+  "Provocare": {
+    "pages": [637],
+    "flag": false,
+    "lemmas": [
+      "provoco<opt>, provocare</opt>"
+    ]
+  },
+  "Prout": {
+    "pages": [589],
+    "flag": false
+  },
+  "Prudens": {
+    "pages": [679],
+    "flag": false
+  },
+  "Pruna": {
+    "pages": [174],
+    "flag": false
+  },
+  "Pudicitia": {
+    "pages": [640],
+    "flag": false
+  },
+  "Pudor": {
+    "pages": [639],
+    "flag": false
+  },
+  "Pugna": {
+    "pages": [147],
+    "flag": false
+  },
+  "Pullus": {
+    "pages": [380],
+    "flag": false
+  },
+  "Pungere": {
+    "pages": [642],
+    "flag": false,
+    "lemmas": [
+      "pungo<opt>, pungere</opt>"
+    ]
+  },
+  "Punire": {
+    "pages": [643],
+    "flag": false,
+    "lemmas": [
+      "punior<opt>, punire</opt>"
+    ]
+  },
+  "Putare": {
+    "pages": [198],
+    "flag": false,
+    "lemmas": [
+      "puto<opt>, putare</opt>"
+    ]
+  },
+  "Quantus": {
+    "pages": [646],
+    "flag": false
+  },
+  "Quærere": {
+    "pages": [649],
+    "flag": false,
+    "lemmas": [
+      "quaero<opt>, quaerere</opt>"
+    ]
+  },
+  "Quæstus": {
+    "pages": [651],
+    "flag": false,
+    "lemmas": [
+      "quaestus"
+    ]
+  },
+  "Quidam": {
+    "pages": [181],
+    "flag": false
+  },
+  "Quinquennalis": {
+    "pages": [652],
+    "flag": false
+  },
+  "Quinquennis": {
+    "pages": [652],
+    "flag": false
+  },
+  "Quot": {
+    "pages": [646],
+    "flag": false
+  },
+  "Quotus": {
+    "pages": [647],
+    "flag": false
+  },
+  "Rabies": {
+    "pages": [451],
+    "flag": false
+  },
+  "Ratis": {
+    "pages": [533],
+    "flag": false
+  },
+  "Recens": {
+    "pages": [518, 541],
+    "flag": false
+  },
+  "Recipere": {
+    "pages": [173, 633],
+    "flag": false,
+    "lemmas": [
+      "recipio<opt>, recipere</opt>"
+    ]
+  },
+  "Recludere": {
+    "pages": [98],
+    "flag": false,
+    "lemmas": [
+      "recludo<opt>, recludere</opt>"
+    ]
+  },
+  "Recoctus": {
+    "pages": [122],
+    "flag": false
+  },
+  "Recordari": {
+    "pages": [512],
+    "flag": false,
+    "lemmas": [
+      "recordor<opt>, recordari</opt>"
+    ]
+  },
+  "Recusare": {
+    "pages": [538],
+    "flag": false,
+    "lemmas": [
+      "recuso<opt>, recusare</opt>"
+    ]
+  },
+  "Redimire": {
+    "pages": [560],
+    "flag": false,
+    "lemmas": [
+      "redimio<opt>, redimire</opt>"
+    ]
+  },
+  "Regere": {
+    "pages": [426],
+    "flag": false,
+    "lemmas": [
+      "rego<opt>, regere</opt>"
+    ]
+  },
+  "Regnum": {
+    "pages": [653],
+    "flag": false
+  },
+  "Relegatus": {
+    "pages": [341],
+    "flag": false
+  },
+  "Relinquere": {
+    "pages": [655],
+    "flag": false,
+    "lemmas": [
+      "relinquo<opt>, relinquere</opt>"
+    ]
+  },
+  "Reliquus": {
+    "pages": [69],
+    "flag": false
+  },
+  "Reminisci": {
+    "pages": [511],
+    "flag": false,
+    "lemmas": [
+      "reminiscor<opt>, reminisci</opt>"
+    ]
+  },
+  "Renasci": {
+    "pages": [658],
+    "flag": false,
+    "lemmas": [
+      "renascor<opt>, renasci</opt>"
+    ]
+  },
+  "Reperire": {
+    "pages": [465],
+    "flag": false,
+    "lemmas": [
+      "reperio<opt>, reperire</opt>"
+    ]
+  },
+  "Repudium": {
+    "pages": [656],
+    "flag": false
+  },
+  "Requiescere": {
+    "pages": [183],
+    "flag": false,
+    "lemmas": [
+      "requiesco<opt>, requiescere</opt>"
+    ]
+  },
+  "Reviviscere": {
+    "pages": [658],
+    "flag": false,
+    "lemmas": [
+      "revivisco<opt>, reviviscere</opt>"
+    ]
+  },
+  "Reus": {
+    "pages": [659],
+    "flag": false
+  },
+  "Rheda": {
+    "pages": [256],
+    "flag": false,
+    "lemmas": [
+      "raeda<opt>, rheda</opt>"
+    ]
+  },
+  "Ridere": {
+    "pages": [660],
+    "flag": false,
+    "lemmas": [
+      "rideo<opt>, ridere</opt>"
+    ]
+  },
+  "Rimari": {
+    "pages": [650],
+    "flag": false,
+    "lemmas": [
+      "rimor<opt>, rimari</opt>"
+    ]
+  },
+  "Rixa": {
+    "pages": [479],
+    "flag": false
+  },
+  "Rodere": {
+    "pages": [756],
+    "flag": false,
+    "lemmas": [
+      "rodo<opt>, rodere</opt>"
+    ]
+  },
+  "Rogare": {
+    "pages": [661],
+    "flag": false,
+    "lemmas": [
+      "rogo<opt>, rogare</opt>"
+    ]
+  },
+  "Ruere": {
+    "pages": [157],
+    "flag": false,
+    "lemmas": [
+      "ruo<opt>, ruere</opt>"
+    ]
+  },
+  "Rumor": {
+    "pages": [348],
+    "flag": false
+  },
+  "Rumpere": {
+    "pages": [384],
+    "flag": false,
+    "lemmas": [
+      "rumpo<opt>, rumpere</opt>"
+    ]
+  },
+  "Rus": {
+    "pages": [668],
+    "flag": false
+  },
+  "Rusticari": {
+    "pages": [582],
+    "flag": false,
+    "lemmas": [
+      "rusticor<opt>, rusticari</opt>"
+    ]
+  },
+  "Sabulum": {
+    "pages": [114],
+    "flag": false,
+    "lemmas": [
+      "sabulum",
+      "sabulo"
+    ]
+  },
+  "Sacrificare": {
+    "pages": [671],
+    "flag": false,
+    "lemmas": [
+      "sacrifico<opt>, sacrificare</opt>"
+    ]
+  },
+  "Sal": {
+    "pages": [496],
+    "flag": false
+  },
+  "Salire": {
+    "pages": [672],
+    "flag": false,
+    "lemmas": [
+      "salio<opt>, salire</opt>"
+    ]
+  },
+  "Saltus": {
+    "pages": [735],
+    "flag": false
+  },
+  "Salubris": {
+    "pages": [674],
+    "flag": false
+  },
+  "Salutaris": {
+    "pages": [674],
+    "flag": false
+  },
+  "Sanguis": {
+    "pages": [675],
+    "flag": false
+  },
+  "Sapere": {
+    "pages": [396],
+    "flag": false,
+    "lemmas": [
+      "sapio<opt>, sapere</opt>"
+    ]
+  },
+  "Sapiens": {
+    "pages": [677],
+    "flag": false
+  },
+  "Sarcina": {
+    "pages": [597],
+    "flag": false
+  },
+  "Satelles": {
+    "pages": [206],
+    "flag": false
+  },
+  "Satiare": {
+    "pages": [679],
+    "flag": false,
+    "lemmas": [
+      "satio<opt>, satiare</opt>"
+    ]
+  },
+  "Satisfacere": {
+    "pages": [679],
+    "flag": false,
+    "lemmas": [
+      "satisfacio<opt>, satisfacere</opt>"
+    ]
+  },
+  "Saturare": {
+    "pages": [680],
+    "flag": false,
+    "lemmas": [
+      "saturo<opt>, saturare</opt>"
+    ]
+  },
+  "Scapha": {
+    "pages": [534],
+    "flag": false
+  },
+  "Scelus": {
+    "pages": [344],
+    "flag": false
+  },
+  "Sciens": {
+    "pages": [678],
+    "flag": false
+  },
+  "Scindere": {
+    "pages": [681],
+    "flag": false,
+    "lemmas": [
+      "scindo<opt>, scindere</opt>"
+    ]
+  },
+  "Scintilla": {
+    "pages": [359],
+    "flag": false
+  },
+  "Scire": {
+    "pages": [684],
+    "flag": false,
+    "lemmas": [
+      "scio<opt>, scire</opt>"
+    ]
+  },
+  "Sciscitari": {
+    "pages": [583],
+    "flag": false,
+    "lemmas": [
+      "sciscitor<opt>, sciscitari</opt>"
+    ]
+  },
+  "Scrutari": {
+    "pages": [650],
+    "flag": false,
+    "lemmas": [
+      "scrutor<opt>, scrutari</opt>"
+    ]
+  },
+  "Sebum": {
+    "pages": [687],
+    "flag": false,
+    "lemmas": [
+      "sebum",
+      "sevum"
+    ]
+  },
+  "Secare": {
+    "pages": [683],
+    "flag": false,
+    "lemmas": [
+      "seco<opt>, secare</opt>"
+    ]
+  },
+  "Secundum": {
+    "pages": [688],
+    "flag": false
+  },
+  "Semianimis": {
+    "pages": [692],
+    "flag": false
+  },
+  "Seminex": {
+    "pages": [693],
+    "flag": false
+  },
+  "Semita": {
+    "pages": [758],
+    "flag": false
+  },
+  "Sepelire": {
+    "pages": [694],
+    "flag": false,
+    "lemmas": [
+      "sepelio<opt>, sepelire</opt>"
+    ]
+  },
+  "Series": {
+    "pages": [558],
+    "flag": false
+  },
+  "Servire": {
+    "pages": [130],
+    "flag": false,
+    "lemmas": [
+      "servio<opt>, servire</opt>"
+    ]
+  },
+  "Servus": {
+    "pages": [694],
+    "flag": false
+  },
+  "Siccus": {
+    "pages": [115],
+    "flag": false
+  },
+  "Sicut": {
+    "pages": [779],
+    "flag": false
+  },
+  "Signum": {
+    "pages": [696],
+    "flag": false
+  },
+  "Silere": {
+    "pages": [698],
+    "flag": false,
+    "lemmas": [
+      "sileo<opt>, silere</opt>"
+    ]
+  },
+  "Similis": {
+    "pages": [48],
+    "flag": false
+  },
+  "Simulacrum": {
+    "pages": [422],
+    "flag": false
+  },
+  "Simulare": {
+    "pages": [700],
+    "flag": false,
+    "lemmas": [
+      "simulo<opt>, simulare</opt>"
+    ]
+  },
+  "Simultas": {
+    "pages": [480],
+    "flag": false
+  },
+  "Sine": {
+    "pages": [701],
+    "flag": false
+  },
+  "Sinus": {
+    "pages": [702],
+    "flag": false
+  },
+  "Sive": {
+    "pages": [81],
+    "flag": false
+  },
+  "Sodalis": {
+    "pages": [207],
+    "flag": false
+  },
+  "Socius": {
+    "pages": [206],
+    "flag": false
+  },
+  "Solere": {
+    "pages": [703],
+    "flag": false,
+    "lemmas": [
+      "soleo<opt>, solere</opt>"
+    ]
+  },
+  "Solertia": {
+    "pages": [447],
+    "flag": false,
+    "lemmas": [
+      "sollertia<opt>, solertia</opt>"
+    ]
+  },
+  "Sollicitudo": {
+    "pages": [253],
+    "flag": false
+  },
+  "Solus": {
+    "pages": [773],
+    "flag": false
+  },
+  "Somnus": {
+    "pages": [705],
+    "flag": false
+  },
+  "Sonitus": {
+    "pages": [707],
+    "flag": false
+  },
+  "Sonus": {
+    "pages": [706],
+    "flag": false
+  },
+  "Sopor": {
+    "pages": [705],
+    "flag": false
+  },
+  "Sordes": {
+    "pages": [711],
+    "flag": false
+  },
+  "Sortiri": {
+    "pages": [566],
+    "flag": false,
+    "lemmas": [
+      "sortior<opt>, sortiri</opt>"
+    ]
+  },
+  "Spatiari": {
+    "pages": [475],
+    "flag": false,
+    "lemmas": [
+      "spatior<opt>, spatiari</opt>"
+    ]
+  },
+  "Sperare": {
+    "pages": [332],
+    "flag": false,
+    "lemmas": [
+      "spero<opt>, sperare</opt>"
+    ]
+  },
+  "Spernere": {
+    "pages": [226],
+    "flag": false,
+    "lemmas": [
+      "sperno<opt>, spernere</opt>"
+    ]
+  },
+  "Spoliare": {
+    "pages": [629],
+    "flag": false,
+    "lemmas": [
+      "spolio<opt>, spoliare</opt>"
+    ]
+  },
+  "Spolium": {
+    "pages": [615],
+    "flag": false
+  },
+  "Spondere": {
+    "pages": [634],
+    "flag": false,
+    "lemmas": [
+      "spondeo<opt>, spondere</opt>"
+    ]
+  },
+  "Squalor": {
+    "pages": [712],
+    "flag": false
+  },
+  "Stagnum": {
+    "pages": [486],
+    "flag": false
+  },
+  "Statua": {
+    "pages": [423],
+    "flag": false
+  },
+  "Stimulare": {
+    "pages": [642],
+    "flag": false,
+    "lemmas": [
+      "stimulo<opt>, stimulare</opt>"
+    ]
+  },
+  "Stipare": {
+    "pages": [209],
+    "flag": false,
+    "lemmas": [
+      "stipo<opt>, stipare</opt>"
+    ]
+  },
+  "Stolidus": {
+    "pages": [719],
+    "flag": false
+  },
+  "Strabo": {
+    "pages": [499],
+    "flag": false
+  },
+  "Strages": {
+    "pages": [249],
+    "flag": false
+  },
+  "Strenuus": {
+    "pages": [715],
+    "flag": false
+  },
+  "Strepitus": {
+    "pages": [708],
+    "flag": false
+  },
+  "Stridor": {
+    "pages": [709],
+    "flag": false
+  },
+  "Stringere": {
+    "pages": [766],
+    "flag": false,
+    "lemmas": [
+      "stringo<opt>, stringere</opt>"
+    ]
+  },
+  "Strues": {
+    "pages": [716],
+    "flag": false
+  },
+  "Stultus": {
+    "pages": [718],
+    "flag": false
+  },
+  "Suadere": {
+    "pages": [403],
+    "flag": false,
+    "lemmas": [
+      "suadeo<opt>, suadere</opt>"
+    ]
+  },
+  "Sub": {
+    "pages": [720],
+    "flag": false
+  },
+  "Subridere": {
+    "pages": [660],
+    "flag": false,
+    "lemmas": [
+      "subrideo<opt>, subridere</opt>"
+    ]
+  },
+  "Subter": {
+    "pages": [727],
+    "flag": false
+  },
+  "Sumere": {
+    "pages": [169],
+    "flag": false,
+    "lemmas": [
+      "sumo<opt>, sumere</opt>"
+    ]
+  },
+  "Super": {
+    "pages": [728],
+    "flag": false
+  },
+  "Superbia": {
+    "pages": [732],
+    "flag": false
+  },
+  "Suppetiæ": {
+    "pages": [139],
+    "flag": false,
+    "lemmas": [
+      "suppetiae"
+    ]
+  },
+  "Supplicium": {
+    "pages": [595],
+    "flag": false
+  },
+  "Supra": {
+    "pages": [734],
+    "flag": false
+  },
+  "Suspicio": {
+    "pages": [222],
+    "flag": false
+  },
+  "Sylva": {
+    "pages": [734],
+    "flag": false,
+    "lemmas": [
+      "silva<opt>, sylva</opt>"
+    ]
+  },
+  "Syngrapha": {
+    "pages": [737],
+    "flag": false
+  },
+  "Taberna": {
+    "pages": [551],
+    "flag": false
+  },
+  "Tacere": {
+    "pages": [698],
+    "flag": false,
+    "lemmas": [
+      "taceo<opt>, tacere</opt>"
+    ]
+  },
+  "Tædet": {
+    "pages": [592],
+    "flag": false,
+    "lemmas": [
+      "taedeo<opt>, taedet</opt>"
+    ]
+  },
+  "Temeritas": {
+    "pages": [126],
+    "flag": false
+  },
+  "Tempestivus": {
+    "pages": [212],
+    "flag": false
+  },
+  "Tenebræ": {
+    "pages": [738],
+    "flag": false,
+    "lemmas": [
+      "tenebra"
+    ]
+  },
+  "Tenere": {
+    "pages": [398],
+    "flag": false,
+    "lemmas": [
+      "teneo<opt>, tenere</opt>"
+    ]
+  },
+  "Tentare": {
+    "pages": [739],
+    "flag": false,
+    "lemmas": [
+      "tento<opt>, tentare</opt>"
+    ]
+  },
+  "Tenus": {
+    "pages": [740],
+    "flag": false
+  },
+  "Tenuis": {
+    "pages": [392],
+    "flag": false
+  },
+  "Tepere": {
+    "pages": [162],
+    "flag": false,
+    "lemmas": [
+      "tepeo<opt>, tepere</opt>"
+    ]
+  },
+  "Teres": {
+    "pages": [393],
+    "flag": false
+  },
+  "Timere": {
+    "pages": [742],
+    "flag": false,
+    "lemmas": [
+      "timeo<opt>, timere</opt>"
+    ]
+  },
+  "Tolerare": {
+    "pages": [368],
+    "flag": false,
+    "lemmas": [
+      "tolero<opt>, tolerare</opt>"
+    ]
+  },
+  "Trahere": {
+    "pages": [745],
+    "flag": false,
+    "lemmas": [
+      "traho<opt>, trahere</opt>"
+    ]
+  },
+  "Trames": {
+    "pages": [757],
+    "flag": false
+  },
+  "Trans": {
+    "pages": [747],
+    "flag": false
+  },
+  "Tribuere": {
+    "pages": [264],
+    "flag": false,
+    "lemmas": [
+      "tribuo<opt>, tribuere</opt>"
+    ]
+  },
+  "Trudere": {
+    "pages": [571],
+    "flag": false,
+    "lemmas": [
+      "trudo<opt>, trudere</opt>"
+    ]
+  },
+  "Tumultuarius": {
+    "pages": [749],
+    "flag": false
+  },
+  "Tumultuosus": {
+    "pages": [749],
+    "flag": false
+  },
+  "Tundere": {
+    "pages": [572],
+    "flag": false,
+    "lemmas": [
+      "tundo<opt>, tundere</opt>"
+    ]
+  },
+  "Turba": {
+    "pages": [480],
+    "flag": true
+  },
+  "Turbo": {
+    "pages": [136],
+    "flag": false
+  },
+  "Tutela": {
+    "pages": [192],
+    "flag": false
+  },
+  "Vacuus": {
+    "pages": [441],
+    "flag": false
+  },
+  "Vadere": {
+    "pages": [472],
+    "flag": false,
+    "lemmas": [
+      "vado<opt>, vadere</opt>"
+    ]
+  },
+  "Vafer": {
+    "pages": [119],
+    "flag": false
+  },
+  "Vagire": {
+    "pages": [375],
+    "flag": false,
+    "lemmas": [
+      "vagio<opt>, vagire</opt>"
+    ]
+  },
+  "Valere": {
+    "pages": [600],
+    "flag": false,
+    "lemmas": [
+      "valeo<opt>, valere</opt>"
+    ]
+  },
+  "Varius": {
+    "pages": [526],
+    "flag": false
+  },
+  "Vas": {
+    "pages": [749],
+    "flag": false
+  },
+  "Ubertas": {
+    "pages": [232],
+    "flag": false
+  },
+  "Vehere": {
+    "pages": [365],
+    "flag": false,
+    "lemmas": [
+      "veho<opt>, vehere</opt>"
+    ]
+  },
+  "Vel": {
+    "pages": [79],
+    "flag": false
+  },
+  "Velle": {
+    "pages": [750],
+    "flag": false,
+    "lemmas": [
+      "volo<opt>, velle</opt>"
+    ]
+  },
+  "Velut": {
+    "pages": [780],
+    "flag": false
+  },
+  "Venerari": {
+    "pages": [200],
+    "flag": false,
+    "lemmas": [
+      "veneror<opt>, venerari</opt>"
+    ]
+  },
+  "Ventus": {
+    "pages": [134],
+    "flag": false
+  },
+  "Verecundia": {
+    "pages": [641],
+    "flag": false
+  },
+  "Vereri": {
+    "pages": [744],
+    "flag": false,
+    "lemmas": [
+      "vereor<opt>, vereri</opt>"
+    ]
+  },
+  "Verna": {
+    "pages": [695],
+    "flag": false
+  },
+  "Versus": {
+    "pages": [754],
+    "flag": false
+  },
+  "Vesci": {
+    "pages": [755],
+    "flag": false,
+    "lemmas": [
+      "vescor<opt>, vesci</opt>"
+    ]
+  },
+  "Vestitus": {
+    "pages": [400],
+    "flag": false
+  },
+  "Via": {
+    "pages": [756],
+    "flag": false
+  },
+  "Vicinus": {
+    "pages": [759],
+    "flag": false
+  },
+  "Vicus": {
+    "pages": [763],
+    "flag": false
+  },
+  "Videre": {
+    "pages": [760],
+    "flag": false,
+    "lemmas": [
+      "video<opt>, videre</opt>"
+    ]
+  },
+  "Vigil": {
+    "pages": [452],
+    "flag": false
+  },
+  "Vigiliæ": {
+    "pages": [327],
+    "flag": false,
+    "lemmas": [
+      "vigilia<opt>, vigiliae</opt>"
+    ]
+  },
+  "Villa": {
+    "pages": [762],
+    "flag": false
+  },
+  "Villicus": {
+    "pages": [204],
+    "flag": false
+  },
+  "Vincere": {
+    "pages": [764],
+    "flag": false,
+    "lemmas": [
+      "vinco<opt>, vincere</opt>"
+    ]
+  },
+  "Vincire": {
+    "pages": [765],
+    "flag": false,
+    "lemmas": [
+      "vincio<opt>, vincīre</opt>"
+    ]
+  },
+  "Vinculum": {
+    "pages": [767],
+    "flag": false
+  },
+  "Violare": {
+    "pages": [769],
+    "flag": false,
+    "lemmas": [
+      "violo<opt>, violare</opt>"
+    ]
+  },
+  "Vir": {
+    "pages": [401],
+    "flag": false
+  },
+  "Visere": {
+    "pages": [761],
+    "flag": false,
+    "lemmas": [
+      "viso<opt>, visere</opt>"
+    ]
+  },
+  "Vindicare": {
+    "pages": [771],
+    "flag": false,
+    "lemmas": [
+      "vindico<opt>, vindicare</opt>"
+    ]
+  },
+  "Ulcisci": {
+    "pages": [770],
+    "flag": false,
+    "lemmas": [
+      "ulciscor<opt>, ulcisci</opt>"
+    ]
+  },
+  "Ultra": {
+    "pages": [771],
+    "flag": false
+  },
+  "Ulva": {
+    "pages": [64],
+    "flag": false
+  },
+  "Ululare": {
+    "pages": [376],
+    "flag": false,
+    "lemmas": [
+      "ululo<opt>, ululare</opt>"
+    ]
+  },
+  "Umbra": {
+    "pages": [420],
+    "flag": false
+  },
+  "Umbratilis": {
+    "pages": [555],
+    "flag": false
+  },
+  "Umbrosus": {
+    "pages": [555],
+    "flag": false
+  },
+  "Uncus": {
+    "pages": [260],
+    "flag": false
+  },
+  "Unda": {
+    "pages": [107],
+    "flag": false
+  },
+  "Unicus": {
+    "pages": [773],
+    "flag": false
+  },
+  "Unus": {
+    "pages": [772],
+    "flag": false
+  },
+  "Volucris": {
+    "pages": [775],
+    "flag": false
+  },
+  "Vorare": {
+    "pages": [756],
+    "flag": false,
+    "lemmas": [
+      "voro<opt>, vorare</opt>"
+    ]
+  },
+  "Urbanus": {
+    "pages": [343],
+    "flag": false
+  },
+  "Urbs": {
+    "pages": [191],
+    "flag": false
+  },
+  "Urere": {
+    "pages": [112],
+    "flag": false,
+    "lemmas": [
+      "uro<opt>, urere</opt>"
+    ]
+  },
+  "Usura": {
+    "pages": [776],
+    "flag": false
+  },
+  "Ut": {
+    "pages": [779],
+    "flag": false
+  },
+  "Uvidus": {
+    "pages": [413],
+    "flag": false
+  },
+  "Vulgo": {
+    "pages": [781],
+    "flag": false
+  },
+  "Palam": {
+    "pages": [233],
+    "flag": false
+  },
+  
+  
+  
+  
+  "Palam": {
+    "pages": [233],
+    "flag": false
+  },
+  "Præceps": {
+    "pages": [22],
+    "flag": false,
+    "lemmas": [
+      "praeceps"
+    ]
+  },
+  "Ægrotus": {
+    "pages": [44],
+    "flag": false,
+    "lemmas": [
+      "aegrotus"
+    ]
+  },
+  "Diligere": {
+    "pages": [72],
+    "flag": false,
+    "lemmas": [
+      "diligo<opt>, diligere</opt>"
+    ]
+  },
+  "Solennis": {
+    "pages": [91],
+    "flag": false
+  },
+  "Ante": {
+    "pages": [93],
+    "flag": false
+  },
+  "Antea": {
+    "pages": [95],
+    "flag": false
+  },
+  "Saburra": {
+    "pages": [114],
+    "flag": false
+  },
+  "Bellum": {
+    "pages": [146],
+    "flag": false
+  },
+  "Prælium": {
+    "pages": [146],
+    "flag": false,
+    "lemmas": [
+      "praelium",
+      "proelium"
+    ]
+  },
+  "Bonus": {
+    "pages": [153],
+    "flag": false
+  },
+  "Excipere": {
+    "pages": [171],
+    "flag": false,
+    "lemmas": [
+      "excipio<opt>, excipere</opt>"
+    ]
+  },
+  "Caper": {
+    "pages": [174],
+    "flag": false
+  },
+  "Hircus": {
+    "pages": [174],
+    "flag": false
+  },
+  "Plaustrum": {
+    "pages": [258],
+    "flag": false
+  },
+  "Dissimilitudo": {
+    "pages": [286],
+    "flag": false
+  },
+  "Vagari": {
+    "pages": [321],
+    "flag": false,
+    "lemmas": [
+      "vagor<opt>, vagari</opt>"
+    ]
+  },
+  "Fieri": {
+    "pages": [324],
+    "flag": false,
+    "lemmas": [
+      "fio<opt>, fieri</opt>"
+    ]
+  },
+  "Præstare": {
+    "pages": [326],
+    "flag": false,
+    "lemmas": [
+      "praesto<opt>, praestare</opt>"
+    ]
+  },
+  "Præstolari": {
+    "pages": [334],
+    "flag": false,
+    "lemmas": [
+      "praestolor<opt>, praestolari</opt>"
+    ]
+  },
+  "Exsors": {
+    "pages": [335],
+    "flag": false
+  },
+  "Immunis": {
+    "pages": [336],
+    "flag": false
+  },
+  "Hinnulus": {
+    "pages": [381],
+    "flag": false,
+    "lemmas": [
+      "hinnulus",
+      "hinnuleus"
+    ]
+  },
+  "Persuadere": {
+    "pages": [404],
+    "flag": false,
+    "lemmas": [
+      "persuadeo<opt>, persuadere</opt>"
+    ]
+  },
+  "Succensere": {
+    "pages": [470],
+    "flag": false,
+    "lemmas": [
+      "succenseo<opt>, succensere</opt>",
+      "suscenseo<opt>, suscensere</opt>"
+    ]
+  },
+  "Stomachari": {
+    "pages": [471],
+    "flag": false,
+    "lemmas": [
+      "stomachor<opt>, stomachari</opt>"
+    ]
+  },
+  "Incedere": {
+    "pages": [474],
+    "flag": false,
+    "lemmas": [
+      "incedo<opt>, incedere</opt>"
+    ]
+  },
+  "Ingens": {
+    "pages": [502],
+    "flag": false
+  },
+  "Regula": {
+    "pages": [539],
+    "flag": false
+  },
+  "Pirata": {
+    "pages": [617],
+    "flag": false
+  },
+  "Sons": {
+    "pages": [659],
+    "flag": false
+  },
+  "Sanies": {
+    "pages": [676],
+    "flag": false
+  },
+  "Præsagium": {
+    "pages": [697],
+    "flag": false,
+    "lemmas": [
+      "praesagium",
+      "praesagio"
+    ]
+  },
+  "Sordidus": {
+    "pages": [713],
+    "flag": false
+  },
+  "Sordidatus": {
+    "pages": [713],
+    "flag": false
+  },
+  "Gnavus": {
+    "pages": [715],
+    "flag": false,
+    "lemmas": [
+      "gnavus",
+      "navus"
+    ]
+  },
+  "Lucus": {
+    "pages": [736],
+    "flag": false
+  },
+  "Præs": {
+    "pages": [750],
+    "flag": false,
+    "lemmas": [
+      "praes"
+    ]
+  }
+}

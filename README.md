@@ -10,9 +10,14 @@
     [Lat-Eng] dictionary of synonyms
 * [A Hand-Book of Latin Synonymes][5] (Shumway, 1898) \
     [Eng-Lat] dictionary of synonyms
+* [The synonymes of the Latin language][6] (John Hill, 1804)
+    [Lat-Eng] dictionary of synonyms and prepositions
+
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/Doederlein1874
 [2]: https://github.com/nikita-moor/latin-dictionary/tree/master/Wagner1878
 [3]: https://github.com/nikita-moor/latin-dictionary/tree/master/SmithHall1871
 [4]: https://github.com/nikita-moor/latin-dictionary/tree/master/Dumesnil1819
 [5]: https://github.com/nikita-moor/latin-dictionary/tree/master/Shumway1898
+[6]: https://github.com/nikita-moor/latin-dictionary/tree/master/HillJohn1804
+
