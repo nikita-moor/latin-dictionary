@@ -2,7 +2,7 @@
 
 Full title is "The synonymes of the Latin language, alphabetically arranged; with critical dissertations upon the force of its prepositions, both in a simple and a compounded state".
 
-In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications on **English** are very extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for preposition. Total number of articles is 371.
+In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications on **English** are very extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
 
 XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. I do not plan to transcribe it.
 
@@ -21,7 +21,7 @@ XDXF edition contains only keys and links to the scans of the corresponding page
 
 Keywords were harmonized with hunspell's [dictionaries for Latin language][1] (ed. by [Karl Zeiler & Jean-Pierre Sutto]). Version by [Konrad Kokoszkiewicz][2] should be compatible as well.
 
-We recommend using our custom styles for GoldenDict ([article-style.css][4]), which are absolutely optional but provide improved appearance. See application's [FAQ][3] for setting up.
+We recommend using [article-style.css][4] for GoldenDict, which is absolutely optional but provides improved appearance. See application's [FAQ][3] for setting up.
 
 
 ## License
