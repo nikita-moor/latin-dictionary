@@ -19,7 +19,7 @@ See also blog of [Iohannes Brunensis][3].
 
 ## Usage guidelines
 
-We recommend using our custom styles for GoldenDict ([article-style.css][4]), which are absolutely optional but provide improved appearance. See application's [FAQ][3] for setting up.
+We recommend using [article-style.css][4] for GoldenDict, which is absolutely optional but provides improved appearance. See application's [FAQ][3] for setting up.
 
 
 ## Errata
@@ -44,4 +44,4 @@ _To be written_
 [1]: https://archive.org/details/SkivanLatinskSynonymika/page/n2
 [2]: https://archive.org/details/SkivanLatinskSynonymika/page/n6
 [3]: http://www.litteraelatinae.eu/?p=606
-
+[4]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
