@@ -22,7 +22,7 @@ This dictionary bases on the French edition published in 1878 year (with triple 
 
 ## Usage guidelines
 
-Format and structure of the dictionary hardly fit the XDXF format, so this _draft_ edition fails test agains DTD schema and probably will diverge more from the XDXF format in future editions. This file was tested only in [GoldenDict][1] and could be incompatible with other dictionary shells. It is strongly adviced using additional styles for GoldenDict (hide/show full article), see `article-style.css` file.
+Format and structure of the dictionary hardly fit the XDXF format, so this _draft_ edition fails test agains DTD schema and probably will diverge more from the XDXF format in future editions. This file was tested only in [GoldenDict][1] and could be incompatible with other dictionary shells. It is strongly adviced using additional styles for GoldenDict (hide/show full article), see [article-style.css][4] file.
 
 [GoldenDict][1] dictionary application supports normalization of input words (pæne > paene; prāva > pravus). We recommend using ["Latin spelling and hyphenation dictionaries"][2] in combination with this dictionary.
 
@@ -52,3 +52,5 @@ Anyway, I am open for suggestions about formatting, or noticed errors in the tex
 [1]: https://en.wikipedia.org/wiki/GoldenDict
 [2]: https://extensions.libreoffice.org/extensions/latin-spelling-and-hyphenation-dictionaries
 [3]: https://www.pgdp.net/c/project.php?id=projectID4714f1abc7676
+[4]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
+

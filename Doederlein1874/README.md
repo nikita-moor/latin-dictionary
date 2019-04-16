@@ -21,7 +21,7 @@ This project is aimed at transforming the dictionary into [XDXF format][1] compa
 
 [GoldenDict][2] dictionary application supports normalization of input words (pæne > paene; prāva > pravus). We recommend using ["Latin spelling and hyphenation dictionaries"][6] (by Karl Zeiler and Jean-Pierre Sutto); version of the dictionary prepared by [Konrad Kokoszkiewicz][9] should be compatible too.
 
-Default formatting styles for XDXF in GoldenDict do not fit well this dictionary (such as big intervals between keywords), one could use optional `article-style.css` improving layout and fixing existing issues (lists numeration indents). See application's [FAQ][7] for setting up.
+Default formatting styles for XDXF in GoldenDict do not fit well this dictionary (such as big intervals between keywords), one could use optional [article-style.css][4] improving layout and fixing existing issues (lists numeration indents). See application's [FAQ][7] for setting up.
 
 
 ## States and limitations
@@ -67,7 +67,9 @@ The work is finished, I could only regret the method I chose to lemmatize keys, 
 [1]: https://en.wikipedia.org/wiki/XDXF
 [2]: https://en.wikipedia.org/wiki/GoldenDict
 [3]: https://play.google.com/store/apps/details?id=com.ngcomputing.fora.android
+[4]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
 [6]: https://extensions.libreoffice.org/extensions/latin-spelling-and-hyphenation-dictionaries
 [7]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
 [8]: http://www.gutenberg.org/ebooks/33197
 [9]: http://www.obta.uw.edu.pl/~draco/
+
