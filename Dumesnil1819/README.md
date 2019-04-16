@@ -23,7 +23,7 @@ This dictionary bases on the English edition:
 
 ## Usage guidelines
 
-Attached styles [article-style.css][2] are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
+Custom styles [article-style.css][2] are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
 
 
 ## States and limitations
