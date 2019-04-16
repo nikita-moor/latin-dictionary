@@ -19,7 +19,7 @@ XDXF edition contains only keys and links to the scans of the corresponding page
 
 ## Usage guidelines
 
-Keywords were harmonized with hunspell's [dictionaries for Latin language][1] (ed. by [Karl Zeiler & Jean-Pierre Sutto]). Version by [Konrad Kokoszkiewicz][2] should be compatible as well.
+Keywords were harmonized with hunspell's [dictionaries for Latin language][1] (ed. by Karl Zeiler & Jean-Pierre Sutto). Version by [Konrad Kokoszkiewicz][2] should be compatible as well.
 
 We recommend using [article-style.css][4] for GoldenDict, which is absolutely optional but provides improved appearance. See application's [FAQ][3] for setting up.
 
