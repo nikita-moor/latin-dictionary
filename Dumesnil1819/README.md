@@ -23,7 +23,7 @@ This dictionary bases on the English edition:
 
 ## Usage guidelines
 
-Attached styles [article-style.css](article-style.css) are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
+Attached styles [article-style.css][2] are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
 
 
 ## States and limitations
@@ -52,4 +52,4 @@ This XDXF dictionary is not in copyright (Public Domain). Links in the articles 
 
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
-
+[2]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
