@@ -35,8 +35,6 @@ I am going to continue fixing this index. Text of the articles will be transcrib
 
 ## License
 
-This XDXF dictionary is not in copyright (Public Domain). Links in the articles lead to third-party resources, such as Google Books or HathiTrust, with possibly different license politics.
-
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
 <img src="https://licensebuttons.net/p/mark/1.0/88x31.png"
      style="border-style: none;" alt="Public Domain Mark" />
