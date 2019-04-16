@@ -46,9 +46,9 @@ This XDXF dictionary is not in copyright (Public Domain). Links in the articles 
 ## ToDo
 
 * [x] fix non-recognized articles (all 2541 articles are in the index)
-* [ ] fix OCR errors in the articles' keys
+* [ ] fix OCR errors in the articles' keys (WIP 55%)
 * [ ] add lemmas
-* [ ] transcribe full text
+* [ ] transcribe full text (WIP 3%)
 
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F

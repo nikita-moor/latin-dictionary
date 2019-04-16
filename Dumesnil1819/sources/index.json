@@ -1088,7 +1088,7 @@
       "Molestia",
       "Angor",
       "Anxietas",
-      "Cvra",
+      "Cura",
       "Sollicitudo",
       "Dolor",
       "Mæror",
@@ -3283,7 +3283,7 @@
       "Ferinus",
       "Ferus",
       "Crudelis",
-      "SCPVUS",
+      "Sævus",
       "Teter",
       "Truculentus"
     ],
@@ -5724,14 +5724,14 @@
     "article": 638,
     "keys": [
       "Congiarium",
-      "Donalivum"
+      "Donativum"
     ],
     "page": 150
   },
   {
     "article": 639,
     "keys": [
-      "Conglolare",
+      "Conglobare",
       "Glomerare"
     ],
     "page": 151
@@ -5752,15 +5752,15 @@
       "Conjungere",
       "Colligare",
       "Connectere",
-      "Con-"
+      "Constringere"
     ],
     "page": 151
   },
   {
     "article": 642,
     "keys": [
-      "Conjuncle",
-      "Conju.nciim"
+      "Conjuncte",
+      "Conjunctim"
     ],
     "page": 151
   },
@@ -5837,7 +5837,7 @@
   {
     "article": 651,
     "keys": [
-      "Com ignore",
+      "Consignare",
       "Obsignare"
     ],
     "page": 154
@@ -5906,14 +5906,14 @@
       "Firmus",
       "Stabilis",
       "Solidus",
-      "Duralilis"
+      "Durabilis"
     ],
     "page": 155
   },
   {
     "article": 660,
     "keys": [
-      "Consiantia",
+      "Constantia",
       "Firmitus",
       "Firmitudo",
       "Perseverantia"
@@ -5968,14 +5968,14 @@
     "article": 666,
     "keys": [
       "Consultatio",
-      "Delileratio"
+      "Deliberatio"
     ],
     "page": 157
   },
   {
     "article": 667,
     "keys": [
-      "Consults",
+      "Consulte",
       "Consulto"
     ],
     "page": 157
@@ -5984,7 +5984,7 @@
     "article": 668,
     "keys": [
       "Consultor",
-      "Consultuf"
+      "Consultus"
     ],
     "page": 157
   },
@@ -5993,7 +5993,7 @@
     "keys": [
       "Contagio",
       "Contagium",
-      "Conlaclus"
+      "Contactus"
     ],
     "page": 158
   },
@@ -6018,8 +6018,8 @@
   {
     "article": 672,
     "keys": [
-      "Conleniiosus",
-      "L'tigiosus"
+      "Contentiosus",
+      "Litigiosus"
     ],
     "page": 158
   },
@@ -6038,7 +6038,7 @@
     "keys": [
       "Contiguus",
       "Vicinus",
-      "Ficinalis",
+      "Vicinalis",
       "Confinis",
       "Finitimus"
     ],
@@ -6058,10 +6058,15 @@
       "Continuo",
       "Statim",
       "Confestim",
-      "Aclutum",
+      "Actutum",
       "Ilicet",
-      "lllico",
-      "Protinus"
+      "Illico",
+      "Protinus",
+      "Repente",
+      "Derepente",
+      "Subito",
+      "Extemplo",
+      "Oppido"
     ],
     "page": 159
   },
@@ -6070,7 +6075,7 @@
     "keys": [
       "Contra",
       "E contrario",
-      "Contraric"
+      "Contrarie"
     ],
     "page": 160
   },
@@ -6097,8 +6102,8 @@
   {
     "article": 680,
     "keys": [
-      "Conlroversiosus",
-      "Controversies"
+      "Controversiosus",
+      "Controversus"
     ],
     "page": 161
   },
@@ -6132,7 +6137,7 @@
     "article": 684,
     "keys": [
       "Convertere",
-      "Inverters"
+      "Invertere"
     ],
     "page": 162
   },
@@ -6172,7 +6177,7 @@
   {
     "article": 689,
     "keys": [
-      "Convivia iempestiva",
+      "Convivia tempestiva",
       "Convivia intempestiva"
     ],
     "page": 163
@@ -6182,14 +6187,15 @@
     "keys": [
       "Convivium",
       "Epulum",
-      "Epulce"
+      "Epulæ"
     ],
     "page": 163
   },
   {
     "article": 691,
     "keys": [
-      "Coauere, Torrere"
+      "Coquere",
+      "Torrere"
     ],
     "page": 163
   },
@@ -6197,7 +6203,7 @@
     "article": 692,
     "keys": [
       "Coram",
-      "Anle"
+      "Ante"
     ],
     "page": 163
   },
@@ -6221,22 +6227,22 @@
     "article": 695,
     "keys": [
       "Corona",
-      "Sert urn"
+      "Sertum"
     ],
     "page": 164
   },
   {
     "article": 696,
     "keys": [
-      "Corona classica or rostruta",
-      "Corona nnvulis"
+      "Corona classica or rostrata",
+      "Corona navalis"
     ],
     "page": 164
   },
   {
     "article": 697,
     "keys": [
-      "Corona olsidionalis, vallaris, caslrensis, muralis, civica"
+      "Corona obsidionalis, vallaris, castrensis, muralis, civica"
     ],
     "page": 164
   },
@@ -6259,22 +6265,25 @@
   {
     "article": 700,
     "keys": [
-      "Cor rum per e",
-      "Vniare, Depravare"
+      "Corrumpere",
+      "Vitiare",
+      "Depravare"
     ],
     "page": 165
   },
   {
     "article": 701,
     "keys": [
-      "Corruplfla Corruplio"
+      "Corruptela",
+      "Corruptio"
     ],
     "page": 165
   },
   {
     "article": 702,
     "keys": [
-      "(.'osniouraphia Geo^raphia"
+      "Cosmographia",
+      "Geographia"
     ],
     "page": 165
   },
@@ -6326,7 +6335,7 @@
     "article": 708,
     "keys": [
       "Credibilis",
-      "yerisimilis",
+      "Verisimilis",
       "Probabilis"
     ],
     "page": 167
@@ -6345,9 +6354,10 @@
       "Crepitus",
       "Fremitus",
       "Fremor",
-      "Slrepitus",
+      "Strepitus",
       "Stridor",
-      "Murmur"
+      "Murmur",
+      "Susurrus"
     ],
     "page": 167
   },
@@ -6358,8 +6368,8 @@
       "Culpa",
       "Delictum",
       "Peccatum",
-      "Malejicium",
-      "Male-"
+      "Maleficium",
+      "Maleficentia"
     ],
     "page": 168
   },
@@ -6368,7 +6378,8 @@
     "keys": [
       "Criminari",
       "Culpare",
-      "Vilnperare Impr<,bare"
+      "Vituperare",
+      "Improbare"
     ],
     "page": 168
   },
@@ -6376,7 +6387,7 @@
     "article": 713,
     "keys": [
       "Crimini dare",
-      "Vilio dare"
+      "Vitio dare"
     ],
     "page": 169
   },
@@ -6393,9 +6404,9 @@
     "keys": [
       "Cruciatus",
       "Cruciamentum",
-      "Supplidum",
-      "Tormer.tum",
-      "Carni-"
+      "Supplicium",
+      "Tormentum",
+      "Carnificina"
     ],
     "page": 169
   },
@@ -6420,7 +6431,7 @@
     "keys": [
       "Crustum",
       "Crusta",
-      "Emtlema"
+      "Emblema"
     ],
     "page": 170
   },
@@ -6504,8 +6515,8 @@
     "article": 728,
     "keys": [
       "Cultus",
-      "Ornalus",
-      "Munditics",
+      "Ornatus",
+      "Munditiæ",
       "Ornamentum"
     ],
     "page": 172
@@ -6514,7 +6525,7 @@
     "article": 729,
     "keys": [
       "Cum imperio esse",
-      "Cum poteslnte ease"
+      "Cum potestate esse"
     ],
     "page": 172
   },
@@ -6531,15 +6542,16 @@
     "article": 731,
     "keys": [
       "Cunctari",
-      "Hcetitare"
+      "Hæsitare"
     ],
     "page": 172
   },
   {
     "article": 732,
     "keys": [
-      "('unclatin",
-      "Tarditas Afor-i"
+      "Cunctatio",
+      "Tarditas",
+      "Mora"
     ],
     "page": 172
   },
@@ -6547,7 +6559,7 @@
     "article": 733,
     "keys": [
       "Cunctator",
-      "Cunctalundus",
+      "Cunctabundus",
       "Dilator"
     ],
     "page": 173
@@ -6560,7 +6572,7 @@
       "Optare",
       "Avere",
       "Desiderare",
-      "Veils"
+      "Velle"
     ],
     "page": 173
   },
@@ -6576,7 +6588,8 @@
   {
     "article": 736,
     "keys": [
-      "Cur ? Quare ?"
+      "Cur",
+      "Quare"
     ],
     "page": 174
   },
@@ -6609,7 +6622,7 @@
     "keys": [
       "Curiosus",
       "Diligens",
-      "Attenlus",
+      "Attentus",
       "Sedulus",
       "Studiosus",
       "Officiosus"
@@ -6621,7 +6634,7 @@
     "keys": [
       "Currere",
       "Ruere",
-      "Folare"
+      "Volare"
     ],
     "page": 175
   },
@@ -6737,7 +6750,7 @@
     "article": 753,
     "keys": [
       "Debilis",
-      "Imberillus",
+      "Imbecillus",
       "Imbellis",
       "Imbecillis"
     ],
@@ -6798,7 +6811,7 @@
   {
     "article": 760,
     "keys": [
-      "Decel",
+      "Decet",
       "Convenit"
     ],
     "page": 180
@@ -6807,14 +6820,14 @@
     "article": 761,
     "keys": [
       "Decerpere",
-      "Eicerperc"
+      "Excerpere"
     ],
     "page": 180
   },
   {
     "article": 762,
     "keys": [
-      "Decider e",
+      "Decidere",
       "Excidere",
       "Elabi"
     ],
@@ -6823,7 +6836,7 @@
   {
     "article": 763,
     "keys": [
-      "Decldere",
+      "Decidere",
       "Decernere",
       "Statuere",
       "Transigere"
@@ -6834,7 +6847,7 @@
     "article": 764,
     "keys": [
       "Decipere",
-      "Deiudere",
+      "Deludere",
       "Inescare",
       "Fraudare",
       "Fallere",
@@ -6870,10 +6883,10 @@
   {
     "article": 768,
     "keys": [
-      "Decof/uere",
+      "Decoquere",
       "Helluari",
-      "Alligurire",
-      "Oi-ligurire"
+      "Abligurire",
+      "Obligurire"
     ],
     "page": 182
   },
@@ -6921,7 +6934,8 @@
   {
     "article": 774,
     "keys": [
-      "Decursio, Decursus"
+      "Decursio",
+      "Decursus"
     ],
     "page": 183
   },
@@ -6945,15 +6959,15 @@
   {
     "article": 777,
     "keys": [
-      "Dedisctre",
-      "Ollivisci"
+      "Dediscere",
+      "Oblivisci"
     ],
     "page": 184
   },
   {
     "article": 778,
     "keys": [
-      "Dedilio",
+      "Deditio",
       "Subjectio"
     ],
     "page": 184
@@ -6987,14 +7001,14 @@
     "keys": [
       "Deficere",
       "Desciscere",
-      "RebelLare"
+      "Rebellare"
     ],
     "page": 185
   },
   {
     "article": 783,
     "keys": [
-      "De fleeter e",
+      "Deflectere",
       "Inflectere"
     ],
     "page": 185
@@ -7293,8 +7307,8 @@
     "article": 818,
     "keys": [
       "Describere",
-      "Exscrilere",
-      "Transcriber"
+      "Exscribere",
+      "Transcribere"
     ],
     "page": 193
   },
@@ -7303,7 +7317,7 @@
     "keys": [
       "Desecare",
       "Exsecare",
-      "Pr decider t"
+      "Præcidere"
     ],
     "page": 193
   },
@@ -7341,7 +7355,9 @@
       "Segnities",
       "Inertia",
       "Ignavia",
-      "Otium"
+      "Otium",
+      "Pigritia",
+      "Mollities"
     ],
     "page": 194
   },
@@ -7349,7 +7365,7 @@
     "article": 824,
     "keys": [
       "Desperare",
-      "Diffidcre"
+      "Diffidere"
     ],
     "page": 195
   },
@@ -7367,18 +7383,19 @@
       "Despicere",
       "Spernere",
       "Fastidire",
-      "Temncre",
+      "Temnere",
       "Contemnere",
-      "Aspernarl"
+      "Aspernari",
+      "Negligere"
     ],
     "page": 195
   },
   {
     "article": 827,
     "keys": [
-      "Desiruere",
+      "Destruere",
       "Demoliri",
-      "Euertere",
+      "Evertere",
       "Perdere"
     ],
     "page": 195
@@ -7395,7 +7412,7 @@
   {
     "article": 829,
     "keys": [
-      "Detcxere",
+      "Detexere",
       "Retexere"
     ],
     "page": 196
@@ -7411,8 +7428,8 @@
   {
     "article": 831,
     "keys": [
-      "Del radio",
-      "Delrectatio"
+      "Detractio",
+      "Detrectatio"
     ],
     "page": 196
   },
@@ -7438,7 +7455,7 @@
     "keys": [
       "Deus",
       "Divus",
-      "Numen,"
+      "Numen"
     ],
     "page": 197
   },
@@ -7446,7 +7463,7 @@
     "article": 835,
     "keys": [
       "Diadema",
-      "Jnfula",
+      "Infula",
       "Mitra"
     ],
     "page": 197
@@ -7471,7 +7488,7 @@
   {
     "article": 838,
     "keys": [
-      "Dlctio",
+      "Dictio",
       "Dictum",
       "Stylus"
     ],
@@ -7524,7 +7541,8 @@
   {
     "article": 844,
     "keys": [
-      "Difficilis, Laboriosus",
+      "Difficilis",
+      "Laboriosus",
       "Operosus"
     ],
     "page": 199
@@ -7608,7 +7626,7 @@
     "article": 854,
     "keys": [
       "Dimetiri",
-      "Emeliri"
+      "Emetiri"
     ],
     "page": 202
   },
@@ -7627,7 +7645,7 @@
       "Dirigere",
       "Digerere",
       "Ordinare",
-      "Dhponere",
+      "Disponere",
       "Dispensare"
     ],
     "page": 202
@@ -7653,8 +7671,8 @@
   {
     "article": 859,
     "keys": [
-      "Discemere",
-      "Distingucre",
+      "Discernere",
+      "Distinguere",
       "Secernere"
     ],
     "page": 203
@@ -7671,7 +7689,7 @@
     "article": 861,
     "keys": [
       "Disciplina",
-      "Doclrina",
+      "Doctrina",
       "Documentum"
     ],
     "page": 203
@@ -7691,7 +7709,7 @@
       "Dissimilitudo",
       "Differentia",
       "Discrepantia",
-      "Diversilas"
+      "Diversitas"
     ],
     "page": 204
   },
@@ -7734,7 +7752,7 @@
     "article": 868,
     "keys": [
       "Displodere",
-      "Exploders",
+      "Explodere",
       "Supplodere"
     ],
     "page": 205
@@ -7759,8 +7777,8 @@
   {
     "article": 871,
     "keys": [
-      "Dhpungere rationes",
-      "Expungcre rationes"
+      "Dispungere rationes",
+      "Expungere rationes"
     ],
     "page": 206
   },
@@ -7788,7 +7806,7 @@
       "Dissidium",
       "Discordia",
       "Divisio",
-      "Alruptio"
+      "Abruptio"
     ],
     "page": 207
   },
@@ -7830,7 +7848,7 @@
     "article": 879,
     "keys": [
       "Divellere",
-      "Distrakere"
+      "Distrahere"
     ],
     "page": 208
   },
@@ -7839,7 +7857,7 @@
     "keys": [
       "Diversorium",
       "Hospitium",
-      "Hospitaiitas",
+      "Hospitalitas",
       "Diverticulum"
     ],
     "page": 208
@@ -7847,8 +7865,8 @@
   {
     "article": 881,
     "keys": [
-      "Diver sus",
-      "Far ins"
+      "Diversus",
+      "Varius"
     ],
     "page": 209
   },
@@ -7967,7 +7985,7 @@
     "article": 895,
     "keys": [
       "Domare",
-      "Subigcre"
+      "Subigere"
     ],
     "page": 212
   },
@@ -7998,7 +8016,7 @@
   {
     "article": 899,
     "keys": [
-      "Domus -<is",
+      "Domus -us",
       "Domus -i"
     ],
     "page": 212
@@ -8036,15 +8054,15 @@
     "keys": [
       "Donum",
       "Munus",
-      "Prcemium"
+      "Præmium"
     ],
     "page": 213
   },
   {
     "article": 904,
     "keys": [
-      "Dor mire",
-      "Slertere"
+      "Dormire",
+      "Stertere"
     ],
     "page": 214
   },
@@ -8060,7 +8078,7 @@
     "article": 906,
     "keys": [
       "Dubie",
-      "Dubilanter"
+      "Dubitanter"
     ],
     "page": 214
   },
@@ -8069,31 +8087,31 @@
     "keys": [
       "Dubitare",
       "Ambigere",
-      "Animi or dnimis pendere"
+      "Animi or Animis pendere"
     ],
     "page": 214
   },
   {
     "article": 908,
     "keys": [
-      "Dubilare de aliaua re",
-      "Dubitare ali(/uitl"
+      "Dubitare de aliqua re",
+      "Dubitare aliquid"
     ],
     "page": 214
   },
   {
     "article": 909,
     "keys": [
-      "Dulium",
-      "Dubilatio"
+      "Dubium",
+      "Dubitatio"
     ],
     "page": 215
   },
   {
     "article": 910,
     "keys": [
-      "Dulius",
-      "Incerlus"
+      "Dubius",
+      "Incertus"
     ],
     "page": 215
   },
@@ -8108,7 +8126,7 @@
   {
     "article": 912,
     "keys": [
-      "Dud",
+      "Duci",
       "Trahi"
     ],
     "page": 215
@@ -8116,13 +8134,14 @@
   {
     "article": 913,
     "keys": [
-      "Dudiim",
+      "Dudum",
       "Jam dudum",
       "Diu",
       "Jam diu",
       "Perdiu",
       "Pridem",
-      "Jam"
+      "Jam pridem",
+      "Jam olim"
     ],
     "page": 215
   },
@@ -8141,7 +8160,7 @@
       "Dumetum",
       "Vepres",
       "Sentes",
-      "Rucus"
+      "Rubus"
     ],
     "page": 216
   },
@@ -8149,7 +8168,7 @@
     "article": 916,
     "keys": [
       "Duntaxat",
-      "Soliim,"
+      "Solum"
     ],
     "page": 216
   },
@@ -8157,7 +8176,7 @@
     "article": 917,
     "keys": [
       "Duplex",
-      "Dup'.us"
+      "Duplus"
     ],
     "page": 216
   },
@@ -8188,9 +8207,9 @@
   {
     "article": 921,
     "keys": [
-      "Durilia",
+      "Duritia",
       "Durities",
-      "Durilas",
+      "Duritas",
       "Rigor",
       "Severitas"
     ],
@@ -8200,7 +8219,7 @@
     "article": 922,
     "keys": [
       "Dux",
-      "Due tor",
+      "Ductor",
       "Imperator"
     ],
     "page": 217
@@ -8319,8 +8338,8 @@
   {
     "article": 936,
     "keys": [
-      "Effr&nus",
-      "Effrcenatus",
+      "Effrænus",
+      "Effrænatus",
       "Impotens"
     ],
     "page": 220
@@ -8328,7 +8347,7 @@
   {
     "article": 937,
     "keys": [
-      "Ejfutire",
+      "Effutire",
       "Crepare"
     ],
     "page": 221
@@ -8337,7 +8356,7 @@
     "article": 938,
     "keys": [
       "Egregius",
-      "Ejcimius"
+      "Eximius"
     ],
     "page": 221
   },
@@ -8353,9 +8372,9 @@
   {
     "article": 940,
     "keys": [
-      "Ejulotus",
-      "Ktgilus",
-      "Ululaius"
+      "Ejulatus",
+      "Vagitus",
+      "Ululatus"
     ],
     "page": 221
   },
@@ -8372,7 +8391,7 @@
     "keys": [
       "Elidere",
       "Suffocare",
-      "Slrangitlare"
+      "Strangulare"
     ],
     "page": 222
   },
@@ -8387,7 +8406,7 @@
   {
     "article": 944,
     "keys": [
-      "Elof/uentia",
+      "Eloquentia",
       "Eloquium",
       "Elocutio",
       "Facundia"
@@ -8422,7 +8441,7 @@
   {
     "article": 948,
     "keys": [
-      "Em ax",
+      "Emax",
       "Emptor"
     ],
     "page": 223
@@ -8433,7 +8452,7 @@
       "Emere",
       "Coemere",
       "Mercari",
-      "NundinarL"
+      "Nundinari"
     ],
     "page": 223
   },
@@ -8490,7 +8509,7 @@
     "article": 956,
     "keys": [
       "Enubere",
-      "Innulere"
+      "Innubere"
     ],
     "page": 225
   },
@@ -8507,7 +8526,7 @@
     "article": 958,
     "keys": [
       "Ephebus",
-      "Pules"
+      "Pubes"
     ],
     "page": 225
   },
@@ -8516,7 +8535,7 @@
     "keys": [
       "Epistola",
       "Littera",
-      "l.itterce"
+      "Litteræ"
     ],
     "page": 225
   },
@@ -8631,15 +8650,15 @@
   {
     "article": 973,
     "keys": [
-      "Evilabilis",
-      "Evilandus"
+      "Evitabilis",
+      "Evitandus"
     ],
     "page": 228
   },
   {
     "article": 974,
     "keys": [
-      "Evilare",
+      "Evitare",
       "Devitare"
     ],
     "page": 228
@@ -8675,7 +8694,7 @@
     "article": 978,
     "keys": [
       "Exanimis",
-      "' Inanimus",
+      "Inanimus",
       "Exanimalis"
     ],
     "page": 229
@@ -8684,7 +8703,7 @@
     "article": 979,
     "keys": [
       "Exauctoratus",
-      "JEre dirulus"
+      "Ære dirutus"
     ],
     "page": 229
   },
@@ -8708,7 +8727,7 @@
     "article": 982,
     "keys": [
       "Excursio",
-      "Incur sio"
+      "Incursio"
     ],
     "page": 229
   },
@@ -8752,12 +8771,13 @@
   {
     "article": 987,
     "keys": [
-      "Ezequice",
-      "Fxnus",
+      "Exequiæ",
+      "Funus",
       "Justa",
-      "Fcralia",
-      "Inferior",
-      "Sepultura"
+      "Feralia",
+      "Inferiæ",
+      "Sepultura",
+      "Humatio"
     ],
     "page": 231
   },
@@ -8783,7 +8803,7 @@
       "Exerere",
       "Prodere",
       "Edere",
-      "Prqferre",
+      "Proferre",
       "Promere"
     ],
     "page": 232
@@ -8792,8 +8812,7 @@
     "article": 991,
     "keys": [
       "Exhaurire",
-      "Exinanire",
-      ","
+      "Exinanire"
     ],
     "page": 232
   },
@@ -8804,7 +8823,7 @@
       "Ostendere",
       "Ostentare",
       "Monstrare",
-      "Dcmonstrare"
+      "Demonstrare"
     ],
     "page": 232
   },
@@ -8840,7 +8859,7 @@
     "article": 996,
     "keys": [
       "Existere",
-      "Extare,"
+      "Extare"
     ],
     "page": 234
   },
@@ -8930,22 +8949,22 @@
     "article": 1007,
     "keys": [
       "Expergefacere",
-      "Suscilare"
+      "Suscitare"
     ],
     "page": 236
   },
   {
     "article": 1008,
     "keys": [
-      "Erpergefactus",
-      "Experreclus"
+      "Expergefactus",
+      "Experrectus"
     ],
     "page": 236
   },
   {
     "article": 1009,
     "keys": [
-      "Erperiens",
+      "Experiens",
       "Expertus"
     ],
     "page": 236
@@ -8953,8 +8972,8 @@
   {
     "article": 1010,
     "keys": [
-      "Experienlia",
-      "E.rperimentum"
+      "Experientia",
+      "Experimentum"
     ],
     "page": 236
   },
@@ -8970,7 +8989,7 @@
   {
     "article": 1012,
     "keys": [
-      "Expert",
+      "Expers",
       "Exsors",
       "Immunis"
     ],
@@ -8988,7 +9007,7 @@
   {
     "article": 1014,
     "keys": [
-      "Etplanare",
+      "Explanare",
       "Interpretati"
     ],
     "page": 237
@@ -8996,16 +9015,16 @@
   {
     "article": 1015,
     "keys": [
-      "Eaplanatc",
-      "Erplorate"
+      "Explanate",
+      "Explorate"
     ],
     "page": 238
   },
   {
     "article": 1016,
     "keys": [
-      "Krplicare",
-      "E x toner e"
+      "Explicare",
+      "Exponere"
     ],
     "page": 238
   },
@@ -9014,7 +9033,7 @@
     "keys": [
       "Explorare",
       "Exquirere",
-      "Conquircre",
+      "Conquirere",
       "Requirere"
     ],
     "page": 238
@@ -9022,7 +9041,7 @@
   {
     "article": 1018,
     "keys": [
-      "Exploralor",
+      "Explorator",
       "Speculator"
     ],
     "page": 238
@@ -9030,8 +9049,8 @@
   {
     "article": 1019,
     "keys": [
-      "Exporlare",
-      "Deporlare",
+      "Exportare",
+      "Deportare",
       "Reportare"
     ],
     "page": 238
@@ -9040,7 +9059,7 @@
     "article": 1020,
     "keys": [
       "Expostulare ab aliquo",
-      "Exposlulare cum aliquo"
+      "Expostulare cum aliquo"
     ],
     "page": 239
   },
@@ -9055,7 +9074,7 @@
   {
     "article": 1022,
     "keys": [
-      "Eipromere",
+      "Expromere",
       "Depromere"
     ],
     "page": 239
@@ -9066,7 +9085,7 @@
       "Expugnare",
       "Debellare",
       "Vincere",
-      "Super are"
+      "Superare"
     ],
     "page": 239
   },
@@ -9126,7 +9145,7 @@
     "article": 1030,
     "keys": [
       "Exturbare",
-      "Prcecipitare"
+      "Præcipitare"
     ],
     "page": 241
   },
@@ -9150,7 +9169,7 @@
     "article": 1033,
     "keys": [
       "Fabrica",
-      "Falricalio"
+      "Fabricatio"
     ],
     "page": 242
   },
@@ -9165,16 +9184,16 @@
   {
     "article": 1035,
     "keys": [
-      "Falula",
-      "Falella",
-      "Jpologus"
+      "Fabula",
+      "Fabella",
+      "Apologus"
     ],
     "page": 242
   },
   {
     "article": 1036,
     "keys": [
-      "Falularis",
+      "Fabularis",
       "Fabulosus"
     ],
     "page": 242
@@ -9182,7 +9201,7 @@
   {
     "article": 1037,
     "keys": [
-      "Facer e",
+      "Facere",
       "Agere",
       "Gerere"
     ],
@@ -9199,15 +9218,15 @@
   {
     "article": 1039,
     "keys": [
-      "Facerejinem",
-      "Hal ere finem"
+      "Facere finem",
+      "Habere finem"
     ],
     "page": 243
   },
   {
     "article": 1040,
     "keys": [
-      "Facere Jugam",
+      "Facere fugam",
       "Vertere terga",
       "Vertere solum"
     ],
@@ -9257,7 +9276,7 @@
   {
     "article": 1046,
     "keys": [
-      "Facittus",
+      "Facinus",
       "Flagitium",
       "Scelus",
       "Nefas"
@@ -9304,7 +9323,7 @@
     "article": 1051,
     "keys": [
       "Famula",
-      "Andlla,"
+      "Ancilla"
     ],
     "page": 246
   },
@@ -9330,7 +9349,7 @@
     "article": 1054,
     "keys": [
       "Fanaticus",
-      "Lymphaius",
+      "Lymphatus",
       "Lymphaticus"
     ],
     "page": 247
@@ -9339,9 +9358,9 @@
     "article": 1055,
     "keys": [
       "Fari",
-      "Lo(/ui",
-      "Dicer e",
-      "Perhilere"
+      "Loqui",
+      "Dicere",
+      "Perhibere"
     ],
     "page": 247
   },
@@ -9350,7 +9369,7 @@
     "keys": [
       "Fascia",
       "Villa",
-      "Tcenia"
+      "Tænia"
     ],
     "page": 247
   },
@@ -9368,14 +9387,14 @@
     "keys": [
       "Fateri",
       "Confiteri",
-      "Profiler i"
+      "Profiteri"
     ],
     "page": 248
   },
   {
     "article": 1059,
     "keys": [
-      "Faliscere",
+      "Fatiscere",
       "Dehiscere"
     ],
     "page": 248
@@ -9402,7 +9421,7 @@
       "Favorabilis",
       "Faustus",
       "Prosper",
-      "Propilius"
+      "Propitius"
     ],
     "page": 249
   },
@@ -9472,7 +9491,7 @@
     "article": 1070,
     "keys": [
       "Ferre",
-      "Port are",
+      "Portare",
       "Vehere"
     ],
     "page": 251
@@ -9488,7 +9507,7 @@
   {
     "article": 1072,
     "keys": [
-      "Ferre f rue turn",
+      "Ferre fructum",
       "Capere fructum"
     ],
     "page": 251
@@ -9497,7 +9516,7 @@
     "article": 1073,
     "keys": [
       "Ferre pedem",
-      "Ffferre pedem",
+      "Efferre pedem",
       "Inferre pedem"
     ],
     "page": 251
@@ -9514,7 +9533,7 @@
     "article": 1075,
     "keys": [
       "Fervere",
-      "Sffervescere",
+      "Effervescere",
       "Ebullire"
     ],
     "page": 252
@@ -9533,7 +9552,8 @@
   {
     "article": 1077,
     "keys": [
-      "Festinl: Festinanter"
+      "Festine",
+      "Festinanter"
     ],
     "page": 252
   },
@@ -9565,8 +9585,8 @@
   {
     "article": 1081,
     "keys": [
-      "Fie tor",
-      "Pic tor"
+      "Fictor",
+      "Pictor"
     ],
     "page": 253
   },
@@ -9608,7 +9628,7 @@
     "keys": [
       "Fidentia",
       "Fiducia",
-      "Confidenlia"
+      "Confidentia"
     ],
     "page": 254
   },
@@ -9650,7 +9670,7 @@
   {
     "article": 1091,
     "keys": [
-      "Finger e",
+      "Fingere",
       "Conflare"
     ],
     "page": 256
@@ -9669,7 +9689,7 @@
       "Finire",
       "Terminare",
       "Definire",
-      "Deierminare"
+      "Determinare"
     ],
     "page": 256
   },
@@ -9708,7 +9728,7 @@
   {
     "article": 1097,
     "keys": [
-      "Fizus",
+      "Fixus",
       "Immotus",
       "Immobilis"
     ],
@@ -9744,8 +9764,8 @@
     "article": 1101,
     "keys": [
       "Flectere",
-      "Mover e",
-      "Officer e"
+      "Movere",
+      "Officere"
     ],
     "page": 258
   },
@@ -9837,7 +9857,7 @@
   {
     "article": 1112,
     "keys": [
-      "Fop-dare",
+      "Fœdare",
       "Deformare"
     ],
     "page": 260
@@ -9904,7 +9924,7 @@
     "article": 1120,
     "keys": [
       "Fons",
-      "Scatelra",
+      "Scatebra",
       "Puteus"
     ],
     "page": 262
@@ -9913,7 +9933,7 @@
     "article": 1121,
     "keys": [
       "Forare",
-      "Per/orare",
+      "Perforare",
       "Terebrare",
       "Cavare"
     ],
@@ -9938,8 +9958,8 @@
   {
     "article": 1124,
     "keys": [
-      "Forts",
-      "For as"
+      "Foris",
+      "Foras"
     ],
     "page": 263
   },
@@ -9957,8 +9977,8 @@
       "Formula",
       "Norma",
       "Regula",
-      "Prcuscriptum",
-      "Prcescriptio"
+      "Præscriptum",
+      "Præscriptio"
     ],
     "page": 263
   },
@@ -9977,7 +9997,7 @@
     "article": 1128,
     "keys": [
       "Fors",
-      "Forluna",
+      "Fortuna",
       "Fors-fortuna",
       "Sors"
     ],
@@ -9991,8 +10011,9 @@
       "Fortuitu",
       "Fortasse",
       "Forsan",
-      "Forsilan",
-      "Fortassis"
+      "Forsitan",
+      "Fortassis",
+      "Forsit"
     ],
     "page": 264
   },
@@ -10009,7 +10030,8 @@
   {
     "article": 1131,
     "keys": [
-      "Fossio, Repastinatio"
+      "Fossio",
+      "Repastinatio"
     ],
     "page": 265
   },
@@ -10042,8 +10064,8 @@
   {
     "article": 1135,
     "keys": [
-      "Prater patruelis",
-      "Fraler germanus"
+      "Frater patruelis",
+      "Frater germanus"
     ],
     "page": 266
   },
@@ -10104,7 +10126,7 @@
   {
     "article": 1142,
     "keys": [
-      "Frontier e",
+      "Frondere",
       "Frondescere"
     ],
     "page": 267
@@ -10122,7 +10144,7 @@
     "keys": [
       "Fruges",
       "Fructus",
-      "Foetus"
+      "Fœtus"
     ],
     "page": 267
   },
@@ -10130,7 +10152,7 @@
     "article": 1145,
     "keys": [
       "Frugi",
-      "Frvgalis"
+      "Frugalis"
     ],
     "page": 268
   },
@@ -10138,7 +10160,7 @@
     "article": 1146,
     "keys": [
       "Frugifer",
-      "Frucluosus",
+      "Fructuosus",
       "Fructuarius"
     ],
     "page": 268
@@ -10146,8 +10168,8 @@
   {
     "article": 1147,
     "keys": [
-      "Frumenlalor",
-      "Fruwentarius"
+      "Frumentator",
+      "Frumentarius"
     ],
     "page": 268
   },
@@ -10171,8 +10193,8 @@
   {
     "article": 1150,
     "keys": [
-      "Fruslra est aliquid",
-      "Fruslra est aliquis"
+      "Frustra est aliquid",
+      "Frustra est aliquis"
     ],
     "page": 269
   },
@@ -10227,7 +10249,9 @@
       "Lucere",
       "Nitere",
       "Coruscare",
-      "Radiare"
+      "Radiare",
+      "Rutilare",
+      "Micare"
     ],
     "page": 270
   },
@@ -10235,7 +10259,7 @@
     "article": 1157,
     "keys": [
       "Fulguralis",
-      "Fulminnts"
+      "Fulmineus"
     ],
     "page": 270
   },
@@ -10247,7 +10271,7 @@
       "Fulgor",
       "Tonitru",
       "Fulgetrum",
-      "Futguratio"
+      "Fulguratio"
     ],
     "page": 271
   },
@@ -10273,7 +10297,7 @@
     "keys": [
       "Fundere",
       "Effundere",
-      "Dijfundere"
+      "Diffundere"
     ],
     "page": 271
   },
@@ -10299,7 +10323,7 @@
     "keys": [
       "Funebris",
       "Funereus",
-      "Feralit"
+      "Feralis"
     ],
     "page": 272
   },
@@ -10359,8 +10383,8 @@
   {
     "article": 1171,
     "keys": [
-      "Furite",
-      "Dires",
+      "Furiæ",
+      "Diræ",
       "Eumenides"
     ],
     "page": 274
@@ -10404,7 +10428,7 @@
     "keys": [
       "Ganeo",
       "Nepos",
-      "dsotus"
+      "Asotus"
     ],
     "page": 275
   },
@@ -10420,7 +10444,7 @@
     "article": 1178,
     "keys": [
       "Gaudere",
-      "Lcclari"
+      "Lætari"
     ],
     "page": 275
   },
@@ -10479,14 +10503,14 @@
     "article": 1185,
     "keys": [
       "Generalis",
-      "Univer sails"
+      "Universails"
     ],
     "page": 277
   },
   {
     "article": 1186,
     "keys": [
-      "Generation",
+      "Generatim",
       "Generaliter",
       "Universe"
     ],
@@ -10539,7 +10563,7 @@
     "article": 1192,
     "keys": [
       "Gentilis",
-      "GentiUtius",
+      "Gentilitius",
       "Genticus"
     ],
     "page": 278
@@ -10556,7 +10580,7 @@
   {
     "article": 1194,
     "keys": [
-      "Geslire",
+      "Gestire",
       "Exilire",
       "Exultare"
     ],
@@ -10614,7 +10638,7 @@
   {
     "article": 1200,
     "keys": [
-      "Grammalicits",
+      "Grammaticus",
       "Grammatista"
     ],
     "page": 281
@@ -10639,7 +10663,7 @@
   {
     "article": 1203,
     "keys": [
-      "Graluito",
+      "Gratuito",
       "Gratis"
     ],
     "page": 281
@@ -10689,8 +10713,8 @@
   {
     "article": 1209,
     "keys": [
-      "Gravida Jiiulicr",
-      "Prcegnans mulier"
+      "Gravida mulier",
+      "Prægnans mulier"
     ],
     "page": 282
   },
@@ -10714,7 +10738,7 @@
   {
     "article": 1212,
     "keys": [
-      "Grtssus",
+      "Gressus",
       "Gradus",
       "Passus",
       "Incessus"
@@ -10736,7 +10760,7 @@
       "Gurges",
       "Vorago",
       "Barathrum",
-      "Preecipilium",
+      "Præcipitium",
       "Abyssus"
     ],
     "page": 283
@@ -10761,8 +10785,8 @@
   {
     "article": 1217,
     "keys": [
-      "Halena",
-      "Lortim",
+      "Habena",
+      "Lorum",
       "Corrigia"
     ],
     "page": 284
@@ -10779,7 +10803,7 @@
     "article": 1219,
     "keys": [
       "Habitus",
-      "Habiludo"
+      "Habitudo"
     ],
     "page": 285
   },
@@ -10787,7 +10811,7 @@
     "article": 1220,
     "keys": [
       "Habitus",
-      "Festitus"
+      "Vestitus"
     ],
     "page": 285
   },
@@ -10802,22 +10826,23 @@
   {
     "article": 1222,
     "keys": [
-      "Hcereditas, Patrimonium"
+      "Hæreditas",
+      "Patrimonium"
     ],
     "page": 285
   },
   {
     "article": 1223,
     "keys": [
-      "Hceredilalem adire",
-      "HtEreditatem cernere"
+      "Hæreditatem adire",
+      "Hæreditatem cernere"
     ],
     "page": 285
   },
   {
     "article": 1224,
     "keys": [
-      "Hceretis",
+      "Hæretis",
       "Secla"
     ],
     "page": 286
@@ -10833,7 +10858,7 @@
   {
     "article": 1226,
     "keys": [
-      "Hel-ere",
+      "Hebere",
       "Hebescere"
     ],
     "page": 286
@@ -10842,7 +10867,7 @@
     "article": 1227,
     "keys": [
       "Helluo",
-      "Decoclor"
+      "Decoctor"
     ],
     "page": 286
   },
@@ -10850,7 +10875,7 @@
     "article": 1228,
     "keys": [
       "Herba",
-      "Fasnum"
+      "Fœnum"
     ],
     "page": 286
   },
@@ -10859,7 +10884,7 @@
     "keys": [
       "Herbidus",
       "Herbosus",
-      "Herberts",
+      "Herbeus",
       "Herbarius"
     ],
     "page": 286
@@ -10868,7 +10893,7 @@
     "article": 1230,
     "keys": [
       "Heus",
-      "Hen"
+      "Heu"
     ],
     "page": 287
   },
@@ -10883,9 +10908,9 @@
   {
     "article": 1232,
     "keys": [
-      "Hie",
+      "Hic",
       "Iste",
-      "file",
+      "Ille",
       "Is"
     ],
     "page": 287
@@ -10910,7 +10935,7 @@
   {
     "article": 1235,
     "keys": [
-      "Hoedus",
+      "Hœdus",
       "Caper",
       "Hircus"
     ],
@@ -10936,14 +10961,14 @@
     "article": 1238,
     "keys": [
       "Honestare",
-      "Honor are"
+      "Honorare"
     ],
     "page": 288
   },
   {
     "article": 1239,
     "keys": [
-      "Haneslus",
+      "Honestus",
       "Honoratus"
     ],
     "page": 289
@@ -10959,7 +10984,8 @@
   {
     "article": 1241,
     "keys": [
-      "Honor, fi'unus"
+      "Honor",
+      "Munus"
     ],
     "page": 289
   },
@@ -11021,7 +11047,7 @@
     "keys": [
       "Hospes",
       "Caupo",
-      "Diver sor"
+      "Diversor"
     ],
     "page": 291
   },
@@ -11036,8 +11062,8 @@
   {
     "article": 1250,
     "keys": [
-      "Hoslia",
-      "Viclima"
+      "Hostia",
+      "Victima"
     ],
     "page": 291
   },
@@ -11046,7 +11072,7 @@
     "keys": [
       "Humane",
       "Humaniter",
-      "Humanilus"
+      "Humanitus"
     ],
     "page": 291
   },
@@ -11118,7 +11144,7 @@
       "Jactatio",
       "Jactantia",
       "Fastus",
-      "Osienlaiio"
+      "Ostentatio"
     ],
     "page": 293
   },
@@ -11128,9 +11154,9 @@
       "Jam",
       "Jam-jam",
       "Jam nunc",
-      "Jam prim am",
-      "Jam turn",
-      "Jaminde"
+      "Jam primum",
+      "Jam tum",
+      "Jam inde"
     ],
     "page": 293
   },
@@ -11173,8 +11199,8 @@
   {
     "article": 1265,
     "keys": [
-      "Jdioies",
-      "Rudis,"
+      "Idiotes",
+      "Rudis"
     ],
     "page": 295
   },
@@ -11269,8 +11295,9 @@
   {
     "article": 1276,
     "keys": [
-      "Imbnere",
-      "Inficere Infuscare"
+      "Imbuere",
+      "Inficere",
+      "Infuscare"
     ],
     "page": 298
   },
@@ -11288,7 +11315,7 @@
     "keys": [
       "Imminere",
       "Impendere",
-      "(2dconjug.)"
+      "(2d conjug.)"
     ],
     "page": 298
   },
@@ -11297,7 +11324,7 @@
     "keys": [
       "Immundus",
       "Spurcus",
-      "Obscaenus",
+      "Obscœnus",
       "Impurus"
     ],
     "page": 299
@@ -11401,10 +11428,10 @@
   {
     "article": 1291,
     "keys": [
-      "Implers",
+      "Implere",
       "Explere",
       "Replere",
-      "Com pier e",
+      "Complere",
       "Opplere"
     ],
     "page": 302
@@ -11421,17 +11448,17 @@
     "article": 1293,
     "keys": [
       "Imprimere",
-      "Inurtre"
+      "Inurere"
     ],
     "page": 302
   },
   {
     "article": 1294,
     "keys": [
-      "Improlus",
+      "Improbus",
       "Malus",
       "Pravus",
-      "Depravalus"
+      "Depravatus"
     ],
     "page": 302
   },
@@ -11440,7 +11467,7 @@
     "keys": [
       "Improvisus",
       "Inopinatus",
-      "InspeYatus"
+      "Insperatus"
     ],
     "page": 303
   },
@@ -11471,8 +11498,8 @@
   {
     "article": 1299,
     "keys": [
-      "Inius",
-      "Infenis",
+      "Imus",
+      "Inferus",
       "Infimus"
     ],
     "page": 304
@@ -11489,14 +11516,14 @@
     "article": 1301,
     "keys": [
       "In manu",
-      "Prce munu"
+      "Præ manu"
     ],
     "page": 304
   },
   {
     "article": 1302,
     "keys": [
-      "In occulco",
+      "In occulto",
       "Ex occulto"
     ],
     "page": 304
@@ -11504,16 +11531,16 @@
   {
     "article": 1303,
     "keys": [
-      "In prccsenti",
-      "In prccsentiii"
+      "In præsenti",
+      "In præsentia"
     ],
     "page": 304
   },
   {
     "article": 1304,
     "keys": [
-      "In prcesenli re",
-      "In prtesentem rem"
+      "In præsenti re",
+      "In præsentem rem"
     ],
     "page": 305
   },
@@ -11528,8 +11555,8 @@
   {
     "article": 1306,
     "keys": [
-      "Infiuditus",
-      "Ir.audibilis"
+      "Inauditus",
+      "Inaudibilis"
     ],
     "page": 305
   },
@@ -11555,8 +11582,8 @@
   {
     "article": 1309,
     "keys": [
-      "Indpcre",
-      "Ccepisse",
+      "Incipere",
+      "Cœpisse",
       "Inchoare",
       "Ordiri"
     ],
@@ -11574,14 +11601,14 @@
     "article": 1311,
     "keys": [
       "Incitatio",
-      "Incitamentujr"
+      "Incitamentum"
     ],
     "page": 306
   },
   {
     "article": 1312,
     "keys": [
-      "Incceptir",
+      "Incœptio",
       "Incoeptum"
     ],
     "page": 306
@@ -11589,9 +11616,9 @@
   {
     "article": 1313,
     "keys": [
-      "fucogitans",
+      "Incogitans",
       "Incogitatus",
-      "IncogiialUis"
+      "Incogitabilis"
     ],
     "page": 306
   },
@@ -11644,16 +11671,17 @@
     "article": 1319,
     "keys": [
       "Increpare",
-      "Increpilare",
+      "Increpitare",
       "Reprehendere",
-      "Oljurgare"
+      "Objurgare"
     ],
     "page": 308
   },
   {
     "article": 1320,
     "keys": [
-      "Incurrere, Incur sare"
+      "Incurrere",
+      "Incursare"
     ],
     "page": 308
   },
@@ -11683,7 +11711,7 @@
     "article": 1323,
     "keys": [
       "Indigena",
-      "Tnquilinus"
+      "Inquilinus"
     ],
     "page": 309
   },
@@ -11724,7 +11752,7 @@
     "article": 1328,
     "keys": [
       "Indomitus",
-      "Inlractatus",
+      "Intractatus",
       "Intractabilis"
     ],
     "page": 310
@@ -11732,7 +11760,7 @@
   {
     "article": 1329,
     "keys": [
-      "Inducice",
+      "Induciæ",
       "Pax",
       "Pacificatio"
     ],
@@ -11793,7 +11821,7 @@
     "article": 1336,
     "keys": [
       "Infamare",
-      "Drfiamare"
+      "Diffamare"
     ],
     "page": 312
   },
@@ -11808,7 +11836,7 @@
   {
     "article": 1338,
     "keys": [
-      "Infuns",
+      "Infans",
       "Puer"
     ],
     "page": 312
@@ -11855,7 +11883,7 @@
     "keys": [
       "Infinitas",
       "Infinitudo",
-      "Perpetuilas"
+      "Perpetuitas"
     ],
     "page": 313
   },
@@ -11870,7 +11898,7 @@
   {
     "article": 1345,
     "keys": [
-      "Infiatio",
+      "Inflatio",
       "Inflatus"
     ],
     "page": 313
@@ -11895,7 +11923,7 @@
   {
     "article": 1348,
     "keys": [
-      "Infu.nd.ere",
+      "Infundere",
       "Invergere"
     ],
     "page": 314
@@ -11914,7 +11942,7 @@
     "keys": [
       "Ingredi",
       "Intrare",
-      "Iniroire"
+      "Introire"
     ],
     "page": 315
   },
@@ -11922,14 +11950,14 @@
     "article": 1351,
     "keys": [
       "Ingruere",
-      "Incumlere"
+      "Incumbere"
     ],
     "page": 315
   },
   {
     "article": 1352,
     "keys": [
-      "Inhospit&lis",
+      "Inhospitalis",
       "Inhospitus"
     ],
     "page": 315
@@ -11946,11 +11974,12 @@
     "article": 1354,
     "keys": [
       "Initium",
-      "Inilia",
+      "Initia",
       "Principium",
       "Principia",
       "Exordium",
-      "Primordium"
+      "Primordium",
+      "Proœmium"
     ],
     "page": 315
   },
@@ -11960,7 +11989,7 @@
       "Injurii",
       "Maledictio",
       "Maledictum",
-      "Conlumelia",
+      "Contumelia",
       "Convicium"
     ],
     "page": 316
@@ -11976,15 +12005,15 @@
   {
     "article": 1357,
     "keys": [
-      "Injurid prohibere",
-      "Al injuria, detrahere"
+      "Injuria prohibere",
+      "Ab injuria detrahere"
     ],
     "page": 317
   },
   {
     "article": 1358,
     "keys": [
-      "Injuriam facer e",
+      "Injuriam facere",
       "Nocere",
       "Obesse"
     ],
@@ -11993,8 +12022,8 @@
   {
     "article": 1359,
     "keys": [
-      "knjurius",
-      "Injurinsus",
+      "Injurius",
+      "Injuriosus",
       "Injustus"
     ],
     "page": 317
@@ -12011,8 +12040,8 @@
   {
     "article": 1361,
     "keys": [
-      "Ifinocentia",
-      "Inlegritas"
+      "Innocentia",
+      "Integritas"
     ],
     "page": 317
   },
@@ -12029,7 +12058,7 @@
     "keys": [
       "Innuptus",
       "Innulus",
-      "Ccelebs"
+      "Cœlebs"
     ],
     "page": 318
   },
@@ -12139,7 +12168,8 @@
   {
     "article": 1376,
     "keys": [
-      "Instare* Urgere"
+      "Instare",
+      "Urgere"
     ],
     "page": 321
   },
@@ -12163,15 +12193,15 @@
   {
     "article": 1379,
     "keys": [
-      "Jtislilittio",
-      "Insiitutum"
+      "Institutio",
+      "Institutum"
     ],
     "page": 322
   },
   {
     "article": 1380,
     "keys": [
-      "Inslrumentum",
+      "Instrumentum",
       "Supellex"
     ],
     "page": 322
@@ -12179,7 +12209,7 @@
   {
     "article": 1381,
     "keys": [
-      "Jnsumere",
+      "Insumere",
       "Impendere",
       "Erogare"
     ],
@@ -12245,7 +12275,7 @@
   {
     "article": 1389,
     "keys": [
-      "Inter manns",
+      "Inter manus",
       "Per manus"
     ],
     "page": 324
@@ -12279,7 +12309,7 @@
     "article": 1393,
     "keys": [
       "Inter cessio",
-      "Inlercessus"
+      "Intercessus"
     ],
     "page": 325
   },
@@ -12287,8 +12317,8 @@
     "article": 1394,
     "keys": [
       "Intercludere",
-      "Exdudere",
-      "Inlersepire"
+      "Excludere",
+      "Intersepire"
     ],
     "page": 325
   },
@@ -12304,7 +12334,7 @@
     "article": 1396,
     "keys": [
       "Interequitare",
-      "Pertquitare"
+      "Perequitare"
     ],
     "page": 325
   },
@@ -12329,7 +12359,7 @@
     "article": 1399,
     "keys": [
       "Interpellare",
-      "Otloqui"
+      "Obloqui"
     ],
     "page": 326
   },
@@ -12337,7 +12367,7 @@
     "article": 1400,
     "keys": [
       "Interrogatio",
-      "Ptrcontatio"
+      "Percontatio"
     ],
     "page": 326
   },
@@ -12376,7 +12406,7 @@
   {
     "article": 1405,
     "keys": [
-      "Inlromittere",
+      "Intromittere",
       "Introducere",
       "Inducere"
     ],
@@ -12385,8 +12415,8 @@
   {
     "article": 1406,
     "keys": [
-      "Indeniie",
-      "Eeperirc",
+      "Invenire",
+      "Reperire",
       "Nancisci",
       "Comperire"
     ],
@@ -12403,8 +12433,8 @@
   {
     "article": 1408,
     "keys": [
-      "Jnveterascere",
-      "Senescerc"
+      "Inveterascere",
+      "Senescere"
     ],
     "page": 328
   },
@@ -12412,8 +12442,8 @@
     "article": 1409,
     "keys": [
       "Invidia",
-      "Invidenlia",
-      "L'wor"
+      "Invidentia",
+      "Livor"
     ],
     "page": 328
   },
@@ -12436,9 +12466,9 @@
   {
     "article": 1412,
     "keys": [
-      "Invilatio",
-      "Invitamcntum",
-      "Illecelra"
+      "Invitatio",
+      "Invitamentum",
+      "Illecebra"
     ],
     "page": 329
   },
@@ -12454,7 +12484,7 @@
     "article": 1414,
     "keys": [
       "Inultus",
-      "Iwpunitus"
+      "Impunitus"
     ],
     "page": 329
   },
@@ -12481,7 +12511,8 @@
       "Jocularis",
       "Jocularius",
       "Joculatorius",
-      "Ridiculus"
+      "Ridiculus",
+      "Ludicrus"
     ],
     "page": 330
   },
@@ -12491,7 +12522,8 @@
       "Jocus",
       "Ludus",
       "Lusus",
-      "Lusio, Judicrum"
+      "Lusio",
+      "Ludicrum"
     ],
     "page": 330
   },
@@ -12518,8 +12550,8 @@
   {
     "article": 1421,
     "keys": [
-      "Irritalio",
-      "Irrilamentum",
+      "Irritatio",
+      "Irritamentum",
       "Irritamen"
     ],
     "page": 331
@@ -16778,12 +16810,14 @@
   {
     "article": 1914,
     "keys": [
-      "Pelere",
+      "Petere",
       "Postulare",
-      "Flagilare",
+      "Flagitare",
       "Efflagitare",
       "Poscere",
-      "Deposcere"
+      "Deposcere",
+      "Exposcere",
+      "Expostulare"
     ],
     "page": 444
   },
@@ -17148,7 +17182,7 @@
     "article": 1955,
     "keys": [
       "Potus",
-      "Polio",
+      "Potio",
       "Potatio"
     ],
     "page": 454
@@ -17727,7 +17761,7 @@
     "article": 2023,
     "keys": [
       "Propellere",
-      "Propuhare"
+      "Propulsare"
     ],
     "page": 469
   },
@@ -17768,7 +17802,7 @@
     "keys": [
       "Prorsus",
       "Omnino",
-      "Penhiis"
+      "Penitus"
     ],
     "page": 470
   },
@@ -17792,7 +17826,7 @@
   {
     "article": 2031,
     "keys": [
-      "Proturlare",
+      "Proturbare",
       "Protrudere"
     ],
     "page": 470
@@ -17801,7 +17835,7 @@
     "article": 2032,
     "keys": [
       "Proverbium",
-      "Axioina"
+      "Axioma"
     ],
     "page": 470
   },
@@ -17818,17 +17852,17 @@
     "keys": [
       "Prudens",
       "Sapiens",
-      "Cordalus"
+      "Cordatus"
     ],
     "page": 471
   },
   {
     "article": 2035,
     "keys": [
-      "Prudtnsfeci",
-      "Prudenter fed",
-      "Sciens fed",
-      "Sdenterfeci"
+      "Prudens feci",
+      "Prudenter feci",
+      "Sciens feci",
+      "Scienter feci"
     ],
     "page": 471
   },
@@ -17836,7 +17870,7 @@
     "article": 2036,
     "keys": [
       "Pruna",
-      "Carlo"
+      "Carbo"
     ],
     "page": 471
   },
@@ -17852,7 +17886,7 @@
     "article": 2038,
     "keys": [
       "Publicare",
-      "Fulgare",
+      "Vulgare",
       "Divulgare",
       "Pervulgare"
     ],
@@ -21796,9 +21830,9 @@
   {
     "article": 2497,
     "keys": [
-      "yinosus",
-      "Pinolentus",
-      "Vinarlus",
+      "Vinosus",
+      "Vinolentus",
+      "Vinarius",
       "Potus",
       "Temulentus"
     ],
