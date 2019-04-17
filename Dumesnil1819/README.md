@@ -44,7 +44,7 @@ I am going to continue fixing this index. Text of the articles will be transcrib
 ## ToDo
 
 * [x] fix non-recognized articles (all 2541 articles are in the index)
-* [ ] fix OCR errors in the articles' keys (WIP 55%)
+* [ ] fix OCR errors in the articles' keys (WIP 81%)
 * [ ] add lemmas
 * [ ] transcribe full text (WIP 3%)
 
