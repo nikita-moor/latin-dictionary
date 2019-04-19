@@ -37,7 +37,7 @@ _To be written_
 
 ## ToDo
 
-* [ ] transcribe full text (WIP 29%)
+* [ ] transcribe full text (WIP 33%)
 * [ ] add lemmas
 
 
