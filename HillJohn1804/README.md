@@ -4,7 +4,7 @@ Full title is "The synonymes of the Latin language, alphabetically arranged; wit
 
 In fact, these are two dictionaries unde one cover, a dictionary of **Latin** synonyms and a handbook of **Latin** prepositions. Explications on **English** are very extensive, take 2-3 pages on average for groups of synonyms and up to 12 pages for prepositions. Total number of articles is 371.
 
-XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. I do not plan to transcribe it.
+XDXF edition contains only keys and links to the scans of the corresponding pages in the Internet. I do not plan to transcribe it. [Download](https://github.com/nikita-moor/latin-dictionary/releases/tag/HillJohn1804-1).
 
 
 ## Exemplum

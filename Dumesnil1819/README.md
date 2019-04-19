@@ -2,7 +2,7 @@
 
 Full title is "Latin synonyms, with their different significations, and examples taken from the best Latin authors".
 
-Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format.
+Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format. [Download](https://github.com/nikita-moor/latin-dictionary/releases/tag/Dumesnil1819-2).
 
 To the date, most of the articles contain only links to the scans of the corresponding pages in the Internet. Only small part was transcribed. If you want to help:
 1) please, open an issue stating your desire
