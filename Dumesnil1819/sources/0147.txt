@@ -1,0 +1,17 @@
++Affinis+, %a relative by marriage%, %a relative of our relations%.
+* Marius affinis noster. #Cic.# One of Marius's family had been admitted into Cicero's family.
+It signifies also a neighbour.
+* Ut quisque potentiori affinis erat, sedibus pellebantur. #Sal.#
+Figuratively:
+* Affinis sceleri, culpæ. #Cic.#
++Propinquus+, (_from_ prope) %near of kin%, %allied%.
+* Vestalis hujus propinqua. #Cic.#
+* Cives propriores quam peregrini, et propinqui quam alieni. #Id.#
++Agnatus+, signifies literally %one born after the father's will is made%.
+* Cui filius agnatus sit, ejus testamentum non esse ruptum judica. #Cic.#
+_Agnatus_ is said of %kindred by the fathers side%. _Agnati_, say the lawyers, _qui per virilis sexus agnationem conjuncti sunt, quasi a patre congeniti, velut frater eodem patre natus, filius fratris, &c._
+* Jupiter, Juno, reliqui quos fratres inter se et agnatos usurpare atque appellare solemus. #Cic.# Jupiter, Juno, and the other deities were related by Saturn.
++Cognatus+, (cum natus) %a relative%, %a cousin%.
+* Pro reditu Pompeii multi cognati et affines deprecati sunt. #Cic.#
+It is an axiom in law that _agnati_ are _cognati_; but all _cognati_ are not _agnati_. For example, an uncle by the father's side 
+is _agnatus_ and _cognatus_; whereas an uncle by the mother's side is _cognatus_ and not _agnatus_, because the mother was not originally one of her husband's family, and was only admitted into it by her marriage.
