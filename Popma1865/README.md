@@ -11,7 +11,7 @@ XDXF version contains keys and scans of the corresponding pages. Scanned images 
 
 ## Exemplum
 
-[![screenshot](https://user-images.githubusercontent.com/13879891/56867170-ef537a80-69ea-11e9-9e3e-9ef37277eb2e.png)](https://user-images.githubusercontent.com/13879891/56866527-e363ba80-69e2-11e9-9a65-1f906d3281dd.png) [![scan](https://user-images.githubusercontent.com/13879891/56866696-0b541d80-69e5-11e9-890c-bc63393d294d.png)](https://user-images.githubusercontent.com/13879891/56866525-e2cb2400-69e2-11e9-8828-31233c39b1ea.png)
+[![screenshot](https://user-images.githubusercontent.com/13879891/56867170-ef537a80-69ea-11e9-9e3e-9ef37277eb2e.png)](https://user-images.githubusercontent.com/13879891/56866527-e363ba80-69e2-11e9-9a65-1f906d3281dd.png) [![scan](https://user-images.githubusercontent.com/13879891/56866696-0b541d80-69e5-11e9-890c-bc63393d294d.png)](http://www.archive.org/stream/bub_gb_KAPvVIaT-ZEC#page/n217/mode/1up)
 
 
 ## Sources
