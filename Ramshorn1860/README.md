@@ -16,7 +16,7 @@ XDXF version contains keys and scans of the corresponding pages. Scanned images 
 
 ## Sources
 
-1. Ramshorn, L.; Lieber, F. _Dictionary of Latin synonymes, for the use of schools and private students, with a complete index._ Butler E. H. & Co., Philadelphia, 1860. URL: <https://books.google.pl/books?id=nEU5AQAAMAAJ> \[Accessed 28 April 2019\].
+1. Ramshorn, L.; Lieber, F. (translator). _Dictionary of Latin synonymes, for the use of schools and private students, with a complete index._ Butler E. H. & Co., Philadelphia, 1860. URL: <https://books.google.pl/books?id=nEU5AQAAMAAJ> \[Accessed 28 April 2019\].
 
 
 ## Usage guidelines
