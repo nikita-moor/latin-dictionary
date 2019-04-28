@@ -34,3 +34,22 @@
 }
 .xdxf_ex_orig { color: #3465a4; }
 
+/*
+ * Images preview-full
+ */
+
+.nikita-moor-image {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 999;
+    height: 800px;
+    max-height: 98%;
+}
+.nikita-moor-label:checked + label >> img.nikita-moor-image {
+    display: block !important;
+}
+deftext img { box-shadow: 0 0 6px rgba(132, 132, 132, .75); }
+deftext img:hover { cursor:pointer; }
+
