@@ -14,6 +14,10 @@
     [Lat-Eng] dictionary of synonyms and prepositions
 * [Latinská Synonymika][7] (Skřivan, 1890) \
     [Lat-Ces] dictionary of synonyms (in Czech)
+* [De differentiis verborum][8] (Popma, 1865) \
+    [Lat-Lat] dictionary of synonyms
+* [Dictionary of Latin synonymes][9] (Ramshorn, 1860) \
+    [Lat-Eng] dictionary of synonyms
 
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/Doederlein1874
@@ -23,4 +27,6 @@
 [5]: https://github.com/nikita-moor/latin-dictionary/tree/master/Shumway1898
 [6]: https://github.com/nikita-moor/latin-dictionary/tree/master/HillJohn1804
 [7]: https://github.com/nikita-moor/latin-dictionary/tree/master/Skrivan1890
+[8]: https://github.com/nikita-moor/latin-dictionary/tree/master/Popma1865
+[9]: https://github.com/nikita-moor/latin-dictionary/tree/master/Ramshorn1860
 
