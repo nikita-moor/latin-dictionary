@@ -2,23 +2,27 @@
 
 Full title is "Latin synonyms, with their different significations, and examples taken from the best Latin authors".
 
-Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format. [Download](https://github.com/nikita-moor/latin-dictionary/releases/tag/Dumesnil1819-2).
+Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format. For download see [Release][3] section.
 
-To the date, most of the articles contain only links to the scans of the corresponding pages in the Internet. Only small part was transcribed. If you want to help:
-1) please, open an issue stating your desire
-1) choose a range of articles for transcription
+Scanned images (folder 'res') are distributed with release version only; using file `dict.xdxf` from this repository, you will see placeholders in place of pages.
+
+To the date, most of the articles contain only scans of the corresponding pages and links to the ebooks in the Internet. Only small part was transcribed. If you want to help:
+
+1) please, open an [issue][4] stating your desire;
+1) choose a range of articles for transcription;
 1) check [sources](sources) for the required format (plain text).
 
 ## Exemplum
 
-[![screenshot-2](https://user-images.githubusercontent.com/13879891/55178197-fc840c00-5195-11e9-93f2-1886384e0f84.png)](https://user-images.githubusercontent.com/13879891/55178184-f7bf5800-5195-11e9-83e1-3de7a284f08e.png) [![small-1](https://user-images.githubusercontent.com/13879891/55178292-29382380-5196-11e9-98c1-9f5a923d49ac.png)](https://user-images.githubusercontent.com/13879891/55178291-289f8d00-5196-11e9-9789-105892b99157.png)
+[![screenshot](https://user-images.githubusercontent.com/13879891/56865816-f3779c00-69da-11e9-9eac-be083504f52a.png)](https://user-images.githubusercontent.com/13879891/56865815-f3779c00-69da-11e9-998f-cc3e6dc9baf0.png) [![screenshot](https://user-images.githubusercontent.com/13879891/56865819-f3779c00-69da-11e9-8153-2eef5656e3ce.png)](https://user-images.githubusercontent.com/13879891/56865818-f3779c00-69da-11e9-9c6e-c86de94abf0f.png)
 
 
 ## Sources
 
-This dictionary bases on the English edition:
+This dictionary bases on the 2nd English edition, and was corrected by the 3rd edition:
     
-1. Gardin-Dumesnil, J. B.; Gosset, J. M. (translator). _Latin synonyms, with their different significations, and examples taken from the best Latin authors (2nd edition)._ Whittaker, London, 1819. URL: <https://archive.org/details/latinsynonymswit00garduoft> \[Accessed 27 March 2019\].
+1. Gardin-Dumesnil, J. B.; Gosset, J. M. (translator). _Latin synonyms, with their different significations, and examples taken from the best Latin authors (2nd edition)._ Whittaker, London, 1819. URL: <https://archive.org/details/latinsynonymswit00garduoft> \[Accessed 24 April 2019\].
+2. Gardin-Dumesnil, J. B.; Gosset, J. M. (translator). _Latin synonyms, with their different significations: and examples taken from the best Latin authors; with additions and corrections (3rd edition)._ Whittaker, London, 1825. URL: <https://catalog.hathitrust.org/Record/009011445> \[Accessed 24 April 2019\].
 
 
 ## Usage guidelines
@@ -27,8 +31,6 @@ Custom styles [article-style.css][2] are optional but strongly recommended to th
 
 
 ## States and limitations
-
-Originally, this work was only an experiment on producing index of scanned pages from OCR text with possibly high level of errors. In spite of my low expectations, about 80% of the dictionary structure was recognized correctly (garbage characters still could present) and the result can practically be used.
 
 I am going to continue fixing this index. Text of the articles will be transcribed, but it could take very long time.
 
@@ -51,3 +53,6 @@ I am going to continue fixing this index. Text of the articles will be transcrib
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
 [2]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
+[3]: https://github.com/nikita-moor/latin-dictionary/releases
+[4]: https://github.com/nikita-moor/latin-dictionary/issues
+
