@@ -1,6 +1,6 @@
 # Latinská synonymika pro školu i dům, Skřivan (1890)
 
-**Latin-Czech** dictionary of Latin synonyms. It is a compilation of well-known dictionaries (see [author's preface][1]) translated into Czech language. Explanations are clear, compact, and accompanied with good examples.
+**Latin-Czech** dictionary of Latin synonyms is a compilation of well-known dictionaries (see [author's preface][1]) translated into Czech language. Explanations are clear, compact, and accompanied with good examples.
 
 _Work in progress._
 
