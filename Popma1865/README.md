@@ -6,7 +6,7 @@ Dictionary of **Latin** synonyms with explanations on **Latin**, in XDXF format.
 
 **Early development version.** For download see [Release][3] section.
 
-XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only; using file `dict.xdxf` from this repository, you will see placeholders in place of pages.
+XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release version and replace file `dict.xdxf` with a version from this repository.
 
 
 ## Exemplum
@@ -39,7 +39,8 @@ It is an early development version. Index of keywords does contain multiple erro
 
 ## ToDo
 
-* [ ] fix OCR errors in the articles' keys
+* [x] fix OCR errors in the articles' keys (first proofread round)
+* [ ] fix OCR errors in the articles' keys (second proofread round)
 * [ ] add lemmas
 * [ ] ~~transcribe full text~~
 
