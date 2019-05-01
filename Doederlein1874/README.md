@@ -37,13 +37,16 @@ We tried to extract as much of machine readable information as possible, so the 
 
 ## Errata
 
-Typos found and fixed in the text of the book (line numbers from the transcript):
+Typos found and fixed in the text of the following articles:
 
-1. "sodes" to "sordes", line #5583
-1. "prædia" to "prædæ", line #7236
-1. "diutunus" to "diuturnus", line #7333
-
-Reference "(295.)" in "casus" was resolved to "(v. 295.)".
+* Lutum; Limus; Coenum; Sordes…
+    * "sodes" changed to "sordes"
+* Præda; Manubiæ; Spolia; Exuviæ; Rapina.
+    * "prædia" changed to "prædæ"
+* Pridem; Diu; Dudum; Diuturnus; Diutinus.
+    * "diutunus" changed to "diuturnus"
+* Casus; Fors; Fortuna; Fors Fortuna; Fatum.
+    * reference "(295.)" was resolved to "(v. 295.)"
 
 Small changes in formatting (such as change of bold to italic) were made in the articles discussing following words: "numen", "tellus", "ludicrum", "restituere", "pigritia", "perperam", "sacer".
 
