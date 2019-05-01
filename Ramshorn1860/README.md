@@ -6,7 +6,7 @@ Dictionary of **Latin** synonyms with explanations on **English**, in XDXF forma
 
 **Early development version.** For download see [Release][3] section.
 
-XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only; using file `dict.xdxf` from this repository, you will see placeholders in place of pages.
+XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release version and replace file `dict.xdxf` with a version from this repository.
 
 
 ## Exemplum
@@ -39,9 +39,8 @@ It is an early development version. Index of keywords does contain multiple erro
 
 ## ToDo
 
-* [ ] fix OCR errors in the articles' keys
+* [ ] fix OCR errors in the articles' keys (50% WIP)
 * [ ] add lemmas
-* [ ] ~~transcribe full text~~
 
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
