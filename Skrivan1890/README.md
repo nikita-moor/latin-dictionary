@@ -7,7 +7,7 @@ _Work in progress._
 
 ## Exemplum
 
-[![screenshot-1](https://user-images.githubusercontent.com/13879891/55735665-7637b780-5a2a-11e9-9fde-ecf0f8a13b84.jpg)](https://user-images.githubusercontent.com/13879891/55735673-7a63d500-5a2a-11e9-8a28-77fe090671c2.png) [![screenshot-2](https://user-images.githubusercontent.com/13879891/55735666-76d04e00-5a2a-11e9-800c-1114cb4b3961.jpg)](https://user-images.githubusercontent.com/13879891/55735674-7a63d500-5a2a-11e9-9aea-4f341d5da67c.png)
+[![screenshot-2](https://user-images.githubusercontent.com/13879891/55735666-76d04e00-5a2a-11e9-800c-1114cb4b3961.jpg)](https://user-images.githubusercontent.com/13879891/55735674-7a63d500-5a2a-11e9-9aea-4f341d5da67c.png)
 
 
 ## Sources
