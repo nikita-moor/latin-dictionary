@@ -19,7 +19,7 @@ See also blog of [Iohannes Brunensis][3].
 
 ## Usage guidelines
 
-We recommend using [article-style.css][4] for GoldenDict, which is absolutely optional but provides improved appearance. See application's [FAQ][3] for setting up.
+We recommend using [article-style.css][4] for GoldenDict, which is optional for this dicionary but provides improved appearance. See application's [FAQ][3] for setting up.
 
 
 ## Errata
@@ -37,7 +37,8 @@ _To be written_
 
 ## ToDo
 
-* [ ] transcribe full text (WIP 81%)
+* [x] transcribe full text
+* [ ] proofread transcribed text (WIP 12%)
 * [ ] add lemmas
 
 
