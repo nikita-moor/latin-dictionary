@@ -7,7 +7,7 @@ For download see [Release][2] section.
 
 ## Exemplum
 
-[![screenshot-2](https://user-images.githubusercontent.com/13879891/55735666-76d04e00-5a2a-11e9-800c-1114cb4b3961.jpg)](https://user-images.githubusercontent.com/13879891/55735674-7a63d500-5a2a-11e9-9aea-4f341d5da67c.png)
+[![screenshot-3-small](https://user-images.githubusercontent.com/13879891/57780792-a4976980-7731-11e9-8364-11acd5e58fb9.png)](https://user-images.githubusercontent.com/13879891/57780791-a4976980-7731-11e9-8119-2fb606b41081.png) [![screenshot-4-small](https://user-images.githubusercontent.com/13879891/57780796-a5300000-7731-11e9-9c66-25a7825b1690.png)](https://user-images.githubusercontent.com/13879891/57780794-a4976980-7731-11e9-980c-94e2460a1054.png)
 
 
 ## Sources
