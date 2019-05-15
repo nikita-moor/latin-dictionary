@@ -1,0 +1,1597 @@
+{
+  "1": [
+    "absum<opt>, abesse</opt>",
+    "desum<opt>, deesse</opt>",
+    "deficio<opt>, deficere</opt>",
+    "descisco<opt>, desciscere</opt>",
+    "assum<opt>, adesse</opt>"
+  ],
+  "2": [
+    "absolvo<opt>, absolvere</opt>",
+    "perago<opt>, peragere</opt>",
+    "perficio<opt>, perficere</opt>",
+    "exsequor<opt>, exsequi</opt>"
+  ],
+  "3": [
+    "adjuvo<opt>, adiuvare</opt>",
+    "auxilior<opt>, auxiliari</opt>",
+    "opitulor<opt>, opitulari</opt>"
+  ],
+  "4": [
+    "administro<opt>, administrare</opt>",
+    "fungor<opt>, fungi</opt>"
+  ],
+  "5": [
+    "aequus",
+    "planus",
+    "aequalis",
+    "par"
+  ],
+  "6": [
+    "aetas",
+    "senectus",
+    "vetustas"
+  ],
+  "7": [
+    "aeternus",
+    "sempiternus"
+  ],
+  "8": [
+    "afer",
+    "africus",
+    "africanus"
+  ],
+  "9": [
+    "ager",
+    "rus"
+  ],
+  "10": [
+    "ago<opt>, agere</opt>",
+    "facio<opt>, facere</opt>",
+    "efficio<opt>, efficere</opt>"
+  ],
+  "11": [
+    "albus",
+    "candidus"
+  ],
+  "12": [
+    "alias",
+    "aliter",
+    "alibi"
+  ],
+  "13": [
+    "aliquis",
+    "quidam"
+  ],
+  "14": [
+    "amo<opt>, amare</opt>",
+    "diligo<opt>, diligere</opt>",
+    "adamo<opt>, adamare</opt>"
+  ],
+  "15": [
+    "ambitio",
+    "ambitus"
+  ],
+  "16": [
+    "amitto<opt>, amittere</opt>",
+    "perdo<opt>, perdere</opt>"
+  ],
+  "17": [
+    "amor",
+    "caritas",
+    "pietas"
+  ],
+  "18": [
+    "anima",
+    "animus",
+    "mens",
+    "ratio",
+    "spiritus"
+  ],
+  "19": [
+    "animal",
+    "bestia",
+    "belua",
+    "fera"
+  ],
+  "20": [
+    "annuus",
+    "anniversarius",
+    "sollemnis",
+    "quotannis"
+  ],
+  "21": [
+    "ante",
+    "pro",
+    "apud",
+    "coram"
+  ],
+  "22": [
+    "aperio<opt>, aperire</opt>",
+    "patefacio<opt>, patefacere</opt>"
+  ],
+  "23": [
+    "ardeo<opt>, ardere</opt>",
+    "flagro<opt>, flagrare</opt>",
+    "uro<opt>, urere</opt>",
+    "comburo<opt>, comburere</opt>",
+    "cremo<opt>, cremare</opt>",
+    "concremo<opt>, concremare</opt>"
+  ],
+  "24": [
+    "argumentum",
+    "ratio",
+    "documentum",
+    "causa",
+    "specimen"
+  ],
+  "25": [
+    "armum<opt>, pl. arma</opt>",
+    "telum"
+  ],
+  "26": [
+    "armentum",
+    "jumentum",
+    "pecus<opt>, pecoris</opt>",
+    "pecus<opt>, pecudis</opt>"
+  ],
+  "27": [
+    "audeo<opt>, audere</opt>",
+    "conor<opt>, conari</opt>"
+  ],
+  "28": [
+    "bellicus",
+    "bellicosus"
+  ],
+  "29": [
+    "bellum",
+    "<opt>bellum </opt>gero",
+    "<opt>bellum </opt>administro",
+    "<opt>bellum </opt>duco",
+    "<opt>bellum </opt>traho"
+  ],
+  "30": [
+    "bibo<opt>, bibere</opt>",
+    "poto<opt>, potare</opt>"
+  ],
+  "31": [
+    "blandior<opt>, blandiri</opt>",
+    "assentor<opt>, assentari</opt>",
+    "adulor<opt>, adulari</opt>"
+  ],
+  "32": [
+    "bonus",
+    "probus",
+    "honestus",
+    "frugi",
+    "<opt>bene </opt>moratus",
+    "rectus"
+  ],
+  "33": [
+    "callidus",
+    "astutus"
+  ],
+  "34": [
+    "capio<opt>, capere</opt>",
+    "accipio<opt>, accipere</opt>",
+    "sumo<opt>, sumere</opt>",
+    "excipio<opt>, excipere</opt>",
+    "intercipio<opt>, intercipere</opt>",
+    "recipero<opt>, recuperare</opt>",
+    "demo<opt>, demere</opt>",
+    "adimo<opt>, adimere</opt>",
+    "eximo<opt>, eximere</opt>",
+    "aufero<opt>, auferre</opt>",
+    "eripio<opt>, eripere</opt>",
+    "surripio<opt>, surripere</opt>"
+  ],
+  "35": [
+    "careo<opt>, carere</opt>",
+    "vaco<opt>, vacare</opt>"
+  ],
+  "36": [
+    "carmen",
+    "poema",
+    "cantus",
+    "canticum",
+    "cantilena"
+  ],
+  "37": [
+    "certo scio",
+    "profecto",
+    "ne",
+    "nae",
+    "vero",
+    "sane",
+    "re vera"
+  ],
+  "38": [
+    "ceterus",
+    "reliquus",
+    "alius"
+  ],
+  "39": [
+    "clam",
+    "secreto",
+    "occulte"
+  ],
+  "40": [
+    "clarus",
+    "illustris",
+    "nobilis",
+    "celeber",
+    "insignis"
+  ],
+  "41": [
+    "coepio<opt>, coepisse</opt>",
+    "incipio<opt>, incipere</opt>",
+    "incoho<opt>, incohare</opt>",
+    "ordior<opt>, ordiri</opt>",
+    "exordior<opt>, exordiri</opt>"
+  ],
+  "42": [
+    "coetus",
+    "conventus",
+    "consessus",
+    "contio",
+    "comitium<opt>, pl. comitia</opt>",
+    "concilium",
+    "consilium",
+    "corona"
+  ],
+  "43": [
+    "cogito<opt>, cogitare</opt>",
+    "sentio<opt>, sentire</opt>",
+    "meditor<opt>, meditari</opt>",
+    "commentor<opt>, commentari</opt>"
+  ],
+  "44": [
+    "cognosco<opt>, cognoscere</opt>",
+    "agnosco<opt>, agnoscere</opt>"
+  ],
+  "45": [
+    "comperio<opt>, comperire</opt>",
+    "experior<opt>, experiri</opt>"
+  ],
+  "46": [
+    "concedo<opt>, concedere</opt>",
+    "permitto<opt>, permittere</opt>"
+  ],
+  "47": [
+    "bellum",
+    "confacio<opt>, conficere</opt>",
+    "compono<opt>, componere</opt>",
+    "finis<opt>, finem facere</opt>"
+  ],
+  "48": [
+    "consuetudo",
+    "mos",
+    "ritus",
+    "institutum",
+    "modus",
+    "caerimonia"
+  ],
+  "49": [
+    "contemno<opt>, contemnere</opt>",
+    "sperno<opt>, spernere</opt>",
+    "aspernor<opt>, aspernari</opt>",
+    "despicio<opt>, despicere</opt>",
+    "repudio<opt>, repudiare</opt>",
+    "fastidio<opt>, fastidire</opt>"
+  ],
+  "50": [
+    "contemplor<opt>, contemplari</opt>",
+    "considero<opt>, considerare</opt>",
+    "intueor<opt>, intueri</opt>",
+    "contueor<opt>, contueri</opt>",
+    "specto<opt>, spectare</opt>",
+    "aspicio<opt>, aspicere</opt>"
+  ],
+  "51": [
+    "contentus<opt>, contentum esse</opt>",
+    "probo<opt>, probare</opt>",
+    "acquiesco<opt>, acquiescere</opt>",
+    "satis<opt> habere</opt>"
+  ],
+  "52": [
+    "continenter",
+    "continuo"
+  ],
+  "53": [
+    "corpus",
+    "cadaver"
+  ],
+  "54": [
+    "corrigo<opt>, corrigere</opt>",
+    "emendo<opt>, emendare</opt>"
+  ],
+  "55": [
+    "credo<opt>, credere</opt>",
+    "arbitror<opt>, arbitrari</opt>",
+    "puto<opt>, putare</opt>",
+    "reor<opt>, reri</opt>",
+    "opinor<opt>, opinari</opt>",
+    "aestimo<opt>, aestimare</opt>",
+    "existimo<opt>, existimare</opt>",
+    "censeo<opt>, censere</opt>",
+    "judico<opt>, judicare</opt>",
+    "fido<opt>, fidere</opt>"
+  ],
+  "56": [
+    "custodia",
+    "statio",
+    "vigilia",
+    "excubiae",
+    "praesidium"
+  ],
+  "57": [
+    "damnum",
+    "detrimentum",
+    "fraus",
+    "jactura",
+    "calamitas",
+    "incommodum",
+    "clades"
+  ],
+  "58": [
+    "do<opt>, dare</opt>",
+    "dono<opt>, donare</opt>",
+    "largior<opt>, largiri</opt>"
+  ],
+  "59": [
+    "debeo<opt>, debere</opt>",
+    "oportet",
+    "necesse<opt> est</opt>",
+    "opus<opt> est</opt>",
+    "decet"
+  ],
+  "60": [
+    "decerno<opt>, decernere</opt>",
+    "jubeo<opt>, jubere</opt>",
+    "scisco<opt>, sciscere</opt>",
+    "constituo<opt>, constituere</opt>"
+  ],
+  "61": [
+    "deligo<opt>, deligere</opt>",
+    "eligo<opt>, eligere</opt>",
+    "creo<opt>, creare</opt>"
+  ],
+  "62": [
+    "desino<opt>, desinere</opt>",
+    "desisto<opt>, desistere</opt>",
+    "omitto<opt>, omittere</opt>",
+    "intermitto<opt>, intermittere</opt>",
+    "neglego<opt>, neglegere</opt>",
+    "praetermitto<opt>, praetermittere</opt>",
+    "dimitto<opt>, dimittere</opt>"
+  ],
+  "63": [
+    "deterior",
+    "peior"
+  ],
+  "64": [
+    "dico<opt>, dicere</opt>",
+    "contendo<opt>, contendere</opt>",
+    "affirmo<opt>, affirmare</opt>"
+  ],
+  "65": [
+    "diligens",
+    "accuratus"
+  ],
+  "66": [
+    "disertus",
+    "facundus",
+    "eloquens",
+    "copiosus<opt>, copiosa oratio</opt>"
+  ],
+  "67": [
+    "dissero<opt>, disserere</opt>",
+    "disputo<opt>, disputare</opt>"
+  ],
+  "68": [
+    "diversus",
+    "varius"
+  ],
+  "69": [
+    "dives",
+    "locuples",
+    "opulentus"
+  ],
+  "70": [
+    "divido<opt>, dividere</opt>",
+    "distribuo<opt>, distribuere</opt>",
+    "dispono<opt>, disponere</opt>",
+    "digero<opt>, digerere</opt>",
+    "partior<opt>, partiri</opt>"
+  ],
+  "71": [
+    "doceo<opt>, docere</opt>",
+    "instituo<opt>, instituere</opt>",
+    "praecipio<opt>, praecipere</opt>"
+  ],
+  "72": [
+    "domo<opt>, domare</opt>",
+    "subicio<opt>, subicere</opt>",
+    "subigo<opt>, subigere</opt>",
+    "paco<opt>, pacare</opt>"
+  ],
+  "73": [
+    "duo",
+    "ambo",
+    "uterque",
+    "utervis",
+    "uterlibet"
+  ],
+  "74": [
+    "educo<opt>, educere</opt>",
+    "educo<opt>, educare</opt>",
+    "erudio<opt>, erudire</opt>",
+    "conformo<opt>, conformare</opt>",
+    "informo<opt>, informare</opt>",
+    "instituo<opt>, instituere</opt>",
+    "instruo<opt>, instruere</opt>",
+    "imbuo<opt>, imbuere</opt>"
+  ],
+  "75": [
+    "dux",
+    "praetor",
+    "imperator",
+    "legatus"
+  ],
+  "76": [
+    "egeo<opt>, egere</opt>",
+    "indigeo<opt>, indigere</opt>"
+  ],
+  "77": [
+    "epistula",
+    "littera<opt>, pl. litterae</opt>"
+  ],
+  "78": [
+    "eruditus",
+    "eruditio",
+    "doctus",
+    "doctrina",
+    "littera<opt>, pl. litterae</opt>",
+    "humanitas",
+    "urbanitas",
+    "cultus<opt> ingenii</opt>"
+  ],
+  "79": [
+    "etiam",
+    "quoque"
+  ],
+  "80": [
+    "exercitus",
+    "agmen",
+    "acies",
+    "copia<opt>, pl. copiae</opt>",
+    "miles<opt>, pl. milites</opt>", "milites",
+    "manus"
+  ],
+  "81": [
+    "eximius",
+    "egregius",
+    "insignis"
+  ],
+  "82": [
+    "explorator<opt>, exploratores</opt>",
+    "speculator<opt>, speculatores</opt>"
+  ],
+  "83": [
+    "exspecto<opt>, exspectare</opt>",
+    "opperior<opt>, opperiri</opt>",
+    "maneo<opt>, manere</opt>",
+    "praestolor<opt>, praestolari</opt>"
+  ],
+  "84": [
+    "factum",
+    "facinus",
+    "maleficium",
+    "scelus",
+    "flagitium",
+    "nefas"
+  ],
+  "85": [
+    "fallo<opt>, fallere</opt>",
+    "decipio<opt>, decipere</opt>"
+  ],
+  "86": [
+    "fama",
+    "rumor"
+  ],
+  "87": [
+    "fateor<opt>, fateri</opt>",
+    "confiteor<opt>, confiteri</opt>",
+    "profiteor<opt>, profiteri</opt>",
+    "prae se ferre"
+  ],
+  "88": [
+    "favor",
+    "aura",
+    "gratia"
+  ],
+  "89": [
+    "felix",
+    "beatus",
+    "fortunatus",
+    "prosper",
+    "prosperus",
+    "secundus",
+    "faustus"
+  ],
+  "90": [
+    "femina",
+    "mulier",
+    "conjunx",
+    "uxor",
+    "matrona"
+  ],
+  "91": [
+    "fere",
+    "paene"
+  ],
+  "92": [
+    "fero<opt>, ferre</opt>",
+    "duco<opt>, pass. inf. duci</opt>"
+  ],
+  "93": [
+    "fides",
+    "fiducia",
+    "fidelitas"
+  ],
+  "94": [
+    "fio<opt>, fieri</opt>",
+    "evado<opt>, evadere</opt>",
+    "exsisto<opt>, exsistere</opt>",
+    "exsto<opt>, exstare</opt>"
+  ],
+  "95": [
+    "figura",
+    "forma",
+    "species"
+  ],
+  "96": [
+    "finis",
+    "terminus",
+    "exitus",
+    "exitium"
+  ],
+  "97": [
+    "firmus",
+    "robustus"
+  ],
+  "98": [
+    "fio<opt>, impers. fit</opt>",
+    "accido<opt>, impers. accidit</opt>",
+    "contingo<opt>, impers. contingit</opt>",
+    "evenio<opt>, impers. evenit</opt>",
+    "venio<opt>, impers. venit</opt>"
+  ],
+  "99": [
+    "flumen",
+    "amnis",
+    "fluvius"
+  ],
+  "100": [
+    "foedus",
+    "societas"
+  ],
+  "101": [
+    "fortasse",
+    "forsitan",
+    "forte",
+    "haud scio an"
+  ],
+  "102": [
+    "fortuna",
+    "felicitas",
+    "res secundae",
+    "fors",
+    "fatum",
+    "casus"
+  ],
+  "103": [
+    "fructus",
+    "frux<opt>, pl. fruges</opt>", "fruges",
+    "frumentum",
+    "legumen<opt>, pl. legumina</opt>", "legumina"
+  ],
+  "104": [
+    "frustra",
+    "nequicquam",
+    "nequiquam"
+  ],
+  "105": [
+    "fugio<opt>, fugere</opt>",
+    "effugio<opt>, effugere</opt>",
+    "profugio<opt>, profugere</opt>",
+    "confugio<opt>, confugere</opt>",
+    "perfugio<opt>, perfugere</opt>",
+    "vito<opt>, vitare</opt>",
+    "caveo<opt>, cavere</opt>"
+  ],
+  "106": [
+    "fulgur",
+    "fulmen"
+  ],
+  "107": [
+    "gaudium",
+    "laetitia",
+    "hilaritas"
+  ],
+  "108": [
+    "gens",
+    "natio",
+    "plebs",
+    "populus",
+    "civitas",
+    "vulgus",
+    "multitudo",
+    "turba"
+  ],
+  "109": [
+    "gratia",
+    "grates",
+    "<opt>gratiam </opt>habeo",
+    "<opt>gratiam </opt>refero",
+    "<opt>gratias </opt>ago",
+    "<opt>grates </opt>ago",
+    "<opt>gratiam </opt>debeo",
+    "<opt>gratiam </opt>mereor"
+  ],
+  "110": [
+    "habito<opt>, habitare</opt>",
+    "incolo<opt>, incolere</opt>"
+  ],
+  "111": [
+    "historia",
+    "annalis<opt>, pl. annales</opt>", "annales",
+    "memoria",
+    "narratio"
+  ],
+  "112": [
+    "homo",
+    "vir",
+    "maritus",
+    "conjunx"
+  ],
+  "113": [
+    "honoro<opt>, honorare</opt>",
+    "colo<opt>, colere</opt>",
+    "veneror<opt>, venerari</opt>",
+    "observo<opt>, observare</opt>"
+  ],
+  "114": [
+    "hostilis",
+    "infestus",
+    "infensus"
+  ],
+  "115": [
+    "hostis",
+    "inimicus",
+    "adversarius"
+  ],
+  "116": [
+    "jaceo<opt>, jacere</opt>",
+    "cubo<opt>, cubare</opt>",
+    "situs<opt>, situm esse</opt>"
+  ],
+  "117": [
+    "<opt>jam </opt>diu",
+    "<opt>jam </opt>dudum",
+    "<opt>jam </opt>pridem"
+  ],
+  "118": [
+    "idoneus",
+    "aptus",
+    "opportunus"
+  ],
+  "119": [
+    "impedio<opt>, impedire</opt>",
+    "prohibeo<opt>, prohibere</opt>"
+  ],
+  "120": [
+    "indoles",
+    "ingenium",
+    "mos<opt>, pl. mores</opt>", "mores"
+  ],
+  "121": [
+    "industria",
+    "assiduitas",
+    "diligentia"
+  ],
+  "122": [
+    "inertia",
+    "desidia",
+    "ignavia",
+    "segnitia",
+    "pigritia"
+  ],
+  "123": [
+    "infans",
+    "liberi",
+    "pueri"
+  ],
+  "124": [
+    "infirmus",
+    "debilis",
+    "imbecillus"
+  ],
+  "125": [
+    "initium",
+    "principium",
+    "exordium"
+  ],
+  "126": [
+    "inscientia",
+    "ignoratio",
+    "ignorantia",
+    "inscitia"
+  ],
+  "127": [
+    "inscius",
+    "nescius",
+    "ignarus",
+    "imperitus",
+    "rudis",
+    "insciens"
+  ],
+  "128": [
+    "interficio<opt>, interficere</opt>",
+    "caedo<opt>, caedere</opt>",
+    "occido<opt>, occidere</opt>",
+    "neco<opt>, necare</opt>",
+    "trucido<opt>, trucidare</opt>",
+    "obtrunco<opt>, obtruncare</opt>",
+    "jugulo<opt>, jugulare</opt>",
+    "percutio<opt>, percutere</opt>",
+    "interimo<opt>, interimere</opt>",
+    "conficio<opt>, conficere</opt>"
+  ],
+  "129": [
+    "interrogo<opt>, interrogare</opt>",
+    "rogo<opt>, rogare</opt>",
+    "quaero<opt>, quaerere</opt>",
+    "percontor<opt>, percontari</opt>",
+    "sciscitor<opt>, sciscitari</opt>"
+  ],
+  "130": [
+    "invenio<opt>, invenire</opt>",
+    "reperio<opt>, reperire</opt>",
+    "deprehendo<opt>, deprehendere</opt>",
+    "nanciscor<opt>, nancisci</opt>",
+    "consequor<opt>, consequi</opt>",
+    "adipiscor<opt>, adipisci</opt>",
+    "impetro<opt>, impetrare</opt>"
+  ],
+  "131": [
+    "ira",
+    "iracundia",
+    "irascor<opt>, irasci</opt>",
+    "succenseo<opt>, succensere</opt>",
+    "suscenseo<opt>, suscensere</opt>"
+  ],
+  "132": [
+    "jubeo<opt>, jubere</opt>",
+    "impero<opt>, imperare</opt>",
+    "edico<opt>, edicere</opt>",
+    "praecipio<opt>, praecipere</opt>",
+    "mando<opt>, mandare</opt>"
+  ],
+  "133": [
+    "jucundus",
+    "gratus"
+  ],
+  "134": [
+    "jus",
+    "fas"
+  ],
+  "135": [
+    "jusjurandum",
+    "sacramentum"
+  ],
+  "136": [
+    "labor",
+    "opera",
+    "opus",
+    "munitio",
+    "studium",
+    "negotium"
+  ],
+  "137": [
+    "lacedaemonius",
+    "spartiates",
+    "laco"
+  ],
+  "138": [
+    "latinus",
+    "romanus",
+    "quiris<opt>, pl. quirites</opt>",
+    "quirites"
+  ],
+  "139": [
+    "levis",
+    "gravis",
+    "facilis",
+    "difficilis"
+  ],
+  "140": [
+    "libertus",
+    "libertinus"
+  ],
+  "141": [
+    "loquor<opt>, loqui</opt>",
+    "dico<opt>, dicere</opt>",
+    "for<opt>, fari</opt>",
+    "confabulor<opt>, confabulari</opt>",
+    "inquit",
+    "ait"
+  ],
+  "142": [
+    "ludo<opt>, ludere</opt>",
+    "cano<opt>, canere</opt>"
+  ],
+  "143": [
+    "lumen",
+    "lux"
+  ],
+  "144": [
+    "lucrum",
+    "emolumentum",
+    "quaestus",
+    "commodum"
+  ],
+  "145": [
+    "maeror",
+    "maestitia",
+    "tristitia",
+    "luctus",
+    "dolor"
+  ],
+  "146": [
+    "magnus",
+    "ingens",
+    "amplus",
+    "immensus",
+    "grandis",
+    "magnificus",
+    "vastus",
+    "immanis"
+  ],
+  "147": [
+    "maxime",
+    "potissimum",
+    "imprimis",
+    "praecipue",
+    "praesertim"
+  ],
+  "148": [
+    "memini<opt>, meminisse</opt>",
+    "reminiscor<opt>, reminisci</opt>",
+    "recordor<opt>, recordari</opt>"
+  ],
+  "149": [
+    "mereo<opt>, merere</opt>",
+    "mereor<opt>, mereri</opt>",
+    "dignus<opt>, dignum esse</opt>"
+  ],
+  "150": [
+    "meus",
+    "proprius"
+  ],
+  "151": [
+    "minor<opt>, minari</opt>",
+    "immineo<opt>, imminere</opt>",
+    "impendo<opt>, impendere</opt>",
+    "video<opt>, pass. inf. videri</opt>"
+  ],
+  "152": [
+    "miror<opt>, mirari</opt>",
+    "admiror<opt>, admirari</opt>",
+    "suspicio<opt>, suspicere</opt>"
+  ],
+  "153": [
+    "modo",
+    "tace modo",
+    "tantum",
+    "solus",
+    "unus",
+    "nisi<opt> — non</opt>"
+  ],
+  "154": [
+    "moneo<opt>, monere</opt>",
+    "hortor<opt>, hortari</opt>"
+  ],
+  "155": [
+    "monstro<opt>, monstrare</opt>",
+    "demonstro<opt>, demonstrare</opt>",
+    "ostendo<opt>, ostendere</opt>",
+    "significo<opt>, significare</opt>",
+    "declaro<opt>, declarare</opt>",
+    "confirmo<opt>, confirmare</opt>",
+    "praesto<opt>, praestare</opt>"
+  ],
+  "156": [
+    "morbus",
+    "aegrotatio",
+    "aegritudo"
+  ],
+  "157": [
+    "mors",
+    "nex",
+    "letum"
+  ],
+  "158": [
+    "mox",
+    "brevi",
+    "paulo<opt> post</opt>",
+    "non multo<opt> post</opt>"
+  ],
+  "159": [
+    "mundus",
+    "orbis terrarum",
+    "tellus"
+  ],
+  "160": [
+    "munus",
+    "officium"
+  ],
+  "161": [
+    "murus",
+    "moenia",
+    "paries"
+  ],
+  "162": [
+    "narro<opt>, narrare</opt>",
+    "refero<opt>, referre</opt>",
+    "fero<opt>, ferre ad populum</opt>",
+    "defero<opt>, deferre</opt>",
+    "trado<opt>, tradere</opt>"
+  ],
+  "163": [
+    "naturalis",
+    "nativus",
+    "consentaneus",
+    "necessarius"
+  ],
+  "164": [
+    "niger",
+    "ater"
+  ],
+  "165": [
+    "nomino<opt>, nominare</opt>",
+    "appello<opt>, appellare</opt>",
+    "nuncupo<opt>, nuncupare</opt>"
+  ],
+  "166": [
+    "novus",
+    "recens"
+  ],
+  "167": [
+    "nuper",
+    "modo"
+  ],
+  "168": [
+    "obsideo<opt>, obsidere</opt>",
+    "oppugno<opt>, oppugnare</opt>"
+  ],
+  "169": [
+    "opto<opt>, optare</opt>",
+    "cupio<opt>, cupere</opt>",
+    "concupisco<opt>, concupiscere</opt>",
+    "desidero<opt>, desiderare</opt>",
+    "expeto<opt>, expetere</opt>",
+    "appeto<opt>, appetere</opt>",
+    "volo<opt>, velle</opt>"
+  ],
+  "170": [
+    "oratio",
+    "sermo",
+    "lingua",
+    "contio"
+  ],
+  "171": [
+    "orator",
+    "rhetor"
+  ],
+  "172": [
+    "ordo",
+    "series"
+  ],
+  "173": [
+    "ostium",
+    "janua",
+    "foris<opt>, pl. fores</opt>",
+    "valva<opt>, pl. valvae</opt>",
+    "porta"
+  ],
+  "174": [
+    "pagus",
+    "vicus"
+  ],
+  "175": [
+    "palam",
+    "aperte",
+    "libere",
+    "publice"
+  ],
+  "176": [
+    "pareo<opt>, pārēre</opt>",
+    "oboedio<opt>, oboedire</opt>",
+    "obtempero<opt>, obtemperare</opt>",
+    "obsequor<opt>, obsequi</opt>",
+    "morem gerere",
+    "dicto audientem esse alicui"
+  ],
+  "177": [
+    "pars",
+    "factio",
+    "studium"
+  ],
+  "178": [
+    "parumper",
+    "paulisper"
+  ],
+  "179": [
+    "parvus",
+    "minutus",
+    "exiguus",
+    "pusillus"
+  ],
+  "180": [
+    "passus",
+    "gradus"
+  ],
+  "181": [
+    "paternus",
+    "patrius"
+  ],
+  "182": [
+    "patior<opt>, pati</opt>",
+    "sino<opt>, sinere</opt>",
+    "tolero<opt>, tolerare</opt>"
+  ],
+  "183": [
+    "pauper",
+    "egens",
+    "egenus",
+    "mendicus",
+    "inops",
+    "miser"
+  ],
+  "184": [
+    "pax",
+    "otium",
+    "otiosus"
+  ],
+  "185": [
+    "pecunia",
+    "nummus<opt>, pl. nummi</opt>"
+  ],
+  "186": [
+    "peregrinus",
+    "alienus",
+    "externus",
+    "exterus"
+  ],
+  "187": [
+    "pernicies",
+    "pestis",
+    "pestilentia"
+  ],
+  "188": [
+    "plures",
+    "complures",
+    "plerique",
+    "plurimi"
+  ],
+  "189": [
+    "plus",
+    "magis",
+    "amplius",
+    "potius"
+  ],
+  "190": [
+    "poena",
+    "multa",
+    "supplicium",
+    "castigatio"
+  ],
+  "191": [
+    "porto<opt>, portare</opt>",
+    "fero<opt>, ferre</opt>",
+    "gero<opt>, gerere</opt>",
+    "sustineo<opt>, sustinere</opt>"
+  ],
+  "192": [
+    "posco<opt>, poscere</opt>",
+    "deposco<opt>, deposcere</opt>",
+    "postulo<opt>, postulare</opt>",
+    "flagito<opt>, flagitare</opt>",
+    "exigo<opt>, exigere</opt>"
+  ],
+  "193": [
+    "possideo<opt>, possidere</opt>",
+    "habeo<opt>, habere</opt>",
+    "teneo<opt>, tenere</opt>",
+    "obtineo<opt>, obtinere</opt>",
+    "sum<opt>, esse</opt>",
+    "insum<opt>, inesse</opt>"
+  ],
+  "194": [
+    "posthac",
+    "postea"
+  ],
+  "195": [
+    "potestas",
+    "potentia",
+    "vis",
+    "ops<opt>, pl. opes</opt>",
+    "opes"
+  ],
+  "196": [
+    "praeda",
+    "manubiae",
+    "spolia opima"
+  ],
+  "197": [
+    "praedico<opt>, praedicare</opt>",
+    "celebro<opt>, celebrare</opt>"
+  ],
+  "198": [
+    "pretium",
+    "virtus",
+    "praestantia",
+    "dignitas",
+    "merces",
+    "praemium"
+  ],
+  "199": [
+    "primus",
+    "princeps"
+  ],
+  "200": [
+    "privo<opt>, privare</opt>",
+    "orbo<opt>, orbare</opt>",
+    "spolio<opt>, spoliare</opt>",
+    "diripio<opt>, diripere</opt>",
+    "vasto<opt>, vastare</opt>",
+    "populor<opt>, populari</opt>",
+    "praedor<opt>, praedari</opt>"
+  ],
+  "201": [
+    "profundus",
+    "altus"
+  ],
+  "202": [
+    "promitto<opt>, promittere</opt>",
+    "polliceor<opt>, polliceri</opt>"
+  ],
+  "203": [
+    "propinquus",
+    "consanguineus",
+    "cognatus",
+    "agnatus",
+    "affinis",
+    "necessarius"
+  ],
+  "204": [
+    "propter",
+    "ob",
+    "causa",
+    "per",
+    "prae"
+  ],
+  "205": [
+    "prudens",
+    "sapiens",
+    "sollers"
+  ],
+  "206": [
+    "pudor",
+    "pudicitia",
+    "verecundia"
+  ],
+  "207": [
+    "pugna",
+    "proelium",
+    "acies",
+    "certamen",
+    "dimicatio",
+    "bellum"
+  ],
+  "208": [
+    "pugno<opt>, pugnare</opt>",
+    "proelior<opt>, proeliari</opt>",
+    "confligo<opt>, confligere</opt>",
+    "decerno<opt>, decernere</opt>",
+    "dimico<opt>, dimicare</opt>",
+    "decerto<opt>, decertare</opt>"
+  ],
+  "209": [
+    "pulcher",
+    "formosus",
+    "venustus",
+    "amoenus",
+    "speciosus"
+  ],
+  "210": [
+    "punio<opt>, punire</opt>",
+    "animadverto<opt>, animadvertere</opt>",
+    "castigo<opt>, castigare</opt>",
+    "multo<opt>, multare</opt>"
+  ],
+  "211": [
+    "quies",
+    "requies",
+    "tranquillitas"
+  ],
+  "212": [
+    "quondam",
+    "olim",
+    "aliquando"
+  ],
+  "213": [
+    "regius",
+    "regalis",
+    "regie"
+  ],
+  "214": [
+    "regno<opt>, regnare</opt>",
+    "rego<opt>, regere</opt>",
+    "guberno<opt>, gubernare</opt>",
+    "dominor<opt>, dominari</opt>",
+    "impero<opt>, imperare</opt>",
+    "praesum<opt>, praeesse</opt>",
+    "moderor<opt>, moderari</opt>",
+    "principatus"
+  ],
+  "215": [
+    "regnum",
+    "imperium",
+    "dominatio",
+    "dominatus"
+  ],
+  "216": [
+    "relinquo<opt>, relinquere</opt>",
+    "desero<opt>, deserere</opt>",
+    "destituo<opt>, destituere</opt>",
+    "cedo<opt>, cedere</opt>",
+    "decedo<opt>, decedere</opt>"
+  ],
+  "217": [
+    "repente",
+    "subito"
+  ],
+  "218": [
+    "res gesta",
+    "gloria",
+    "laus"
+  ],
+  "219": [
+    "res publica",
+    "civitas"
+  ],
+  "220": [
+    "ripa",
+    "litus",
+    "ora"
+  ],
+  "221": [
+    "rogo<opt>, rogare</opt>",
+    "oro<opt>, orare</opt>",
+    "obsecro<opt>, obsecrare</opt>",
+    "obtestor<opt>, obtestari</opt>",
+    "imploro<opt>, implorare</opt>",
+    "supplico<opt>, supplicare</opt>",
+    "precor<opt>, precari</opt>",
+    "peto<opt>, petere</opt>"
+  ],
+  "222": [
+    "rursus",
+    "iterum",
+    "denuo",
+    "de integro"
+  ],
+  "223": [
+    "rusticus",
+    "rusticanus",
+    "agrestis",
+    "rusticitas"
+  ],
+  "224": [
+    "sacer",
+    "sanctus",
+    "sacrosanctus",
+    "augustus"
+  ],
+  "225": [
+    "saluber",
+    "salutaris",
+    "salvus"
+  ],
+  "226": [
+    "saltem",
+    "quidem",
+    "certe",
+    "minimum"
+  ],
+  "227": [
+    "sanguis",
+    "cruor"
+  ],
+  "228": [
+    "schola",
+    "ludus"
+  ],
+  "229": [
+    "scientia",
+    "doctrina",
+    "ars",
+    "disciplina",
+    "littera<opt>, pl. litterae</opt>"
+  ],
+  "230": [
+    "scio<opt>, scire</opt>",
+    "didici<opt>, didicisse</opt>",
+    "novi<opt>, novisse or nosse</opt>"
+  ],
+  "231": [
+    "sсriptor",
+    "auctor"
+  ],
+  "232": [
+    "sententia",
+    "opinio"
+  ],
+  "233": [
+    "sententia",
+    "suffragium",
+    "testa",
+    "suffragor<opt>, suffragari</opt>"
+  ],
+  "234": [
+    "sequor<opt>, sequi</opt>",
+    "succedo<opt>, succedere</opt>"
+  ],
+  "235": [
+    "servus",
+    "famulus",
+    "mancipium",
+    "minister",
+    "apparitor<opt>, pl. apparitores</opt>",
+    "apparitores"
+  ],
+  "236": [
+    "simul",
+    "una",
+    "pariter"
+  ],
+  "237": [
+    "simulacrum",
+    "statua",
+    "imago",
+    "effigies"
+  ],
+  "238": [
+    "simulo<opt>, simulare</opt>",
+    "dissimulo<opt>, dissimulare</opt>",
+    "mentior<opt>, mentiri</opt>"
+  ],
+  "239": [
+    "soleo<opt>, solere</opt>",
+    "consuesco<opt>, perf. consuevi</opt>"
+  ],
+  "240": [
+    "stella",
+    "sidus"
+  ],
+  "241": [
+    "suscipio<opt>, suscipere</opt>",
+    "recipio<opt>, recipere</opt>"
+  ],
+  "242": [
+    "taceo<opt>, tacere</opt>",
+    "sileo<opt>, silere</opt>"
+  ],
+  "243": [
+    "tam",
+    "ita",
+    "talis"
+  ],
+  "244": [
+    "tandem",
+    "demum",
+    "postremo",
+    "denique",
+    "tum demum",
+    "tum denique"
+  ],
+  "245": [
+    "tego<opt>, tegere</opt>",
+    "operio<opt>, operire</opt>"
+  ],
+  "246": [
+    "tempus",
+    "aetas",
+    "dies",
+    "punctum temporis",
+    "momentum"
+  ],
+  "247": [
+    "terra",
+    "tellus",
+    "humus",
+    "solum"
+  ],
+  "248": [
+    "timeo<opt>, timere</opt>",
+    "metuo<opt>, metuere</opt>",
+    "vereor<opt>, vereri</opt>",
+    "revereor<opt>, revereri</opt>",
+    "paveo<opt>, pavere</opt>",
+    "trepido<opt>, trepidare</opt>",
+    "reformido<opt>, reformidare</opt>",
+    "horreo<opt>, horrere</opt>",
+    "ango<opt>, angere</opt>",
+    "timor",
+    "metus",
+    "verecundia",
+    "pavor",
+    "trepidatio",
+    "formido",
+    "horror",
+    "angor"
+  ],
+  "249": [
+    "totus",
+    "omnis",
+    "universus",
+    "cunctus",
+    "integer",
+    "incolumis"
+  ],
+  "250": [
+    "trans<opt> flumen</opt>",
+    "ultra<opt> flumen</opt>"
+  ],
+  "251": [
+    "transfuga",
+    "perfuga"
+  ],
+  "252": [
+    "tributum",
+    "vectigal",
+    "stipendium"
+  ],
+  "253": [
+    "tueor<opt>, tueri</opt>",
+    "tutor<opt>, tutari</opt>",
+    "defendo<opt>, defendere</opt>",
+    "servo<opt>, servare</opt>",
+    "conservo<opt>, conservare</opt>",
+    "vindico<opt>, vindicare</opt>"
+  ],
+  "254": [
+    "tutus",
+    "securus",
+    "certus"
+  ],
+  "255": [
+    "ultimus",
+    "extremus",
+    "postremus",
+    "supremus",
+    "summus"
+  ],
+  "256": [
+    "ultro",
+    "sponte",
+    "voluntas",
+    "voluntate<opt>, abl. of voluntas</opt>"
+  ],
+  "257": [
+    "urbs",
+    "oppidum",
+    "urbanus",
+    "oppidanus"
+  ],
+  "258": [
+    "utor<opt>, uti</opt>",
+    "fruor<opt>, frui</opt>",
+    "usurpo<opt>, usurpare</opt>",
+    "adhibeo<opt>, adhibere</opt>"
+  ],
+  "259": [
+    "uxor",
+    "duco<opt>, ducere</opt>",
+    "nubo<opt>, nubere</opt>"
+  ],
+  "260": [
+    "vacuus",
+    "inanis"
+  ],
+  "261": [
+    "valetudo",
+    "sanitas",
+    "salubritas"
+  ],
+  "262": [
+    "verbum",
+    "vocabulum",
+    "vox",
+    "dictum"
+  ],
+  "263": [
+    "vestis",
+    "vestitus",
+    "vestimentum",
+    "vestis sordida",
+    "amictus",
+    "tunica",
+    "toga",
+    "sagum",
+    "paludamentum"
+  ],
+  "264": [
+    "vetus",
+    "antiquus",
+    "vetustus",
+    "priscus",
+    "pristinus",
+    "senex",
+    "obsoletus",
+    "inveteratus"
+  ],
+  "265": [
+    "via",
+    "iter"
+  ],
+  "266": [
+    "vicinus",
+    "finitimus"
+  ],
+  "267": [
+    "video<opt>, videre</opt>",
+    "cerno<opt>, cernere</opt>",
+    "specto<opt>, spectare</opt>"
+  ],
+  "268": [
+    "vinco<opt>, vincere</opt>",
+    "supero<opt>, superare</opt>",
+    "subigo<opt>, subigere</opt>"
+  ],
+  "269": [
+    "vincio<opt>, vincire</opt>",
+    "necto<opt>, nectere</opt>",
+    "ligo<opt>, ligare</opt>",
+    "religo<opt>, religare</opt>",
+    "obligo<opt>, obligare</opt>"
+  ],
+  "270": [
+    "violo<opt>, violare</opt>",
+    "laedo<opt>, laedere</opt>",
+    "offendo<opt>, offendere</opt>"
+  ],
+  "271": [
+    "vitupero<opt>, vituperare</opt>",
+    "reprehendo<opt>, reprehendere</opt>"
+  ],
+  "272": [
+    "vivo<opt>, vivere</opt>",
+    "sum<opt>, esse</opt>",
+    "vescor<opt>, vesci</opt>",
+    "video<opt>, videre</opt>"
+  ],
+  "273": [
+    "vix",
+    "aegre"
+  ],
+  "274": [
+    "voco<opt>, vocare</opt>",
+    "clamo<opt>, clamare</opt>",
+    "conclamo<opt>, conclamare</opt>",
+    "declamo<opt>, declamare</opt>",
+    "pronuntio<opt>, pronuntiare</opt>"
+  ]
+}

@@ -1,8 +1,8 @@
 # Latinská synonymika pro školu i dům, Skřivan (1890)
 
-**Latin-Czech** dictionary of Latin synonyms is a compilation of well-known dictionaries (see [author's preface][1]) translated into Czech language. Explanations are clear, compact, and accompanied with good examples; often author states antonyms which is rare in such dictionaries.
+This dictionary of **Latin** synonyms is a compilation of well-known dictionaries (see [author's preface][1]) translated into **Czech** language. Explanations are clear, compact, and accompanied with good examples; often author states antonyms which is rare in such dictionaries.
 
-_Work in progress._
+For download see [Release][2] section.
 
 
 ## Exemplum
@@ -13,8 +13,7 @@ _Work in progress._
 ## Sources
 
 1. Skřivan, A. _Latinská synonymika pro školu i dům._ Chrudim, 1890. URL: <https://archive.org/details/SkivanLatinskSynonymika> \[Accessed 8 April 2019\].
-
-See also blog of [Iohannes Brunensis][3].
+1. Blog of [Iohannes Brunensis][3].
 
 
 ## Usage guidelines
@@ -24,7 +23,16 @@ We recommend using [article-style.css][4] for GoldenDict, which is optional for 
 
 ## Errata
 
-_To be written_
+Article number 88 changed to 83 (page 24).
+
+Text of the following aticles was altered:
+
+* #23: "coucremare" to "concremare"
+* #108: add ";" to the end of the definition of "multitūdō"
+* #109: "v dávati" to "vdávati"
+* #159: final ";" changed to "."
+* #203: reformatted to avoid curly brackets
+* #208: "aliqo" to "aliquo"
 
 
 ## License
@@ -37,12 +45,12 @@ _To be written_
 
 ## ToDo
 
-* [x] transcribe full text
-* [ ] proofread transcribed text (WIP 12%)
-* [ ] add lemmas
+Several small problems are needed to be fixed, [see issue][5].
 
 
 [1]: http://www.archive.org/stream/SkivanLatinskSynonymika#page/n2
-[2]: http://www.archive.org/stream/SkivanLatinskSynonymika#page/n6
+[2]: https://github.com/nikita-moor/latin-dictionary/releases
 [3]: http://www.litteraelatinae.eu/?p=606
 [4]: https://github.com/nikita-moor/latin-dictionary/blob/master/utils/article-style.css
+[5]: https://github.com/nikita-moor/latin-dictionary/issues/1
+

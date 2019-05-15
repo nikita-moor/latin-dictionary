@@ -1,3 +1,11 @@
+/*
+ * Transcript format:
+ * \*bellum\* - bold font, articles keywords
+ * +bellum duci+ - expanded font, all latin texts
+ * %administrare% - reference to another article
+ */
+
+
 Sestavuje „Lat. Synonymiku" měl jsem po ruce vedle našich slovníků: Vojáčkova, Říhova a Kottova tyto knihy pomocné: Handbuch der latein. Synonymik von Ludwig Doederlein, 2. Ausgabe; Lateinische Synonymik von Dr. Ferdinand Schultz, 8. Auflage; Lateinische Synonymik von Dr. Hermann Menge, 3. Auflage; Studien zur lateinischen Synonymik. Ein Beitrag zur Methodik des Gymnasialunterrichts. Von Dr. Tegge; Lateinische Schulsynonymik. Von Dr. Tegge; Kurzgefaßte lateinische Synonymik nebst einem Antibarbarus von Dr. Carl Meiszner, 3. Auflage; Lateinische Synonyma. Zusammengestellt von P. B. Sepp, 6. Auflage; Lateinische Stilistik von O. Drenckhahn; Etymologisches Wörterbuch der lateinischen Sprache von Alois Vaníček, 2. Auflage; Hülfsbüchlein für die Aussprache der latein. Vocale in positionslangen Silben von Anton Marx, 2. Auflage.
 
 
@@ -204,7 +212,7 @@ Podobně se rozeznávají: +Gallus+ (subst. i adjekt.) — +Gallicus (bellum)+ �
 *flagrāre* (z koř. +flag+, sr. +flamma+) hořeti plamenem, plápolati: +naves onerariae flagrant+; — obě verba i přen.: +oculi ardent+; +cupiditate, desiderio flagrare+ prahnouti; +Gallia ardet+ se jitří;
 *ūrere* páliti (o palčivé bolesti, kterou oheň působí): +calore uri+; +sol urit+;
 *combūrere* na dobro spáliti, upáliti, v popel obrátiti: +vivum+;
-*cremāre*, *coucremāre* zvl. mrtvolu spáliti: +mortui igni cremantor+.
+*cremāre*, *concremāre* zvl. mrtvolu spáliti: +mortui igni cremantor+.
 
 
 7
@@ -231,7 +239,7 @@ Podobně se rozeznávají: +Gallus+ (subst. i adjekt.) — +Gallicus (bellum)+ �
 
 
 *armentum* (+arare+) stádo hrubého dobytka; +armenta+ (obyčejně) skot;
-*iūmentum* (místo +iu[g]mentum+ z +iungere+) jednotlivý kus tažného dobytka (n. př. vůl, kůň, osel), tahoun, soumar. — Oba tyto druhy chová člověk ku práci. — Potravou a majetkem jest: *pecus* -oris n. stádo bravu (ovce, kozy, vepři); +pecora, um+ = stádo pastevné;
+*iūmentum* (místo +iu[g]mentum+ z +iungere+) jednotlivý kus tažného dobytka (n. př. vůl, kůň, osel), tahoun, soumar. — Oba tyto druhy chová člověk ku práci. — Potravou a majetkem jest: *pecus* +-oris+ n. stádo bravu (ovce, kozy, vepři); +pecora, um+ = stádo pastevné;
 *pecus*, +pecudis+ f. jednotlivý kus drobného dobytka, zvl. ovce (s vedlejším významem hlouposti a tuposti, proto též přezdívkou o lidech: +ista pecus+ = ten pitomec!).
 
 
@@ -300,13 +308,13 @@ Důraznější než toto jest *bellum trahere* válku protahovati: +bellum in te
 34.
 
 
-*capere* 1). vžiti něco v majetek (+urbem capere+); 2). kvapně se chopiti, popadnouti: +arma capere+, +arripere+;
+*capere* 1). vzíti něco v majetek (+urbem capere+); 2). kvapně se chopiti, popadnouti: +arma capere+, +arripere+;
 *accipere* přijati to, co se podává: +pecuniam oblatam+;
-*sūmere* klidně vžiti něco (co přichystáno jest), abych toho užil neb upotřebil: +cibum+, +arma+;
+*sūmere* klidně vzíti něco (co přichystáno jest), abych toho užil neb upotřebil: +cibum+, +arma+;
 *excipere* 1). vyníti (+exceptis excipiendis+); 2). vzíti, přijati to, nač jsem čekal;
 *intercipere* zachytiti, polapiti, přejati něco neb někoho na cestě: +epistulam+;
-*recuperāre* něco pracné opět získati, ku svému zase přijíti: +amissa+, +urbem+;
-*dēmere* (+de-emere+) vžiti něco z celku, čím se tento umenší, odníti (proti +addere+): +iugum bubus+; +secures de fascibus+;
+*recuperāre* něco pracně opět získati, ku svému zase přijíti: +amissa+, +urbem+;
+*dēmere* (+de-emere+) vzíti něco z celku, čím se tento umenší, odníti (proti +addere+): +iugum bubus+; +secures de fascibus+;
 *adimere* odníti něco dobrého (majetníku vzíti věc nějakou, čím tento schudne): +alicui pecuniam+, +vitam+, +militibus arma+;
 *eximere* obtíženému nějaké břímě odníti, aby se mu polehčilo, sprostiti ho: +cives servitute+;
 *auferre* bezprávně co odníti, uzmouti, aby se obohatil: +pecuniam de aerario+;
@@ -424,8 +432,8 @@ Válka, hněv počne: +bellum, ira exardescit+.
 45.
 
 
-*comperīre* nabyti jistotné zprávy a vědomosti, jistě a zevrub se dozvěděti: +ex multis audivi, nam comperisse me non audeo dicere+; +compertum habeo+ mám toho jistou zprávu; +certis auctoribus comperire+ z bezpečného pramene se dozvěděti; — dozvěděti se, doslechnout vůbec, jest: +audire+, +comperire ap+.
-*experīrī* učiniti zkoušku, zkusiti čeho (pokusy nebo pozorováním) a tak poznati: +fortunam belli+; +expertus hoc dico+ povídám to ze zkušenosti; +expertus scio+. Tudíž: +experientia+ zkouška, pokus; +ūsus+ zkušenost konáním a cvikem získaná.
+*comperīre* nabyti jistotné zprávy a vědomosti, jistě a zevrub se dozvěděti: +ex multis audivi, nam comperisse me non audeo dicere+; +compertum habeo+ mám toho jistou zprávu; +certis auctoribus comperire+ z bezpečného pramene se dozvěděti; — dozvěděti se, doslechnout vůbec, jest: +audire+, +comperire+ a p.
+*experīrī* učiniti zkoušku, zkusiti čeho (pokusy nebo pozorováním) a tak poznati: +fortunam belli+; +expertus hoc dico+ povídám to ze zkušenosti; +expertus scio+. Tudíž: +experientia+ zkouška, pokus; +ūsus+ zkušenosť konáním a cvikem získaná.
 
 
 46.
@@ -439,7 +447,7 @@ Válka, hněv počne: +bellum, ira exardescit+.
 
 
 *cōnficere bellum* skončiti válku povalením a potřením nepřítele;
-*compōnere bellum* ukliditi válku smlouvou ;
+*compōnere bellum* ukliditi válku smlouvou;
 *fīnem facere* (s gen. neboli s dat.; avšak +gerundium+ jen v gen.) učiniti konec, skončiti (vůbec): +belli+, +dicendi+.
 
 
@@ -519,7 +527,7 @@ Válka, hněv počne: +bellum, ira exardescit+.
 *putāre* uvažovati, mysliti, míniti, podle zevnějšku soudíc;
 *rērī* domnívati se, souditi (z důvodů rozumných), pevně věřiti: +ratus+;
 *opīnārī* pokládati nemajíc k tomu dostatečných důvodů, domýšleti se podle pravděpodobnosti, tušiti: +Sapiens nihil opinatur+;
-*æstimāre* 1). něco podle hodnoty peněžně (aes) ceniti (jako úřední odhadce, taxator); 2). něco podle vnitřní ceny posuzovali;
+*æstimāre* 1). něco podle hodnoty peněžně (+aes+) ceniti (jako úřední odhadce, taxator); 2). něco podle vnitřní ceny posuzovali;
 *exīstimāre* souditi o věci jako znalec nebo posuzovatel (kritik), s rozmyslem pokládati, za to míti (+existimator doctus et intelligens+);
 *cēnsēre* určitě své mínění pronésti, k tomu hlasovati;
 *iūdicāre* 1). souditi, nalézati jako soudce státem ustanovený; 2). jako soukromá osoba věc uvážíc mínění, zdání, úsudek pronésti;
@@ -752,7 +760,7 @@ Silnější jest *indigēre* strádati, potřebovati, nemíti čeho s potřebu, 
 Tudíž také: *ērudītiō* vzdělanosť mravní i duševní;
 *doctus* pouze vyučováním vzdělaný zvl. v plur. +docti+ učení, učenci (o mužích filosoficky vzdělaných); +litteratus+ vědecky vzdělaný (vůbec);
 *doctrīna* v. %scientia%;
-*lītterae* (vl. napsaná písmena) vědy, nauky v písemnictví uložené, nauky, vědecké vzdělání: +litterarum Graecarum stadio incensum esse+;
+*lītterae* (vl. napsaná písmena) vědy, nauky v písemnictví uložené, nauky, vědecké vzdělání: +litterarum Graecarum studio incensum esse+;
 *hūmānitās* vl. lidskosť; vzdělanosť všeliká, ušlechtilosť;
 *urbānitās* vl. velikoměstské mravy; velikoměstská uhlazenosť, jemnosť, dvornosť;
 *cultus ingenii*, +animi+ jest vzdělanosť vůbec.
@@ -772,7 +780,7 @@ Tudíž také: *ērudītiō* vzdělanosť mravní i duševní;
 
 
 *exercitus* (+ex-arceo+ učiniti zbrojným) vojsko (vycvičené, pravidelné);
-*āgmen* (z +agimen+ v. %ago%) vojsko na pochodě, proto +agmen primum+ přední voj, čelo voje, +agmen novissimum+ neb +extremum+ zadní voj, zad voje;
+*āgmen* (z +agimen+ v. +ago+) vojsko na pochodě, proto +agmen primum+ přední voj, čelo voje, +agmen novissimum+ neb +extremum+ zadní voj, zad voje;
 *aciēs* (vl. ostří) vojsko v šiku bitevním: +aciem instruere+; +prima acies+ první šik, +media acies+ prostřední šik, střed, +extrema acies+ (neboli +novissima+) zadní šik;
 *cōpiæ* (+co-opiae+, +con-opes+) větší neb menší moc branná, vojsko jakožto nástroj v rukou vůdce válčícího; zvl. zástupy, voje barbarské: +copiae magnae, parvae+;
 Myslí-li se na lidi vojsko tvořící, říká se: *mīlitēs* (nikoli +copiae+): +dux milites cohortatus est+;
@@ -859,7 +867,7 @@ Pročež: +profiteri artem+, neboli se +philosophum+ vyhlašovati se, vydávati 
 *beātus* (proti +miser+) blažený: +vita beata+, +bene beateque vivere+;
 *fortūnātus* požehnaný (statky vezdejšími), zámožný: +homo fortunatus et nobilis+;
 *prōsper(us)* (+pro-spes+) vl. naději vyhovující, žádoucný, zdárný: +eventus+, +successus+; +res prospere procedit+;
-*secundus* (particip. v. %sequi%; proti +adversus+) po přání jdoucí, zdařilý, prospěšný, příznivý, šťastný: +ventus+, +proelium+; +auspicia secunda+; +res secundae+ viz při sl. %fortuna%;
+*secundus* (particip. v. +sequi+; proti +adversus+) po přání jdoucí, zdařilý, prospěšný, příznivý, šťastný: +ventus+, +proelium+; +auspicia secunda+; +res secundae+ viz při sl. %fortuna%;
 *faustus* (+faveo+) vzhledem k přízni a milosti bohův: zdárný, požehnaný: +faustum omen+, +fausta precari+ (jen o věcech).
 
 
@@ -1010,7 +1018,7 @@ Rozeznávej: +nequicquam+ od +nequaquam+ = nikterak, nikoliv.
 *effugere* utéci, uniknouti, vyváznouti: +ex vinculis+, +mortem+ ujíti hrozící smrti;
 *profugere* uprchnouti, uběhnouti, utéci se za ochranu: +Mithridates ex regno profugit+;
 *cōnfugere* utéci se, útočiště vžiti, uchýliti se: +Themistocles ad Persas confugit+;
-*perfugere* téměř jen o vojácích: přeběhnouti, zběhnouti k nepříteli: +ad Caesarem+; sr. %perfuga%;
+*perfugere* téměř jen o vojácích: přeběhnouti, zběhnouti k nepříteli: +ad Caesarem+; sr. +perfuga+;
 *vītāre* vyhýbati se čemu, straniti se čeho, aby se s ním nesetkal (silnější jest: +ēvītāre+, +dēvītāre+): +periculum+, +tela+;
 *cavēre* hleděti se, stříci se, varovati se osoby nebo věci, od níž se nebezpečenství neb čehosi zlého obávám: +vallum caecum fossasque+, +vim atque opes+.
 
@@ -1211,8 +1219,8 @@ Dle toho rozeznávají se: +initia philosophiae+ počátky, první pravidla (jim
 
 
 *īnscientia* (proti +scientia+) nedostatek náležitého, úplného vědění, nevědomosť, neznalosť: +locorum+, +belli+;
-*īgnōrātiō* nevědění, neznání (vztahující se k případnosti jednotlivé v. %nescius%): +iuris+;
-*īgnōrantia* nevědomosť, neznámosť něčeho (brána jako vlastnosť trvalá, sr. %inscius%): +litterarum+;
+*īgnōrātiō* nevědění, neznání (vztahující se k případnosti jednotlivé v. +nescius+): +iuris+;
+*īgnōrantia* nevědomosť, neznámosť něčeho (brána jako vlastnosť trvalá, sr. +inscius+): +litterarum+;
 *īnscītīa* neumělosť, neobratnosť, neschopnosť: +negotii gerendi+.
 
 
@@ -1333,7 +1341,7 @@ Obojí prací (+labore et opera+) vykoná se *opus*: (úplné, hotové) dílo (t
 
 
 *Latīnus* táhne se k řeči a písemnictví: +litterae latinae+ písemnictví, literatura latinská; +poëtae Latini+, +lingua Latina+, +Latine loqui+, +convertere in Latinum+;
-*Romanas* (adj. a subst.) táhne se k národu a státu: +civis+, +populus Romanus+; +Romana+; +imperium+;
+*Rōmānus* (adj. a subst.) táhne se k národu a státu: +civis+, +populus Romanus+; +Romana+; +imperium+;
 *Quirītēs* římští občané v míru (proti vojákům); obyčejné oslovování římských občanů v Římě.
 
 
@@ -1423,7 +1431,7 @@ Podobně se liší: +maerēre+, +trīstem esse+, +lūgēre+, +dolēre+.
 147.
 
 
-*māximē* (sr. %magis%) nejvíce, nejvýše, velmi: +maxime te diligo et tibi confido+;
+*māximē* (sr. +magis+) nejvíce, nejvýše, velmi: +maxime te diligo et tibi confido+;
 *potissimum* nejraději, nejspíše, právě (vybírajíc z mnohých); příklonné, klade se nejvíce po zájmenech: +ego potissimum+; +ad Pompeium potissimum legatos miserunt+;
 *imprīmīs* (+in-primis+ vl. mezi prvními) obzvláště: +vir imprimis doctus+;
 *praecipuē* (+prae-capio+) především, nejvíce, hlavně, právě (proti +communiter+), čím kdo nad jiné vyniká: +Caesar Aeduorum civitati praecipue indulserat+;
@@ -1433,7 +1441,7 @@ Podobně se liší: +maerēre+, +trīstem esse+, +lūgēre+, +dolēre+.
 148.
 
 
-*meminisse* (sr. %mens%) pamětliv býti, v paměti míti (= +memoria tenere+): +praeteritorum malorum+; +memento nostri+;
+*meminisse* (sr. +mens+) pamětliv býti, v paměti míti (= +memoria tenere+): +praeteritorum malorum+; +memento nostri+;
 *reminīscī* (+re-memini+) = +in memoriam redigere+ neboli +reducere+ vl. opět vzpomenouti na co, rozpomenouti se (věc zapomenutou v paměti jako přítomnou opět si obnoviti): +beneficiorum+;
 *recordārī* vl. s citem (+cor+) opět (+re+) se rozpomínati, živě si vzpomínali: +communes belli casus+, +praeterita tempora pueritiae+. — Náhodou mně na mysl připadá nesmrtelný Plato: +mihi in mentem venit Platonis illius divini+.
 
@@ -1632,10 +1640,10 @@ Nazývati Sokrata mudrcem jest: +vocare+; nazývati jej Sokratem jest: +nominare
 170.
 
 
-*ōrātiō* (+orare+ pův. mluviti) 1). mluva, řeč, schopnost slovy myšlénky své pronášeti: +ferae orationis expertes sunt+; 2). umělecká řeč: +Ciceronis+; +facultas oratoria+ dar řečnický; 3). sloh: +pura+;
+*ōrātiō* (+orare+ pův. mluviti) 1). mluva, řeč, schopnosť slovy myšlénky své pronášeti: +ferae orationis expertes sunt+; 2). umělecká řeč: +Ciceronis+; +facultas oratoria+ dar řečnický; 3). sloh: +pura+;
 *sermo* (+serere+ pojiti) 1). rozmluva, hovor ve všedním, denním životě: sermonem conferre cum aliquo rozhovořiti se s kým, rozmlouvati; +sermones hominum, vulgi+ řeči; 2). způsob ústního a písemného se vyjadřování: +elegans, emendatus+; +sermo patrius+ jazyk mateřský;
 *lingua* jazyk jakožto nástroj, kterým myšlénky své pronášíme, mluva, řeč (kterou který národ mluví proti řeči jiných národů): +lingua Graeca, Latina loqui+;
-*cōntiō* řeč ve shromáždění lidu nebo před vojskem: +contionari apud populum (milites)+ sr. též %contio% č. 42.
+*cōntiō* řeč ve shromáždění lidu nebo před vojskem: +contionari apud populum (milites)+ sr. též +contio+ č. <a href="contio">42</a>.
 
 
 171.
@@ -2120,7 +2128,7 @@ Sláva, kterou kdo maje +imperium+ ve válce (+rebus gestis+) získá, jest oby�
 *implōrāre* vzývati slzíc (+plorare+), úpěnlivě žádati zač: +misericordiam+, +auxilium+, zvl. +deos+;
 *supplicāre* (+placare+) pokorně prositi: +alicui pro aliquo+;
 *precāri* (+prex+) prosebně vzývati, modliti se k bohům zač: +deos+, +aliquid a diis+;
-*petere* domáhati se čeho bud prosíc buď žádajíc, usilovati oč, hledati čeho: +praemia+, +pacem a rege+, +salutem fugā+.
+*petere* domáhati se čeho buď prosíc buď žádajíc, usilovati oč, hledati čeho: +praemia+, +pacem a rege+, +salutem fugā+.
 
 
 61
@@ -2424,7 +2432,7 @@ Umění výtvarná: +artes, quae versantur in rerum imaginibus (simulacris) effi
 253.
 
 
-*tuērī* hleděti čeho, ostříhati, chrániti od možného nebezpečenství: +fines+ ab +incursionibus hostium+; +tūtārī+ chrániti vdov a sirotků (+tūtor+ poručník; +tūtēla+ poručenství, ochrana);
+*tuērī* hleděti čeho, ostříhati, chrániti od možného nebezpečenství: +fines+ ab +incursionibus hostium+; *tūtārī* chrániti vdov a sirotků (+tūtor+ poručník; +tūtēla+ poručenství, ochrana);
 *dēfendere* hájiti, brániti, chrániti od nebezpečenství a útoku skutečného (již nastalého): +ab iniuria+; +deos ab hoste+; +bellum illatum defendere+; +defensor+ obhájce soudní;
 *servāre* zachovati, zachrániti, spasiti (v nebezpečenství), dáti komu uniknouti: +integrum incolumemque servare+; +aegre per manus tractus servatur+;
 *cōnservāre* o přemožených nepřátelích: při životě zachovati, ušetřiti, na milosť přijati: +Quos omnes conservatos Caesar domum dimisit+;
@@ -2520,7 +2528,7 @@ Město (občanstvo) konalo slavnosť: +civitas diem festum egit+.
 263.
 
 
-*vestis* (jen sing) kollektivně: šatstvo, roucho, oděv: +vestem induere+; +vestis stragula+ přikrývka, koberec;
+*vestis* (jen sing.) kollektivně: šatstvo, roucho, oděv: +vestem induere+; +vestis stragula+ přikrývka, koberec;
 *vestītus* též kollektivně: oděv, oblek, který kdo na těle má: +corporis+;
 *vestīmentum* čásť oděvu, šat: +mutare+ převléci se. +Vestem mutare+ = převléci se v šaty smutečné (proti +ad vestitum suum redire+ odložiti smutek a obléci zase šat obyčejný); avšak: šat smutečný: *vestis sordida*;
 *amictus* (z +am[b]-icere+) svrchní roucho, které se přehazuje na +vestitus+; jednotlivý jeho kus jest +amiculum+: +se amicire amiculo+ přiodíti se pláštěm;
@@ -2539,7 +2547,7 @@ Město (občanstvo) konalo slavnosť: +civitas diem festum egit+.
 *vetus* (proti +recens+) starý, co dlouho již trvalo a dosud (aspoň ve svých následcích) trvá: +navis+, +amicitia+; +veteres scriptores dicunt+ (praes.!) stojí v jejich spisech psáno; častěji s příhanou: +vetus accusator+ vycvičený, vychytralý žalobce; +veterāni+ (sc. +milites+) vysloužilci;
 *antīquus* (proti +novus+) starodávný, bývalý, dávný, zašlý (co dříve bylo a již není): +antiqui Aegyptii+; +antiquissimis temporibus+ v dávném starověku; +antiqui scriptores dixerunt+ (perf.!); často řiká se pochvalně: +homines antiqui+ muži starosvětští, +homines antiqua virtute et fide+ muži starého, dobrého zrna;
 *vetustus* dlouhým trváním sestárlý (téměř jen o věcech) s vedlejším ponětím výbornosti a ctihodnosti: +disciplina+, +hospitium+;
-*prīscus* starodávný, s vedlejším významem ctihodnosti: +prisci mores+, p. +severitas+;
+*prīscus* starodávný, s vedlejším významem ctihodnosti: +prisci mores+, +p. severitas+;
 *prīstinus* předešlý, dřevný, dřívější, někdejší (proti stavu nynějšímu [horšímu]): +pristina laus belli+ někdejší osvědčená sláva válečná, +in pristinum+ (sc. +statum+) +restituere+;
 *senex* (+grandis natu+) starý, stařičký;
 *obsolētus* zastaralý, zvetšelý: +verba+, +vestis+;
