@@ -39,7 +39,7 @@ It is an early development version. Index of keywords does contain multiple erro
 
 ## ToDo
 
-* [ ] fix OCR errors in the articles' keys (50% WIP)
+* [ ] fix OCR errors in the articles' keys (75% WIP)
 * [ ] add lemmas
 
 
