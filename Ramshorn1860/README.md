@@ -40,7 +40,7 @@ It is an early development version. Index of keywords does contain multiple erro
 ## ToDo
 
 * [x] fix OCR errors in the articles' keys
-* [ ] add lemmas
+* [ ] add lemmas (WIP 14%)
 
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
