@@ -4,13 +4,8 @@ Full title is "Latin synonyms, with their different significations, and examples
 
 Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format. For download see [Release][3] section.
 
-Scanned images (folder 'res') are distributed with release version only; using file `dict.xdxf` from this repository, you will see placeholders in place of pages.
+XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release version and replace file dict.xdxf with a version from this repository.
 
-To the date, most of the articles contain only scans of the corresponding pages and links to the ebooks in the Internet. Only small part was transcribed. If you want to help:
-
-1) please, open an [issue][4] stating your desire;
-1) choose a range of articles for transcription;
-1) check [sources](sources) for the required format (plain text).
 
 ## Exemplum
 
@@ -30,11 +25,6 @@ This dictionary bases on the 2nd English edition, and was corrected by the 3rd e
 Custom styles [article-style.css][2] are optional but strongly recommended to the users of GoldenDict. See application's [FAQ][1] for setting up.
 
 
-## States and limitations
-
-I am going to continue fixing this index. Text of the articles will be transcribed, but it could take very long time.
-
-
 ## License
 
 <a rel="license" href="http://creativecommons.org/publicdomain/mark/1.0/">
@@ -47,8 +37,9 @@ I am going to continue fixing this index. Text of the articles will be transcrib
 
 * [x] fix non-recognized articles (all 2541 articles are in the index)
 * [x] fix OCR errors in the articles' keys
+* [ ] check against 3rd edition
 * [ ] add lemmas
-* [ ] transcribe full text (WIP 3%)
+* [ ] ~~transcribe full text~~ (WIP 3%)
 
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
