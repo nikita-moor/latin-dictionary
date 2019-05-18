@@ -39,7 +39,7 @@ Custom styles [article-style.css][2] are optional but strongly recommended to th
 * [x] fix OCR errors in the articles' keys
 * [ ] check against 3rd edition
 * [ ] add lemmas
-* [ ] ~~transcribe full text~~ (WIP 3%)
+* [ ] ~~transcribe full text~~ (3%)
 
 
 [1]: http://goldendict.org/wiki/index.php/FAQ#How_do_I_change_the_font_used_for_the_articles.3F_Or_alter_its_appearance_in_any_other_way.3F
