@@ -6,7 +6,7 @@ Dictionary of **Latin** synonyms with explanations on **English**, in XDXF forma
 
 _Work in progress._ For download see [Release][3] section.
 
-XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release version and replace file `dict.xdxf` with a version from this repository.
+XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release and replace file `dict.xdxf` with the version from this repository.
 
 
 ## Exemplum
