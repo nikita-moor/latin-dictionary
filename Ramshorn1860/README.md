@@ -4,7 +4,7 @@ Full title is "Dictionary of Latin synonymes, for the use of schools and private
 
 Dictionary of **Latin** synonyms with explanations on **English**, in XDXF format.
 
-**Early development version.** For download see [Release][3] section.
+_Work in progress._ For download see [Release][3] section.
 
 XDXF version contains keys and scans of the corresponding pages. Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release version and replace file `dict.xdxf` with a version from this repository.
 
@@ -39,7 +39,7 @@ It is an early development version. Index of keywords does contain multiple erro
 
 ## ToDo
 
-* [ ] fix OCR errors in the articles' keys (75% WIP)
+* [x] fix OCR errors in the articles' keys
 * [ ] add lemmas
 
 
