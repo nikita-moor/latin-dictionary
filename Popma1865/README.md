@@ -39,8 +39,8 @@ It is an early development version. Index of keywords does contain multiple erro
 
 ## ToDo
 
-* [x] fix OCR errors in the articles' keys (first proofread round)
-* [ ] fix OCR errors in the articles' keys (second proofread round)
+* [x] fix OCR errors in the articles' keys (1st proofread round)
+* [ ] fix OCR errors in the articles' keys (2nd proofread round)
 * [ ] add lemmas
 * [ ] ~~transcribe full text~~
 
