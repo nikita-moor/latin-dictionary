@@ -27,12 +27,12 @@ Article number 88 changed to 83 (page 24).
 
 Text of the following aticles was altered:
 
-* #23: "coucremare" to "concremare"
-* #108: add ";" to the end of the definition of "multitūdō"
-* #109: "v dávati" to "vdávati"
+* #23: "coucremare" changed to "concremare"
+* #108: added ";" to the end of the definition of "multitūdō"
+* #109: "v dávati" changed to "vdávati"
 * #159: final ";" changed to "."
 * #203: reformatted to avoid curly brackets
-* #208: "aliqo" to "aliquo"
+* #208: "aliqo" changed to "aliquo"
 
 
 ## License
