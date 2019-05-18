@@ -27,7 +27,7 @@ Custom styles [article-style.css][2] are optional but strongly recommended to th
 
 ## States and limitations
 
-It is an early development version. Index of keywords does contain multiple errors and missing lines, currenty undergoes examination.
+_To be written._
 
 
 ## License
