@@ -2,6 +2,8 @@
 
 This is development version of the dictionary. If you are looking for the release, see [official site][1].
 
+Scanned images (folder 'res') are distributed with release version only, so in order to use developer's version, you need to download a release and replace file `dict.xdxf` with version from this repository.
+
 
 ## License
 
