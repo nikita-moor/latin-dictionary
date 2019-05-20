@@ -11,9 +11,9 @@ This is development version of the dictionary. If you are looking for a release 
 </a>
 
 
-## ToDo (in the distant future)
+## ToDo
 
-The work is finished, I could only regret the method I chose to lemmatize keys, which now prevents me producing good j-spelling variant of the dictionary. Though it's possible, but requires several days of handy work, and I think could find them better application working on another dictionaries.
+The work is finished, these planes are postponed on the distant future.
 
 * [ ] fix lemmatizing process for "j"-spelling
 * [ ] develop smarter algorithm for authors detection
