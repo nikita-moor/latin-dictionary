@@ -13,7 +13,7 @@ This is development version of the dictionary. If you are looking for the releas
 
 ## ToDo
 
-The work is finished, these planes are postponed on the distant future.
+Project is finished, these planes are postponed on the distant future.
 
 * [ ] fix lemmatizing process for "j"-spelling
 * [ ] develop smarter algorithm for authors detection
