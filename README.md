@@ -2,7 +2,7 @@
 
 [Read more](https://nikita-moor.github.io/dictionaries/) about this dictionaries.
 
-Following list is maintained for technical reason.
+Following list is maintained for technical reasons.
 
 * [Döderlein's Hand-book of Latin Synonymes][1] (Doederlein, 1874) **finished** \
     [Lat-Eng] dictionary of synonyms
