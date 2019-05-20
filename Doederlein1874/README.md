@@ -1,6 +1,6 @@
 # Döderlein's Hand-book of Latin Synonymes
 
-This is development version of the dictionary. If you are looking for a release version, see [official site][1].
+This is development version of the dictionary. If you are looking for the release, see [official site][1].
 
 
 ## License
