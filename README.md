@@ -1,5 +1,9 @@
 # Latin dictionaries
 
+[Read more](https://nikita-moor.github.io/dictionaries/) about this dictionaries.
+
+Following list is maintained for technical reason.
+
 * [Döderlein's Hand-book of Latin Synonymes][1] (Doederlein, 1874) **finished** \
     [Lat-Eng] dictionary of synonyms
 * [Lexicon Latinum seu Corpus Phraseologiæ][2] (Wagner, 1878) _suspended_ \
