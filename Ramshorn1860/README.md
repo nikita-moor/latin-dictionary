@@ -13,7 +13,8 @@ This is development version of the dictionary. If you are looking for the releas
 ## ToDo
 
 * [x] fix OCR errors in the articles' keys
-* [ ] add lemmas (WIP 14%)
+* [ ] add lemmas (WIP 48%)
+* [ ] export to MDict
 
 
 [1]: https://nikita-moor.github.io/dictionaries/dictionaries/Ramshorn1860.html
