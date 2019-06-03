@@ -19,6 +19,7 @@ Scanned images (folder 'res') are distributed with release version only, so in o
 * [x] fix OCR errors in the articles' keys
 * [ ] check against 3rd edition
 * [ ] add lemmas
+* [ ] good scans (b/w, no margins)
 * [ ] ~~transcribe full text~~ (3%)
 
 
