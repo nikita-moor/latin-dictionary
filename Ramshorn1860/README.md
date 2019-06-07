@@ -13,7 +13,7 @@ This is development version of the dictionary. If you are looking for the releas
 ## ToDo
 
 * [x] fix OCR errors in the articles' keys
-* [ ] add lemmas (WIP 48%)
+* [ ] add lemmas (WIP 56%)
 * [ ] export to MDict
 
 
