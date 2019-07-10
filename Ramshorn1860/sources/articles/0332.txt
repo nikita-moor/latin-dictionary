@@ -1,0 +1,13 @@
+*Dēmum*, %only%, signifies that the preceding demonstrative (+nunc+, +post+, +tum+, +igitur+, +is+, +ibi+) must be taken in the highest degree of its meaning:
+* Nunc =demum= rescribo his literis, quas mihi misisti. #Cic.#
+* Idem velle atque idem nolle, ea =demum= firma amicitia est. #Sall.#
+*Dēnique* (for +demumque+), %at length%, %only%, attaches the idea which has been strengthened by +demum+ to that which precedes:
+* Tum =denique= homines nostra intelligimus bona, quum quæ in potestate habuimus, ea amisimus. #Plaut.#, then and then only.
+Hence in enumerations, when at the end of the series the highest or lowest or something is mentioned, which comprises the whole preceding series; at the highest, at least, in short, or, even:
+* Decemviri provincias, civitates liberas, socios, amicos, reges =denique= exhauriunt. #Cic.#
+* Hostes deditione facta, nostros præsidia deducturos, aut =denique= indiligentius servaturos crediderant. #Cæs.#, or at least.
+* Negant id Syracusani per religiones sacrorum ullo modo fieri posse: fas =denique= negant esse. #Cic.#, in short, in general.
+*Postremo*, sc. +loco+, %at length%, %finally%, designates only the last place according to order:
+* Omnes urbes, agri, regna =denique=, =postremo= etiam vectigalia vestra venierint. #Cic.#
+*Tandem*, %at last%, %at last after all%, %at length%, of time, when long expectation is to be expressed:
+* Redditæ mihi =tandem= sunt a Cæsare literæ. #Cic.#

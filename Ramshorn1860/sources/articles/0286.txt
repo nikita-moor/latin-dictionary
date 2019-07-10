@@ -1,0 +1,29 @@
+*Creare*, %to make a choice%, %elect%, designates lawful election and appointment, and authorization for an office as result of free voting or deliberation:
+* Patricii coiere et interregem =creavere=. #Liv.#
+* Romulus centum =creat= senatores. #Id.#
+*Facere*, %making%, *Fieri*, %being made%, the investment with some dignity or authority without reference to choice or election:
+* Te, Ser. Corneli, præsidem hujus publici consilii, custodem religionum, comitiorum, legum, collegæ =facimus=. #Liv.#
+* Tribuni plebis, ædiles, quæstores, nulli erant: institutum est, ut =fierent=. #Id.#
+*Legere*, 178, %to select% (for one's self) with reference to the qualities requisite for an office and the like:
+* Pontificis Maximi arbitratu virgines e populo viginti =leguntur=, #Gell.#
+* Censores senatum =perlegerunt=: princeps in senatu =lectus= est P. Scipio. #Liv.#
+*Eligere*, %electing from among a number of eligible persons%; *Deligere*, with reference to the destination:
+* Ex malis =eligere= minima. #Cic.#
+* Catilina ad certas res conficiendas certos homines =delectos= habebat. #Id.#
+Especial designations of elections are: *Capere*, 172, %taking%, without reference to the agreeing or readiness of the selected individual:
+* Præter virgines Vestales Flamines quoque Diales, item Pontifices et Augures =capi= dicebantur. #Gell.#
+*Dicere*, %nominating%, when one elector designates, nominates the chosen one, pronouncing one to be such or such officer:
+* Consul Postumium dictatorem =dixit=; ab eo L. Julius magister equitum =est dictus=. #Liv.#
+* Camillus creatus consul collegam App. Claudium =dixit=. #Id.#, he voted for him first. 
+*Prodere*, %appointing%, +interregem+, +flaminem+:
+* Nos Patres sine suffragio populi auspicato interregem =prodimus=. #Liv.#
+*Coöptare*, %to elect as colleague and receive him as such%, if one or a +collegium+ (which see) elected a colleague or new member:
+* Ciceronem nostrum in vestrum collegium =coöptari= volo. #Cic.# scil. Pontificum.
+*Sufficere*, %appointing a person in a place of another%, who had died before the expiration of his official term:
+* C. Julius censor decessit; in ejus locum M. Cornelius =suffectus=. #Liv.#
+
+*Designare*, %pronouncing an individual%, who has been already elected for the respective offce, a person elect: +Consul designatus+, was the person already elected and proclaimed (+renuntiatus+) until he actually entered upon offce, the consul elect.
+*Declarare*, %declaring publicly one who has been elected%, which was done by the presiding person, sometimes also by the electing meeting, upon which the respective individual was proclaimed (+renuntiabatur+) by the +præco+:
+* Me una voce universus populus Romanus consulem =declaravit=. #Cic.#, by acclaim.
+*Nuncupare*, %naming%, designating by name the elected citizen:
+* Te consulem =designavi=, et =declaravi=, et priorem =nuncupavi=. #Auson.#

@@ -1,0 +1,18 @@
+After negative sentences which express a preventing, a standing in the way, *Ne* signifies %that not%, %so that not%, 
+the intention that the action be entirely omitted; *Quo minus*, %that not%, that the action be stopped in its progress; *Quin*, %that not%, that the action nevertheless has happened:
+* Imperatores erant impediti, =ne= triumpharent. #Sall.#
+* Ætas non impedit, =quo minus= literarum studia teneamus. #Cic.#
+* Hanno prohiberi non poterat, =quin= erumperet. #Liv.#
+
+After the expressions of apprehending, fearing, *Ne* signifies that, %that it may or might%, the expression of a desire of 
+avoiding a threatening evil. *Ne nón*, %it might%, %may not%, %lest%, the desire not to lose an endangered good; *Ut*, %that not%, the desire to obtain an endangered good:
+* Verendum est, =ne= brevi tempore fames in urbe sit. #Cic.#
+* Veremur, =ne= beatus esse non possit. #Id.#
+* Vereor, =ut= Dolabella satis nobis prodesse possit. #Id.#
+
+*Ne*, %that not%, %so that not%, is used only to designate an object, and in an averting sense; *Ut*, %that%, used as well to designate an object, an end, as also a cause and effect; in both cases follows *Ne*, %not%, before a single part of such a sentence, which is to be taken as negative in an averting sense; *non*, %not%, in a negativing sense.
+* Quæ =ne= spes eum fallat, vehementer te rogo. #Cic.#
+* Non peto, =ut= decernatur aliquid novi, sed =ut ne= quid novi decernatur. #Id.#
+* Opera datur, =ut= judicia =ne= fiant. #Id.#
+* Veteres milites dimitti placuit, ita =ut= in singulas Romanas legiones =ne= plus sena millia peditum, treceni equites essent. #Liv.#
+* Spatium relinquatur, =ut= gemma libera vinculo =non= urgeatur. #Colum.#, speaking of the engrafted tree.

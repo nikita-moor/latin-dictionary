@@ -1,0 +1,29 @@
+*Ire*, %going%, in general: +pedibus+, +equis+, +trans mare+;
+* Incipit res melius =ire=, quam putaram. #Cic.#
+*Gradi*, %stepping%, designates the equal extending or stretching of the legs, the equal, measured, firm step;
+*Grassari*, %moving along with equal steps%, %stalking%;
+*Incedere*, 192 (properly, +parting+ along, i. e. leaving space behind), %walking along%, the manner of walking and carriage of a man,
+*Vadere*, %wandering%, the striving rapidly forward, onward, without allowing ourselves to be detained by obstacles;
+*Meare*, %walking all the time%, continually, indicates the uniform course in a certain path, direction;
+*Pergĕre* (σπέρχειν), %going away%, %hastening away%, the pursuing of one's object or aim without resting;
+*Scandĕre*, %the lifting the feet and firmly placing them%, in order to rise or descend by steps one above the other, walking or going with reference to ascent or descent (in German <span lang="de">steigen</span>):
+* Gallus gallinaceus =graditur= ardua cervice. #Plin.#
+* Animus ad gloriam virtutis via =grassatur=. #Sall.#
+* Ast ego, quæ divom =incedo= regina. #Virg.#
+* =Vadunt= in prœlium et locum, ex quo cesserant, repetunt. #Liv.#
+* Docebat Pythagoras, qua sidera lege =mearent=. #Ovid.#
+* Concessum est, ad castra uti contendant. Qua re concessa, læti ad castra =pergunt=. #Cæs.#
+* Victorem Tarpeias =scandere= in arces Roma videbit. #Ovid.#
+
+*Conscendere*, %ascending%, when we arrive upon the ascended thing itself (in German <span lang="de">besteigen</span>, as if we had a word _be-walking_, or _be-scending_);
+*Inscendere*, %ascending and going in%, %entering% (we might have _inscending_);
+*Escendere*, %ascending%, both as ascending a mountain and for rising;
+*Adscendere*, %ascending%, up to a given height:
+* Pompeius navem frumentarium =conscendit=. #Cæs.#
+* Mihi navem paro: =inscendo=, ut eam rem Naupactum ad herum nuntiem. #Plaut.#
+* In navem omnibus ignotus =adscendit=. #Nep.#
+* Constabat Eumenem, ut sacrificaret Apollini, Delphos =adscensurum=. #Liv.#
+* Legati Delphos quum =escendissent=, oraculum adierunt. #Id.#
+
+*Exscensionem facere*, %stepping on shore%, %landing% (never +exscendere+):
+* Philippus rex quinqueremibus sex profectus ad Erythras Ætolorum =escensionem= fecit. #Liv.#

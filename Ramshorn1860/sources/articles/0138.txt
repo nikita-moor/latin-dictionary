@@ -1,0 +1,15 @@
+If two ideas in a disjunctive relation are so opposed to one another, that only one of the two can take place, it is expressed by *Aut*, %or%, if they differ essentially, but by *Vel*, %or%, even, if they differ only in certain things; by *Ve*, %or%, if they are considered convertible, and one may take place as well as the other. If they stand in a perfectly equal disjunctive relation, we use *Aut—aut*, %either—or%, if the taking place of the one excludes entirely that of the other; *Vet—vel*, %partly—partly%, if it excludes only in the given case; *Ve–ve*, poetical, if the choice between the two remains free. *Sive* and *Seu*, %or%, %be it%, %it may be--or%, express this alternative conditionally; *Neve* and *Neu*, %or not%, %and not%, %neither--nor%, express it negatively:
+* Audendum est aliquid universis, =aut= omnia singulis patienda. #Liv.#
+* Epicurus, homo minime malus =vel= potius vir optimus. #Cic.#
+* Ex ingenio suo quisque demat =vel= addat fidem. #Tac.#
+* Hæc sunt omnia ingenii =vel= mediocris. #Cic.#
+* Consules alter ambo=ve= rationem agri habeant. #Cic.#, the one or the other, or also both together.
+* Hoc te rogo, ut resistas =sive= etiam occurras negotiis. #Id.#
+* Ascanius Lavinium urbem matri =seu= novercæ reliquit. #Liv.#
+* Cæsar milites cohortatus est, uti suæ pristinæ virtutis memoriam retinerent, =neu= perturbarentur animo. #Cæs.#
+* =Aut= vivam, =aut= moriar. #Ter.#
+* Pauci nobiles =vel= corrumpere mores civitatis, =vel= corrigere possunt. #Cic.#
+* Ubi potest senectus =aut= calescere =vel= apricatione melius =vel= igni, =aut= vicissim umbris aquis=ve= refrigerari salubrius? #Id.#
+* Si quis in adversum rapiat casus=ve= deus=ve=, te superesse velim. #Virg.#
+* Veniet tempus mortis, =sive= retractabis, =sive= properabis. #Cic.#
+* Carthaginiensibus conditio pacis dicta, bellum =neve= in Africa, =neve= extra Africam, injussu populi Romani gererent. #Liv.#

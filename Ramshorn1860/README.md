@@ -9,12 +9,5 @@ This is development version of the dictionary. If you are looking for the releas
      style="border-style: none;" alt="Public Domain Mark" />
 </a>
 
-
-## ToDo
-
-* [x] fix OCR errors in the articles' keys
-* [ ] add lemmas (WIP 56%)
-* [ ] export to MDict
-
-
 [1]: https://nikita-moor.github.io/dictionaries/dictionaries/Ramshorn1860.html
+
