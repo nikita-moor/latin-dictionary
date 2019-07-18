@@ -12,7 +12,7 @@ Following list is maintained for technical reasons:
 * [HillJohn1804][6] **finished**
 * [Skrivan1890][7] **finished**
 * [Popma1865][8] _WIP_
-* [Ramshorn1860][9] _WIP_
+* [Ramshorn1860][9] **finished**
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/Doederlein1874
 [2]: https://github.com/nikita-moor/latin-dictionary/tree/master/Wagner1878
