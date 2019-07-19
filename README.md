@@ -13,6 +13,7 @@ Following list is maintained for technical reasons:
 * [Skrivan1890][7] **finished**
 * [Popma1865][8] _WIP_
 * [Ramshorn1860][9] **finished**
+* [Appleton1914][10] **finished**
 
 [1]: https://github.com/nikita-moor/latin-dictionary/tree/master/Doederlein1874
 [2]: https://github.com/nikita-moor/latin-dictionary/tree/master/Wagner1878
@@ -23,4 +24,5 @@ Following list is maintained for technical reasons:
 [7]: https://github.com/nikita-moor/latin-dictionary/tree/master/Skrivan1890
 [8]: https://github.com/nikita-moor/latin-dictionary/tree/master/Popma1865
 [9]: https://github.com/nikita-moor/latin-dictionary/tree/master/Ramshorn1860
+[10]: https://github.com/nikita-moor/latin-dictionary/tree/master/Appleton1914
 
