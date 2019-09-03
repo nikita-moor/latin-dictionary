@@ -19,8 +19,9 @@ Scanned images (folder 'res') are distributed with release version only, so in o
 * [x] fix OCR errors in the articles' keys
 * [ ] check against 3rd edition
 * [ ] add lemmas
-* [ ] good scans (b/w, no margins)
+* [x] good scans (b/w, no margins)
 * [ ] ~~transcribe full text~~ (3%)
+* [ ] change semantic mark up, rework old articles
 
 
 [1]: https://nikita-moor.github.io/dictionaries/dictionaries/Dumesnil1819.html
