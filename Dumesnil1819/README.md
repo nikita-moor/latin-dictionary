@@ -21,7 +21,7 @@ Scanned images (folder 'res') are distributed with release version only, so in o
 * [ ] add lemmas
 * [x] good scans (b/w, no margins)
 * [ ] ~~transcribe full text~~ (3%)
-* [ ] change semantic mark up, rework old articles
+* [ ] change semantic markup, rework old articles
 
 
 [1]: https://nikita-moor.github.io/dictionaries/dictionaries/Dumesnil1819.html
