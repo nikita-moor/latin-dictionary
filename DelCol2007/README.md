@@ -4,7 +4,7 @@ Here are source files of the dictionary. If you are looking for the release, see
 
 ## Source file mark-up and content notes
 
-Besides the two main languages, Spanish and Latin, the dictionary contains words from several other languages, such as Italian, French, German, and English. The complete set of the characters used in the text:
+Besides two main languages, Spanish and Latin, the dictionary contains words from several other languages, such as Italian, French, German, and English. The complete set of the characters used in the text:
 
 ```
 ABCDEFGHIJKLMNOPQRSTUVWXYZ
