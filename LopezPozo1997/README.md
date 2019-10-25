@@ -1,4 +1,4 @@
-# Diccionario auxiliar Español-Latín, Del Col (2007)
+# Diccionario Español-Griego-Latín, López Pozo (1997)
 
 Here are source files of the dictionary. If you are looking for the release, see [official site][1].
 
