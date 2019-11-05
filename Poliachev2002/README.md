@@ -1,4 +1,4 @@
-# Russian-Latin Dictionary of Living Latin, Poliachev (2002)
+# Russian-Latin Dictionary, Poliachev (2002)
 
 Here are source files of the dictionary. If you are looking for the release, see [official site][1].
 
