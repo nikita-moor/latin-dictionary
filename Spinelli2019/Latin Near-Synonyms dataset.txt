@@ -1,0 +1,3186 @@
+{
+  "beneficium": [
+    "beneficium [-ii, n.]",
+    "benefactum [-i, n.]",
+    "lucrum [-i, n.]",
+    "utilĭtas [-ātis, f.]",
+    "gratia [-ae, f.]",
+    "favor [-is, m.]",
+    "munus [-eris, n.]",
+    "studium [-ii, n.]",
+    "gratia [-ae, f.]",
+    "venia [-ae, f.]",
+    "inclinatio [-onis, f.]",
+    "suffragium [-ii, n.]",
+    "servītium [-ii, n.]",
+    "ministerium [-ii, n.]",
+    "opera [-ae, f.]",
+    "officium [-ii, n.]",
+    "munus [-eris, n.]",
+    "commŏdum [-i, n.]",
+    "facultas [-atis, f.]",
+    "largitio [-onis, f.]",
+    "potestas [-atis, f.]",
+    "concessio [-onis, f.]",
+    "admissio [-onis, f.]",
+    "promotio [-onis, f.]",
+    "praemium [-i, n.]"
+  ],
+  "ramus": [
+    "ramus [-i, m.]",
+    "verbena [-ae, f.]"
+  ],
+  "umbra": [
+    "umbra [-ae, f.]",
+    "imago [-inis, f.]",
+    "umbra [-ae, f.]",
+    "lemŭres [-um, m.]",
+    "opacitas [-atis, f.]"
+  ],
+  "iubeo": [
+    "iubeo [iŭbes, iussi, iussum, iŭbēre]",
+    "impĕro [impĕras, imperavi, imperatum, impĕrāre]",
+    "mando [mandis, mandi, mansum, mandĕre]",
+    "praecĭpio [praecĭpis, praecepi, praeceptum, praecĭpĕre]",
+    "praescribo [praescrībis, praescripsi, praescriptum, praescrībĕre]",
+    "praesum [praees, praefui, praeesse]",
+    "dispono [dispōnis, disposui, dispositum, dispōnĕre]"
+  ],
+  "gens": [
+    "gens [gentis, f.]",
+    "genus [-ĕris, n.]",
+    "progenies [-ei, f.]",
+    "stirps [stirpis, f.]",
+    "familia [-ae, f.]"
+  ],
+  "mora": [
+    "mora [-ae, f.]",
+    "commorātio [-onis, f.]",
+    "retardatio [-onis, f.]",
+    "dilātio [-onis, f.]"
+  ],
+  "res publica": [
+    "res publica [rei publicae, f.]",
+    "civilitas [-atis, f.]",
+    "imperium [-ii, n.]"
+  ],
+  "miles": [
+    "miles [-ĭtis, m.]",
+    "gregārius [-ii, m.]",
+    "mercennārius [-ii, m.]",
+    "pugnator [-oris, m.]",
+    "proeliator [-oris, m.]",
+    "pugnans [-ntis]"
+  ],
+  "titulus": [
+    "titulus [-i, m.]",
+    "inscriptio [-onis, f.]",
+    "epigramma [-ătis, n.]",
+    "adnotatio [-onis, f.]",
+    "praescriptio [-onis, f.]",
+    "nomen [-inis, n.]",
+    "appellatio [-onis, f.]"
+  ],
+  "fio": [
+    "fio [fis, factus sum, fieri]",
+    "evado [ēvādis, evasi, evasum, ēvādĕre]",
+    "exsisto [exsistis, exstiti, exsistĕre]",
+    "contingo [contingis, contigi, contactum, contingĕre]",
+    "incido [incīdis, incidi, incisum, incīdĕre]",
+    "incurro [incurris, incurri, incursum, incurrĕre]",
+    "intercēdo [intercēdis, intercessi, intercessum, intercēdĕre]",
+    "intercĭdo [intercĭdis, intercidi, intercĭdĕre]",
+    "intervenio [intervĕnis, interveni, interventum, intervĕnīre]",
+    "evenio [ēvĕnis, eveni, eventum, ēvĕnīre]"
+  ],
+  "urbs": [
+    "urbs [urbis, f.]",
+    "municipium [-ii, n.]",
+    "oppĭdum [-i, n.]",
+    "oppidulum [-i, n.]",
+    "Roma [-ae, f.]",
+    "arx [arcis, f.]"
+  ],
+  "dux": [
+    "dux [ducis, m.]",
+    "rector [-oris, m.]",
+    "ductor [-oris, m.]",
+    "caput [-itis, n.]",
+    "rex [regis, m.]",
+    "promunturium [-ii, n.]",
+    "caput [-itis, n.]",
+    "vertex [-ĭcis, m.]",
+    "extremum [-i, n.]",
+    "magister [-tri, m.]",
+    "princeps [-ĭpis, m.]",
+    "ductor [-oris, m.]",
+    "imperātor [-oris, m.]",
+    "princeps [-ĭpis, m.]"
+  ],
+  "palma": [
+    "palma [-ae, f.]",
+    "palmus [-i, m.]"
+  ],
+  "honor": [
+    "honor [-oris, m.]",
+    "decus [-oris, n.]",
+    "honestas [-atis, f.]",
+    "dignitas [-atis, f.]",
+    "munus [-eris, n.]",
+    "reverentia [-ae, f.]",
+    "aestimātio [-onis, f.]",
+    "existimatio [-onis, f.]",
+    "iudicium [-ii, n.]",
+    "observantia [-ae, f.]",
+    "observātio [-ōnis, f.]",
+    "reverentia [-ae, f.]",
+    "respectus [-us, m.]",
+    "reverentia [-ae, f.]",
+    "respectus [-us, m.]",
+    "spectatio [-onis, f.]",
+    "contemplatus [-us, m.]",
+    "officium [-ii, n.]",
+    "potestas [-atis, f.]",
+    "imperium [-ii, n.]",
+    "gradus [-us, m.]",
+    "ordo [-ĭnis, m.]",
+    "dignitas [-atis, f.]",
+    "locus [-i, m.]",
+    "remuneratio [-onis, f.]",
+    "meritum [-i, n.]",
+    "merces [-edis, f.]",
+    "pretium [-i, n.]",
+    "honorarium [-ii, n.]",
+    "praemium [-i, n.]",
+    "stipendium [-ii, n.]",
+    "salarium [-ii, n.]",
+    "aes [aeris, n.]",
+    "impēndium [-ii, n.]",
+    "libamentum [-i, n.]",
+    "lustrum [-i, n.]",
+    "sacrificium [-i, n.]",
+    "laudatio [-onis, f.]",
+    "laus [laudis, f.]",
+    "obsequium [-i, n.]",
+    "pulchritudo [-inis, f.]",
+    "species [-ei, f.]",
+    "venustas [-atis, f.]",
+    "cultus [-a, -um]",
+    "mundus [-a, -um]",
+    "ornatus [-a, -um]"
+  ],
+  "pareo": [
+    "pareo [pāres, parui, paritum, pārēre]",
+    "obtempero [obtempĕras, obtemperavi, obtemperatum, obtempĕrāre]",
+    "oboedio [ŏboedis, oboedii, oboeditum, ŏboedīre]",
+    "ausculto [auscultas, auscultavi, auscultatum, auscultāre]"
+  ],
+  "flamma": [
+    "flamma [-ae, f.]",
+    "ardor [-oris, m.]",
+    "flagrantia [-ae, f.]"
+  ],
+  "spes": [
+    "spes [-ēi, f.]",
+    "exspectātio [-onis, f.]",
+    "desiderium [-ii, n.]"
+  ],
+  "spatium": [
+    "spatium [-ii, n.]",
+    "intervallum [-i, n.]",
+    "plaga [-ae, f.]"
+  ],
+  "vis": [
+    "vis [roboris, f.]",
+    "fortitudo [-inis, f.]",
+    "robur [-ŏris, n.]",
+    "firmĭtas [-atis, f.]",
+    "virilitas [-atis, f.]",
+    "vigor [-oris, m.]",
+    "facultas [-atis, f.]",
+    "impĕtus [-us, m.]",
+    "vehementia [-ae, f.]",
+    "effectus [-us, m.]",
+    "potēntia [-ae, f.]",
+    "copiae [-arum, f.]"
+  ],
+  "mensa": [
+    "mensa [-ae, f.]",
+    "tabula [-ae, f.]",
+    "cena [-ae, f.]",
+    "convivium [-ii, n.]"
+  ],
+  "senex": [
+    "senex [senis, m.]",
+    "senex [senis, m.]",
+    "aetate provectus [-a, -um]",
+    "longaevus [-a, -um]",
+    "grandis natu",
+    "vetus [-eris]",
+    "vetustus [-a, -um]",
+    "priscus [-a, -um]",
+    "pristinus [-a, -um]",
+    "antiquus [-a, -um]"
+  ],
+  "armo": [
+    "armo [armas, armavi, armatum, armāre]",
+    "armis instruo [instrŭis, instruxi, instructum, instrŭĕre]",
+    "orno [ornas, ornavi, ornatum, ornāre]",
+    "omnibus rebus instruo [instrŭis, instruxi, instructum, instrŭĕre]",
+    "instruo [instrŭis, instruxi, instructum, instrŭĕre]",
+    "orno [ornas, ornavi, ornatum, ornāre]"
+  ],
+  "totus": [
+    "totus [-a, -um]",
+    "cunctus [-a, -um]",
+    "omnis [-e]",
+    "universus [-a, -um]",
+    "intĕger [-gra, -grum]",
+    "summa [-ae, f.]"
+  ],
+  "ille": [
+    "hic",
+    "is [ea, id]"
+  ],
+  "tumulus": [
+    "tumulus [-i, m.]",
+    "aggestus [-us, m.]"
+  ],
+  "praeda": [
+    "praeda [-ae, f.]",
+    "manubiae [-arum, f.]",
+    "spolia [-orum, n.]"
+  ],
+  "omnis": [
+    "omnis [-e]",
+    "cunctus [-a, -um]",
+    "totus [-a, -um]",
+    "intĕger [-gra, -grum]",
+    "quisquis [quaequae, quicquid]"
+  ],
+  "consul": [
+    "consul [-is, m.]"
+  ],
+  "vox": [
+    "vox [vocis, f.]",
+    "sonus [-us, m.]",
+    "sonor [-oris, m.]",
+    "enuntiatio [-onis, f.]",
+    "locutio [-onis, f.]",
+    "accentus [-us, m.]",
+    "sonus [-us, m.]",
+    "pronuntiatio [-onis, f.]",
+    "tenor [-ōris, m.]",
+    "nota [-ae, f.]",
+    "notātio [-ōnis, f.]",
+    "commentarium [-i, n.]",
+    "nota [-ae, f.]",
+    "notātio [-ōnis, f.]",
+    "crepitus [-us, m.]",
+    "plausus [-us, m.]",
+    "rumor [-oris, m.]",
+    "sonitus [-us, m.]",
+    "sonus [-us, m.]",
+    "strepitus [-us, m.]",
+    "murmur [-uris, n.]",
+    "fragor [-oris, m.]",
+    "mugītus [-us, m.]",
+    "strepitus [-us, m.]",
+    "dictum [-i, n.]",
+    "vocabulum [-i, n.]",
+    "nomen [-inis, n.]",
+    "loquela [-ae, f.]",
+    "eloquium [-ii, n.]",
+    "oratio [-onis, f.]",
+    "sermo [-onis, m.]",
+    "fides [-ium, f.]",
+    "verbum [-i, n.]",
+    "vocabulum [-i, n.]",
+    "verbum [-i, n.]",
+    "placĭtum [-i, n.]",
+    "sententia [-ae, f.]",
+    "scitum [-i, n.]",
+    "adagium [-ii, n.]",
+    "decrētum [-i, n.]",
+    "dictum [-i, n.]",
+    "responsum [-i, n.]",
+    "sententia [-ae, f.]",
+    "iudicium [-ii, n.]",
+    "pronuntiatio [-onis, f.]",
+    "loquela [-ae, f.]",
+    "sermo [-onis, m.]",
+    "lexis [lexeos, f.]",
+    "dictum [-i, n.]",
+    "gradus [-us, m.]",
+    "iussus [-us, m.]",
+    "ordo [-ĭnis, m.]",
+    "imperātum [-i, n.]",
+    "iussum [-i, n.]",
+    "praeceptum [-i, n.]",
+    "dispositio [-onis, f.]",
+    "incantatio [-onis, f.]",
+    "fascinatio [-onis, f.]"
+  ],
+  "corpus": [
+    "corpus [-oris, n.]",
+    "homo [-ĭnis, m.]",
+    "caro [-carnis, f.]",
+    "morticinum [-i, n.]"
+  ],
+  "nox": [
+    "nox [noctis, f.]",
+    "tenebrae [-arum, f.]",
+    "obscuritas [-atis, f.]",
+    "umbra [-ae, f.]"
+  ],
+  "verber": [
+    "verber [-ĕris, n.]",
+    "flagellum [-i, n.]",
+    "corrigia [-ae, f.]"
+  ],
+  "militaris": [
+    "militaris [-e]",
+    "bellĭcus [-a, -um]"
+  ],
+  "error": [
+    "error [-oris, m.]",
+    "erratio [-onis, f.]",
+    "menda [-ae, f.]",
+    "lapsus [-us, m.]",
+    "mendum [-i, n.]",
+    "peccatum [-i, n.]"
+  ],
+  "mortalis": [
+    "mortālis [-e]",
+    "fatalis [-e]",
+    "internecīvus [-a, -um]",
+    "letalis [-e]",
+    "mortālis [-e]",
+    "mortĭfer [-ĕra, -ĕrum]",
+    "interibilis [-e]",
+    "mortiferus [-a, -um]",
+    "peremptorius [-a, -um]"
+  ],
+  "hiems": [
+    "hiĕms [hiĕmis, m.]",
+    "bruma [-ae, f.]",
+    "hibernum [-i, n.]"
+  ],
+  "cor": [
+    "cor [cordis, n.]",
+    "pectus [-oris, n.]",
+    "anĭmus [-i, m.]",
+    "mens [-ntis, f.]"
+  ],
+  "finio": [
+    "finio [fīnis, finii, finitum, fīnīre]",
+    "definio [dēfīnis, definii, definitum, dēfīnīre]",
+    "terminis circumscribo [circumscrībis, circumscripsi, circumscriptum, circumscrībĕre]",
+    "circumscribo [circumscrībis, circumscripsi, circumscriptum, circumscrībĕre]",
+    "termĭno [termĭnas, terminavi, terminatum, termĭnāre]",
+    "coarto [cŏartas, coartavi, coartatum, cŏartāre]",
+    "derŏgo [dērŏgas, derogavi, derogatum, dērŏgāre]",
+    "constringo [constringis, constrinxi, constrictum, constringĕre]"
+  ],
+  "unus": [
+    "unus [-a, -um]",
+    "solus [-a, -um]",
+    "unicus [-a, -um]"
+  ],
+  "sed": [
+    "at",
+    "autem [postposto]",
+    "at",
+    "tamen",
+    "at contra",
+    "nunc vero"
+  ],
+  "noster": [
+    "noster [-tra, -trum]",
+    "amicus [-a, -um]",
+    "amicus [-a, -um]",
+    "sodālis [-is, m.]"
+  ],
+  "poena": [
+    "poena [-ae, f.]",
+    "noxa [-ae, f.]",
+    "castigatio [-onis, f.]",
+    "punitio [-onis, f.]",
+    "supplicium [-ii, n.]",
+    "multa [-ae, f.]",
+    "dolor [-oris, m.]",
+    "afflictātio [-onis, f.]"
+  ],
+  "memoria": [
+    "memoria [-ae, f.]",
+    "recordātio [-onis, f.]",
+    "commemoratio [-onis, f.]"
+  ],
+  "onero": [
+    "onĕro [ŏnĕras, oneravi, oneratum, ŏnĕrāre]",
+    "gravo [grăvas, gravavi, gravatum, grăvāre]",
+    "pinguesco [pinguescis, pinguescĕre]"
+  ],
+  "clementia": [
+    "clementia [-ae, f.]",
+    "mansuetūdo [-ĭnis, f.]",
+    "indulgentia [-ae, f.]",
+    "lenitas [-atis, f.]"
+  ],
+  "paro": [
+    "paro [păras, paravi, paratum, părāre]",
+    "apto [aptas, aptavi, aptatum, aptāre]",
+    "comparo [compăras, comparavi, comparatum, compărāre]",
+    "congero [congĕris, congessi, congestum, congĕrĕre]",
+    "exorno [exornas, exornavi, exornatum, exornāre]",
+    "orno [ornas, ornavi, ornatum, ornāre]",
+    "paro [păras, paravi, paratum, părāre]",
+    "apparo [appăras, apparavi, apparatum, appărāre]",
+    "praeparo [praepăras, praeparavi, praeparatum, praepărāre]",
+    "struo [strŭis, struxi, structum, strŭĕre]",
+    "instruo [instrŭis, instruxi, instructum, instrŭĕre]",
+    "concinno [concinnas, concinnavi, concinnatum, concinnāre]",
+    "expedio [expĕdis, expedii, expeditum, expĕdīre]"
+  ],
+  "dies": [
+    "dies [-ēi, m.]",
+    "tempus [-oris, n.]",
+    "aetas [-atis, f.]",
+    "lux [lucis, f.]"
+  ],
+  "vulnus": [
+    "vulnus [-ĕris, n.]",
+    "plaga [-ae, f.]",
+    "vulneratio [-onis, f.]",
+    "vulnus [-ĕris, n.]",
+    "ulcus [-eris, n.]"
+  ],
+  "animus": [
+    "anĭmus [-i, m.]",
+    "mens [-ntis, f.]",
+    "anima [-ae, f.]",
+    "indoles [-is, f.]",
+    "virtus [-tis, f.]",
+    "conscientia [-ae, f.]",
+    "affectus [-us, m.]"
+  ],
+  "torus": [
+    "torus [-i, m.]",
+    "lectus [-us, m.]",
+    "cubīle [-is, n.]",
+    "stramen [-inis, n.]",
+    "stratum [-i, n.]",
+    "culcitra [-ae, f.]",
+    "pulvīnus [-i, m.]",
+    "pulvinar [-āris, n.]"
+  ],
+  "militia": [
+    "milītia [-ae, f.]",
+    "copiae [-arum, f.]"
+  ],
+  "res": [
+    "condicio [-ōnis, f.]"
+  ],
+  "fabula": [
+    "fabula [-ae, f.]",
+    "fabella [-ae, f.]"
+  ],
+  "magnus": [
+    "magnus [-a, -um]",
+    "grandis [-e]",
+    "ingens [-ntis]",
+    "copiosus [-a, -um]",
+    "spatiosus [-a, -um]",
+    "magnificus [-a, -um]",
+    "ēminens [-ntis]",
+    "excellens [-ntis]",
+    "excelsus [-a, -um]"
+  ],
+  "iudex": [
+    "arbiter [-tri, m.]",
+    "examinator [-oris, m.]",
+    "trutinator [-oris, m.]",
+    "iudex [-cis, m.]",
+    "iudex [-cis, m.]",
+    "exactor [-oris, m.]",
+    "censor [-oris, m.]",
+    "corrector [-oris, m.]",
+    "vituperator [-oris, m.]"
+  ],
+  "religio": [
+    "relīgio [-onis, f.]",
+    "superstitio [-ōnis, f.]",
+    "observantia [-ae, f.]",
+    "observātio [-ōnis, f.]",
+    "pietas [-atis, f.]",
+    "conscientia [-ae, f.]"
+  ],
+  "negotium": [
+    "negotium [-ii, n.]",
+    "actio [-ōnis, f.]",
+    "industria [-ae, f.]",
+    "opera [-ae, f.]",
+    "sollertia [-ae, f.]",
+    "negotium [-ii, n.]"
+  ],
+  "aetas": [
+    "aetas [-atis, f.]",
+    "vita [-ae, f.]",
+    "aevum [-i, n.]"
+  ],
+  "verbum": [
+    "verbum [-i, n.]",
+    "vox [vocis, f.]",
+    "vocabulum [-i, n.]",
+    "nomen [-inis, n.]",
+    "loquela [-ae, f.]",
+    "eloquium [-ii, n.]",
+    "oratio [-onis, f.]",
+    "sermo [-onis, m.]",
+    "fides [-ium, f.]",
+    "dictum [-i, n.]"
+  ],
+  "tumultus": [
+    "concitatio [-onis, f.]",
+    "strepitus [-us, m.]",
+    "seditio [-onis, f.]"
+  ],
+  "collis": [
+    "collis [-is, f.]",
+    "clivus [-i, m.]"
+  ],
+  "ago": [
+    "ago [ăgis, egi, actum, ăgĕre]",
+    "facio [făcis, feci, factum, făcĕre]",
+    "me gero [gĕris, gessi, gestum, gĕrĕre]",
+    "curo [cŭras, curavi, curatum, cŭrāre]"
+  ],
+  "imago": [
+    "imago [-inis, f.]",
+    "effigies [-ēi, f.]",
+    "idōlum [-i, n.]",
+    "simulacrum [-i, n.]",
+    "specŭlum [-i, n.]",
+    "species [-ei, f.]",
+    "facies [-ei, f.]"
+  ],
+  "custos": [
+    "custos [-ōdis, m.]",
+    "ianĭtor [-ōris, m.]",
+    "tutor [-oris, m.]"
+  ],
+  "forum": [
+    "forum [-i, n.]",
+    "platea [-ae, f.]",
+    "conciliabulum [-i, n.]",
+    "area [-ae, f.]",
+    "mercātus [-us, m.]"
+  ],
+  "tantus": [
+    "tantus [-a, -um]",
+    "tam multus [-a, -um]",
+    "tam",
+    "tantopĕre",
+    "tantum"
+  ],
+  "condicio": [
+    "condicio [-ōnis, f.]",
+    "conditio [-onis, f.]",
+    "status [-us, m.]"
+  ],
+  "lacrima": [
+    "lacrĭma [-ae, f.]",
+    "collacrimatio [-onis, f.]",
+    "fletus [-us, m.]",
+    "plangor [-oris, m.]",
+    "complorātio [-onis, f.]",
+    "ploratus [-us, m.]",
+    "planctus [-us, m.]",
+    "lamentum [-i, n.]",
+    "conquestus [-us, m.]"
+  ],
+  "votum": [
+    "votum [-i, n.]",
+    "omen [-inis, n.]",
+    "promissio [-ōnis, f.]",
+    "sponsio [-ōnis, f.]",
+    "promissum [-i, n.]",
+    "pollicitatio [-onis, f.]",
+    "fides [-ium, f.]",
+    "pollicitum [-i, n.]",
+    "sponsum [-i, n.]"
+  ],
+  "vicinus": [
+    "vicinus [-i, m.]",
+    "vicina [-ae, f.]",
+    "vicinus [-i, m.]",
+    "contiguus [-a, -um]",
+    "continens [-ntis]",
+    "finītimus [-a, -um]",
+    "propinqŭus [-i, m.]",
+    "proximus [-a, -um]",
+    "continuus [-a, -um]",
+    "adiunctus [-a, -um]",
+    "appositus [-a, -um]",
+    "confinis [-e]"
+  ],
+  "incendium": [
+    "incendium [-ii, n.]",
+    "conflagratio [-onis, f.]"
+  ],
+  "telum": [
+    "telum [-i, n.]",
+    "hasta [-ae, f.]",
+    "tragŭla [-ae, f.]",
+    "cuspis [-dis, f.]",
+    "hastīle [-is, n.]",
+    "lancea [-ae, f.]",
+    "contus [-i, m.]"
+  ],
+  "honestus": [
+    "honestus [-a, -um]",
+    "bonus [-a, -um]",
+    "intĕger [-gra, -grum]",
+    "probus [-a, -um]",
+    "rectus [-a, -um]"
+  ],
+  "ex": [
+    "de [indeclinabile, f. e n.]",
+    "e [] + ablativo plurale o genitivo plurale",
+    "a [indeclinabile, f. e n.]"
+  ],
+  "orbis": [
+    "orbis [-is, m.]",
+    "corōna [-ae, f.]",
+    "circulus [-i, m.]",
+    "circus [-i, m.]",
+    "cyclus [-i, m.]"
+  ],
+  "sine": [
+    "sine [] + ablativo",
+    "absque [] + ablativo",
+    "extra"
+  ],
+  "figura": [
+    "figura [-ae, f.]",
+    "facies [-ei, f.]",
+    "forma [-ae, f.]",
+    "species [-ei, f.]",
+    "imago [-inis, f.]",
+    "schema [-atis, n.]",
+    "sōlidum [-i, n.]"
+  ],
+  "habitus": [
+    "habĭtus [-us, m.]",
+    "condicio [-ōnis, f.]",
+    "conditio [-onis, f.]",
+    "status [-us, m.]",
+    "vestis [-is, f.]",
+    "vestimentum [-i, n.]",
+    "ornatus [-a, -um]"
+  ],
+  "rus": [
+    "rus [ruris, n.]",
+    "campi [-orum, m.]",
+    "campus [-i, m.]",
+    "ager [agri, m.]"
+  ],
+  "tempestas": [
+    "tempestas [-atis, f.]",
+    "hiĕms [hiĕmis, m.]",
+    "procella [-ae, f.]",
+    "tempestas [-atis, f.]",
+    "nimbus [-i, m.]",
+    "fluctus [-us, m.]",
+    "perturbatio [-onis, f.]",
+    "tempus [-oris, n.]",
+    "aevum [-i, n.]",
+    "aetas [-atis, f.]",
+    "dies [-ēi, m.]",
+    "spatium [-ii, n.]",
+    "hora [-ae, f.]",
+    "anni tempus [, m.]"
+  ],
+  "obvius": [
+    "obvius [-a, -um]",
+    "pervius [-a, -um]",
+    "patens, [-ntis]",
+    "apertus [-a, -um]",
+    "hiulcus [-a, -um]",
+    "manifestus [-a, -um]"
+  ],
+  "is": [
+    "is [ea, id]",
+    "ille [illa, illud]",
+    "hic",
+    "quidam [quaedam, quoddam]",
+    "talis [-e]"
+  ],
+  "scelus": [
+    "scelus [-ĕris, n.]",
+    "crimen [-ĭnis, n.]"
+  ],
+  "verbero": [
+    "vērbero [verbĕras, verberavi, verberatum, verbĕrāre]",
+    "flagellis caedo [caedis, cecidi, caesum, caedĕre]"
+  ],
+  "cornu": [
+    "cornu [-us, n.]",
+    "lituus [-i, m.]",
+    "bucĭna [-ae, f.]"
+  ],
+  "periculum": [
+    "periculum [-i, n.]",
+    "periclitātio [-ōnis, f.]",
+    "experimentum [-i, n.]",
+    "lis [litis, f.]",
+    "iudicium [-ii, n.]"
+  ],
+  "pauper": [
+    "pauper [-ĕris, m.]",
+    "inops [inŏpis]",
+    "indigens [-ntis]",
+    "egenus [-a, -um]",
+    "sordidus [-a, -um]",
+    "tenuis [-e]",
+    "angustus [-a, -um]",
+    "miser [-ĕra, -ĕrum]"
+  ],
+  "do": [
+    "do [das, dedi, datum, dāre]",
+    "dono [dōnas, donavi, donatum, dōnāre]",
+    "impertio [impertis, impertii, impertitum, impertīre]",
+    "largior [largīris, largitus sum, largīri]",
+    "offero [offĕrs, obtuli, oblatum, offĕrre]",
+    "praebeo [praebes, praebui, praebitum, praebēre]",
+    "perhĭbeo [pĕrhĭbes, perhibui, perhibitum, pĕrhĭbēre]",
+    "porrĭgo [porrĭgis, porrexi, porrectum, porrĭgĕre]",
+    "dedo [dēdis, dedidi, deditum, dēdĕre]",
+    "defĕro [dēfĕrs, detuli, delatum, dēfĕrre]"
+  ],
+  "turba": [
+    "turba [-ae, f.]",
+    "multitudo [-inis, f.]",
+    "concursus [-us, m.]",
+    "frequentia [-ae, f.]",
+    "globus [-i, m.]",
+    "agmen [agmĭnis, n.]"
+  ],
+  "senectus": [
+    "senectus [-ūtis, f.]",
+    "vetustas [-atis, f.]",
+    "annositas [-atis, f.]",
+    "senium [-ii, n.]"
+  ],
+  "limen": [
+    "limen [-inis, n.]",
+    "ianŭa [-ae, f.]",
+    "ōstium [-ii, n.]"
+  ],
+  "sertum": [
+    "sertum [-i, n.]",
+    "corōna [-ae, f.]",
+    "corolla [-ae, f.]",
+    "serta [-ae, f.]"
+  ],
+  "nomino": [
+    "nomino [nōmĭnas, nominavi, nominatum, nōmĭnāre]",
+    "appello [appellas, appellavi, appellatum, appellāre]",
+    "voco [vŏcas, vocavi, vocatum, vŏcāre]",
+    "nuncŭpo [nuncŭpas, nuncupavi, nuncupatum, nuncŭpāre]",
+    "denomino [dēnōmĭnas, denominavi, denominatum, dēnōmĭnāre]",
+    "creo [crĕas, creavi, creatum, crĕāre]",
+    "elĭgo [ēlĭgis, elegi, electum, ēlĭgĕre]"
+  ],
+  "merx": [
+    "merx [-cis, f.]",
+    "commercium [-ii, n.]"
+  ],
+  "ordo": [
+    "ordo [-ĭnis, m.]",
+    "series [-ei, f.]",
+    "gradus [-us, m.]",
+    "numerus [-i, m.]"
+  ],
+  "caelestis": [
+    "caelestis [-e]",
+    "dius [-a, -um]",
+    "supernus [-a, -um]",
+    "caeruleus [-a, -um]",
+    "caeles [-ĭtis, m.]",
+    "dĕus [-i, m.]",
+    "divus [-a, -um]",
+    "numen [-ĭnis, n.]"
+  ],
+  "vel": [
+    "aut",
+    "sive"
+  ],
+  "curia": [
+    "curia [-ae, f.]",
+    "senātus [-us, m.]"
+  ],
+  "praemium": [
+    "praemium [-i, n.]",
+    "remuneratio [-onis, f.]",
+    "meritum [-i, n.]"
+  ],
+  "virtus": [
+    "virtus [-tis, f.]",
+    "fortitudo [-inis, f.]",
+    "probitas [-atis, f.]",
+    "decus, [-oris, n.]",
+    "facultas [-atis, f.]"
+  ],
+  "barbarus": [
+    "barbarus [-a, -um]",
+    "barbaricus [-a, -um]"
+  ],
+  "auxilium": [
+    "auxilium [-ii, n.]",
+    "ops [opis, f.]",
+    "adiutor [-oris, m.]",
+    "adiumentum [-i, n.]",
+    "auxilium [-ii, n.]",
+    "praesidium [-ii, n.]",
+    "subsidium [-ii, n.]"
+  ],
+  "velum": [
+    "velum [-i, n.]",
+    "carbăsus [-i, f.]"
+  ],
+  "fero": [
+    "fero [fĕrs, tuli, latum, fĕrre]",
+    "advĕho [advĕhis, advexi, advectum, advĕhĕre]",
+    "afficio [affĭcis, affeci, affectum, affĭcĕre]",
+    "gero [gĕris, gessi, gestum, gĕrĕre]",
+    "pervĕho [pervĕhis, pervexi, pervectum, pervĕhĕre]",
+    "porto [portas, portavi, portatum, portāre]",
+    "perfero [perfĕrs, pertuli, perlatum, perfĕrre]",
+    "perpetior [perpĕtĕris, perpessus sum, perpĕti]",
+    "suffero [suffĕrs, sustinui, sustentum, suffĕrre]",
+    "tolĕro [tŏlĕras, toleravi, toleratum, tŏlĕrāre]",
+    "sustineo [sustĭnes, sustinui, sustentum, sustĭnēre]",
+    "subeo [sŭbis, subii, subitum, sŭbire]"
+  ],
+  "thalamus": [
+    "thalamus [-i, m.]",
+    "cubicŭlum [-i, n.]"
+  ],
+  "ad": [
+    "ad [] + accusativo",
+    "apud [] + accusativo",
+    "in [] + accusativo",
+    "circa"
+  ],
+  "murmur": [
+    "murmur [-uris, n.]",
+    "obtrectātio [-onis, f.]",
+    "fremitus [-us, m.]",
+    "murmuratio [-onis, f.]"
+  ],
+  "hospes": [
+    "hospes [-itis, m.]",
+    "hospita [-ae, f.]",
+    "diversor [-oris, m.]",
+    "adventor [-oris, m.]"
+  ],
+  "somnium": [
+    "somnium [-ii, n.]",
+    "insōmnium [-ii, n.]",
+    "imago [-inis, f.]"
+  ],
+  "ager": [
+    "ager [agri, m.]",
+    "seges [-etis, f.]",
+    "campus [-i, m.]",
+    "castra [-orum, n.]",
+    "arvum [-i, n.]",
+    "terra [-ae, f.]",
+    "tellus [-ŭris, f.]",
+    "humus [-i, f.]",
+    "fundus [-i, m.]",
+    "solum [-i, n.]",
+    "praedium [-ii, n.]",
+    "rus [ruris, n.]",
+    "campus [-i, m.]",
+    "ager [agri, m.]",
+    "planities [-ei, f.]",
+    "aequor [-ŏris, n.]",
+    "planitia [-ae, f.]",
+    "aequum [-i, n.]",
+    "porrectum [-i, n.]",
+    "terra [-ae, f.]",
+    "regio [-ōnis, f.]",
+    "humus [-i, f.]",
+    "solum [-i, n.]",
+    "praedium [-ii, n.]",
+    "fines [-ium, m.]",
+    "regio [-ōnis, f.]",
+    "territorium [-ii, n.]"
+  ],
+  "quis": [
+    "quis [, m. e f.]",
+    "quispiam [quaepiam, quidpiam]"
+  ],
+  "impedio": [
+    "impĕdĭo [impĕdis, impedii, impeditum, impĕdīre]",
+    "vexo [vexas, vexavi, vexatum, vexāre]",
+    "claudo [claudis, clausi, clausum, claudĕre]",
+    "impĕdĭo [impĕdis, impedii, impeditum, impĕdīre]",
+    "inclūdo [inclūdis, inclusi, inclusum, inclūdĕre]",
+    "inhibeo [ĭnhĭbes, inhibui, inhibitum, ĭnhĭbēre]",
+    "interpello [interpellas, interpellavi, interpellatum, interpellāre]",
+    "obsto [obstas, obstiti, obstāre]",
+    "prohibeo [prŏhĭbes, prohibui, prohibitum, prŏhĭbēre]",
+    "veto [vetui, vĕtāre, vetitum]"
+  ],
+  "sic": [
+    "ita"
+  ],
+  "voco": [
+    "voco [vŏcas, vocavi, vocatum, vŏcāre]",
+    "advŏco [advŏcas, advocavi, advocatum, advŏcāre]",
+    "appello [appellas, appellavi, appellatum, appellāre]",
+    "arcesso [arcessis, arcessii, arcessitum, arcessĕre]",
+    "clamo [clāmas, clamavi, clamatum, clāmāre]",
+    "compello [compellas, compellavi, compellatum, compellāre]",
+    "conclāmo [conclāmas, conclamavi, conclamatum, conclāmāre]",
+    "convŏco [convŏcas, convocavi, convocatum, convŏcāre]",
+    "devōco [dēvŏcas, devocavi, devocatum, dēvŏcāre]",
+    "nomino [nōmĭnas, nominavi, nominatum, nōmĭnāre]",
+    "cito [cĭtas, citavi, citatum, cĭtāre]",
+    "implōro [implōras, imploravi, imploratum, implōrāre]",
+    "supplĭco [supplĭcas, supplicavi, supplicatum, supplĭcāre]",
+    "posco [poscis, poposci, poscĕre]",
+    "precor [prĕcāris, precatus sum, prĕcāri]",
+    "invito [invītas, invitavi, invitatum, invītāre]",
+    "prōvoco [prōvŏcas, provocavi, provocatum, prōvŏcāre]",
+    "sollicito [sollĭcĭtas, sollicitavi, sollicitatum, sollĭcĭtāre]",
+    "posco [poscis, poposci, poscĕre]",
+    "cito [cĭtas, citavi, citatum, cĭtāre]",
+    "prōvoco [prōvŏcas, provocavi, provocatum, prōvŏcāre]",
+    "excĭto [excĭtas, excitavi, excitatum, excĭtāre]",
+    "concĭto [concĭtas, concitavi, concitatum, concĭtāre]",
+    "suscĭto [suscĭtas, suscitavi, suscitatum, suscĭtāre]",
+    "cito [cĭtas, citavi, citatum, cĭtāre]",
+    "denuntio [dēnuntĭas, denuntiavi, denuntiatum, dēnuntĭāre]",
+    "impello [impellis, impuli, impulsum, impellĕre]",
+    "incito [incĭtas, incitavi, incitatum, incĭtāre]",
+    "irrito [irrītas, irritavi, irritatum, irrītāre]",
+    "exstimulo [exstĭmŭlas, exstimulavi, exstimulatum, exstĭmŭlāre]",
+    "cohortor [cŏhortāris, cohortatus sum, cŏhortāri]",
+    "adhortor [ădhortāris, adhortatus sum, ădhortāri]",
+    "admŏneo [admŏnes, admonui, admonitum, admŏnēre]",
+    "cohortor [cŏhortāris, cohortatus sum, cŏhortāri]",
+    "hortor [hortāris, hortatus sum, hortāri]",
+    "moneo [mŏnes, monui, monitum, mŏnēre]",
+    "suadeo [suādes, suasi, suasum, suādēre]",
+    "addŭco [addūcis, adduxi, adductum, addūcĕre]",
+    "impello [impellis, impuli, impulsum, impellĕre]",
+    "induco [indūcis, induxi, inductum, indūcĕre]",
+    "permoveo [permŏves, permovi, permotum, permŏvēre]",
+    "perpello [perpellis, perpuli, perpulsum, perpellĕre]",
+    "sollicito [sollĭcĭtas, sollicitavi, sollicitatum, sollĭcĭtāre]",
+    "invito [invītas, invitavi, invitatum, invītāre]",
+    "allecto [allectas, allectavi, allectatum, allectāre]",
+    "elĭgo [ēlĭgis, elegi, electum, ēlĭgĕre]",
+    "nomino [nōmĭnas, nominavi, nominatum, nōmĭnāre]",
+    "nuncŭpo [nuncŭpas, nuncupavi, nuncupatum, nuncŭpāre]",
+    "denomino [dēnōmĭnas, denominavi, denominatum, dēnōmĭnāre]",
+    "attraho [attrăhis, attraxi, attractum, attrăhĕre]",
+    "flagĭto [flāgĭtas, flagitavi, flagitatum, flāgĭtāre]",
+    "peto [pĕtis, petii, petitum, pĕtĕre]",
+    "posco [poscis, poposci, poscĕre]",
+    "quaero [quaeris, quaesii, quaesitum, quaerĕre]",
+    "sciscĭtor [sciscĭtāris, sciscitatus sum, sciscĭtāri]"
+  ],
+  "refero": [
+    "refero [rĕfĕrs, retuli, relatum, rĕfĕrre]",
+    "perdūco [perdūcis, perduxi, perductum, perdūcĕre]",
+    "redigo [rĕdĭgis, redegi, redactum, rĕdĭgĕre]",
+    "redūco [rĕdūcis, reduxi, reductum, rĕdūcĕre]",
+    "reveho [rĕvĕhis, revexi, revectum, rĕvĕhĕre]",
+    "redūco [rĕdūcis, reduxi, reductum, rĕdūcĕre]",
+    "reporto [rĕportas, reportavi, reportatum, rĕportāre]",
+    "deporto [dēportas, deportavi, deportatum, dēportāre]",
+    "regero [rĕgĕris, regessi, regestum, rĕgĕrĕre]",
+    "excedo [excēdis, excessi, excessum, excēdĕre]",
+    "retrocedo [rĕtrōcēdis, retrocessi, rĕtrōcēdĕre]",
+    "refluo [rĕflŭis, rĕflŭĕre]",
+    "recedo [rĕcēdis, recessi, recessum, rĕcēdĕre]",
+    "regredior [rĕgrĕdĕris, regressus sum, rĕgrĕdi]",
+    "secēdo [sēcēdis, secessi, secessum, sēcēdĕre]",
+    "restituo [restĭtŭis, restitui, restitutum, restĭtŭĕre]",
+    "refundo [rĕfundis, refudi, refusum, rĕfundĕre]",
+    "do [das, dedi, datum, dāre]",
+    "offero [offĕrs, obtuli, oblatum, offĕrre]",
+    "perhĭbeo [pĕrhĭbes, perhibui, perhibitum, pĕrhĭbēre]",
+    "praebeo [praebes, praebui, praebitum, praebēre]",
+    "porrĭgo [porrĭgis, porrexi, porrectum, porrĭgĕre]",
+    "ministro [mĭnistras, ministravi, ministratum, mĭnistrāre]",
+    "obĭcio [ōbĭcis, obieci, obiectum, ōbĭcĕre]",
+    "confĕro [confĕrs, contuli, collatum, confĕrre]",
+    "persolvo [persolvis, persolvi, persolutum, persolvĕre]",
+    "solvo [solvis, solvi, solutum, solvĕre]",
+    "absolvo [absolvis, absolvi, absolutum, absolvĕre]",
+    "desolvo [dēsolvis, desolutum, dēsolvĕre]",
+    "expendo [expendis, expendi, expensum, expendĕre]",
+    "dependo [dēpendis, dependi, depensum, dēpendĕre]",
+    "reddo [reddis, reddidi, redditum, reddĕre]",
+    "rependo [rĕpendis, rependi, repensum, rĕpendĕre]",
+    "subscribo [subscrībis, subscripsi, subscriptum, subscrībĕre]",
+    "numero [nŭmĕras, numeravi, numeratum, nŭmĕrāre]",
+    "in numerum refero [rĕfĕrs, retuli, relatum, rĕfĕrre]",
+    "nuntio [nuntĭas, nuntiavi, nuntiatum, nuntĭāre]",
+    "reddo [reddis, reddidi, redditum, reddĕre]",
+    "renuntio [rĕnuntĭas, renuntiavi, renuntiatum, rĕnuntĭāre]",
+    "regenero [rĕgĕnĕras, regeneravi, regeneratum, rĕgĕnĕrāre]",
+    "exprimo [exprĭmis, expressi, expressum, exprĭmĕre]",
+    "repercutio [rĕpercŭtis, repercussi, repercussum, rĕpercŭtĕre]",
+    "resulto [rĕsultas, resultavi, rĕsultāre]",
+    "restituo [restĭtŭis, restitui, restitutum, restĭtŭĕre]",
+    "repono [rĕpōnis, reposui, repositum, rĕpōnĕre]",
+    "recordor [rĕcordāris, recordatus sum, rĕcordāri]",
+    "reminiscor [rĕmĭniscĕris, rĕmĭnisci]",
+    "admŏneo [admŏnes, admonui, admonitum, admŏnēre]",
+    "memŏro [mĕmŏras, memoravi, memoratum, mĕmŏrāre]",
+    "enarro [ēnarras, enarravi, enarratum, ēnarrāre]",
+    "affero [affĕrs, attuli, allatum, affĕrre]",
+    "memŏro [mĕmŏras, memoravi, memoratum, mĕmŏrāre]",
+    "trado [trādis, tradidi, traditum, trādĕre]",
+    "prodo [prōdis, prodidi, proditum, prōdĕre]",
+    "rēplico [rĕplĭcas, replicavi, replicatum, rĕplĭcāre]",
+    "respondeo [respondes, respondi, responsum, respondēre]",
+    "recuso [rĕcūsas, recusavi, recusatum, rĕcūsāre]",
+    "oppōno [oppōnis, opposui, oppositum, oppōnĕre]",
+    "exaequo [exaequas, exaequavi, exaequatum, exaequāre]",
+    "accommodo [accommŏdas, accommodavi, accommodatum, accommŏdāre]"
+  ],
+  "moror": [
+    "moror [mŏrāris, moratus sum, mŏrāri]",
+    "commŏror [commŏrāris, commoratus sum, commŏrāri]",
+    "demŏror [dēmŏrāris, demoratus sum, dēmŏrāri]",
+    "moror [mŏrāris, moratus sum, mŏrāri]",
+    "retardo [rĕtardas, retardavi, retardatum, rĕtardāre]",
+    "tardo [tardas, tardavi, tardatum, tardāre]"
+  ],
+  "arx": [
+    "arx [arcis, f.]",
+    "oppĭdum [-i, n.]",
+    "castellum [-i, n.]"
+  ],
+  "igitur": [
+    "tum",
+    "idcirco",
+    "inde",
+    "ergo",
+    "ităque"
+  ],
+  "discrimen": [
+    "discrīmen [-ĭnis, n.]",
+    "divīsio [-onis, f.]",
+    "partitio [-onis, f.]",
+    "seiunctio [-onis, f.]",
+    "sectio [-onis, f.]"
+  ],
+  "iudicium": [
+    "iudicium [-ii, n.]",
+    "iudicātio [-onis, f.]",
+    "sententia [-ae, f.]",
+    "iudicatum [-i, n.]",
+    "opinio [-onis, f.]",
+    "interpretātio [-onis, f.]",
+    "decrētum [-i, n.]",
+    "consultum [-i, n.]"
+  ],
+  "venenum": [
+    "venēnum [-i, n.]",
+    "virus [-i, n.]",
+    "toxicum [-i, n.]",
+    "veneficium [-ii, n.]"
+  ],
+  "principium": [
+    "principium [-ii, n.]",
+    "origo [-inis, f.]",
+    "semen [-ĭnis, n.]",
+    "caput [-itis, n.]",
+    "exordium [-ii, n.]",
+    "initium [-ii, n.]",
+    "principium [-ii, n.]",
+    "coeptus [-us, m.]",
+    "primordium [-ii, n.]",
+    "exortus [-us, m.]",
+    "germen [-ĭnis, n.]"
+  ],
+  "nubes": [
+    "nubes [-is, f.]",
+    "nimbus [-i, m.]",
+    "nebula [-ae, f.]"
+  ],
+  "letum": [
+    "letum [-i, n.]",
+    "nex [necis, f.]",
+    "mors [mortis, f.]",
+    "decessus [-us, m.]",
+    "interitus [-us, m.]",
+    "ōbitus [-us, m.]",
+    "exĭtum [-i, n.]",
+    "fatum [-i, n.]",
+    "exstinctio [-onis, f.]",
+    "exitium [-ii, n.]",
+    "exitus [-us, m.]",
+    "defunctio [-onis, f.]"
+  ],
+  "triumphus": [
+    "triumphus [-i, m.]",
+    "victoria [-ae, f.]"
+  ],
+  "idem": [
+    "idem [ēadem, idem]",
+    "ipse [ipsa, ipsum]"
+  ],
+  "mortuus": [
+    "mortuus [-a, -um]",
+    "exanimis [-e]"
+  ],
+  "lucus": [
+    "lucus [-i, m.]",
+    "silva [-ae, f.]",
+    "saltus [-us, m.]",
+    "nemus [-ŏris, n.]"
+  ],
+  "via": [
+    "via [-ae, f.]",
+    "iter [itineris, n.]",
+    "cursus [-us, m.]",
+    "limes [-itis, m.]",
+    "meatus [-us, m.]",
+    "itinerarium [-ii, n.]"
+  ],
+  "minister": [
+    "minister [-tri, m.]",
+    "administrator [-oris, m.]"
+  ],
+  "deliciae": [
+    "deliciae [-arum, f.]",
+    "voluptas [-atis, f.]",
+    "oblectamentum [-i, n.]"
+  ],
+  "ita": [
+    "sic",
+    "certe"
+  ],
+  "iustitia": [
+    "iustitia [-ae, f.]",
+    "aequitas [-atis, f.]",
+    "aequum [-i, n.]",
+    "ius [iuris, n.]"
+  ],
+  "pario": [
+    "pario [păris, peperi, partum, părĕre]",
+    "enitor [ēnītĕris, enisus sum, ēnīti]",
+    "partŭrio [partŭris, parturii, partŭrīre]"
+  ],
+  "locus": [
+    "locus [-i, m.]",
+    "regio [-ōnis, f.]",
+    "finis [-is, m.]",
+    "excerpta [-orum, n.]"
+  ],
+  "ara": [
+    "ara [-ae, f.]",
+    "altare [-is, n.]",
+    "altaria [-ium, n.]"
+  ],
+  "lex": [
+    "lex [legis, f.]",
+    "norma [-ae, f.]",
+    "mos [moris, m.]",
+    "ius [iuris, n.]",
+    "fas [indeclinabile, n.]",
+    "formŭla [-ae, f.]",
+    "praescriptum [-i, n.]"
+  ],
+  "rivus": [
+    "rivus [-i, m.]",
+    "torrens [-ntis]",
+    "fluentum [-i, n.]",
+    "flumen [-inis, n.]"
+  ],
+  "sinus": [
+    "sinus [-us, m.]",
+    "flexus [-us, m.]",
+    "flexura [-ae, f.]",
+    "perfugium [-ii, n.]",
+    "refugium [-ii, n.]",
+    "suffugium [-ii, n.]",
+    "subsidium [-ii, n.]",
+    "ūbera [-um, n.]",
+    "grēmium [-ii, n.]",
+    "uterum [-i, n.]"
+  ],
+  "finis": [
+    "finis [-is, m.]",
+    "exitus [-us, m.]",
+    "terminus [-i, m.]",
+    "limes [-itis, m.]",
+    "confinium [-ii, n.]",
+    "termen [-inis, n.]"
+  ],
+  "neque": [
+    "haud",
+    "minĭme",
+    "non"
+  ],
+  "de": [
+    "a [indeclinabile, f. e n.]",
+    "ex [] + ablativo plurale o genitivo plurale",
+    "e [] + ablativo plurale o genitivo plurale"
+  ],
+  "vates": [
+    "vates [-is, m.]",
+    "vaticinator [-oris, m.]",
+    "coniector [-oris, m.]",
+    "augur [-is, m.]",
+    "haruspex [-icis, m.]",
+    "divinator [-oris, m.]",
+    "sortilegus [-a, -um]",
+    "fatidicus [-a, -um]",
+    "hariolus [-i, m.]",
+    "propheta [-ae, m.]"
+  ],
+  "laus": [
+    "laus [laudis, f.]",
+    "laudatio [-onis, f.]",
+    "praeconium [-ii, n.]"
+  ],
+  "epulae": [
+    "epulae [-arum, f.]",
+    "convivium [-ii, n.]",
+    "symposium [-ii, n.]"
+  ],
+  "causa": [
+    "causa [-ae, f.]",
+    "fons [fontis, m.]",
+    "origo [-inis, f.]",
+    "principium [-ii, n.]",
+    "radix [-cis, f.]",
+    "lis [litis, f.]"
+  ],
+  "clamo": [
+    "clamo [clāmas, clamavi, clamatum, clāmāre]",
+    "advŏco [advŏcas, advocavi, advocatum, advŏcāre]",
+    "appello [appellas, appellavi, appellatum, appellāre]",
+    "arcesso [arcessis, arcessii, arcessitum, arcessĕre]",
+    "compello [compellas, compellavi, compellatum, compellāre]",
+    "conclāmo [conclāmas, conclamavi, conclamatum, conclāmāre]",
+    "convŏco [convŏcas, convocavi, convocatum, convŏcāre]",
+    "devōco [dēvŏcas, devocavi, devocatum, dēvŏcāre]",
+    "voco [vŏcas, vocavi, vocatum, vŏcāre]",
+    "accio [accis, accii, accitum, accīre]",
+    "vocifĕror [vōcĭfĕrāris, vociferatus sum, vōcĭfĕrāri]",
+    "vocifero [vōcĭfĕras, vociferatum, vōcĭfĕrāre]",
+    "oblatro [oblātras, oblatravi, oblatratum, oblātrāre]"
+  ],
+  "animal": [
+    "animal [-alis, n.]",
+    "animalis [-e]"
+  ],
+  "filius": [
+    "filius [-ii, m.]",
+    "natus [-i, m.]",
+    "libĕri [-orum, m.]",
+    "adulescens [-ntis,  m. e f.]",
+    "parvŭlus [-a, -um]",
+    "iuvenis [-is, m.]"
+  ],
+  "pectus": [
+    "pectus [-oris, n.]",
+    "latus [-eris, n.]"
+  ],
+  "sum": [
+    "sum [es, fui, esse]",
+    "exsisto [exsistis, exstiti, exsistĕre]",
+    "exto [extas, extiti, extāre]",
+    "sto [stas, steti, statum, stāre]",
+    "fio [fis, factus sum, fieri]",
+    "evenio [ēvĕnis, eveni, eventum, ēvĕnīre]",
+    "accido [accĭdis, accidi, accĭdĕre]"
+  ],
+  "sepulcrum": [
+    "sepulcrum [-i, n.]",
+    "bustum [-i, n.]",
+    "conditorium [-ii, n.]",
+    "opertorium [-ii, n.]",
+    "tumulus [-i, m.]"
+  ],
+  "tam": [
+    "adeo [ădis, adii, aditum, ădire]",
+    "ita",
+    "tantum"
+  ],
+  "dominus": [
+    "domĭnus [-i, m.]",
+    "dynastes [-ae, m.]",
+    "erus [-i, m.]",
+    "dominator [-oris, m.]",
+    "regnator [-oris, m.]"
+  ],
+  "membrum": [
+    "membrum [-i, n.]",
+    "artus [-a, -um]",
+    "pars [partis, f.]"
+  ],
+  "nomen": [
+    "praenomen [-inis, n.]",
+    "cognōmen [-ĭnis, n.]",
+    "genus [-ĕris, n.]",
+    "fama [-ae, f.]",
+    "debitum [-i, n.]",
+    "debitio [-onis, f.]",
+    "debitus [-a, -um]"
+  ],
+  "pondus": [
+    "pondus [-eris, n.]",
+    "onus [-ĕris, n.]",
+    "moles [-is, f.]",
+    "momentum [-i, n.]"
+  ],
+  "accipio": [
+    "accipio [accĭpis, accepi, acceptum, accĭpĕre]",
+    "excipio [excĭpis, excepi, exceptum, excĭpĕre]",
+    "recipio [rĕcĭpis, recepi, receptum, rĕcĭpĕre]",
+    "percipio [percĭpis, percepi, perceptum, percĭpĕre]",
+    "accepto [acceptas, acceptavi, acceptatum, acceptāre]",
+    "capio [căpis, cepi, captum, căpĕre]",
+    "ascisco [asciscis, ascivi, ascitum, asciscĕre]",
+    "suscipio [suscĭpis, suscepi, susceptum, suscĭpĕre]",
+    "excipio [excĭpis, excepi, exceptum, excĭpĕre]",
+    "haurio [hauris, hausi, haustum, haurīre]"
+  ],
+  "agricola": [
+    "agricola [-ae, m.]",
+    "ruricola [-ae, m.]",
+    "rusticus [-a, -um]"
+  ],
+  "tenebrae": [
+    "tenebrae [-arum, f.]",
+    "obscuritas [-atis, f.]"
+  ],
+  "gratus": [
+    "gratus [-a, -um]",
+    "dulcis [-e]",
+    "iucundus [-a, -um]",
+    "lenis [-e]",
+    "suavis [-e]",
+    "mellitus [-a, -um]"
+  ],
+  "magis": [
+    "magis",
+    "potius",
+    "amplius",
+    "diutius"
+  ],
+  "hostis": [
+    "hostis [-is, m.]",
+    "inimīcus [-a, -um]",
+    "alienus [-a, -um]",
+    "barbarus [-a, -um]",
+    "contrarius [-a, -um]",
+    "externus [-a, -um]"
+  ],
+  "gremium": [
+    "grēmium [-ii, n.]",
+    "sinus [-us, m.]"
+  ],
+  "ne": [
+    "minĭme",
+    "haud"
+  ],
+  "bonus": [
+    "bonus [-a, -um]",
+    "honestus [-a, -um]",
+    "intĕger [-gra, -grum]",
+    "probus [-a, -um]",
+    "rectus [-a, -um]",
+    "opportunus [-a, -um]"
+  ],
+  "clades": [
+    "clades [-is, f.]",
+    "dispersio [-onis, f.]",
+    "eversio [-onis, f.]",
+    "ruina [-ae, f.]",
+    "interitus [-us, m.]",
+    "excidium [-i, n.]",
+    "exstinctio [-onis, f.]"
+  ],
+  "obliviscor": [
+    "obliviscor [oblīviscĕris, oblitus sum, oblīvisci]",
+    "oblittero [oblittĕras, oblitteravi, oblitteratum, oblittĕrāre]"
+  ],
+  "ops": [
+    "ops [opis, f.]",
+    "facultas [-atis, f.]",
+    "possibilitas [-atis, f.]",
+    "potestas [-atis, f.]"
+  ],
+  "materia": [
+    "materia [-ae, m.]",
+    "materies [-ei, f.]",
+    "corpus [-oris, n.]",
+    "silva [-ae, f.]",
+    "argumentum [-i, n.]",
+    "res [rei, f.]",
+    "causa [-ae, f.]"
+  ],
+  "morior": [
+    "morior [mŏrĕris, mortuus sum, mŏri]",
+    "diem supremum obeo [ŏbis, obii, obitum, ŏbire]",
+    "fato fungor [fungĕris, functus sum, fungi]",
+    "naturae cedo [cēdis, cessi, cessum, cēdĕre]",
+    "vita defungor [dēfungĕris, defunctus sum, dēfungi]",
+    "vitam edo [ēdis, edidi, editum, ēdĕre]",
+    "cado [cădis, cecidi, cădĕre]",
+    "concido [concĭdis, concidi, concĭdĕre]",
+    "decedo [dēcēdis, decessi, decessum, dēcēdĕre]",
+    "intereo [intĕris, interii, interitum, intĕrire]",
+    "morior [mŏrĕris, mortuus sum, mŏri]",
+    "occĭdo [occĭdis, occidi, occasum, occĭdĕre]",
+    "occumbo [occumbis, occubui, occubitum, occumbĕre]",
+    "pereo [pĕris, perii, pĕrire:-]",
+    "obeo [ŏbis, obii, obitum, ŏbire]",
+    "defungor [dēfungĕris, defunctus sum, dēfungi]"
+  ],
+  "mater": [
+    "mater [-tris, f.]",
+    "genĕtrix [-icis, f.]",
+    "parens [-ntis, m.]",
+    "procreatrix [-icis, f.]"
+  ],
+  "aliquis": [
+    "aliquis [-qua, -quid]",
+    "quispiam [quaepiam, quidpiam]"
+  ],
+  "caelum": [
+    "caelum [-i, n.]",
+    "aër [aëris, m.]",
+    "beatorum sedes [, f.]"
+  ],
+  "equus": [
+    "equus [-i, m.]",
+    "caballus [-i, m.]"
+  ],
+  "crimen": [
+    "crimen [-ĭnis, n.]",
+    "scelus [-ĕris, n.]",
+    "sententia [-ae, f.]",
+    "pronuntiatum [-i, n.]",
+    "accusatio [-onis, f.]",
+    "incusatio [-onis, f.]",
+    "insimulatio [-onis, f.]"
+  ],
+  "labor": [
+    "labor [-oris, m.]",
+    "fluo [flŭis, fluxi, fluxum, flŭĕre]"
+  ],
+  "laboro": [
+    "laboro [lăbōras, laboravi, laboratum, lăbōrāre]",
+    "operam do [das, dedi, datum, dāre]",
+    "facio [făcis, feci, factum, făcĕre]",
+    "operor [ŏpĕrāris, operatus sum, ŏpĕrāri]",
+    "administro [admĭnistras, administravi, administratum, admĭnistrāre]",
+    "nitor [-oris, m.]",
+    "contendo [contendis, contendi, contentum, contendĕre]",
+    "obduro [obdūras, obduravi, obduratum, obdūrāre]",
+    "perpetior [perpĕtĕris, perpessus sum, perpĕti]",
+    "doleo [dŏles, dolui, dŏlēre]",
+    "aegroto [aegrōtas, aegrotavi, aegrotatum, aegrōtāre]",
+    "excrucior [excrŭcĭāris, excruciatus sum, excruciatu, excrŭcĭāri]",
+    "angor [angĕris, ]"
+  ],
+  "furtum": [
+    "furtum [-i, n.]",
+    "latrocinium [-ii, n.]",
+    "direptio [-ōnis, f.]"
+  ],
+  "gravis": [
+    "gravātus [-a, -um]",
+    "ponderosus [-a, -um]",
+    "onerosus [-a, -um]",
+    "sērius [-a, -um]",
+    "durus [-a, -um]",
+    "sevērus [-a, -um]",
+    "austerus [-a, -um]",
+    "tētricus [-a, -um]",
+    "sērius [-a, -um]",
+    "onus [-ĕris, n.]",
+    "confertus [-a, -um]",
+    "gravĭdus [-a, -um]",
+    "plenus [-a, -um]",
+    "refertus [-a, -um]",
+    "oppressus [-a, -um]",
+    "afflictus [-a, -um]",
+    "illustris [-e]",
+    "locuples [-tis]",
+    "sevērus [-a, -um]",
+    "austerus [-a, -um]",
+    "tētricus [-a, -um]",
+    "sērius [-a, -um]",
+    "carus [-a, -um]",
+    "pretiōsus [-a, -um]",
+    "dives [-ĭtis]",
+    "atrox [-cis]",
+    "cerebrōsus [-a, -um]",
+    "concitatus [-us, m.]",
+    "ferus [-a, -um]",
+    "magnus [-a, -um]",
+    "vehĕmens [-ntis]",
+    "intentus [-a, -um]",
+    "crudēlis [-e]",
+    "dirus [-a, -um]",
+    "durus [-a, -um]",
+    "ferus [-a, -um]",
+    "molestus [-a, -um]",
+    "difficĭlis [-e]",
+    "intolerandus [-a, -um]",
+    "intolerabĭlis [-e]",
+    "taeter [-tra, -trum]",
+    "fastidiosus [-a, -um]",
+    "odiōsus [-a, -um]",
+    "plenus [-a, -um]",
+    "aegrotus [-a, -um]",
+    "celebratus [-a, -um]",
+    "augustus [-a, -um]",
+    "laboriosus [-a, -um]",
+    "operōsus [-a, -um]",
+    "durus [-a, -um]",
+    "difficĭlis [-e]"
+  ],
+  "patria": [
+    "patria [-ae, f.]",
+    "domus [-us, f.]"
+  ],
+  "fames": [
+    "fames [-is, f.]",
+    "ieiūnĭum [-ii, n.]",
+    "esuritio [-onis, f.]",
+    "inedia [-ae, f.]",
+    "aviditas [-atis, f.]"
+  ],
+  "odor": [
+    "odor [-ōris, m.]",
+    "fragrantia [-ae, f.]"
+  ],
+  "vestigium": [
+    "vestigium [-ii, n.]",
+    "nota [-ae, f.]",
+    "signum [-i, n.]",
+    "passus [-a, -um]"
+  ],
+  "ovis": [
+    "ovis [-is, f.]",
+    "ovillus [-a, -um]"
+  ],
+  "princeps": [
+    "princeps [-ĭpis, m.]",
+    "regŭlus [-i, m.]",
+    "dux [ducis, m.]"
+  ],
+  "luctus": [
+    "luctus [-us, m.]",
+    "maeror [-oris, m.]"
+  ],
+  "culpa": [
+    "culpa [-ae, f.]",
+    "noxa [-ae, f.]",
+    "crimen [-ĭnis, n.]",
+    "vītium [-ii, n.]",
+    "causa [-ae, f.]",
+    "noxia [-ae, f.]",
+    "delictum [-i, n.]",
+    "error [-oris, m.]"
+  ],
+  "facies": [
+    "facies [-ei, f.]",
+    "vultus [-us, m.]",
+    "os [oris, n.]"
+  ],
+  "malum": [
+    "malum [-i, n.]",
+    "incommodum [-i, n.]",
+    "morbus [-i, m.]",
+    "res adversae [, f. pl.]",
+    "intemperies [-ei, f.]",
+    "infortunium [-ii, n.]",
+    "miseria [-ae, f.]",
+    "fatum [-i, n.]",
+    "pernicies [-ei, f.]",
+    "clades [-is, f.]",
+    "ruina [-ae, f.]",
+    "āccidens [-ntis, n.]",
+    "pestis [-is, f.]",
+    "noxa [-ae, f.]",
+    "iactūra [-ae, f.]",
+    "labes [-is, f.]",
+    "pernicies [-ei, f.]",
+    "damnum [-i, n.]",
+    "detrimentum [-i, n.]",
+    "impēndium [-ii, n.]",
+    "incommodum [-i, n.]",
+    "crimen [-ĭnis, n.]",
+    "delictum [-i, n.]",
+    "facinus [-oris, n.]",
+    "scelus [-ĕris, n.]",
+    "commissum [-i, n.]",
+    "delictum [-i, n.]",
+    "flagitium [-ii, n.]",
+    "malefactum [-i, n.]",
+    "malefīcium [-ii, n.]",
+    "scelus [-ĕris, n.]",
+    "malefactum [-i, n.]",
+    "culpa [-ae, f.]",
+    "noxa [-ae, f.]",
+    "crimen [-ĭnis, n.]",
+    "vītium [-ii, n.]",
+    "noxia [-ae, f.]",
+    "delictum [-i, n.]",
+    "error [-oris, m.]",
+    "poena [-ae, f.]",
+    "piaculum [-i, n.]",
+    "punitio [-onis, f.]",
+    "multa [-ae, f.]",
+    "merces [-edis, f.]",
+    "morbus [-i, m.]",
+    "aegrotatio [-onis, f.]",
+    "valetudo [-inis, f.]",
+    "infirmitas [-atis, f.]",
+    "pestis [-is, f.]",
+    "labor [-oris, m.]",
+    "dolor [-oris, m.]",
+    "aegritudo [-inis, f.]",
+    "aerumna [-ae, f.]",
+    "afflictātio [-onis, f.]",
+    "pāssio [-onis, f.]",
+    "molimentum [-i, n.]",
+    "fatigātio [-onis, f.]",
+    "opera [-ae, f.]",
+    "fructus [-us, m.]",
+    "pomum [-i, n.]"
+  ],
+  "templum": [
+    "templum [-i, n.]",
+    "aedes [-is, f.]",
+    "fanum [-i, n.]",
+    "sacrum [-i, n.]",
+    "sacellum [-i, n.]"
+  ],
+  "parens": [
+    "parens [-ntis, m.]",
+    "genitor [-oris, m.]",
+    "genĕtrix [-icis, f.]",
+    "pater [-tris, m.]",
+    "generator [-oris, m.]",
+    "procreator [-oris, m.]"
+  ],
+  "nam": [
+    "enim",
+    "namque",
+    "etĕnim"
+  ],
+  "passus": [
+    "passus [-a, -um]",
+    "gradus [-us, m.]",
+    "gressus [-us, m.]",
+    "incessus [-us, m.]"
+  ],
+  "rupes": [
+    "rupes [-is, f.]",
+    "cos [cotis, f.]",
+    "petra [-ae, f.]",
+    "rupes [-is, f.]",
+    "scopulus [-i, m.]",
+    "silex [-ĭcis, f.]",
+    "saxum [-i, n.]"
+  ],
+  "exemplum": [
+    "exemplum [-i, n.]",
+    "exemplar [-ris, n.]",
+    "paradigma [-atis, n.]",
+    "specĭmen [-ĭnis, n.]",
+    "documentum [-i, n.]"
+  ],
+  "dico": [
+    "dico [dīcis, dixi, dictum, dīcĕre]",
+    "aio [ais]",
+    "appello [appellas, appellavi, appellatum, appellāre]",
+    "for [fāris, fatus sum, fāri]",
+    "inquam [-is, inquit]",
+    "loquor [lŏquĕris, locutus sum, lŏqui]",
+    "narro [narras, narravi, narratum, narrāre]"
+  ],
+  "reddo": [
+    "reddo [reddis, reddidi, redditum, reddĕre]",
+    "efficio [effĭcis, effeci, effectum, effĭcĕre]",
+    "restituo [restĭtŭis, restitui, restitutum, restĭtŭĕre]",
+    "redhibeo [rĕdhĭbes, redhibui, redhibitum, rĕdhĭbēre]",
+    "retribuo [rĕtrĭbŭis, retribui, retributum, rĕtrĭbŭĕre]",
+    "remitto [rĕmittis, remisi, remissum, rĕmittĕre]",
+    "refundo [rĕfundis, refudi, refusum, rĕfundĕre]",
+    "remuneror [rĕmūnĕrāris, remuneratus sum, rĕmūnĕrāri]",
+    "respondeo [respondes, respondi, responsum, respondēre]",
+    "remuneror [rĕmūnĕrāris, remuneratus sum, rĕmūnĕrāri]",
+    "gratiam refĕro [rĕfĕrs, retuli, relatum, rĕfĕrre]",
+    "rependo [rĕpendis, rependi, repensum, rĕpendĕre]",
+    "do [das, dedi, datum, dāre]",
+    "porrĭgo [porrĭgis, porrexi, porrectum, porrĭgĕre]",
+    "praebeo [praebes, praebui, praebitum, praebēre]",
+    "refero [rĕfĕrs, retuli, relatum, rĕfĕrre]",
+    "committo [committis, commisi, commissum, committĕre]",
+    "dedo [dēdis, dedidi, deditum, dēdĕre]",
+    "trado [trādis, tradidi, traditum, trādĕre]",
+    "commendo [commendas, commendavi, commendatum, commendāre]",
+    "committo [committis, commisi, commissum, committĕre]",
+    "redhibeo [rĕdhĭbes, redhibui, redhibitum, rĕdhĭbēre]",
+    "retribuo [rĕtrĭbŭis, retribui, retributum, rĕtrĭbŭĕre]",
+    "merito [mĕrĭtas, meritavi, meritatum, mĕrĭtāre]",
+    "transfĕro [transfĕrs, transtuli, translatum, transfĕrre]",
+    "verto [vertis, verti, versum, vertĕre]",
+    "interpretor [interprĕtāris, interpretatus sum, interprĕtāri]",
+    "nuntio [nuntĭas, nuntiavi, nuntiatum, nuntĭāre]",
+    "refero [rĕfĕrs, retuli, relatum, rĕfĕrre]",
+    "effor [effāris, effatus sum, effāri]",
+    "enuntio [ēnuntĭas, enuntiavi, enuntiatum, ēnuntĭāre]",
+    "commemŏro [commĕmŏras, commemoravi, commemoratum, commĕmŏrāre]",
+    "nuntio [nuntĭas, nuntiavi, nuntiatum, nuntĭāre]",
+    "renuntio [rĕnuntĭas, renuntiavi, renuntiatum, rĕnuntĭāre]",
+    "edo [ēdis, edidi, editum, ēdĕre]",
+    "prodo [prōdis, prodidi, proditum, prōdĕre]",
+    "gemino [gĕmĭnas, geminavi, geminatum, gĕmĭnāre]",
+    "exprimo [exprĭmis, expressi, expressum, exprĭmĕre]",
+    "repraesento [rĕpraesentas, repraesentavi, repraesentatum, rĕpraesentāre]",
+    "ago [ăgis, egi, actum, ăgĕre]",
+    "effingo [effingis, effinxi, effictum, effingĕre]",
+    "imitor [ĭmĭtāris, imitatus sum, ĭmĭtāri]",
+    "informo [informas, informavi, informatum, informāre]",
+    "repraesento [rĕpraesentas, repraesentavi, repraesentatum, rĕpraesentāre]",
+    "effigio [effĭgĭas, effigiavi, effigiatum, effĭgĭāre]",
+    "expromo [exprōmis, exprompsi, expromptum, exprōmĕre]",
+    "edo [ēdis, edidi, editum, ēdĕre]",
+    "eiuro [ēiūras, eiuravi, eiuratum, ēiūrāre]",
+    "reiecto [rēiectas, reiectavi, rēiectāre]"
+  ],
+  "proles": [
+    "proles [-is, f.]",
+    "stirps [stirpis, f.]",
+    "subŏles [-is, f.]",
+    "libĕri [-orum, m.]",
+    "incrementum [-i, n.]",
+    "progenies [-ei, f.]"
+  ],
+  "lis": [
+    "lis [litis, f.]",
+    "iurgium [-ii, n.]",
+    "altercatio [-onis, f.]",
+    "litigium [-ii, n.]"
+  ],
+  "humanus": [
+    "humanus [-a, -um]",
+    "mortālis [-e]",
+    "comis [-e]"
+  ],
+  "devoveo": [
+    "devŏveo [dēvŏves, devovi, devotum, dēvŏvēre]",
+    "consĕcro [consĕcras, consecravi, consecratum, consĕcrāre]",
+    "dedĭco [dēdĭcas, dedicavi, dedicatum, dēdĭcāre]"
+  ],
+  "puto": [
+    "puto [pŭtas, putavi, putatum, pŭtāre]",
+    "repŭto [rĕpŭtas, reputavi, reputatum, rĕpŭtāre]",
+    "opinor [ŏpīnāris, opinatus sum, ŏpīnāri]",
+    "cogĭto [cōgĭtas, cogitavi, cogitatum, cōgĭtāre]",
+    "ārbitror [arbĭtrāris, arbitratus sum, arbĭtrāri]",
+    "duco [dūcis, duxi, ductum, dūcĕre]",
+    "reor [rēris, ratus sum, rēri]",
+    "iūdico [iūdĭcas, iudicavi, iudicatum, iūdĭcāre]",
+    "existimo",
+    "mundo [mundas, mundavi, mundatum, mundāre]",
+    "purgo [purgas, purgavi, purgatum, purgāre]",
+    "purifico [pūrĭfĭcas, purificavi, purificatum, pūrĭfĭcāre]"
+  ],
+  "pratum": [
+    "pratum [-i, n.]",
+    "pascŭa [-orum, n.]",
+    "gramen [-ĭnis, n.]"
+  ],
+  "ars": [
+    "ars [artis, f.]",
+    "artificium [-ii, n.]"
+  ],
+  "carcer": [
+    "carcer [-ĕris, m.]",
+    "custōdia [-ae, f.]",
+    "vincula [-orum, n.]"
+  ],
+  "domus": [
+    "domus [-us, f.]",
+    "tectum [-i, n.]",
+    "habitatio [-onis, f.]",
+    "tugurium [-ii, n.]",
+    "domicilium [-ii, n.]",
+    "focus [-i, m.]",
+    "aedes [-is, f.]",
+    "sedes [sedis, f.]",
+    "gens [gentis, f.]",
+    "genus [-ĕris, n.]",
+    "patria [-ae, f.]",
+    "stirps [stirpis, f.]"
+  ],
+  "socius": [
+    "socius [-ii, m.]",
+    "consors [-rtis]",
+    "sodālis [-is, m.]"
+  ],
+  "turbo": [
+    "turbo [turbas, turbavi, turbatum, turbāre]",
+    "confundo [confundis, confudi, confusum, confundĕre]",
+    "moveo [mŏves, movi, motum, mŏvēre]",
+    "perturbo [perturbas, perturbavi, perturbatum, perturbāre]",
+    "turbo [turbas, turbavi, turbatum, turbāre]",
+    "conturbo [conturbas, conturbavi, conturbatum, conturbāre]",
+    "exturbo [exturbas, exturbavi, exturbatum, exturbāre]",
+    "obturbo [obturbas, obturbavi, obturbatum, obturbāre]",
+    "commoveo [commŏves, commovi, commotum, commŏvēre]",
+    "sollicito [sollĭcĭtas, sollicitavi, sollicitatum, sollĭcĭtāre]"
+  ],
+  "decus": [
+    "decus, [-oris, n.]",
+    "honestas [-atis, f.]",
+    "decor [-oris, m.]",
+    "decōrum [-i, n.]",
+    "forma [-ae, f.]",
+    "species [-ei, f.]",
+    "venustas [-atis, f.]",
+    "speciositas [-atis, f.]"
+  ],
+  "peto": [
+    "peto [pĕtis, petii, petitum, pĕtĕre]",
+    "postulo [postŭlas, postulavi, postulatum, postŭlāre]",
+    "quaero [quaeris, quaesii, quaesitum, quaerĕre]",
+    "reposco [rĕposcis, rĕposcĕre]",
+    "rogo [rŏgas, rogavi, rogatum, rŏgāre]",
+    "deposco [dēposcis, depoposci, dēposcĕre]",
+    "desidĕro [dēsīdĕras, desideravi, desideratum, dēsīdĕrāre]",
+    "posco [poscis, poposci, poscĕre]",
+    "sciscĭtor [sciscĭtāris, sciscitatus sum, sciscĭtāri]",
+    "exquiro [exquīris, exquisivi, exquisitum, exquīrĕre]",
+    "supplĭco [supplĭcas, supplicavi, supplicatum, supplĭcāre]",
+    "oro [ōras, oravi, oratum, ōrāre]",
+    "exoro [exōras, exoravi, exoratum, exōrāre]"
+  ],
+  "ferrum": [
+    "ferrum [-i, n.]",
+    "gladius [-ii, m.]",
+    "telum [-i, n.]",
+    "arma, [-orum, n.]"
+  ],
+  "murus": [
+    "murus [-i, m.]",
+    "paries [-ĕtis, m.]",
+    "moenia [-ium, n.]"
+  ],
+  "domina": [
+    "domĭna [-ae, f.]",
+    "era [-ae, f.]"
+  ],
+  "aut": [
+    "sive",
+    "vel [veltri, m.]"
+  ],
+  "virgo": [
+    "virgo [-ĭnis, f.]",
+    "innuba [-ae, f.]"
+  ],
+  "vincio": [
+    "vincio [vincis, vinxi, vinctum, vincīre]",
+    "alligo [allĭgas, alligavi, alligatum, allĭgāre]",
+    "deligo [dēlĭgis, delegi, delectum, dēlĭgĕre]",
+    "devincio [dēvincis, devinxi, devinctum, dēvincīre]",
+    "illigo [illĭgas, illigavi, illigatum, illĭgāre]",
+    "innecto [innectis, innexui, innexum, innectĕre]",
+    "ligo [lĭgas, ligavi, ligatum, lĭgāre]",
+    "oblĭgo [oblĭgas, obligavi, obligatum, oblĭgāre]",
+    "religo [rĕlĭgas, religavi, religatum, rĕlĭgāre]",
+    "revincio [rĕvincis, revinxi, revinctum, rĕvincīre]",
+    "sublĭgo [sublĭgas, subligavi, subligatum, sublĭgāre]",
+    "vincio [vincis, vinxi, vinctum, vincīre]",
+    "destino [destĭnas, destinavi, destinatum, destĭnāre]",
+    "necto [nectis, nexi, nexum, nectĕre]",
+    "innecto [innectis, innexui, innexum, innectĕre]",
+    "teneo [tĕnes, tenui, tentum, tĕnēre]",
+    "coniugo [coniŭgas, coniugavi, coniugatum, coniŭgāre]"
+  ],
+  "ira": [
+    "ira [-ae, f.]",
+    "bīlis [-is, f.]",
+    "iracundia [-ae, f.]",
+    "furor [-is, m.]"
+  ],
+  "plebs": [
+    "plebs [plebis, f.]",
+    "vulgus [-i, n.]",
+    "vulgus [-i, n.]",
+    "turba [-ae, f.]",
+    "multitudo [-inis, f.]",
+    "multitudo [-inis, f.]",
+    "turba [-ae, f.]",
+    "grex [-gis, m.]",
+    "populus [-i, m.]",
+    "vulgus [-i, n.]",
+    "frequentia [-ae, f.]",
+    "multitudo [-inis, f.]",
+    "turba [-ae, f.]",
+    "globus [-i, m.]",
+    "numerositas [-atis, f.]",
+    "caterva [-ae, f.]",
+    "conventus [-us, m.]",
+    "frequentia [-ae, f.]"
+  ],
+  "lyra": [
+    "lyra [-ae, f.]",
+    "cithăra [-ae, f.]",
+    "fides [-ium, f.]"
+  ],
+  "poeta": [
+    "poeta [-ae, m.]",
+    "vates [-is, m.]",
+    "versificator [-oris, m.]"
+  ],
+  "fides": [
+    "fides [-ium, f.]",
+    "relīgio [-onis, f.]",
+    "fiducia [-ae, f.]"
+  ],
+  "sermo": [
+    "sermo [-onis, m.]",
+    "allocutio [-onis, f.]",
+    "contio [-onis, f.]",
+    "oratio [-onis, f.]",
+    "sermocinatio [-onis, f.]",
+    "confabulatio [-onis, f.]",
+    "dictio [-onis, f.]"
+  ],
+  "odium": [
+    "odium [-ii, n.]",
+    "simŭltas [-atis, f.]",
+    "invidia [-ae, f.]",
+    "odium [-ii, n.]",
+    "inimicitia [-ae, f.]",
+    "detestatio [-onis, f.]"
+  ],
+  "spero": [
+    "spero [spēras, speravi, speratum, spērāre]",
+    "confīdo [confīdis, confisus sum, confisum, confīdĕre]",
+    "respĭcio [respĭcis, respexi, respectum, respĭcĕre]",
+    "exspecto [exspectas, exspectavi, exspectatum, exspectāre]",
+    "sūspicor [suspĭcāris, suspicatus sum, suspĭcāri]"
+  ],
+  "iter": [
+    "iter [itineris, n.]",
+    "peragratio [-onis, f.]",
+    "peregrinātio [-onis, f.]",
+    "excursio [-ōnis, f.]",
+    "via [-ae, f.]",
+    "cursus [-us, m.]",
+    "gressus [-us, m.]",
+    "iter [itineris, n.]",
+    "cursus [-us, m.]",
+    "via [-ae, f.]",
+    "ambulatio [-onis, f.]"
+  ],
+  "si": [
+    "ut",
+    "cum",
+    "etiamsi"
+  ],
+  "species": [
+    "species [-ei, f.]",
+    "genus [-ĕris, n.]",
+    "natio [-onis, f.]",
+    "forma [-ae, f.]"
+  ],
+  "numerus": [
+    "numerus [-i, m.]",
+    "copia [-ae, f.]",
+    "mensura [-ae, f.]",
+    "modulus [-i, m.]",
+    "rhythmus [-i, m.]"
+  ],
+  "aqua": [
+    "aqua [-ae, f.]",
+    "liquor [-oris, m.]"
+  ],
+  "accendo": [
+    "accendo [accendis, accendi, accensum, accendĕre]",
+    "accendo [accendis, accendi, accensum, accendĕre]",
+    "incendo [incendis, incendi, incensum, incendĕre]",
+    "inflammo [inflammas, inflammavi, inflammatum, inflammāre]",
+    "ardeo [ardes, arsi, ardēre]",
+    "exardesco [exardescis, exarsi, exarsum, exardescĕre]"
+  ],
+  "initium": [
+    "initium [-ii, n.]",
+    "inceptus [-us, m.]",
+    "principium [-ii, n.]",
+    "exordium [-ii, n.]"
+  ],
+  "frons": [
+    "frons [-ntis, f.]",
+    "folium [-ii, n.]",
+    "frondes [-ium, f.]",
+    "coma [-ae, f.]"
+  ],
+  "divinus": [
+    "divīnus [-a, -um]",
+    "dius [-a, -um]",
+    "divus [-a, -um]"
+  ],
+  "munus": [
+    "munus [-eris, n.]",
+    "officium [-ii, n.]",
+    "ministerium [-ii, n.]",
+    "munia [-ium, n.]",
+    "debitum [-i, n.]",
+    "obligatio [-onis, f.]",
+    "adactio [-onis, f.]",
+    "necessitudo [-inis, f.]"
+  ],
+  "pax": [
+    "pax",
+    "quies [quiētis, f.]",
+    "tranquillĭtas [-atis, f.]"
+  ],
+  "rusticus": [
+    "rusticus [-a, -um]",
+    "agrestis [-e]",
+    "paganus [-i, m.]",
+    "vilicus [-a, -um]"
+  ],
+  "deus": [
+    "dĕus [-i, m.]",
+    "numen [-ĭnis, n.]",
+    "caeles [-ĭtis, m.]"
+  ],
+  "pro": [
+    "loco [lŏcas, locavi, locatum, lŏcāre]",
+    "secundum [] + accusativo",
+    "causa [-ae, f.]"
+  ],
+  "familia": [
+    "familia [-ae, f.]",
+    "gens [gentis, f.]",
+    "genus [-ĕris, n.]",
+    "progenies [-ei, f.]",
+    "stirps [stirpis, f.]"
+  ],
+  "fraus": [
+    "fraus [-dis, f.]",
+    "captio [-onis, f.]",
+    "dolus [-i, m.]",
+    "fraudatio [-onis, f.]"
+  ],
+  "irascor": [
+    "irascor [īrascĕris, iratus sum, īrasci]",
+    "suscenseo [suscenses, suscensui, suscensum, suscensēre]"
+  ],
+  "amnis": [
+    "amnis [-is, m.]",
+    "fluvius [-ii, m.]",
+    "flumen [-inis, n.]"
+  ],
+  "civis": [
+    "civis [-is, m. e f.]",
+    "oppidanus [-i, m.]",
+    "incola [-ae, m.]",
+    "paganus [-i, m.]"
+  ],
+  "navis": [
+    "navis [-is, f.]",
+    "carīna [-ae, f.]",
+    "pinus [-i, f.]",
+    "navigium [-ii, n.]",
+    "cymba [-ae, f.]",
+    "ratis [-is, f.]",
+    "inter [] + accusativo",
+    "scalmus [-i, m.]",
+    "navicula [-ae, f.]"
+  ],
+  "otium": [
+    "otium [-ii, n.]",
+    "desidia [-ae, f.]",
+    "inertia [-ae, f.]",
+    "refēctio [-onis, f.]",
+    "requies [-ētis, f.]",
+    "quies [quiētis, f.]",
+    "remissio [-onis, f.]",
+    "cessātio [-onis, f.]",
+    "vacatio [-onis, f.]"
+  ],
+  "quiesco": [
+    "quiesco [quĭescis, quievi, quietum, quĭescĕre]",
+    "otior [ōtĭāris, otiatus sum, ōtĭāri]",
+    "acquiesco [acquĭescis, acquievi, acquietum, acquĭescĕre]",
+    "conquiesco [conquĭescis, conquievi, conquietum, conquĭescĕre]",
+    "connīveo [cōnnīves, connivi, cōnnīvēre]",
+    "cubo [cŭbas, cubui, cubitum, cŭbāre]",
+    "dormio [dormis, dormii, dormitum, dormīre]",
+    "quiesco [quĭescis, quievi, quietum, quĭescĕre]",
+    "obdormio [obdormis, obdormii, obdormitum, obdormīre]"
+  ],
+  "copia": [
+    "copia [-ae, f.]",
+    "abundantia [-ae, f.]",
+    "affluentia [-ae, f.]",
+    "ubertas [-atis, f.]"
+  ],
+  "terra": [
+    "terra [-ae, f.]",
+    "tellus [-ŭris, f.]",
+    "terrarum orbis [-is, m.]",
+    "mundus [-a, -um]",
+    "regio [-ōnis, f.]",
+    "humus [-i, f.]",
+    "solum [-i, n.]",
+    "ager [agri, m.]",
+    "praedium [-ii, n.]"
+  ],
+  "fax": [
+    "fax [facis, f.]",
+    "taeda [-ae, f.]",
+    "funale [-is, n.]",
+    "flamma [-ae, f.]",
+    "lampas [-ădis, f.]"
+  ],
+  "seges": [
+    "seges [-etis, f.]",
+    "frux [frugis, f.]",
+    "fruges [-um, f.]"
+  ],
+  "historia": [
+    "historĭa [-ae, f.]",
+    "memoria [-ae, f.]"
+  ],
+  "nefas": [
+    "nefas [indeclinabile]",
+    "impiĕtas [-atis, f.]",
+    "sacrilegium [-ii, n.]"
+  ],
+  "pars": [
+    "pars [partis, f.]",
+    "portio [-ōnis, f.]",
+    "membrum [-i, n.]",
+    "secta [-ae, f.]"
+  ],
+  "significo": [
+    "significo [signĭfĭcas, significavi, significatum, signĭfĭcāre]",
+    "demonstro [dēmonstras, demonstravi, demonstratum, dēmonstrāre]",
+    "denoto [dēnŏtas, denotavi, denotatum, dēnŏtāre]",
+    "indĭco [indĭcas, indicavi, indicatum, indĭcāre]",
+    "monstro [monstras, monstravi, monstratum, monstrāre]",
+    "ostendo [ostendis, ostendi, ostentum, ostendĕre]"
+  ],
+  "dives": [
+    "dives [-ĭtis]",
+    "abundans [-ntis]",
+    "affluens [-ntis]",
+    "beatus [-a, -um]",
+    "copiosus [-a, -um]",
+    "dis [ditis]",
+    "felix [-icis]",
+    "largus [-a, -um]",
+    "locuples [-tis]",
+    "opulentus [-a, -um]",
+    "pecuniosus [-a, -um]",
+    "ditis [-e]",
+    "beatus [-a, -um]",
+    "opimus [-a, -um]"
+  ],
+  "bene": [
+    "recte",
+    "probe",
+    "suavĭter",
+    "prospere",
+    "opportune",
+    "belle",
+    "mature",
+    "apte",
+    "commode",
+    "aeque",
+    "bene",
+    "iure",
+    "merito [mĕrĭtas, meritavi, meritatum, mĕrĭtāre]",
+    "recte",
+    "iuste",
+    "prospere",
+    "secunde",
+    "indulgenter",
+    "beate",
+    "prospere",
+    "magnopĕre",
+    "multo",
+    "multum",
+    "valde",
+    "impense",
+    "magni",
+    "magno"
+  ],
+  "numero": [
+    "numero [nŭmĕras, numeravi, numeratum, nŭmĕrāre]",
+    "dinumero [dīnŭmĕras, dinumeravi, dinumeratum, dīnŭmĕrāre]",
+    "enumĕro [ēnŭmĕras, enumeravi, enumeratum, ēnŭmĕrāre]",
+    "numero [nŭmĕras, numeravi, numeratum, nŭmĕrāre]",
+    "adnumero [adnŭmĕras, adnumeravi, adnumeratum, adnŭmĕrāre]",
+    "compŭto [compŭtas, computavi, computatum, compŭtāre]"
+  ],
+  "ego": [
+    "ipse [ipsa, ipsum]"
+  ],
+  "dea": [
+    "dea [-ae, f.]",
+    "diva [-ae, f.]"
+  ],
+  "sanguis": [
+    "sanguis [-ĭnis, m.]",
+    "cruor [-ōris, m.]"
+  ],
+  "gloria": [
+    "gloria [-ae, f.]",
+    "fama [-ae, f.]",
+    "laus [laudis, f.]",
+    "splendor [-oris, m.]",
+    "decus, [-oris, n.]",
+    "claritudo [-inis, f.]"
+  ],
+  "expedio": [
+    "expedio [expĕdis, expedii, expeditum, expĕdīre]",
+    "renodo [rĕnōdas, renodatum, rĕnōdāre]",
+    "enodo [ēnōdas, enodavi, enodatum, ēnōdāre]",
+    "absolvo [absolvis, absolvi, absolutum, absolvĕre]",
+    "dissolvo [dissolvis, dissolvi, dissolutum, dissolvĕre]",
+    "persolvo [persolvis, persolvi, persolutum, persolvĕre]",
+    "resolvo [rĕsolvis, resolvi, resolutum, rĕsolvĕre]",
+    ""
+  ],
+  "nec": [
+    "haud",
+    "minĭme",
+    "non"
+  ],
+  "quies": [
+    "quies [quiētis, f.]",
+    "tranquillĭtas [-atis, f.]",
+    "serenitas [-atis, f.]",
+    "otium [-ii, n.]",
+    "somnus [-i, m.]",
+    "dormītio [-onis, f.]",
+    "dormitātio [-onis, f.]",
+    "sopor [-ōris, m.]"
+  ],
+  "iniuria": [
+    "iniūria [-ae, f.]",
+    "iniustitia [-ae, f.]",
+    "iniquĭtas [-atis, f.]",
+    "maledictum [-i, n.]",
+    "convīcium [-ii, n.]",
+    "probrum [-i, n.]",
+    "opprobrium [-ii, n.]",
+    "contumēlia [-ae, f.]",
+    "offensa [-ae, f.]"
+  ],
+  "iustus": [
+    "iustus [-a, -um]",
+    "aequus [-a, -um]",
+    "dignus [-a, -um]",
+    "rectus [-a, -um]",
+    "legitimus [-a, -um]"
+  ],
+  "focus": [
+    "focus [-i, m.]",
+    "caminus [-i, m.]"
+  ],
+  "ut": [
+    "utcumque",
+    "cum",
+    "dumtaxat",
+    "sicut",
+    "velut",
+    "quomŏdo",
+    "tamquam",
+    "quōniam",
+    "utpŏte"
+  ],
+  "aer": [
+    "aër [aëris, m.]",
+    "anima [-ae, f.]",
+    "aër [aëris, m.]",
+    "aura [-ae, f.]",
+    "afflatus [-us, m.]",
+    "caelum [-i, n.]"
+  ],
+  "vultus": [
+    "vultus [-us, m.]",
+    "facies [-ei, f.]",
+    "os [oris, n.]"
+  ],
+  "custodia": [
+    "custōdia [-ae, f.]",
+    "tutela [-ae, f.]",
+    "custōdia [-ae, f.]",
+    "praesidium [-ii, n.]",
+    "munimentum [-i, n.]"
+  ],
+  "ignis": [
+    "ignis [ignis, m.]",
+    "focus [-i, m.]",
+    "incendium [-ii, n.]"
+  ],
+  "poculum": [
+    "pocŭlum [-i, n.]",
+    "patĕra [-ae, f.]",
+    "scyphus [-i, m.]",
+    "calix [-cis, m.]",
+    "cyathus [-i, m.]"
+  ],
+  "senatus": [
+    "senātus [-us, m.]",
+    "curia [-ae, f.]"
+  ],
+  "mors": [
+    "mors [mortis, f.]",
+    "nex [necis, f.]",
+    "decessus [-us, m.]",
+    "interitus [-us, m.]",
+    "ōbitus [-us, m.]",
+    "exĭtum [-i, n.]",
+    "fatum [-i, n.]",
+    "letum [-i, n.]",
+    "exstinctio [-onis, f.]",
+    "exitium [-ii, n.]",
+    "exitus [-us, m.]",
+    "defunctio [-onis, f.]",
+    "quies [quiētis, f.]"
+  ],
+  "pater": [
+    "pater [-tris, m.]",
+    "parens [-ntis, m.]",
+    "genitor [-oris, m.]",
+    "conditor [-oris, m.]",
+    "auctor [-oris, m.]",
+    "creator [-oris, m.]"
+  ],
+  "gratia": [
+    "gratia [-ae, f.]",
+    "favor [-is, m.]",
+    "ventus [-i, m.]",
+    "beneficium [-ii, n.]",
+    "munus [-eris, n.]",
+    "studium [-ii, n.]",
+    "venia [-ae, f.]",
+    "inclinatio [-onis, f.]",
+    "officium [-ii, n.]",
+    "suffragium [-ii, n.]"
+  ],
+  "nullus": [
+    "inanis [-e]",
+    "irrĭtus [-a, -um]",
+    "nullus [-a, -um]"
+  ],
+  "parvus": [
+    "parvus [-a, -um]",
+    "exiguus [-a, -um]",
+    "parvus [-a, -um]",
+    "tenuis [-e]",
+    "pusillus [-a, -um]",
+    "mediocris [-e]",
+    "humilis [-e]",
+    "exiguus [-a, -um]",
+    "brevis [-e]",
+    "artus [-a, -um]",
+    "exiguus [-a, -um]",
+    "ieiūnus [-a, -um]",
+    "ĭnfrĕquens [-ntis]",
+    "modĭcus [-a, -um]",
+    "pauper [-ĕris, m.]",
+    "rarus [-a, -um]",
+    "tenuis [-e]",
+    "vanus [-a, -um]",
+    "pusillus [-a, -um]",
+    "contemnendus [-a, -um]",
+    "paucus [-a, -um]",
+    "brevis [-e]",
+    "concīsus [-a, -um]",
+    "parvus [-a, -um]",
+    "exiguus [-a, -um]",
+    "brevis [-e]",
+    "curtus [-a, -um]",
+    "exiguus [-a, -um]",
+    "brevis [-e]",
+    "exiguus [-a, -um]",
+    "tenuis [-e]",
+    "pusillus [-a, -um]",
+    "mediocris [-e]",
+    "tener [-ĕra, -ĕrum]",
+    "adulescens [-ntis, m. e f.]",
+    "parvŭlus [-a, -um]",
+    "iuvenis [-is, m.]",
+    "virens [-ntis]",
+    "novellus [-a, -um]",
+    "lenis [-e]",
+    "submissus [-a, -um]",
+    "debĭlis [-e]",
+    "fragĭlis [-e]",
+    "imbecillus [-a, -um]",
+    "impŏtens [-ntis]",
+    "infirmus [-a, -um]",
+    "invalĭdus [-a, -um]",
+    "defectus [-us, m.]",
+    "imbecillis [-e]",
+    "mollis [-e]",
+    "tenuis [-e]",
+    "exilis [-e]",
+    "gracĭlis [-e]",
+    "enervis [-e]",
+    "raucus [-a, -um]",
+    "tenuis [-e]",
+    "modestus [-a, -um]",
+    "submissus [-a, -um]",
+    "tenuis [-e]",
+    "parvŭlus [-a, -um]"
+  ],
+  "memoro": [
+    "memŏro [mĕmŏras, memoravi, memoratum, mĕmŏrāre]",
+    "commemŏro [commĕmŏras, commemoravi, commemoratum, commĕmŏrāre]",
+    "recordor [rĕcordāris, recordatus sum, rĕcordāri]",
+    "reminiscor [rĕmĭniscĕris, rĕmĭnisci]",
+    "admŏneo [admŏnes, admonui, admonitum, admŏnēre]",
+    "commonefacio [commŏnĕfăcis, commonefeci, commonefactum, commŏnĕfăcĕre]"
+  ],
+  "gigno": [
+    "gigno [gignis, genui, genitum, gignĕre]",
+    "genĕro [gĕnĕras, generavi, generatum, gĕnĕrāre]",
+    "gigno [gignis, genui, genitum, gignĕre]",
+    "pario [păris, peperi, partum, părĕre]",
+    "procreo [prōcrĕas, procreavi, procreatum, prōcrĕāre]",
+    "produco [prōdūcis, produxi, productum, prōdūcĕre]",
+    "profero [prōfĕrs, protuli, prolatum, prōfĕrre]",
+    "edo [ēdis, edidi, editum, ēdĕre]"
+  ],
+  "legatus": [
+    "legatus [-i, m.]",
+    "nuntius [-ii, m.]",
+    "viator [-oris, m.]",
+    "cursor [-oris, m.]"
+  ],
+  "suus": [
+    "suus [-a, -um]",
+    "proprius [-a, -um]"
+  ],
+  "fatum": [
+    "fatum [-i, n.]",
+    "necessitas [-atis, f.]",
+    "sors [sortis, f.]",
+    "fortuna [-ae, f.]"
+  ],
+  "Romanus": [
+    "Romanus [-a, -um]"
+  ],
+  "formosus": [
+    "formōsus [-a, -um]",
+    "nitĭdus [-a, -um]",
+    "pulcher [-chra, -chrum]",
+    "venustus [-a, -um]",
+    "speciosus [-a, -um]",
+    "bellus [-a, -um]",
+    "amoenus [-a, -um]"
+  ],
+  "fidelis": [
+    "fidelis [-e]",
+    "fidus [-a, -um]",
+    "verus [-a, -um]"
+  ],
+  "insidiae": [
+    "insidiae [-arum, f.]",
+    "machina [-ae, f.]"
+  ],
+  "multus": [
+    "multus [-a, -um]",
+    "plures [plura]",
+    "complures, [-ura]",
+    "magnopĕre",
+    "multo",
+    "multum",
+    "valde",
+    "impense",
+    "magni",
+    "magno"
+  ],
+  "victor": [
+    "vĭctor [-ōris, m.]",
+    "debellator [-oris, m.]",
+    "domĭtor [-oris, m.]",
+    "superior [-ius]",
+    "potitor [-oris, m.]",
+    "expugnator [-oris, m.]"
+  ],
+  "tergum": [
+    "tergum [-i, n.]",
+    "tergus [-oris, n.]"
+  ],
+  "saltus": [
+    "saltus [-us, m.]",
+    "silva [-ae, f.]",
+    "nemus [-ŏris, n.]",
+    "lucus [-i, m.]"
+  ],
+  "non": [
+    "haud",
+    "minĭme"
+  ],
+  "fons": [
+    "fons [fontis, m.]",
+    "origo [-inis, f.]",
+    "principium [-ii, n.]",
+    "fontana [-ae, f.]"
+  ],
+  "imber": [
+    "imber, [-bris, m.]",
+    "pluvia [-ae, f.]",
+    "nimbus [-i, m.]"
+  ],
+  "furor": [
+    "furor [-is, m.]",
+    "impĕtus [-us, m.]",
+    "furia [-ae, f.]",
+    "rabies [-ēi, f.]"
+  ],
+  "caput": [
+    "caput [-itis, n.]",
+    "testa [-ae, f.]",
+    "persōna [-ae, f.]",
+    "cacumen [-inis, n.]",
+    "culmen [-inis, n.]",
+    "summum [-i, n.]",
+    "fastīgium [-ii, n.]",
+    "culmen [-inis, n.]",
+    "sūmmitas [-atis, f.]",
+    "summum [-i, n.]",
+    "fastīgium [-ii, n.]",
+    "cacumen [-inis, n.]",
+    "extremĭtas [-atis, f.]",
+    "fastīgium [-ii, n.]",
+    "cuspis [-dis, f.]",
+    "acies [aciei, f.]",
+    "initium [-ii, n.]",
+    "principium [-ii, n.]",
+    "exordium [-ii, n.]",
+    "origo [-inis, f.]",
+    "semen [-ĭnis, n.]",
+    "exordium [-ii, n.]",
+    "initium [-ii, n.]",
+    "principium [-ii, n.]",
+    "coeptus [-us, m.]",
+    "primordium [-ii, n.]",
+    "causa [-ae, f.]",
+    "origo [-inis, f.]",
+    "radix [-cis, f.]",
+    "stirps [stirpis, f.]",
+    "principium [-ii, n.]",
+    "scaturigo [-inis, f.]",
+    "origo [-inis, f.]",
+    "fons [fontis, m.]",
+    "origo [-inis, f.]",
+    "principium [-ii, n.]",
+    "ōstium [-ii, n.]",
+    "faux [faucis, f.]",
+    "egressus [-us, m.]",
+    "imperātor [-oris, m.]",
+    "praefectus [-i, m.]",
+    "dux [ducis, m.]",
+    "rector [-oris, m.]",
+    "ductor [-oris, m.]",
+    "ingenium [-ii, n.]",
+    "intellectus [-us, m.]",
+    "mens [-ntis, f.]",
+    "rātio [-onis, f.]",
+    "paragraphus [-i, m.]",
+    "epītoma [-ae, f.]",
+    "periocha [-ae, f.]",
+    "collectio [-onis, f.]",
+    "consummatio [-onis, f.]",
+    "pecunia [-ae, f.]"
+  ],
+  "color": [
+    "color [-oris, m.]",
+    "pigmentum [-i, n.]"
+  ],
+  "puer": [
+    "puer [-i, m.]",
+    "infans [-ntis, m.]",
+    "puerulus [-i, m.]",
+    "libĕri [-orum, m.]",
+    "adolescens [-ntis, m.]"
+  ],
+  "bellum": [
+    "bellum [-i, n.]",
+    "pugna [-ae, f.]",
+    "conflictus [-us, m.]",
+    "conflictio [-onis, f.]",
+    "contentio [-onis, f.]"
+  ],
+  "tum": [
+    "tum",
+    "tunc"
+  ],
+  "duco": [
+    "duco [dūcis, duxi, ductum, dūcĕre]",
+    "addŭco [addūcis, adduxi, adductum, addūcĕre]",
+    "ago [ăgis, egi, actum, ăgĕre]",
+    "conduco [condūcis, conduxi, conductum, condūcĕre]",
+    "devĕho [dēvĕhis, devexi, devectum, dēvĕhĕre]",
+    "obdūco [obdūcis, obduxi, obductum, obdūcĕre]",
+    "traho [trăhis, traxi, tractum, trăhĕre]",
+    "sumo [sūmis, sumpsi, sumptum, sūmĕre]",
+    "sumo [sūmis, sumpsi, sumptum, sūmĕre]",
+    "suscipio [suscĭpis, suscepi, susceptum, suscĭpĕre]",
+    "excipio [excĭpis, excepi, exceptum, excĭpĕre]",
+    "recipio [rĕcĭpis, recepi, receptum, rĕcĭpĕre]",
+    "haurio [hauris, hausi, haustum, haurīre]",
+    "imbĭbo [imbĭbis, imbibi, imbĭbĕre]",
+    "absorbeo [absorbes, absorbui, absorptum, absorbēre]",
+    "irrētio [irrētis, irretii, irretitum, irrētīre]",
+    "seduco [sēdūcis, seduxi, seductum, sēdūcĕre]",
+    "allicio [allĭcis, allexi, allectum, allĭcĕre]",
+    "attraho [attrăhis, attraxi, attractum, attrăhĕre]",
+    "addŭco [addūcis, adduxi, adductum, addūcĕre]",
+    "impello [impellis, impuli, impulsum, impellĕre]",
+    "induco [indūcis, induxi, inductum, indūcĕre]",
+    "permoveo [permŏves, permovi, permotum, permŏvēre]",
+    "perpello [perpellis, perpuli, perpulsum, perpellĕre]",
+    "traho [trăhis, traxi, tractum, trăhĕre]",
+    "protraho [prōtrăhis, protraxi, protractum, prōtrăhĕre]",
+    "sollicito [sollĭcĭtas, sollicitavi, sollicitatum, sollĭcĭtāre]",
+    "concĭto [concĭtas, concitavi, concitatum, concĭtāre]",
+    "hortor [hortāris, hortatus sum, hortāri]",
+    "impello [impellis, impuli, impulsum, impellĕre]",
+    "incito [incĭtas, incitavi, incitatum, incĭtāre]",
+    "irrito [irrītas, irritavi, irritatum, irrītāre]",
+    "exstimulo [exstĭmŭlas, exstimulavi, exstimulatum, exstĭmŭlāre]",
+    "perdūco [perdūcis, perduxi, perductum, perdūcĕre]",
+    "protraho [prōtrăhis, protraxi, protractum, prōtrăhĕre]",
+    "extrăho [extrăhis, extraxi, extractum, extrăhĕre]",
+    "continuo [contĭnŭas, continuavi, continuatum, contĭnŭāre]",
+    "protraho [prōtrăhis, protraxi, protractum, prōtrăhĕre]",
+    "perdūco [perdūcis, perduxi, perductum, perdūcĕre]",
+    "produco [prōdūcis, produxi, productum, prōdūcĕre]",
+    "extendo [extendis, extendi, extentum, extendĕre]",
+    "prōveho [prōvĕhis, provexi, provectum, prōvĕhĕre]",
+    "profero [prōfĕrs, protuli, prolatum, prōfĕrre]",
+    "diffĕro [diffĕrs, distuli, dilatum, diffĕrre]",
+    "tardo [tardas, tardavi, tardatum, tardāre]",
+    "profero [prōfĕrs, protuli, prolatum, prōfĕrre]",
+    "procrastino [prōcrastĭnas, procrastinavi, procrastinatum, prōcrastĭnāre]",
+    "protraho [prōtrăhis, protraxi, protractum, prōtrăhĕre]",
+    "exprimo [exprĭmis, expressi, expressum, exprĭmĕre]",
+    "extrăho [extrăhis, extraxi, extractum, extrăhĕre]",
+    "collĭgo [collĭgas, colligavi, colligatum, collĭgāre]",
+    "deduco [dēdūcis, deduxi, dēdūcĕre]",
+    "iubeo [iŭbes, iussi, iussum, iŭbēre]",
+    "mando [mandis, mandi, mansum, mandĕre]",
+    "praecĭpio [praecĭpis, praecepi, praeceptum, praecĭpĕre]",
+    "praescribo [praescrībis, praescripsi, praescriptum, praescrībĕre]",
+    "ago [ăgis, egi, actum, ăgĕre]",
+    "rego [rĕgis, rexi, rectum, rĕgĕre]",
+    "existimo",
+    "cēnseo [censes, censui, censum, censēre]",
+    "puto [pŭtas, putavi, putatum, pŭtāre]",
+    "āestimo [aestĭmas, aestimavi, aestimatum, aestĭmāre]",
+    "facio [făcis, feci, factum, făcĕre]",
+    "āestimo [aestĭmas, aestimavi, aestimatum, aestĭmāre]",
+    "iūdico [iūdĭcas, iudicavi, iudicatum, iūdĭcāre]"
+  ],
+  "saxum": [
+    "saxum [-i, n.]",
+    "petra [-ae, f.]",
+    "rupes [-is, f.]",
+    "scopulus [-i, m.]"
+  ],
+  "civilis": [
+    "civilis [-e]",
+    "civĭcus [-a, -um]",
+    "humanus [-a, -um]",
+    "urbānus [-a, -um]"
+  ],
+  "pomum": [
+    "pomum [-i, n.]",
+    "fructus [-us, m.]"
+  ],
+  "habeo": [
+    "habēo [hăbes, habui, habitum, hăbēre]",
+    "obtĭneo [obtĭnes, obtinui, obtentum, obtĭnēre]",
+    "possĭdeo [possĭdes, possedi, possessum, possĭdēre]",
+    "teneo [tĕnes, tenui, tentum, tĕnēre]",
+    "utor [ūtĕris, usus sum, ūti]"
+  ],
+  "fidus": [
+    "fidus [-a, -um]",
+    "certus [-a, -um]",
+    "fidelis [-e]"
+  ],
+  "funus": [
+    "funus [-ĕris, n.]",
+    "sepūltura [-ae, f.]",
+    "unus [-a, -um]",
+    "exsequiae [-arum, f.]"
+  ],
+  "niveus": [
+    "nivĕus [-a, -um]",
+    "albus [-a, -um]",
+    "canus [-a, -um]",
+    "cāndidus [-a, -um]"
+  ],
+  "cibus": [
+    "cibus [-i, m.]",
+    "esca [-ae, f.]",
+    "alimentum [-i, n.]"
+  ],
+  "manus": [
+    "manus [-us, f.]",
+    "palma [-ae, f.]",
+    "palmus [-i, m.]",
+    "agmen [agmĭnis, n.]",
+    "classis [-is, f.]",
+    "potēntia [-ae, f.]",
+    "facultas [-atis, f.]",
+    "opus [operis, n.]"
+  ],
+  "homo": [
+    "homo [-ĭnis, m.]"
+  ],
+  "vulgo": [
+    "vulgo",
+    "effero [effĕrs, extuli, elatum, effĕrre]",
+    "publico [pūblĭcas, publicavi, publicatum, pūblĭcāre]",
+    "pervulgo [pervulgas, pervulgavi, pervulgatum, pervulgāre]",
+    "edo [ēdis, edidi, editum, ēdĕre]",
+    "promulgo [prōmulgas, promulgavi, promulgatum, prōmulgāre]",
+    "diffundo [diffundis, diffudi, diffusum, diffundĕre]",
+    "spargo [spargis, sparsi, sparsum, spargĕre]",
+    "extendo [extendis, extendi, extentum, extendĕre]",
+    "propago [-inis, f.]"
+  ],
+  "sepelio": [
+    "sepelio [sĕpĕlis, sepelii, sepultum, sĕpĕlīre]",
+    "humo [hŭmas, humavi, humatum, hŭmāre]",
+    "effero [effĕrs, extuli, elatum, effĕrre]"
+  ],
+  "iam": [
+    "abhinc"
+  ],
+  "laudo": [
+    "laudo [laudas, laudavi, laudatum, laudāre]",
+    "laudibus afficio [affĭcis, affeci, affectum, affĭcĕre]",
+    "laudo [laudas, laudavi, laudatum, laudāre]",
+    "collaudo [collaudas, collaudavi, collaudatum, collaudāre]",
+    "praedico [praedĭcas, praedicavi, praedicatum, praedĭcāre]",
+    "effero [effĕrs, extuli, elatum, effĕrre]",
+    "probo [prŏbas, probavi, probatum, prŏbāre]"
+  ],
+  "opus": [
+    "opus [operis, n.]",
+    "opera [-ae, f.]",
+    "labor [-oris, m.]",
+    "negotium [-ii, n.]"
+  ],
+  "os": [
+    "os [oris, n.]",
+    "ossum [-i, n.]"
+  ],
+  "facio": [
+    "facio [făcis, feci, factum, făcĕre]",
+    "conficio [confĭcis, confeci, confectum, confĭcĕre]",
+    "ago [ăgis, egi, actum, ăgĕre]",
+    "gero [gĕris, gessi, gestum, gĕrĕre]",
+    "efficio [effĭcis, effeci, effectum, effĭcĕre]",
+    "perficio [perfĭcis, perfeci, perfectum, perfĭcĕre]",
+    "operor [ŏpĕrāris, operatus sum, ŏpĕrāri]"
+  ],
+  "manes": [
+    "manes [-ium, m.]",
+    "umbrae [-arum, f.]"
+  ],
+  "tempus": [
+    "tempus [-oris, n.]",
+    "aetas [-atis, f.]",
+    "tempestas [-atis, f.]",
+    "hora [-ae, f.]",
+    "occasio [-ōnis, f.]",
+    "opportunĭtas [-atis, f.]"
+  ],
+  "rumor": [
+    "rumor [-oris, m.]",
+    "clamor [-oris, m.]",
+    "crepitus [-us, m.]",
+    "plausus [-us, m.]",
+    "sonitus [-us, m.]",
+    "sonus [-us, m.]",
+    "strepitus [-us, m.]",
+    "murmur [-uris, n.]",
+    "fama [-ae, f.]"
+  ],
+  "antrum": [
+    "antrum [-i, n.]",
+    "caverna [-ae, f.]",
+    "spelunca [-ae, f.]",
+    "specus [-us, m.]",
+    "spelunca [-ae, f.]",
+    "antrum [-i, n.]"
+  ],
+  "civitas": [
+    "civĭtas [-atis, f.]",
+    "cives [-ium, m.]"
+  ],
+  "ius": [
+    "ius [iuris, n.]",
+    "mos [moris, m.]",
+    "iustitia [-ae, f.]",
+    "potestas [-atis, f.]",
+    "lex [legis, f.]",
+    "norma [-ae, f.]",
+    "fas [indeclinabile, n.]"
+  ],
+  "gladius": [
+    "gladius [-ii, m.]",
+    "ensis [-is, m.]",
+    "mucro [-onis, m.]",
+    "ferrum [-i, n.]",
+    "machaera [-ae, f.]"
+  ],
+  "clamor": [
+    "clamor [-oris, m.]",
+    "strepitus [-us, m.]",
+    "vociferatio [-onis, f.]",
+    "conclamatio [-onis, f.]"
+  ],
+  "fama": [
+    "fama [-ae, f.]",
+    "claritas [-atis, f.]",
+    "fama [-ae, f.]",
+    "nobilĭtas [-atis, f.]",
+    "notitia [-ae, f.]",
+    "opinio [-onis, f.]",
+    "rumor [-oris, m.]",
+    "nomen [-inis, n.]",
+    "laus [laudis, f.]"
+  ],
+  "mitto": [
+    "mitto [mittis, misi, missum, mittĕre]",
+    "dimitto [dīmittis, dimisi, dimissum, dīmittĕre]",
+    "emitto [ēmittis, emisi, emissum, ēmittĕre]",
+    "allēgo [allēgas, allegavi, allegatum, allēgāre]",
+    "permitto [permittis, permisi, permissum, permittĕre]",
+    "conicio [cōnĭcis, conieci, coniectum, cōnĭcĕre]",
+    "eĭcio [ēĭcis, eieci, eiectum, ēĭcĕre]",
+    "iacio [iăcis, ieci, iactum, iăcĕre]",
+    "iacŭlor [iăcŭlāris, iaculatus sum, iăcŭlāri]"
+  ],
+  "nunc": [
+    "hoc tempore",
+    "hodie"
+  ],
+  "tamen": [
+    "attamen",
+    "nihilominus"
+  ],
+  "signum": [
+    "signum [-i, n.]",
+    "significātio [-ōnis, f.]",
+    "nota [-ae, f.]",
+    "nutus [-us, m.]",
+    "signum [-i, n.]",
+    "indicium [-ii, n.]",
+    "argumentum [-i, n.]",
+    "auspicium [-ii, n.]"
+  ],
+  "vivo": [
+    "vivo",
+    "ago [ăgis, egi, actum, ăgĕre]",
+    "sum [es, fui, esse]",
+    "supervivo [sŭpervīvis, supervixi, sŭpervīvĕre]",
+    "supĕro [sŭpĕras, superavi, superatum, sŭpĕrāre]",
+    "exsupero [exsŭpĕras, exsuperavi, exsuperatum, exsŭpĕrāre]",
+    "supersum [sŭperes, sŭperfui, sŭperesse]",
+    "exsisto [exsistis, exstiti, exsistĕre]",
+    "duro [dūras, duravi, duratum, dūrāre]",
+    "remaneo [rĕmănes, remansi, remansum, rĕmănēre]",
+    "pabulor [pābŭlāris, pabulatus sum, pābŭlāri]",
+    "moror [mŏrāris, moratus sum, mŏrāri]"
+  ],
+  "vinco": [
+    "vinco [vincis, vici, victum, vincĕre]",
+    "debello [dēbellas, debellavi, debellatum, dēbellāre]",
+    "devinco [dēvincis, devici, devictum, dēvincĕre]",
+    "supĕro [sŭpĕras, superavi, superatum, sŭpĕrāre]",
+    "profligo [prōflīgas, profligavi, profligatum, prōflīgāre]",
+    "percello [percellis, perculi, perculsum, percellĕre]",
+    "frango [frangis, fregi, fractum, frangĕre]",
+    "capio [căpis, cepi, captum, căpĕre]",
+    "subigo [sŭbĭgis, subegi, subactum, sŭbĭgĕre]",
+    "armis occŭpo [occŭpas, occupavi, occupatum, occŭpāre]",
+    "in ditionem redigo [rĕdĭgis, redegi, redactum, rĕdĭgĕre]",
+    "potior [pŏtīris, potitus sum, pŏtīri]",
+    "expugno [expugnas, expugnavi, expugnatum, expugnāre]"
+  ],
+  "rogus": [
+    "rogus [-i, m.]",
+    "pyra [-ae, f.]"
+  ],
+  "ingratus": [
+    "immĕmor [-ŏris]",
+    "insuavis [-e]"
+  ],
+  "serpens": [
+    "serpens [-ntis, m. e f.]",
+    "hydra [-ae, f.]",
+    "anguis [-is, m. e f.]",
+    "colŭber [-bri, m.]",
+    "draco [-ōnis, m.]",
+    "ēxcetra [-ae, f.]"
+  ],
+  "morbus": [
+    "morbus [-i, m.]",
+    "aegritudo [-inis, f.]",
+    "aegrotatio [-onis, f.]",
+    "valetudo [-inis, f.]",
+    "infirmitas [-atis, f.]",
+    "pestis [-is, f.]"
+  ],
+  "vita": [
+    "vita [-ae, f.]",
+    "aetas [-atis, f.]",
+    "aevum [-i, n.]",
+    "anima [-ae, f.]",
+    "spirĭtus [-us, m.]"
+  ],
+  "hic": [
+    "hic"
+  ],
+  "pretium": [
+    "pretium [-i, n.]",
+    "merces [-edis, f.]",
+    "taxatio [-onis, f.]"
+  ],
+  "iste": [
+    "iste [ista, istud]"
+  ],
+  "loco": [
+    "collŏco [collŏcas, collocavi, collocatum, collŏcāre]",
+    "pono [pōnis, posui, positum, pōnĕre]",
+    "sisto [sistis, stiti, statum, sistĕre]",
+    "statuo [stătŭis, statui, statutum, stătŭĕre]",
+    "struo [strŭis, struxi, structum, strŭĕre]",
+    "dispono [dispōnis, disposui, dispositum, dispōnĕre]"
+  ],
+  "mundus": [
+    "mundus [-a, -um]",
+    "comptus [-a, -um]",
+    "concinnus [-a, -um]",
+    "elĕgans, -ntis",
+    "mundus [-a, -um]",
+    "polītus [-a, -um]",
+    "compositus [-a, -um]",
+    "ornatus [-a, -um]",
+    "nitens [-ntis]",
+    "purgatus [-a, -um]",
+    "expolitus [-a, -um]"
+  ],
+  "natura": [
+    "natura [-ae, f.]",
+    "indoles [-is, f.]",
+    "substantia [-ae, f.]",
+    "ingenium [-ii, n.]"
+  ],
+  "ipse": [
+    "ipse [ipsa, ipsum]",
+    "idem [ēadem, idem]"
+  ],
+  "superus": [
+    "supĕrus [-a, -um]",
+    "caelestis [-e]",
+    "caeruleus [-a, -um]",
+    "dius [-a, -um]",
+    "supernus [-a, -um]",
+    "superior [-ius]",
+    "caelicŏla [-ae, m.]",
+    "numen [-ĭnis, n.]",
+    "divinitas [-atis, f.]",
+    "dĕus [-i, m.]"
+  ],
+  "polus": [
+    "polus [-i, m.]",
+    "axis [-is, m.]",
+    "vertex [-ĭcis, m.]"
+  ],
+  "rex": [
+    "rex [regis, m.]",
+    "regnator [-oris, m.]",
+    "domĭnus [-i, m.]",
+    "rector [-oris, m.]",
+    "dynastes [-ae, m.]"
+  ],
+  "mos": [
+    "mos [moris, m.]",
+    "consuetūdo [-ĭnis, f.]",
+    "ritus [-us, m.]",
+    "usus [-us, m.]",
+    "institutum [-i, n.]",
+    "exercitatio [-onis, f.]",
+    "exemplum [-i, n.]",
+    "depravatio [-onis, f.]",
+    "natura [-ae, f.]",
+    "anĭmus [-i, m.]",
+    "iussus [-us, m.]",
+    "arbitrium [-ii, n.]",
+    "affectus [-us, m.]",
+    "cupiditas [-atis, f.]",
+    "voluntas [-atis, f.]",
+    "appetitus [-us, m.]",
+    "libīdo [-ĭnis, f.]",
+    "arbitrium [-ii, n.]",
+    "norma [-ae, f.]",
+    "ius [iuris, n.]",
+    "fas [indeclinabile, n.]",
+    "formŭla [-ae, f.]",
+    "lex [legis, f.]",
+    "norma [-ae, f.]",
+    "praescriptum [-i, n.]",
+    "rātio [-onis, f.]",
+    "regula [-ae, f.]",
+    "canon [-onis, m.]",
+    "praeceptum [-i, n.]",
+    "lex [legis, f.]"
+  ],
+  "populus": [
+    "populus [-i, m.]",
+    "gens [gentis, f.]",
+    "turba [-ae, f.]",
+    "multitudo [-inis, f.]",
+    "homines [-um, m.]",
+    "pagus [-i, m.]",
+    "regio [-ōnis, f.]",
+    "terra [-ae, f.]",
+    "arbor [-ris, f.]",
+    "truncus [-i, m.]"
+  ],
+  "possum": [
+    "possum [poses, potui, posse]"
+  ],
+  "osculum": [
+    "oscŭlum [-i, n.]",
+    "savium [-ii, n.]",
+    "basium [-ii, n.]"
+  ],
+  "pecunia": [
+    "pecunia [-ae, f.]",
+    "divitiae [-arum, f.]",
+    "opes [-ium, f.]",
+    "fortunae [-arum, f.]",
+    "nummus [-i, m.]",
+    "aes [aeris, n.]",
+    "argentum [-i, n.]",
+    "nummi [-orum, m.]",
+    "stips [stipis, f.]",
+    "nummus [-i, m.]"
+  ],
+  "famulus": [
+    "famulus [-i, m.]",
+    "verna [-ae, m.]",
+    "pedisequus [-i, m.]",
+    "servus [-i, m.]",
+    "mancipium [-ii, n.]",
+    "famulus [-i, m.]"
+  ],
+  "modus": [
+    "modus [-i, m.]",
+    "rātio [-onis, f.]",
+    "mos [moris, m.]",
+    "facies [-ei, f.]",
+    "rātio [-onis, f.]"
+  ],
+  "praesidium": [
+    "praesidium [-ii, n.]",
+    "tutela [-ae, f.]",
+    "auxilium [-ii, n.]"
+  ],
+  "gramen": [
+    "gramen [-ĭnis, n.]",
+    "pascŭa [-orum, n.]",
+    "pratum [-i, n.]"
+  ],
+  "iocus": [
+    "iocus [-i, m.]",
+    "facetiae [-arum, f.]",
+    "iocātio [-onis, f.]",
+    "ludus [-i, m.]",
+    "cavillum [-i, n.]",
+    "deliciae [-arum, f.]"
+  ],
+  "confido": [
+    "confīdo [confīdis, confisus sum, confisum, confīdĕre]",
+    "credo [crēdis, credidi, creditum, crēdĕre]",
+    "fido [fīdis, fisus sum, fisum, fīdĕre]",
+    "spero [spēras, speravi, speratum, spērāre]",
+    "concredo [concrēdis, concredidi, concreditum, concrēdĕre]",
+    "aperio [ăpĕris, aperui, apertum, ăpĕrīre]"
+  ],
+  "cum": [
+    "cum",
+    "cum",
+    "ubi",
+    "ut"
+  ],
+  "auctor": [
+    "auctor [-oris, m.]",
+    "conditor [-oris, m.]",
+    "effector [-oris, m.]",
+    "molitor [-oris, m.]",
+    "parens [-ntis, m.]",
+    "scriptor [-oris, m.]"
+  ],
+  "sidus": [
+    "sidus [-eris, n.]",
+    "flamma [-ae, f.]",
+    "stella [-ae, f.]",
+    "astrum [-i, n.]",
+    "sidus [-eris, n.]"
+  ],
+  "aestus": [
+    "aestus [-us, m.]",
+    "unda [-ae, f.]",
+    "fluctus [-us, m.]",
+    "calor [-oris, m.]",
+    "fervor [-oris, m.]",
+    "incendium [-ii, n.]",
+    "flamma [-ae, f.]"
+  ],
+  "erro": [
+    "erro [-onis, m.]",
+    "deerro [dĕerras, deerravi, deerratum, dĕerrāre]",
+    "delinquo [dēlinquis, deliqui, delictum, dēlinquĕre]",
+    "erro [-onis, m.]",
+    "vador [vădāris, vadatus sum, vădāri]",
+    "vagor [văgāris, vagatus sum, văgāri]",
+    "inerro [ĭnerras, inerravi, ĭnerrāre]",
+    "pecco [peccas, peccavi, peccatum, peccāre]",
+    "fallor [fallĕris, falsus sum, falsu, falli]"
+  ]
+}
