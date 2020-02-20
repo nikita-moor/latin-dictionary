@@ -10,6 +10,7 @@ Mark-up:
 * `***word***` — headword or phrase
 * `%%%word%%%` — direct or literal translation
 * `$$$word$$$` — German word or sentence
+* `@@@word@@@` — inter-dictionary link
 * Greek text is marked with XML tags: `<foreign xml:lang="el">λόγος</foreign>`
 
 Non-standard (medieval) characters used in this text:
