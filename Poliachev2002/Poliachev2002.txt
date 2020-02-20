@@ -170,7 +170,7 @@ aviator [oris, m]; aëroplaniga [ae, m]
 *aviatio [onis, f]; res [ei, f] aviatoria
 
 авось
-forte, fortasse, forsitan
+forte; fortasse; forsitan
 
 авоська
 reticulum [i, n]
@@ -335,7 +335,7 @@ hades [is, m]; tartărus [i, m]; tartara [orum, npl]; gehenna [ae, f]; regnum [i
 адажио
 (lente, placide); cantus [us, m] lentus, lente incedens, placidus; modus [us, m] sedatior
 
-адамово яблоко;адамово
+адамово яблоко
 pomum [i, n] Adami; glans [glandis, f] juguli
 
 адаптация
@@ -433,7 +433,10 @@ nitricus [a, um]
 ciconia [ae, f]
 
 айва
-(дерево) Pirus [i, f] Cydonia; (плод) cydonium [ii, n]
+1. дерево
+Pirus [i, f] Cydonia
+1. плод
+cydonium [ii, n]
 
 айсберг
 mons [montis, m] glacialis
@@ -556,7 +559,7 @@ obstetricus [i, m]; obstetricans [ntis, m]
 obstetrix [icis, f]
 
 акцент
-accentus [us, m]; vocis sonus [i, m]; tenor [oris, m]; vox [vocis, f] (rustica); tonus [i, m]; pronuntiatio [onis, f] extranea/insolita, peregrina insolentia [ae, f]
+accentus [us, m]; vocis sonus [i, m]; tenor [oris, m]; vox [vocis, f] (rustica); tonus [i, m]; pronuntiatio [onis, f] extranea / insolita, peregrina insolentia [ae, f]
 
 акцептовать
 agnoscere [agnosco, agnovi, agnotum]
@@ -632,7 +635,7 @@ ambulacrum [i, n]; ambulatio [onis, f]; deambulatio [onis, f]; deambulacrum [i, 
 (h)alleluja
 
 алмаз
-adămas [antis, m] (acc.sg. adamanta)
+adămas [antis, m] (acc. sg. adamanta)
 
 алмазный
 adamanteus [a, um]; adamantinus [a, um]
@@ -668,7 +671,7 @@ fames [is, f]; ardor [oris, m]; desiderium [ii, n]; cupiditas [atis, f]; (inexpl
 + имя этой болезни – алчность ei morbo nomen est avaritia
 
 алчный
-avarus [a, um]; avidus [a, um]; rapax, acis (domina); insatiabilis [e]; cupidus [a, um] (avarus et cupidus)
+avarus [a, um]; avidus [a, um]; rapax [acis] (domina); insatiabilis [e]; cupidus [a, um] (avarus et cupidus)
 
 алчущий
 cupidus [a, um] (pecuniae; liberorum; rerum novarum)
@@ -692,7 +695,7 @@ alpinus [a, um]
 + альпийские растения plantae alpicolae (alpigenae)
 
 альпинарий
-alpinarium, ii n.
+alpinarium [ii, n]
 
 альпинист
 *alpinista [ae, m]; rupium ascensor [oris, m]; oribăta [ae, m]
@@ -701,7 +704,7 @@ alpinarium, ii n.
 montium ascentrix [icis, f]
 
 Альпы
-Alpes, ium f
+Alpes [ium, f]
 + в Альпах in alpinis,
 
 альт
@@ -711,7 +714,7 @@ altera vox [cis, f] ab acuta; secundae vocis cantor [oris, m]
 alternatio [onis, f]; optio [onis, f]
 
 альтернативный
-alternativus, а, um
+alternativus [a, um]
 + альтернативное название nomen [inis, n] alternativum
 + альтернативный синоним synonymum [i, n] alternativum.
 
@@ -722,7 +725,7 @@ altruismus [i, m]
 altruista [ae, m]
 
 алюминий
-aluminium (Al)[ii, m]
+aluminium [ii, m] (Al)
 
 Аляска
 Alasca [ae, f]
@@ -731,7 +734,7 @@ Alasca [ae, f]
 Amazones [um, fpl]
 
 амальтея
-amalthaea, ae,f.
+amalthaea [ae, f]
 + амальтея двучленная amalthaea dimera
 + амальтея одночленная amalthaea monomera.
 
@@ -749,7 +752,7 @@ fenestra [ae, f] ad tormenta mittenda
 + на стене не было амбразур non pinnae fastigium muri distinxerant
 
 амброзия
-ambrosia [ae, f], cibus [i, m] deorum
+ambrosia [ae, f]; cibus [i, m] deorum
 
 амбулатория
 ambulatorium [ii, n]
@@ -803,7 +806,7 @@ amperium [ii, n]
 amperimetrum [i, n]
 
 амплитуда
-amplitudo [inis, f] .
+amplitudo [inis, f]
 + амплитуда изменчивости вида amplitudo [inis, f] mutabilitatis speciei.
 
 ампула
@@ -819,7 +822,7 @@ amputatio [onis, f]
 amputare [1]
 
 амулет
-crepundia [orum, npl/pl]; amuletum [i, n]
+crepundia [orum, npl]; amuletum [i, n]
 
 амуниция
 apparatus [us, m]
@@ -859,13 +862,13 @@ analyticus [а, um]; resolutorius [а, um]; exponibilis [e]
 analogus [i, m].
 
 аналогичный
-analogicus [a, um] %adj.%;analogus [a, um] adj; proportionalis [e]; consentaneus [a, um]
+analogicus [a, um], %adj.%; analogus [a, um], %adj.%; proportionalis [e]; consentaneus [a, um]
 + аналогичные органы organa analogica
 + аналогичная форма найдена в Швейцарии forma analogica in Helvetia inventa est
 + растение, являющееся аналогом (букв. аналогичное) иранского вида planta speciei iranicae analoga.
 
 аналогия
-analogia, ae,f. Similitudo [imis, f]; par ratio [onis, f]; proportio [onis, f]
+analogia [ae, f]; similitudo [inis, f]; par ratio [onis, f]; proportio [onis, f]
 + по аналогии с… ex analogia ad…; a simili
 + провести аналогию analogiam adducere.
 + придать зримой аналогии отвлеченный смысл similitudinem ab oculis ad animum transferre
@@ -928,7 +931,7 @@ angelicus [a, um]
 angina [ae, f]
 
 английский
-Anglicus. a, um ; Britannicus [a, um]
+Anglicus [a, um]; Britannicus [a, um]
 + по-английски anglice adv.
 
 англицизм
@@ -944,7 +947,7 @@ Anglica [ae, f]; Angla [ae, f]
 Anglia [ae, f]; Britannia [ae, f]
 
 андезит
-andesitum, i n.
+andesitum [i, n]
 
 андезитовый
 andesiticus [a, um] %adj.%:
@@ -988,7 +991,7 @@ annotatus [a, um]
 + аннотированный обзор conspectus [us, m] annotatus
 
 аннулировать
-revocare, avi, atum, o; cancellare, avi, atum, o; cassare, avi, atum, o (lex cassata); annihilare, avi, atum, o; annullare, avi, atum, o
+revocare [avi, atum, o]; cancellare [avi, atum, o]; cassare [avi, atum, o] (lex cassata); annihilare [avi, atum, o]; annullare [avi, atum, o]
 
 аномалия
 anomalia [ae, f]; malformatio [onis, f]; abnormitas [atis, f]; inaequabilitas [atis, f]
@@ -1046,7 +1049,7 @@ antiquarius [ii, m]; rerum antiquarum amator [oris, m]
 clericatui adversus, adversator; anticlericalis; sacerdotum osor
 
 антилопа
-dorcas [adis, f]; antilope [es (ae), f]
+dorcas [adis, f]; antilope [es/ae, f]
 
 антиобщественный
 antisocialis [e]
@@ -1095,7 +1098,7 @@ saltus [us, m] per aеrem
 anthropologia [ae, f]; humanae naturae / formae descriptio (s. doctrina)
 
 антропоморфизм
-anthropomophismus, i m
+anthropomophismus [i, m]
 
 анцестральный
 ancestralis [e]
@@ -1111,16 +1114,16 @@ aoristus [i, m]
 apatitum [i, n]
 
 апатичный
-lentus [a, um]; apathicus [a, um]; deses, desidis
+lentus [a, um]; apathicus [a, um]; deses [desidis]
 
 апатия
 apathia [ae, f]; lentitudo [inis, f]; torpor [oris, m]
 
 апеллировать
-appellare (tribunos a praetore; imperatorem a [ex] sententia); provocare
+appellare (tribunos a praetore; imperatorem a (ex) sententia); provocare
 
 апеллянт
-(челобитчик) provocans, appellans, appellator
+(челобитчик) provocans; appellans; appellator
 
 апелляционный
 apellatorius [a, um]
@@ -1259,7 +1262,7 @@ area [ae, f]; area geographica
 arena [ae, f]; lusorium [ii, n]
 
 аренда
-redemptio [onis, f]; redemptura [ae, f]; emphyteusis [is (eos), f] (долговременная, наследственная)
+redemptio [onis, f]; redemptura [ae, f]; emphyteusis [is/eos, f] (долговременная, наследственная)
 + взять в у conducere; redimere
 + отдать в аренду (e)locare
 + арендная плата habitatio [onis, f]
@@ -1282,12 +1285,12 @@ custodia [ae, f]; vincula [orum, npl]; arrestatio [onis, f] (navium); comprehens
 captivus [i, m]; incarceratus [i, m]; comprehensus [i, m]
 
 арестовать
-apprehendere [apprehendo, -nsi, -nsum]; comprehendere; prehendere; ducere [duco, duxi, ductum] in custodiam; arrestare [1]; mandare [1] aliquem vinculis
+apprehendere [apprehendo, nsi, nsum]; comprehendere; prehendere; ducere [duco, duxi, ductum] in custodiam; arrestare [1]; mandare [1] aliquem vinculis
 + быть арестованным и заключенным в тюрьму arrestari et imprisonari
 + его арестовали за долги ob solutionem debitorum non factam, quia non respondit nominibus, in custodiam ductus est
 
 аристократ
-nobilis, optimus vir; optimas [atis, m]; patricius [ii, m]; aristocrata, ae. m
+nobilis, optimus vir; optimas [atis, m]; patricius [ii, m]; aristocrata [ae, m]
 
 аристократический
 aristocraticus [a, um]
@@ -1299,7 +1302,7 @@ optimates, nobilitas; nobiles; aristocratia; res publica ab optimatibus administ
 arithmetica [ae, f] [orum, npl]
 
 ария
-canticum [i, n]; aria [ae, f] (it.); sincinium [ii, n]; monodia, ae,f
+canticum [i, n]; aria [ae, f (it.)]; sincinium [ii, n]; monodia [ae, f]
 
 арка
 arcus [us, m]; fornix [icis, m]
@@ -1341,13 +1344,13 @@ aroma [atis, n]; odoramenta [orum, npl]; odores [um, mpl]
 + торговец (торговля) ароматами odorarius; (negotiatio odoraria)
 
 ароматический
-suaveolens, tis; aromaticus [a, um]
+suaveolens [tis]; aromaticus [a, um]
 
 ароматичный
-suaveolens, tis; aromaticus [a, um]
+suaveolens [tis]; aromaticus [a, um]
 
 ароматный
-suaveolens, tis; aromaticus [a, um]
+suaveolens [tis]; aromaticus [a, um]
 
 арония
 mespilus [i, f] (дерево); mespilum [i, n] (плод)
@@ -1446,7 +1449,7 @@ ulna [ae, f] Rossica
 riguus [i, m]; fossa [ae, f] irrigatoria
 
 арьергард
-acies [ei, f] novissima [extrema]; extremum agmen [inis, n]; extremi [orum, mpl]
+acies [ei, f] novissima (extrema); extremum agmen [inis, n]; extremi [orum, mpl]
 
 асбест
 asbestus [i, m]; amiantus [i, m]
@@ -1518,7 +1521,7 @@ astrologia [ae, f]
 astrolabium [ii, n]
 
 астронавт
-astronauta [ae, m], cosmonauta [ae, m]; nauta [ae, m] sideralis m
+astronauta [ae, m], cosmonauta [ae, m]; nauta [ae, m] sideralis
 
 астроном
 astronomus [i, m]; astrorum scientiae peritus [i, m]; studiosus [i, m] rerum caelestium
@@ -1535,7 +1538,7 @@ astronomia [ae, f]; astrorum scientia [ae, f]; scientia sideralis
 asphaltus [i, m]; bitumen [inis, n]
 
 асфальтировать
-bitumine obducere [duco, -duxi, -ductum], bituminare [1]
+bitumine obducere [duco, duxi, ductum], bituminare [1]
 
 асфальтовый
 bitumineus [a, um]
@@ -1563,7 +1566,7 @@ summus praefectus [i, m] Cosacorum; princeps [ipis, m] piratarum; archipirata [a
 atheismus [i, m]; dei negatio [onis, f]; impietas [atis, f]
 
 атеист
-atheus [a, um]; deum negans [ntis]; impius, ia, ium; atheista [ae, m]
+atheus [a, um]; deum negans [ntis]; impius [ia, ium]; atheista [ae, m]
 
 атлас
 1. сборник карт
@@ -1581,7 +1584,7 @@ athleta [ae, m]
 athleticus [a, um]
 
 атман
-atman (ind)
+atman [indecl.]
 
 атмосфера
 atmosphaera [ae, f]; aеr [aеris, m]; tractus [us, m] caeli
@@ -1626,7 +1629,7 @@ admissio [onis, f]; aditus [us, m]; colloquium [ii, n]
 auditor [oris, m]; judex [cis, m] castrensis
 
 аудитория
-auditorium [ii, n]; acroasis [is (eos), f]
+auditorium [ii, n]; acroasis [is/eos, f]
 
 аукцион
 auctio [onis, f]; venditio [onis, f] publica; hasta [ae, f]; licitatio [onis, f]
@@ -1759,7 +1762,7 @@ nundinae [arum, fpl]; forum [i, n] nundinarium; forum rerum venalium; emporium [
 basilica [ae, f]
 
 базис
-crepīdo [inis, f] (obelisci); basis [is (eos), f]
+crepīdo [inis, f] (obelisci); basis [is/eos, f]
 
 байдарка
 genus scaphae ex ulmo vel e pellibus squalorum Carchariae, baydara dictum
@@ -1830,7 +1833,7 @@ saltationum scenicarum moderator [oris, m]
 балка
 1. элемент рельефа
 vallicula [ae, f]; vallis [is, f] angusta
-+ по днищам б-ок in sinu vallicularum
++ по днищам балок in sinu vallicularum
 1. часть строения
 trabes [is, f]
 1. брус
@@ -1859,7 +1862,7 @@ pulvis [eris, m] Nobelianus; pulvis pyrius fumo carens
 follis [is, m]; folliculus [i, m]
 
 баловать
-lascivum esse [sum, fui]; lascivire [4]; inepte, stulte facere [facio, feci, factum]; prave insuefacere, corrumpere [corrumpo, -rupi, -ruptum]
+lascivum esse [sum, fui]; lascivire [4]; inepte, stulte facere [facio, feci, factum]; prave insuefacere, corrumpere [corrumpo, rupi, ruptum]
 + баловать детей liberos male educare, molliter eos habere, liberis indulgere
 
 баловаться
@@ -2198,7 +2201,7 @@ loqui, fari, dicere; colloqui cum aliquo
 vigilia [ae, f]; vigilantia [ae, f]
 
 бдительный
-cautus [a, um]; vigilans [ntis]; vigilabilis [e]; vigil, is; vigilax, acis; diligens [ntis]; accuratus [a, um]; assiduus (custos)
+cautus [a, um]; vigilans [ntis]; vigilabilis [e]; vigil [is]; vigilax [acis]; diligens [ntis]; accuratus [a, um]; assiduus (custos)
 + быть чрезвычайно бдительным mirifica esse vigilantia; (ad)vigilare, rei invigilare, attendere; servare; vigilias agere; stationem agere; in statione esse, manere; stationis jacere
 + обращать на кого, что бдительное око diligenter observare aliquem, aliquid
 + бдительные глаза servantia lumina
@@ -2360,7 +2363,7 @@ insipidus [a, um]; judicio carens [ntis]; inelegans [ntis]; insulsus [a, um]; ig
 + мякоть почти безвкусная caro subinsipida
 
 безводный
-aqua destitutus [a, um]; aqua inops [opis]; pauper aquae; sterilis [e] ab aquis; sitiens [ntis]; inaquosus [a, um]
+aqua destitutus [a, um]; aqua inops [opis]; pauper aquae; sterilis (e) ab aquis; sitiens [ntis]; inaquosus [a, um]
 + безводная пустыня desertum aqua destitutum (inops)
 
 безвозвратный
@@ -2407,7 +2410,7 @@ illiteratus [a, um]; indoctus [a, um]; ineruditus [a, um]; rudis [e]; scribendi 
 immensus [a, um]; infinitus [a, um]
 
 бездарный
-hebes, etis; tardus [a, um]; imbecillus [a, um]; ingenii expers [rtis]
+hebes [etis]; tardus [a, um]; imbecillus [a, um]; ingenii expers [rtis]
 
 бездействие
 segnitia [ae, f]; ignavia [ae, f]; inertia [ae, f]; cessatio [onis, f]; otium [ii, n]; desidia [ae, f]; rubigo [inis, f] (ingenium longa rubigine laesum); situs [us, m]
@@ -2477,7 +2480,7 @@ duritia [ae, f]
 angustus [a, um] (animus); vacans animo; durus [a, um]
 
 бездыханность
-apnoë [es (ae), f]
+apnoë [es/ae, f]
 
 бездыханный
 inanis [e] (corpus); animae vacuus [a, um]; exanimis [e]; exanimatus [a, um]
@@ -2486,7 +2489,7 @@ inanis [e] (corpus); animae vacuus [a, um]; exanimis [e]; exanimatus [a, um]
 atrociter; crudeliter; inclementer
 
 безжалостный
-inhumanus [a, um]; ferus [a, um]; durus [a, um]; crudelis [e]; crudus [a, um] (vir; ensis; bellum); immitis [e]; immisericors, rdis; atrox [cis] (animus; odium); inclemens [ntis]; illacrimabilis [e]
+inhumanus [a, um]; ferus [a, um]; durus [a, um]; crudelis [e]; crudus [a, um] (vir; ensis; bellum); immitis [e]; immisericors [rdis]; atrox [cis] (animus; odium); inclemens [ntis]; illacrimabilis [e]
 
 безжизненный
 exanimis [e]; exanimatus [a, um]; ignavus [a, um]
@@ -2501,10 +2504,10 @@ incuria [ae, f]; securitas [atis, f]
 securus [a, um]; indiligens [ntis]; negligens [ntis]; incuriosus [a, um]; vacuus [a, um] (animo, animi; v. ac solutus); otiosus [a, um]
 
 беззаконие
-injustitia [ae, f]; legum transgressio [onis, f]; iniquitas [atis, f]; delictum [i, n]; nefas [ind.n]; peccatum [i, n]; res illegitima; contra jus; scelus; legum violatio; impietas [atis, f]
+injustitia [ae, f]; legum transgressio [onis, f]; iniquitas [atis, f]; delictum [i, n]; nefas [indecl., n]; peccatum [i, n]; res illegitima; contra jus; scelus; legum violatio; impietas [atis, f]
 
 беззаконный
-exlex, -legis; impius [a, um]; iniquus [a, um]; sceleratus [a, um]
+exlex [legis]; impius [a, um]; iniquus [a, um]; sceleratus [a, um]
 
 беззащитный
 praesidio destitutus, carens, inops; indefensus; sine praesidio; vacuus (res publica); incommendatus [a, um]
@@ -2666,7 +2669,7 @@ indifferenter; indiscrete
 nullius momenti
 + для развития спор колебания температуры являются безразличными sporarum evolutioni vacillationes temperaturae nullius momenti sunt
 1. не реагирующий
-indifferens, entis
+indifferens [entis]
 + растение, почти безразличное к содержанию в почве кальция planta calcio in solo incluso fere indifferens
 + мне это безразлично nihil pensi habeo [duco], mihi non pensi est
 
@@ -2712,7 +2715,7 @@ luxuriosus [a, um]
 безупречный impeccabilis [e]; irreprehensibilis [e]; irreprehensus [a, um]; tersus (auctor; opus); integer; perfectus [a, um]; indepravatus [a, um]; indelictus [a, um]
 
 безумец
-stultus [a, um]; stolidus [a, um]; desipiens [rtis]; fatuus [a, um]; insulsus [a, um]; excors, rdis; furens [ntis]; vesanus [a, um]; mente captus [a, um]; demens [ntis]
+stultus [a, um]; stolidus [a, um]; desipiens [rtis]; fatuus [a, um]; insulsus [a, um]; excors [rdis]; furens [ntis]; vesanus [a, um]; mente captus [a, um]; demens [ntis]
 + быть безумцем desipere; nihil sapere; delirare; insanire
 + Hoc homine nihil potest esse dementius.
 
@@ -2747,10 +2750,10 @@ frustra; improspere; in vanum; sine felicitate in rebus agendis; sine successu; 
 + в Британском музее я безуспешно искал этот вид in Museo Britannico hanc speciem frustra (in vanum) quaesivi.
 
 безуспешный
-irritus [a, um]; nullum successum habens [rtis]
+irritus [a, um]; nullum successum habens [ntis]
 
 безусый
-mystace carens [rtis]; sine mystace; imberbis [e]
+mystace carens [ntis]; sine mystace; imberbis [e]
 
 безучастно
 aequo animo
@@ -2806,7 +2809,7 @@ litterae [arum, fpl] elegantiores
 ochroleucus [a, um]
 
 беловатый
-albidus [a, um]; albicans, antis; exalbidus [a, um]
+albidus [a, um]; albicans [antis]; exalbidus [a, um]
 
 беловойлочный
 albo-tomentosus [a, um]
@@ -2867,7 +2870,7 @@ lintea [orum, npl]
 + надеть чистое белье indui lotis linteis
 
 бельмо
-hypochysis, is f; suffusio [onis, f] (oculorum), amaurosis [is, f]; gutta [ae, f] serena; leucoma [atis, n]
+hypochysis [is, f]; suffusio [onis, f] (oculorum), amaurosis [is, f]; gutta [ae, f] serena; leucoma [atis, n]
 
 белянка
 Agaricus [i, m] Glediscii
@@ -2919,10 +2922,10 @@ effovere [eo, -, -fotum] (carnem)
 cura [ae, f] rei familiaris; sumptus levamen [inis, n]; parcimonia [ae, f]; parsimonia [ae, f]
 
 бережливый
-parcus [a, um]; cautus [a, um]; providus [a, um]; circumspectus [a, um]; consideratus [a, um]; frugi [ind]
+parcus [a, um]; cautus [a, um]; providus [a, um]; circumspectus [a, um]; consideratus [a, um]; frugi [indecl.]
 
 бережный
-cautus [a, um], providus [a, um], circumspectus [a, um]
+cautus [a, um]; providus [a, um]; circumspectus [a, um]
 
 береза
 betula [ae, f]
@@ -3009,7 +3012,7 @@ integritas [atis, f]
 gratis; integre
 
 бескорыстный
-abstinens [ntis]; continens [ntis]; suae utilitatis immemor [oris]; ad suam utilitatem nihil referens [ntis]; propria commoda neglegens [ntis]; liberalis [e]; commodis suis non studens [ntis]; gratuitus [a, um]; integer, gra, grum
+abstinens [ntis]; continens [ntis]; suae utilitatis immemor [oris]; ad suam utilitatem nihil referens [ntis]; propria commoda neglegens [ntis]; liberalis [e]; commodis suis non studens [ntis]; gratuitus [a, um]; integer [gra, grum]
 + совершенно бескорыстно nulla utilitate quaesītā
 + бескорытный человек lucrifuga [ae, m]
 
@@ -3036,10 +3039,10 @@ amnesia [ae, f]; sopor [oris, m]
 incaute; dissolute
 
 беспечность
-incuria, ae. f; securitas [atis, f]; ignavia [ae, f]; socordia [ae, f]
+incuria [ae, f]; securitas [atis, f]; ignavia [ae, f]; socordia [ae, f]
 
 беспечный
-securus [a, um]; curae expers [rtis]; cura (curis) vacuus [a, um]; liber [era, -erum] cura; a sollicitudine remotus [a, um]
+securus [a, um]; curae expers [rtis]; cura (curis) vacuus [a, um]; liber [era, erum] cura; a sollicitudine remotus [a, um]
 + быть бспечным in utramque aurem dormire
 
 бесплатно
@@ -3055,7 +3058,7 @@ sterilis [e] (uxor; vacca); infecundus [a, um]; inutilis [e]; inanis [e]; vanus 
 + на совершенно бесплодных солончаках in salsis sterilissimis
 
 бесплотный
-incorporeus [a, um]; incorporalis [e]; corpore vacuus [a, um]; carens [ntis]; inanis, e, (umbra; pictura)
+incorporeus [a, um]; incorporalis [e]; corpore vacuus [a, um]; carens [ntis]; inanis [e] (umbra; pictura)
 
 бесповоротно
 modo irrevocabili
@@ -3093,7 +3096,7 @@ inutiliter; nequiquam; frustra; in cassum; in vanum; nullo commodo; (operam frus
 vanitas [atis, f]; inutilitas [atis, f]
 
 бесполезный
-inutilis [e]; frustraneus [a, um]; supervacaneus [a, um] (litterae; oratio) [a, um]; supervacuus [a, um] (praecepta dare scienti supervacuum est); superforaneus [a, um] (labor; superforaneum aliquid putare); infructuosus [a, um]; inanis [a, um]; vanus [a, um]; immunis [e] (fucus; facinus); ignavus [a, um] (nemus; mora); otiosus [a, um]; superfluus [a, um]; sterilis [e] (labor)
+inutilis [e]; frustraneus [a, um]; supervacaneus [a, um] (litterae; oratio); supervacuus [a, um] (praecepta dare scienti supervacuum est); superforaneus [a, um] (labor; superforaneum aliquid putare); infructuosus [a, um]; inanis [a, um]; vanus [a, um]; immunis [e] (fucus; facinus); ignavus [a, um] (nemus; mora); otiosus [a, um]; superfluus [a, um]; sterilis [e] (labor)
 + быть бесполезным nulli usui esse, nihil prodesse; nihil afferre ad aliquid
 + бесполезный труд labor irritus
 
@@ -3135,13 +3138,13 @@ immunis [e] portoriorum
 + торговать беспошлинно mercaturam facere, nullum portorium dantem (solventem)
 
 беспощадно
-immisericorditer; dure; duriter; atrociter
+pimmisericorditer; dure; duriter; atrociter
 
 беспощадноость
 crudelitas [atis, f]; severitas [atis, f]; aculeus [i, m]
 
 беспощадный
-impotunus [a, um] (tyrannus, hostis); superbus [a, um] (bellum); acer, acris, acre (judicium; accusator; existimator); atrox, ocis (orationis genus; stilus); crudus [a, um] (vir; ensis; bellum); vehemens [ntis] (accusator); trux, trucis (tribunus); inclemens [ntis]; severus [a, um]
+impotunus [a, um] (tyrannus, hostis); superbus [a, um] (bellum); acer [acris, acre] (judicium; accusator; existimator); atrox [ocis] (orationis genus; stilus); crudus [a, um] (vir; ensis; bellum); vehemens [ntis] (accusator); trux [trucis] (tribunus); inclemens [ntis]; severus [a, um]
 
 бесправие
 injuria [ae, f]
@@ -3191,7 +3194,7 @@ nequitia [ae, f] (nequitia ac turpitudo); nequities [ei, f]
 infirmitas [atis, f]; imbecillitas [atis, f]; virium defectus [us, m]; tenuitas [atis, f]; languor [oris, m]; adynamia [ae, f]; impotentia [ae, f]
 
 бессильный
-viribus carens [ntis]; infirmus [a, um]; impotens [ntis]; inops, inopis; languidus [a, um]; invalidus [a, um]; imbecillis [e]; ignavus [a, um] (homo; senectus); fractus [a, um]; imbellis [e]; mancus [a, um]
+viribus carens [ntis]; infirmus [a, um]; impotens [ntis]; inops [inopis]; languidus [a, um]; invalidus [a, um]; imbecillis [e]; ignavus [a, um] (homo; senectus); fractus [a, um]; imbellis [e]; mancus [a, um]
 + делаться бессильным vires amittere; languescere; vires deficiunt aliquem
 + У сильного всегда бессильный виноват. Facile est opprimere innocentem
 
@@ -3309,7 +3312,7 @@ vacuus [a, um] (praedia)
 см. бесхозный
 
 бесцветный
-decolor, oris; decoloratus [a, um]; achromaticus [a, um]; hyalinus [a, um]
+decolor [oris]; decoloratus [a, um]; achromaticus [a, um]; hyalinus [a, um]
 
 бесцельно
 in supervacaneum (tumultuari); frustra
@@ -3321,7 +3324,7 @@ inaestimabilis [e]
 inhumanitas [atis, f]
 
 бесчеловечный
-inhumanus [a, um]; ferus [a, um]; immisericors, rdis; durus [a, um]; ferreus [a, um]; atrox; barbarus [a, um]
+inhumanus [a, um]; ferus [a, um]; immisericors [rdis]; durus [a, um]; ferreus [a, um]; atrox; barbarus [a, um]
 
 бесчестие
 dedecus [dedecoris, n]; infamia [ae, f]; turpitudo [inis, f]; probrum [i, n]; contumelia [ae, f] (contumeliam alicui facere, dicere; jacere in aliquem); ignominia [ae, f]; stigma [atis, n]; macula [ae, f]; stuprum [i, n]
@@ -3345,7 +3348,7 @@ sine sensu
 + он бесчувственно пьян adeo inebriatus est, ut nihil sentiat
 
 бесчувственный
-crudus [a, um] (vir); hebes, hebetis; rigens [ntis]; surdus [a, um]; insensatus [a, um]
+crudus [a, um] (vir); hebes [hebetis]; rigens [ntis]; surdus [a, um]; insensatus [a, um]
 
 бесчувствие
 stupor [oris, m]; anaestesia [ae, f]
@@ -3508,7 +3511,7 @@ plenissime; totus plenus; totus refertus
 bitumen [inis, n]
 
 бить
-verberare [1] (aliquem pulsare verberareque); verberibus castigare [1]; caedere [o, cecidi, caesum] (aliquem pugnis; virgis; lapidem ferro); pellere [o, pepuli, pulsum] (aliquem); pulsare [1]; percutere, -io, -cussi, -cussum; afflictare [1]; affligere [o, -flixi, -flictum] (fusti caput); plagare [1] (aliquem); quatere (quatio, quassi, quassum); tundere, o, tutudi, tu(n)sum; obtundere; batuere [o, ui, -]; cudere [o, di, sum]; ferire [4]; impingere [o, pegi, pactum]; lacessere, lacessivi, lacessitum; mulcare [1]; flagellare [1]
+verberare [1] (aliquem pulsare verberareque); verberibus castigare [1]; caedere [o, cecidi, caesum] (aliquem pugnis; virgis; lapidem ferro); pellere [o, pepuli, pulsum] (aliquem); pulsare [1]; percutere [io, cussi, cussum]; afflictare [1]; affligere [o, flixi, flictum] (fusti caput); plagare [1] (aliquem); quatere (quatio, quassi, quassum); tundere [o, tutudi, tu(n)sum]; obtundere; batuere [o, ui, -]; cudere [o, di, sum]; ferire [4]; impingere [o, pegi, pactum]; lacessere, lacessivi, lacessitum; mulcare [1]; flagellare [1]
 + бить стекла vitrea frangere
 + град бьет в стекла grando fenestras ferit
 + бить в ладоши plausum dare; manibus plaudere
@@ -3559,7 +3562,7 @@ benevolentiam praestare [1] alicui, conferre [fero, tuli, latum] erga aliquem; f
 unguenta [orum, npl] (unguentis oblitus); odores [um, mpl]; aromata [um, npl] (n); myrrha [ae, f]
 
 благовонный
-aromaticus [a, um]; suaveolens, entis
+aromaticus [a, um]; suaveolens [entis]
 
 благовоспитанный
 urbanus [a, um] (homo)
@@ -3591,7 +3594,7 @@ gratia [ae, f]; grates [um, fpl]
 + требовать себе благодарности trahere gratiam sibi
 
 благодарный
-gratus [a, um]; memor, oris
+gratus [a, um]; memor [oris]
 
 благодаря
 beneficio; ob; propter
@@ -3604,13 +3607,13 @@ charisma [atis, n]; gratia [ae, f]
 prosperitas [atis, f]
 
 благоденствующий
-vigens, entis
+vigens [entis]
 
 благодетельный
 beneficus [a, um]; almus [a, um]; benignus [a, um]
 
 благодетельствовать
-иутуафсуку хшщб аусшб афсегьъж
+benefacere [io, feci, factum];
 
 благодеяние
 beneficium [ii, n]; venia [ae, f]
@@ -3645,7 +3648,7 @@ salus [utis, f]; felicitas [atis, f]; prosperitas [atis, f]
 recte; feliciter; prospere; beate; fauste; fortunatim
 
 благополучный
-salvus [a, um]; sospes, itis; prosper [era, erum]
+salvus [a, um]; sospes [itis]; prosper [era, erum]
 
 благопристойно
 honeste
@@ -3660,7 +3663,7 @@ pudens [ntis] (impudentiae suae exitum pudentem quaerere)
 prospere; benigne
 
 благоприятный
-faustus [a, um]; secundus [a, um]; dexter, tra, trum; auspicatus [a, um]; benignus [a, um]; prolixus [a, um]; opportunus [a, um]; prosper (prosperus) [a, um]; idoneus [a, um] (ad aliquid; alicui rei); tempestivus [a, um] (mare ad navigandum)
+faustus [a, um]; secundus [a, um]; dexter [tra, trum]; auspicatus [a, um]; benignus [a, um]; prolixus [a, um]; opportunus [a, um]; prosper (prosperus) [a, um]; idoneus [a, um] (ad aliquid; alicui rei); tempestivus [a, um] (mare ad navigandum)
 + благоприятные условия condiciones faustae
 + предоставить кому-л. благоприятный случай alicui suam occcasionem dare
 + дерево в благоприятных местах достигает 45 м высоты arbor locis opportunis 45 m attingit
@@ -3668,10 +3671,10 @@ faustus [a, um]; secundus [a, um]; dexter, tra, trum; auspicatus [a, um]; benign
 + благоприятный момент opportunitas
 
 благоприятствовать
-faveo, favi, fautum, favēre; secundare [1]; fovēre, eo, fovi, fotum; prosperare [1]; annuere, o, nui; addicere, o, dixi, dictum; afflare [1]; aspirare [1]; indulgēre, eo, lsi, ltum; expedire [4]; adjuvare, adjuvi, adjutum
+favēre [faveo, favi, fautum]; secundare [1]; fovēre [eo, fovi, fotum]; prosperare [1]; annuere [o, nui]; addicere [o, dixi, dictum]; afflare [1]; aspirare [1]; indulgēre [eo, lsi, ltum]; expedire [4]; adjuvare [adjuvi, adjutum]
 
 благоприятствующий
-favens, entis
+favens [entis]
 + условия, благоприятствующие развитию растений condiciones evolutioni plantarum faventes
 
 благоразумие
@@ -3721,15 +3724,15 @@ benevolus [a, um]; benevolens [ntis]; volens [ntis]; favens [ntis]; favorabilis 
 benedictus [a, um]
 
 благословить
-fausta, laeta ominari, precari; aspirare,secundare, fortunare; benedicere
+fausta, laeta ominari, precari; aspirare, secundare, fortunare; benedicere
 + Бог да благословит твои намерения tua coepta, consilia fortunet, secundet, prosperet Deus; coeptis tuis prosperos successus det, adsit, adspiret Deus
 
 благосостояние
 res [rerum, fpl] florentes; opulentia [ae, f]; felicitas [atis, f]; salus [utis, f]; incolumitas [atis, f]; status [us, m] (nullum statum habere)
 + быть благосостоятельным opulentum esse
-+ общее б-ие omnium salus
-+ заботиться о чьем-л. б-ии saluti alicujus servire
-+ наше б-ие на этом основывается salus nostra in eo consistit
++ общее благосостояние omnium salus
++ заботиться о чьем-л. благосостоянии saluti alicujus servire
++ наше благосостояние на этом основывается salus nostra in eo consistit
 
 благотворительность
 munificentia [ae, f]; beneficium [ii, n]; caritas (caritatis opera); philanthropia [ae, f]
@@ -3738,10 +3741,10 @@ munificentia [ae, f]; beneficium [ii, n]; caritas (caritatis opera); philanthrop
 beneficus [a, um]; beneficiarius [a, um]; caritativus [a, um]; philanthropicus [a, um]
 
 благотворный
-saluber, bris
+saluber [bris]
 
 благоустраивать
-bene ordinare [1], componere [o, posui, positum], disponere
+bene ordinare [1]; componere [o, posui, positum]; disponere
 
 благоустроенный
 compositus [a, um]
@@ -3757,19 +3760,19 @@ odoratus [a, um]; aromaticus [a, um]; beneolens [ntis]
 fragrare [1]
 
 благоухающий
-fragrans, antis
+fragrans [antis]
 
 благочестиво
 sancte; pie; religiose
 
 благочестивый
-pius [a, um], religiosus [a, um]; sanctus [a, um]
+pius [a, um]; religiosus [a, um]; sanctus [a, um]
 
 благочестие
 religio [onis, f]; sanctitas [atis, f]; pietas [atis, f]; devotio [onis, f]
 
 блаженный
-beatus [a, um] (vita); eudaemon, onis; divus [a, um]
+beatus [a, um] (vita); eudaemon [onis]; divus [a, um]
 + Острова Блаженных (обиталище душ павших в бою героев на крайнем западе) Insulae Beatorum
 
 блаженство
@@ -3804,7 +3807,7 @@ pallor [oris, m]
 + бледность покрыла его лицо pallor occupat (inficit) ora
 
 бледный
-pallidus [a, um]; dilutus [a, um]; hebes, etis; luridus [a, um]
+pallidus [a, um]; dilutus [a, um]; hebes [etis]; luridus [a, um]
 + Он был высокого роста, бледен и нестроен statura fuit eminenti, pallido colore, corpore enormi
 
 блеклый
@@ -3828,7 +3831,7 @@ nitens [ntis]; nitidus; splendens [ntis]; splendidus [a, um]; nitidulus [a, um];
 balare; miccire (о козе)
 
 ближайший
-proximus [a, um]; citerior, ius; primus [a, um] (dies)
+proximus [a, um]; citerior [ius]; primus [a, um] (dies)
 + ближайший путь через Альпы proximum iter per Alpes
 + ближайший путь к славе proxima via ad gloriam
 
@@ -3874,7 +3877,7 @@ adjacens [ntis]; prope jacens [ntis]
 gemini [orum, mpl]; gemelli [orum, mpl]
 
 близорукий
-myops, opis; oculis obtusis; obtusam oculorum aciem habens
+myops [opis]; oculis obtusis; obtusam oculorum aciem habens
 + быть близоруким non longe prospicere posse
 
 близорукость
@@ -3893,7 +3896,7 @@ illustris [e]; nitens [ntis]; candidus [a, um]; splendidus [a, um]
 superbire (radiis auri); splendēre; fulgēre; effulgēre; enitēre; renidēre; scintillare
 
 блок
-1. сторительный камень
+1. строительный камень
 lapis [idis, m] quadratus; quadra [ae, f]
 1. подъемный механизм
 trochlea [ae, f]; rechamus [i, m]; artemo [onis, m]
@@ -3903,10 +3906,10 @@ trochlea [ae, f]; rechamus [i, m]; artemo [onis, m]
 obsessio [onis, f], obsidio [onis, f]
 
 блокировать
-obsidere, eo, sedi, sessum; obsidione cingere [o, xi, ctum], claudere [o, si, sum]; inhibere [eo, ui, itum]
+obsidere [eo, sedi, sessum]; obsidione cingere [o, xi, ctum], claudere [o, si, sum]; inhibere [eo, ui, itum]
 
 блокнот
-commentariolum [i, n] (annotationum), libellus [i, m] memorialis, libellus [i, m] pugillaris; adversaria [orum, npl]; liber [bri, m] commentarius
+commentariolum [i, n] (annotationum); libellus [i, m] memorialis; libellus [i, m] pugillaris; adversaria [orum, npl]; liber [bri, m] commentarius
 
 блондин
 flavus [i, m]
@@ -4008,13 +4011,13 @@ hospitium [ii, n] pauperum; aedes [ium, fpl] recipiendis pauperibus et egentibus
 opulenter; large; opime
 
 богатство
-abundantia [ae, f] (ludorum; cenae); copia [ae, f]; divitiae [arum, fpl]; ubertas [atis, f]; opes [um, fpl]; opulentia [ae, f]; largitas [atis, f]; fortunae [arum, fpl]; gaza, ae f
+abundantia [ae, f] (ludorum; cenae); copia [ae, f]; divitiae [arum, fpl]; ubertas [atis, f]; opes [um, fpl]; opulentia [ae, f]; largitas [atis, f]; fortunae [arum, fpl]; gaza [ae, f]
 + наживать богатства rei quaerendi operam dare
 + национальное богатство римского государства Romani census populi
 + сенат для бедняков закрыт, лишь богатство дает почести curia pauperibus clausa est, dat census honores
 
 богатый
-abundans [ntis] (frumento et pecoribus; homo); dives, divitis; ditis [e]; dotatus [a, um]; uber [era, erum]; luxurians [ntis]; magnificus [a, um]; opibus praeditus [a, um]; opulentus [a, um]; locuples, etis; pecuniosus [a, um], bene nummatus [a, um], argento copiosus [a, um]; opulentus [a, um]; copiosus [a, um]; beatus [a, um] (civitas); felix, icis; fortunatus [a, um]; amplus [a, um]; pretiosus [a, um]; pollens [ntis] (matrona); instructus [a, um] (copiis); frequens [ntis] (frequens piscibus; terra frequens colubris)
+abundans [ntis] (frumento et pecoribus; homo); dives [divitis]; ditis [e]; dotatus [a, um]; uber [era, erum]; luxurians [ntis]; magnificus [a, um]; opibus praeditus [a, um]; opulentus [a, um]; locuples [etis]; pecuniosus [a, um]; bene nummatus [a, um]; argento copiosus [a, um]; opulentus [a, um]; copiosus [a, um]; beatus [a, um] (civitas); felix [icis]; fortunatus [a, um]; amplus [a, um]; pretiosus [a, um]; pollens [ntis] (matrona); instructus [a, um] (copiis); frequens [ntis] (frequens piscibus; terra frequens colubris)
 + быть богатым ex magno tollere acervo
 + быть богатым и все потерять habuisse et nihil habere
 + человек не слишком богатый homo non beatissimus
@@ -4072,10 +4075,10 @@ vigilare [1] (ad multam noctem; usque ad lucem; de nocte; dies noctesque); excub
 + бодрствовать всю ночь vigilem noctem capessere
 
 бодрствующий
-vigil, is; vigilans [ntis]; insomnis [e]
+vigil [is]; vigilans [ntis]; insomnis [e]
 
 бодрый
-strenuus [a, um] (vir fortis ac strenuus); bellus [a, um]; vegetus [a, um]; vividus [a, um]; alcer, cris, cre; crudus [a, um] (senectus); viridis [e] (senectus; aetas); animosus [a, um] (senectus)
+strenuus [a, um] (vir fortis ac strenuus); bellus [a, um]; vegetus [a, um]; vividus [a, um]; alcer [cris, cre]; crudus [a, um] (senectus); viridis [e] (senectus; aetas); animosus [a, um] (senectus)
 + я становлюсь бодрее animus mihi accedit
 + усталые сражались со свежими и бодрыми fessi cum recentibus ac vegetis pugnabant
 + бодрый встает (просыпается) для очередных занятий vegetus praescripta ad munia surgit
@@ -4177,7 +4180,7 @@ magis; amplius; plus
 aegre; dolenter
 
 болезненный
-causarius [a, um] (corpus); vitiosus [a, um] (corpus; libido); dolorosus [a, um]; aeger, gra, grum
+causarius [a, um] (corpus); vitiosus [a, um] (corpus; libido); dolorosus [a, um]; aeger [gra, grum]
 
 болезнетворный
 pathogenus [a, um]; morbifer [era, erum]
@@ -4207,13 +4210,13 @@ analgeticus [a, um]; anodynus [a, um]; narcoticus [a, um]
 + болеутоляющие средства remedia analgetica
 
 болотистый
-paludosus [a, um]; paludinosus [a, um]; paluster, tris, tre
+paludosus [a, um]; paludinosus [a, um]; paluster [tris, tre]
 + болотистые луга prata paludosa
 + болотистая тундра tundra paludosa
 + болотистые места loca paludosa
 
 болотный
-paludosus [a, um]; paluster, tris, tre; palustris
+paludosus [a, um]; paluster [tris, tre]; palustris
 
 болото
 palus [udis, f]; stagnum [i, n]; lacuna [ae, f]
@@ -4234,7 +4237,7 @@ fabulari (cum aliquo; alicui; inter se); fabulare [1]; sermocinari; argutare [1]
 multiloquium [ii, n]; loquacitas [atis, f]; garrulitas [atis, f]; abundantia [ae, f] loquendi; verbositas [atis, f]
 
 болтливый
-multiloquus [a, um], loquax, acis; garrulus [a, um], largiloquus [a, um], dicax [acis]; dicaculus [a, um]; verbosus [a, um]
+multiloquus [a, um], loquax [acis]; garrulus [a, um], largiloquus [a, um], dicax [acis]; dicaculus [a, um]; verbosus [a, um]
 
 болтовня
 garritus [us, m]; verborum caterva [ae, f]
@@ -4278,7 +4281,7 @@ plus; magis; amplius; super; supra
 Bolsevicus [i, m]
 
 больший
-major, majus; auctior, ius
+major, majus; auctior [ius]
 + большей частью plerumque
 + самое большее ad summum
 
@@ -4323,7 +4326,7 @@ borum [i, n] (B)
 pinetum [i, n] (сосновый); silva [ae, f] pinica
 
 бордовый
-vinosus [a, um]; vinicolor, oris
+vinosus [a, um]; vinicolor [oris]
 
 Бордосский
 Burdigalensis [e]
@@ -4398,7 +4401,7 @@ occa [ae, f]; irpex [icis, m]; crates [is, f] dentata; pecten [inis, n]
 (de)occare [1]
 
 бороться
-bello petere [o, ivi, itum], aggredi [ior, aggressus sum]; luctari; certare [1]; dimicare [1]; contendere, o, tendi, tentum; obviare [1] (vermibus); decernere [o, crevi, cretum] (pugnam; equestri proelio); stare [sto, steti statum] contra, adversus, in aliquem; confligere [o, xi, ctum]; conflictare [1]; proeliari
+bello petere [o, ivi, itum], aggredi [ior, aggressus sum]; luctari; certare [1]; dimicare [1]; contendere [o, tendi, tentum]; obviare [1] (vermibus); decernere [o, crevi, cretum] (pugnam; equestri proelio); stare [sto, steti statum] contra, adversus, in aliquem; confligere [o, xi, ctum]; conflictare [1]; proeliari
 + бороться со страстями cupiditates frangere, comprimere
 + бороться с волнами cum fluctibus luctari, dimicare
 + бороться с нуждой и несчастьем cum inopia et adversa fortuna conflictari
@@ -4419,7 +4422,7 @@ certatio [onis, f]; concertatio [onis, f]; lucta [ae, f]; luctatio [onis, f], ce
 excalceatus [a, um]; discalceatus [a, um]; nudis pedibus, pedibus intectis incedere
 
 босой
-nudipes, -pedis
+nudipes [pedis]
 
 босоногий
 см. босой
@@ -4494,7 +4497,7 @@ timor [oris, m]; metus [us, m]; terror [oris, m]
 crataegus [i, f] monogyna rubra; tuber [eris, f (кустарник) / m (плод)] 
 
 бояться
-metuere [uo, ui, -] (de aliqua re, de aliquo; alicui rei, alicui; pro aliquo; ab aliquo/aliquem,aliquid); timēre [eo, ui, -] (aliquem, aliquid; de aliqua re); in metu, timore esse [sum, fui, -]; metu affectum esse; metum habere [eo, ui, itum]; habere timorem; extimescere [extimesco, timui, -]; pertimescere; vereri [vereor, veritus sum] (aliquem; aliquid; alicujus rei); formidare [1]; reformidare [1]; horrēre [eo, ui, -]; trepidare [1] (aliquā re; aliquid; facere aliquid); tremere [o, ui, itum]; abominari, abominor, abominatus sum; pavescere [pavesco, -, -] (aliquid); pavēre [paveo, pavi, -] (aliqua re, ad aliquid, aliquid)
+metuere [uo, ui, -] (de aliqua re, de aliquo; alicui rei, alicui; pro aliquo; ab aliquo/aliquem/aliquid); timēre [eo, ui, -] (aliquem, aliquid; de aliqua re); in metu, timore esse [sum, fui, -]; metu affectum esse; metum habere [eo, ui, itum]; habere timorem; extimescere [extimesco, timui, -]; pertimescere; vereri [vereor, veritus sum] (aliquem; aliquid; alicujus rei); formidare [1]; reformidare [1]; horrēre [eo, ui, -]; trepidare [1] (aliquā re; aliquid; facere aliquid); tremere [o, ui, itum]; abominari, abominor, abominatus sum; pavescere [pavesco, -, -] (aliquid); pavēre [paveo, pavi, -] (aliqua re, ad aliquid, aliquid)
 + бояться кого-л. pavēre aliquem
 + бояться за кого-л., за что-л. timēre (alicui, alicui rei); pavēre alicui
 + бояться чего-л. с чьей-л. стороны timere aliquid ab aliquo
@@ -4542,7 +4545,7 @@ quisquiliae [arum, fpl]; rejecula [orum, npl]; merces [ium, fpl] rejeculae
 см. браковка
 
 браковать
-seligere, o, lexi, lectum; eximere [o, emi, emptum]; excerpere [o, psi, ptum]; improbare [1], rejicere [io, jeci, jectum]
+seligere [o, lexi, lectum]; eximere [o, emi, emptum]; excerpere [o, psi, ptum]; improbare [1], rejicere [io, jeci, jectum]
 
 браковка
 selectio [onis, f]; rejectio [onis, f]
@@ -4725,7 +4728,7 @@ novacula [ae, f]; culter [tri, m] tonsorius; culter tonsoris; rasorium [ii, n]
 rasus [a, um]; abrasus [a, um]
 
 брить
-barbam alicujus tondere [eo, totondi, tonsum], radere, o, rasi, rasum; abradere
+tondere [eo, totondi, tonsum] (barbam alicujus); radere [o, rasi, rasum]; abradere
 + бриться barbam sibi demere; tonderi; operam dare tonsori; radi; abradi; barbam radere
 
 бритье
@@ -4747,7 +4750,7 @@ fermentativus [a, um]
 1. ходить
 ultro et citro cursare [1]; discursare; vagari; pervagari; errare [1]; pererrare; palari otiosum ambulare [1] (tunicis demissis)
 2. о пиве и т.п.
-fermentari, fermentescere
+fermentari; fermentescere
 
 бродяга
 erro [onis, m]; homo erraticus; grassator [oris, m] (nocturnus); balatro [onis, m]; planus [i, n]; larifuga [ae, m]; vagus [i, m]
@@ -4812,7 +4815,7 @@ linquere; relinquere
 + быть брошенным на растерзание зверям subjici bestiis
 
 броситься
-petere [o, ivi, itum]; se abjicere, io, -jeci, -jectum; se projicere; ruere [o, rui, rutum]; irruere; se proripere, io, ui, reptum; prorumpere, o, -rupi, -ruptum; incursare [1] (in hostem; in aciem; in aliquem, aliquem); insilire, io, ui, -sultum
+petere [o, ivi, itum]; se abjicere [io, jeci, jectum]; se projicere; ruere [o, rui, rutum]; irruere; se proripere [io, ui, reptum]; prorumpere [o, rupi, ruptum]; incursare [1] (in hostem; in aciem; in aliquem, aliquem); insilire [io, ui, sultum]
 + броситься на траву in herbam se abjicere
 + броситься на колени ad alicujus genua procumbere, se advolvere; ad pedes alicujus se abjicere
 + броситься кому на шею invadere in collum alicujus
@@ -4853,7 +4856,7 @@ pluteus [i, m]; lorica [ae, f]
 (спорт.) hastae [arum, fpl] parallelae
 
 брызгать
-spargere, o, sparsi, sparsum; adspergere, conspergere; emicare [1]; salire [io, salui, saltum, 4]
+spargere [o, sparsi, sparsum]; adspergere, conspergere; emicare [1]; salire [io, salui, saltum, 4]
 + кровь брызнула из раны sanguis emicuit, prosiluit e vulnere
 + идя по грязи весь забрузгался inter eundum penitus me conspersi luto
 
@@ -4861,7 +4864,7 @@ spargere, o, sparsi, sparsum; adspergere, conspergere; emicare [1]; salire [io, 
 (воды) guttulae [arum, f]; (грязи) aspergo [inis, f]; respersus [us, m]
 
 брыкаться
-calces remittere [o, -misi, -mittum], calcibus petere [o, ivi, itum]; calcitrare [1]
+calces remittere [o, misi, mittum], calcibus petere [o, ivi, itum]; calcitrare [1]
 
 брыкливый
 calcitrosus [a, um]
@@ -4942,7 +4945,7 @@ futurum [i, n]; veniens aetas [atis, f]; ventura [orum, npl]
 + в будущем porro; ulterius
 
 будущий
-futurus [a, um]; posterus [a, um]; venturus [a, um]; reliquus [a, um]; ulterior, ius
+futurus [a, um]; posterus [a, um]; venturus [a, um]; reliquus [a, um]; ulterior [ius]
 + в будущем году anno proximo
 + забота о будущем годе cura venientis anni
 
@@ -5281,7 +5284,7 @@ ut; utinam; si
 peritus [a, um]; gnarus [a, um]; sciens [ntis], intelligens alicujus rei; exercitatus [a, um]
 
 бывать
-fieri [fio, factus sum], accidere, o, cidi, -; evenire [io, veni, ventum] (quod plerumque evĕnit; persaepe evenit, ut…); versari; frequentare [1] (domum alicujus; aliquem; quae loca et nations minus frequentata sunt)
+fieri [fio, factus sum], accidere [o, cidi, -]; evenire [io, veni, ventum] (quod plerumque evĕnit; persaepe evenit, ut…); versari; frequentare [1] (domum alicujus; aliquem; quae loca et nations minus frequentata sunt)
 + это иногда бывает hoc interdum fit; incidunt causae
 + бывать часто на играх ludos frequentare
 + бывать у кого часто frequentare domum alicujus
@@ -5324,7 +5327,7 @@ celeriter (rapide) fluens [ntis]; rapidus [a, um]; volubilis [e] (aetas)
 strenuus [a, um] (navis); celer [era, erum] (navis; puppis)
 
 быстрый
-celer [era, erum] (fuga; pedes); rapidus [a, um]; velox [cis] (juvenis; navis; jaculum; animus); mobilis [e]; volatilis; volucer, cris, cre; alatus [a, um]; citus [a, um] (sermo); citatus [a, um]; incitatus [a, um]; concitatus [a, um]; strenuus [a, um] (mors); admissus [a, um] (aquae; rota)
+celer [era, erum] (fuga; pedes); rapidus [a, um]; velox [cis] (juvenis; navis; jaculum; animus); mobilis [e]; volatilis; volucer [cris, cre]; alatus [a, um]; citus [a, um] (sermo); citatus [a, um]; incitatus [a, um]; concitatus [a, um]; strenuus [a, um] (mors); admissus [a, um] (aquae; rota)
 + в быстром горном ручье in rivulo montano rapido
 + быстрым шагом admisso passu
 + молва, бедствие, быстрее которого нет ничего fama, malum quā non aliud velocius ullum
@@ -5424,7 +5427,7 @@ mensa [ae, f] scriptoria; officina [ae, f]; officium [ii, n]; scriptorium [ii, n
 + туристическое бюро sedes periegetica
 
 бюрократ
-grapheocrates (grapheocrata), ae f
+grapheocrates (grapheocrata) [ae, f]
 
 бюрократический
 grapheocraticus [a, um]
@@ -5528,13 +5531,13 @@ currus [us, m] (ferriviarius)
 + спальный вагон currus dormitories / cubitorius
 
 важнейший
-gravissimus [a, um]; potior, ius; potissimus [a, um]; summus [a, um]; maximae dignitatis; parecipuus [a, um]; maximi valoris
+gravissimus [a, um]; potior [ius]; potissimus [a, um]; summus [a, um]; maximae dignitatis; parecipuus [a, um]; maximi valoris
 + в этом сочинении приводятся все русские авторы и важнейшие из иностранных in opere hoc auctores rossici omnes, extraneorum autem gravissimi citantur
 + объяснение важнейших условных обозначений explicatio siglorum potiorum (praecipuorum)
 + важнейшие признаки characteres maximae dignitatis
 
 важничать
-se ostentare [1]; se efferre, o, extuli, elatum; se jactare [1]; magnifice se inferre; incedere, o, ssi, ssum; videri sibi esse quantivis pretii; volitare [1] (ut rex); intumescere, o, -tumui, -
+se ostentare [1]; se efferre [o, extuli, elatum]; se jactare [1]; magnifice se inferre; incedere [o, ssi, ssum]; videri sibi esse quantivis pretii; volitare [1] (ut rex); intumescere [o, tumui, -]
 
 важность
 vis [is, f] (et loci et temporis); gravitas [atis, f]; significatio [onis, f]; momentum [i, n]; gravitas [atis, f]; pondus [eris, n]; magnitudo [inis, f]
@@ -5727,7 +5730,7 @@ varicosus [a, um]
 + варикозное вздутие varix [icis, f/m]
 
 варить
-coquere, o, coxi, coctum (pulmentarium; cibum; cenam); concoquere; coquinare [1]; domare [o, ui, itum] (aliquid ferventibus undis)
+coquere [o, coxi, coctum] (pulmentarium; cibum; cenam); concoquere; coquinare [1]; domare [o, ui, itum] (aliquid ferventibus undis)
 + варить пищу cibos coquere
 + варить в молоке in lacte coquere
 + варить лекарства medicamenta coquere
@@ -5802,13 +5805,13 @@ sculptor [oris, m]; factor [oris, m]
 sculpere [o, psi, ptum]
 
 вбивать
-infigere, o, fixi, fictum; defigere aliquid in rem; figere; adigere [o, egi, actum] (aliquid rei); pangere, o, pepigi [panxi, pegi], pa(n)ctum
+infigere [o, fixi, fictum]; defigere aliquid in rem; figere; adigere [o, egi, actum] (aliquid rei); pangere [o, pepigi/panxi/pegi, pa(n)ctum]
 + вбивать сваи sublicas agere
 + вбивать кому что в голову inculcare; alterius in mentem inducere
 + побоями вбивать verberibus inculcare
 
 вбирать
-haurire, io, hausi, haustum
+haurire [io, hausi, haustum]
 
 вбить
 см. вбивать
@@ -5835,7 +5838,7 @@ invectus [a, um]
 + ввезенные растения plantae invectae
 
 ввезти
-invehere, o, vexi, vectum
+invehere [o, vexi, vectum]
 
 ввергать
 impellere [o, puli, pulsum]
@@ -5906,7 +5909,7 @@ bini [ae, a]; duo, ae, o
 bis; duplo; dupliciter
 
 вдевать
-implicare, o, ui (avi), itum (atum)
+implicare [o, ui/avi, itum/atum]
 + вдевать нитку в иголку filum in acum inserere
 
 вдесятеро
@@ -6009,7 +6012,7 @@ vegetativus [a, um]; terra genitus / natus
 vegetatio [onis, f]; germinatio [onis, f]
 
 ведать
-administrare [1]; gerere [o, gessi, gestum]; praesidēre, eo, sedi, sessum (alicui rei, aliquid)
+administrare [1]; gerere [o, gessi, gestum]; praesidēre [eo, sedi, sessum] (alicui rei, aliquid)
 + ведать городскими делами praesidere rebus urbanis
 + без ведома автора auctore inscio
 + без моего ведома me inscio
@@ -6113,7 +6116,7 @@ vector [oris, m]
 grandiloquus [a, um]
 
 велеть
-imperare [1]; jubere, eo, jussi, jussum (aliquem; aliquem aliquid facere; alicui); praecipere [io, cepi, ceptum]; praedicere, o, dixi, dictum; edicere; sciscere, o, scivi, scitum; sancire, io, sanxi, sanctum (sancitum); mandare [1]; concedere [o, cessi, cessum]; permittere [o, misi, missum]; libertatem alicui concedere; alicui alicujus rei potestatem, facultatem dare
+imperare [1]; jubere [eo, jussi, jussum] (aliquem; aliquem aliquid facere; alicui); praecipere [io, cepi, ceptum]; praedicere [o, dixi, dictum]; edicere; sciscere [o, scivi, scitum]; sancire [io, sanxi, sanctum/sancitum]; mandare [1]; concedere [o, cessi, cessum]; permittere [o, misi, missum]; libertatem alicui concedere; alicui alicujus rei potestatem, facultatem dare
 + велеть сказать кому-л. что-л. mandare aliquid ad aliquem
 + велеть дать ей пить jubere dare ei bibere
 + велеть по договору прислать корабли ex foedere naves alicui imperare
@@ -6215,7 +6218,7 @@ venosus [a, um]
 + венозная кровь sanguis venosus
 
 венок
-corona [ae, f]; corollarium [ii, n]; sertum [i, n]; torquis, is (m,f) (aras totquibus ornare)
+corona [ae, f]; corollarium [ii, n]; sertum [i, n]; torquis [is, m/f] (aras totquibus ornare)
 + венок из дубовых листьев torta quercus
 + возложение венков coronatio
 
@@ -6295,7 +6298,7 @@ fusus [i, m]; colus [i (us), f (m)]
 longurio [onis, m]
 
 верить
-fidere, o, fisus sum; credere [o, didi, ditum] (aut credere, aut parum probatum opinari; potissimum Thucydidi credo; alicui aliquid [de re aliqua]; credere hoc esse factum); confidere; fidem habere [eo, ui, itum] (adjungere [o, xi, ctum], ferre [fero, tuli, latum], tribuere [uo, ui,utum])
+fidere, o, fisus sum; credere [o, didi, ditum] (aut credere, aut parum probatum opinari; potissimum Thucydidi credo; alicui aliquid [de re aliqua]; credere hoc esse factum); confidere; fidem habere [eo, ui, itum] (adjungere [o, xi, ctum], ferre [fero, tuli, latum], tribuere [uo, ui, utum])
 + люди охотно верят тому, чего они желают libenter homines id, quod volunt, credunt
 + мне верят credor; creditur mihi
 + Кассандра, которой тевкры никогда не верили Cassandra non unquam credita Teucris
@@ -6436,7 +6439,7 @@ pars [partis, f] suprema; pars summa; apex [icis, m]; pars superior; superficies
 + (общественные) верхи и низы summi et infimi
 
 верхний
-superus [a, um] (limen); supernus [a, um] (pars); superior, ius; summus [a, um] (jugum montis); supremus [a, um]
+superus [a, um] (limen); supernus [a, um] (pars); superior [ius]; summus [a, um] (jugum montis); supremus [a, um]
 + верхняя граница limes (terminus) superior
 + верхняя поверхность листа pagina superior folii
 + в верхней половине in dimidio superiore
@@ -6462,7 +6465,7 @@ summus [a, um]; supremus [a, um]
 + верховный начальник summus dux; penes quem est omnium summa rerum
 
 верховой
-eques, itis
+eques [itis]
 
 верховье
 fontes [ium, mpl]; origo [inis, f] fluminis
@@ -7294,7 +7297,7 @@ accusare [1], incusare [1]; culpare [1] (aliquem in re); crimini dare [1]; crimi
 + винить в излишней строгости aliquem durum insimulare
 
 винно-красный
-vinicolor, is; vinosus [a, um]
+vinicolor [is]; vinosus [a, um]
 
 винный
 vinosus [a, um]; vinarius [a, um]; vinalis [e]
@@ -8281,7 +8284,7 @@ vociferari [or, atus sum] (palam; de aliqua re; talia; comoedus sermocinatur, tr
 sublatus [atis, f] (hāc victoriā; rebus secundis); superbus [atis, f]; superbiens [ntis]
 
 возгордиться
-sumere [o, psi, ptum] superbiam; alte tumescere, o, tumui, -; magnos spiritus sibi sumere
+sumere [o, psi, ptum] superbiam; alte tumescere [o, tumui, -]; magnos spiritus sibi sumere
 
 воздавать
 tribuere [o, ui, utum] (suum cuique; alicui honorem); compensare [1]; reddere [o, didi, ditum]; persolvere [o, ui, utum]
@@ -8330,7 +8333,7 @@ continenter; temperanter
 temperantia [ae, f]
 
 воздерживаться
-abstinere [eo, ui, tentum]; se abjungere [o, xi, ctum] (ab aliqua re); temperare [1] (ab injuria); se sustinere ab aliqua re; supersedēre, eo, sedi, sessum (aliquid facere)
+abstinere [eo, ui, tentum]; se abjungere [o, xi, ctum] (ab aliqua re); temperare [1] (ab injuria); se sustinere ab aliqua re; supersedēre [eo, sedi, sessum] (aliquid facere)
 + при сомнении воздержись in dubio abstine
 
 воздеть
@@ -8546,7 +8549,7 @@ bellicus [a, um] (virtus); stratioticus [a, um]; militaris [e]; Martius [a, um];
 + воинская присяга sacramentum
 
 воинственный
-bellicosus [a, um]; bellator, oris; bellax [cis]; ferox [cis] (bello, ad bellandum); pugnax [cis]; Martius [a, um]; armifer [era, erum]
+bellicosus [a, um]; bellator [oris]; bellax [cis]; ferox [cis] (bello, ad bellandum); pugnax [cis]; Martius [a, um]; armifer [era, erum]
 
 воительница
 bellatrix [icis, f]
@@ -8819,7 +8822,7 @@ problema [atis, n]; quaestio [onis, f]; quaesitum [i, n]; rogatio [onis, f]; int
 + принимать решения по важнейшим вопросам de summis rebus consilium capere
 + спорный вопрос quaestio disputabilis
 + быть под вопросом dubium esse
-+ весь вопрос в том, что omnis res in eo versatur,quod…
++ весь вопрос в том, что omnis res in eo versatur, quod…
 + остаться под вопросом dubium remanere
 + поставить под вопрос dubitare
 + задавать глупые вопросы percontari absurde quaedam
@@ -8912,7 +8915,7 @@ duodeviginti
 восемь
 octo
 + в восемь раз octuplo
-+ по восемь octoni,ae,a
++ по восемь octoni [ae, a]
 + восемь раз octies
 
 восемьдесят
@@ -8933,7 +8936,7 @@ clamare [1]; exclamare [1]; vociferari
 cereus [a, um]; cerosus [a, um]; ceratus [a, um]
 
 воскресать
-resurgere,o, rrexi, rrectum; revivere [o, xi, ctum]
+resurgere [o, rrexi, rrectum]; revivere [o, xi, ctum]
 
 воскресение
 suscitatio [onis, f]; surrectio [onis, f]; resurrectio [onis, f]
@@ -9012,7 +9015,7 @@ repraesentatio [onis, f]; reproductio [onis, f]
 + половое воспроизведение reproductio sexualis
 
 воспроизводить
-repraesentare [1]; simulare [1] (cupressum; vultum alicujus); subsequi, or, cutus sum (hos motus); procreare [1]; reproducere [o, xi, ctum]; effigiare [1]
+repraesentare [1]; simulare [1] (cupressum; vultum alicujus); subsequi [or, cutus sum] (hos motus); procreare [1]; reproducere [o, xi, ctum]; effigiare [1]
 + в этом труде воспроизводятся автографы многих великих ботаников in opere hoc autographa multorum botanicorum celeberrimorum repraesentantur
 
 воспылать
@@ -9030,7 +9033,7 @@ recuperare [1] (vires cibo); vindicare [1] (antiquam faciem); supplere [eo, evi,
 + восстановлением пропущенных слов восполнить текст praeteritis verbis scriptum supplere, restituere
 
 восстанавливаться
-suboriri,ior, ortus sum (materiae ex infinito suboritur copia; opulentia tot saeculis suboriens); redire [eo, ii, itum]; resurgere, o, rrexi, rrectum
+suboriri [ior, ortus sum] (materiae ex infinito suboritur copia; opulentia tot saeculis suboriens); redire [eo, ii, itum]; resurgere [o, rrexi, rrectum]
 
 восстание
 rebellio [onis, f]; tumultus [us, m]
@@ -9049,7 +9052,7 @@ reductio [onis, f]
 + восстановление здоровья resumptio
 
 восток
-oriens [ntis, m]; ortus [us, m]; Eos (indecl.); Eous
+oriens [ntis, m]; ortus [us, m]; Eos [indecl.]; Eous
 + Дальний Восток Oriens Extremus
 + обращенный к востоку ad orientem versus
 + в 5 км к востоку от города Львова 5 km ad orientem ab oppido Leopoli
@@ -9150,7 +9153,7 @@ ceratus [a, um]
 + вощеная бумага charta cerata
 
 впадать
-influere [o, xi, ctum]; incidere, o, cidi, - (amnis incidit flumini); decidere; delabi; transire (Mosa in Oceănum transit); incurrere, o, cucurri, cursum
+influere [o, xi, ctum]; incidere [o, cidi, -] (amnis incidit flumini); decidere; delabi; transire (Mosa in Oceănum transit); incurrere, o, cucurri, cursum
 + речка Мойка, которая впадает в Неву amniculus Moica, qui in Nevam influit
 + Волга впадает в Каспийское море Volga se effundit (effunditur) in mare Caspium
 + река впадает в море fluvius accipitur mari
@@ -9236,7 +9239,7 @@ in posterum; in reliquum; amodo; porro; postea; posthac
 subsultim (decurrere); assultim
 
 впрочем
-ceteroquin; ceterum; quidem; tamen;vero; verum; verumtamen; tamen; quamquam; alioqui; etsi; sed
+ceteroquin; ceterum; quidem; tamen; vero; verum; verumtamen; tamen; quamquam; alioqui; etsi; sed
 
 впрыскивание
 injectio [onis, f]
@@ -10133,7 +10136,7 @@ vincere, o, vici, victum (quinquaginta milia); proficere [io, feci, fectum]; luc
 victoria [ae, f]; lucrum [i, n]
 
 выискивать
-aucupari [or, atus sum] (errores hominum); exsequi, or, cutus sum (aliquid cogitando, quaerendo, sciscitando); exquirere, o [sivi, situm]
+aucupari [or, atus sum] (errores hominum); exsequi [or, cutus sum] (aliquid cogitando, quaerendo, sciscitando); exquirere, o [sivi, situm]
 
 выказывать
 expromere, o, prompsi, promptum; ostendere [o, ndi, nsum]; patefacere [io, feci, factum]
@@ -10370,7 +10373,7 @@ prorepere, proripio, repsi, reptum [1]
 fides [ei, f] (dictis addere fidem; verba [dicta] sequitur fides)
 
 выполнять
-fungi, fungor, functus sum (aliqua re; aliquam rem); adimplere [eo, evi, etum] (fidem); exsequi, or, cutus sum (officia, munera, mandata; jussa); persequi; facere [io, feci, factum] (promissa, imperata); conficere [io, feci, fectum]; perficere; consummare [1]; observare [1]; absolvere, o, solvi, solutum; peragere [o, egi, actum]; usurpare [1] (officium); sustinere [eo, ui, tentum]; (о компьютерной программе) patrare [1]
+fungi, fungor, functus sum (aliqua re; aliquam rem); adimplere [eo, evi, etum] (fidem); exsequi [or, cutus sum] (officia, munera, mandata; jussa); persequi; facere [io, feci, factum] (promissa, imperata); conficere [io, feci, fectum]; perficere; consummare [1]; observare [1]; absolvere, o, solvi, solutum; peragere [o, egi, actum]; usurpare [1] (officium); sustinere [eo, ui, tentum]; (о компьютерной программе) patrare [1]
 + разве это называется выполнить обещания en haec promissa fides est?
 
 выпрашивать
@@ -10425,7 +10428,7 @@ exprimere [o, pressi, pressum]; tribuere [o, ui, utum] (gratiam); (ex)promere [o
 + выражать словами exprimere (verbis)
 
 выражаться
-loqui, or, cutus sum; dicere [o, xi, ctum]; sensa exprimere, o, pressi, pressi
+loqui [or, cutus sum]; dicere [o, xi, ctum]; sensa exprimere, o, pressi, pressi
 + как принято выражаться ut consuetudo loquitur
 
 выражение
@@ -10512,10 +10515,10 @@ se abrumpere (latrocinio); eripi
 plantare [1]; exponere [o, sui, situm]
 
 высаживаться
-egredi, ior, egrssus sum; exire [4]; escendere [o, ndi, nsum]
+egredi [ior, egressus sum]; exire [4]; escendere [o, ndi, nsum]
 
 высасывать
-exsugere, o, xi,ctum; siccare [1]
+exsugere [o, xi, ctum]; siccare [1]
 
 высвелить
 terebrare [1] (foramen)
@@ -10524,11 +10527,11 @@ terebrare [1] (foramen)
 satio [onis, f]
 
 высевать
-seminare [1]; serere, o, sevi, satum
+seminare [1]; serere [o, sevi, satum]
 + растение следует высевать ранней весной planta primo vere serenda est
 
 высекать
-sculpere [o, psi, ptum]; excudere, o, cudi, cusum; (высечь розгами) concidere, o, cisi, cisum; caedere [o, si, sum]; verberare [1]
+sculpere [o, psi, ptum]; excudere [o, cudi, cusum]; (высечь розгами) concidere [o, cisi, cisum]; caedere [o, si, sum]; verberare [1]
 
 выселение
 submigratio [onis, f]
@@ -10537,7 +10540,7 @@ submigratio [onis, f]
 demigrare [1]
 
 высказать
-ostendere [o, ndi, nsum] (alicui sententiam suam); eloqui, or, cutus sum; exponere [o, sui, situm]; promere [o, psi, ptum]; edicere [o, xi, ctum]; proferre [fero, tuli, latum]; enuntiare [1]; perhibēre [eo, ui, itum]
+ostendere [o, ndi, nsum] (alicui sententiam suam); eloqui [or, cutus sum]; exponere [o, sui, situm]; promere [o, psi, ptum]; edicere [o, xi, ctum]; proferre [fero, tuli, latum]; enuntiare [1]; perhibēre [eo, ui, itum]
 + высказать мнение censēre; sentire
 
 высказывание
@@ -10553,7 +10556,7 @@ effluere [o, xi, ctum]; elabi, or, elapsus sum
 homo [inis, m] novus
 
 выслеживать
-aucupare [1] (ex insidiis); aucupari; indagare [1]; pervestigare [1]; obsidēre, eo, sedi, sessum
+aucupare [1] (ex insidiis); aucupari; indagare [1]; pervestigare [1]; obsidēre [eo, sedi, sessum]
 
 выслужить
 emerēre [eo, ui, itum]
@@ -10766,7 +10769,7 @@ excipere [io, cepi, ceptum] (aliquem e mari); trahere [o, xi, ctum] (ex puteis a
 + вытащить что-л. на свет extrahere aliquid in lucem
 
 вытекать
-effluere, o, xi, -; profluere; redundare [1]; emergere [o, rsi, rsum]; nasci, nascor, natus sum; sequi, or, cutus sum; consequi
+effluere [o, xi, -]; profluere; redundare [1]; emergere [o, rsi, rsum]; nasci, nascor, natus sum; sequi [or, cutus sum]; consequi
 
 вытеснять
 depellere, o, pulsi, pulsus; extrudere, o, trusi, trusum (rerum novitate extrusa vetustas); detrudere; movere [eo, movi, motum]
@@ -10784,7 +10787,7 @@ exposcere [o, poposci, -]; deposcere; expostulare [1]
 excutere, io, ssi, ssum
 
 выть
-ululare [1];ejulare [1]; baubari [or, atus sum]; plorare [1]; flēre [eo, evi, etum]; saevire [4] (ventus); fremere [o, ui, itum] (lupus fremit)
+ululare [1]; ejulare [1]; baubari [or, atus sum]; plorare [1]; flēre [eo, evi, etum]; saevire [4] (ventus); fremere [o, ui, itum] (lupus fremit)
 
 вытягивать
 trahere [o, xi, ctum] (digites pedum); extrahere (aliquem in siccum; rete ex aqua); extendere [o, ndi, nsum]
@@ -10837,7 +10840,7 @@ deducere [o, xi, ctum]; detrahere [o, xi, ctum]; abstrahere
 expurgare [1]
 
 выше
-altior, ius; supra; super (omnes tragoedos)
+altior [ius]; supra; super (omnes tragoedos)
 + стебель 3 м высотой и выше caulis 3 m et altior
 + выше границы леса supra finem silvae
 + выше середины supra medium
@@ -10923,7 +10926,7 @@ remisse; languide; solute; segniter
 ignavia [ae, f] (socordia atque i.); tarditas [atis, f]; segnitia [ae, f]; languor; mollitia [ae, f]; patientia [ae, f]; remissio [onis, f]
 
 вялый
-(e)marcidus [a, um]; ignavus [a, um] (ad aliquid; alicujus rei); tardus [a, um] (pecus; homo; in cogitando); segnis [e]; remissus [a, um]; imbecillus [a, um]; lentus [a, um]; piger, gra, grum; languidus [a, um]
+(e)marcidus [a, um]; ignavus [a, um] (ad aliquid; alicujus rei); tardus [a, um] (pecus; homo; in cogitando); segnis [e]; remissus [a, um]; imbecillus [a, um]; lentus [a, um]; piger [gra, grum]; languidus [a, um]
 + быть вялым tepere (affectus tepet)
 
 вянуть
@@ -10942,7 +10945,7 @@ divinatio [onis, f]; vaticinatio [onis, f]; sortilegium [ii, n]; augurium [ii, n
 haruspex [icis, m]; sortilegus [i, m]; fatidicus [i, m]
 
 гадкий
-foedus [a, um] (spectaculum; monstrum; odor); stercoreus [a, um] (miles); spurcus [a, um] (tempestas; vita; homo); taeter, tra, trum; inhonestus [a, um]; obscenus [a, um]; turpis [e]; deformis [e]
+foedus [a, um] (spectaculum; monstrum; odor); stercoreus [a, um] (miles); spurcus [a, um] (tempestas; vita; homo); taeter [tra, trum]; inhonestus [a, um]; obscenus [a, um]; turpis [e]; deformis [e]
 
 гадость
 turpe [is, n] (turpe senilis amor); spurcitia [ae, f]
@@ -11013,7 +11016,7 @@ glarea [ae, f]
 pipulus [us, m]; tumultus [us, m] (cantuum et armorum); strepitus [us, m]
 
 гамбургер
-(isicium) hamburgense is n
+(isicium) hamburgense [is, n]
 
 гамма
 gamma [atis, n]; scala [ae, f]; septem soni
@@ -11026,7 +11029,7 @@ praedo [onis, m] gregalis, gregalis latro [onis, m]
 *stabulum [i, n] autocineticum; *currule [is, n]; autocinetorum receptorium / receptaculum
 
 гарант
-fideiussor [oris, m]; vades, um (mpl.); praes [praedis, m] (esse pro aliquo; praedem dare)
+fideiussor [oris, m]; vades [um, mpl]; praes [praedis, m] (esse pro aliquo; praedem dare)
 
 гарантировать
 fidem dare [do, dedi, datum]; spondēre, eo, spopondi, sponsum (jam non promittere, sed spondēre; aliquid)
@@ -11244,7 +11247,7 @@ tractabilis [e] (vox); versatilis [e]; flexilis [e]; flexibilis [e]; lentus [a, 
 mollitia [ae, f]; mollitudo [inis, f]; versatilitas [atis, f]; flexibilitas [atis, f]
 
 гибнуть
-perire, eo,ii, - (naves perierunt); obire; interire; cadere [o, cecidi, casum]
+perire [eo, ii, -] (naves perierunt); obire; interire; cadere [o, cecidi, casum]
 
 гибрид
 hybrida [ae, f]
@@ -11535,7 +11538,7 @@ gleba [ae, f]; moles [is, f]; pasta [ae, f]; massa [ae, f]
 glucosa [ae, f]
 
 глядеть
-vidēre, eo,vidi, visum; visere, o, visi, visum; provisere; aspicere [io, spexi, ctum]; introspicere; speculare [1]
+vidēre [eo, vidi, visum]; visere [o, visi, visum]; provisere; aspicere [io, spexi, ctum]; introspicere; speculare [1]
 + глядеть вверх suspicere (in, ad caelum); suspectare
 + не глядеть ни вверх, ни вокруг nec suspicere nec circumspicere
 
@@ -11566,7 +11569,7 @@ iracundo animo
 iratus [a, um]; indignatus [a, um]
 
 гнездо
-nidus [i, m] (nidum facere, effingere, constituere); loculus [i, m]; loculamentum [i, n]; cubile [is, n] (aves sibi cubilia nidosque construunt); cunabula (n,pl: cunabula in terra facere)
+nidus [i, m] (nidum facere, effingere, constituere); loculus [i, m]; loculamentum [i, n]; cubile [is, n] (aves sibi cubilia nidosque construunt); cunabula [npl] (cunabula in terra facere)
 
 гнейс
 gneissum [i, n]
@@ -11605,7 +11608,7 @@ gnosis [eos, f (Gr)]
 gnosticus [i, m]
 
 гностицизм
-gnosticismus [i, m]; gnostica haeresis [is (eos), f]; gnosticorum secta [ae, f]
+gnosticismus [i, m]; gnostica haeresis [is/eos, f]; gnosticorum secta [ae, f]
 
 гнусавить
 balba de nare loqui
@@ -12040,7 +12043,7 @@ igniarium [ii, n]; liquor [oris, m] propulsorius m
 rapax [acis] ignium
 
 горячий
-calidus [a, um]; fervens [ntis] (aqua); acer, acris, acre (vir; animus); aestuosus [a, um]; ardens [ntis]; flagrans [ntis]; vehemens [ntis]; iracundus [a, um]
+calidus [a, um]; fervens [ntis] (aqua); acer [acris, acre] (vir; animus); aestuosus [a, um]; ardens [ntis]; flagrans [ntis]; vehemens [ntis]; iracundus [a, um]
 + вода горячих источников aqua thermalis
 
 горячиться
@@ -12080,7 +12083,7 @@ dominus [i, m]
 domina [ae, f]; (h)era [ae, f]
 
 гостеприимный
-hospes, itis; hospitalis [e]; hospitus [a, um]
+hospes [itis]; hospitalis [e]; hospitus [a, um]
 
 гостеприимство
 hospitium [ii, m]; hospitalitas [atis, f]
@@ -12112,7 +12115,7 @@ gothicus [a, um]
 + готический шрифт litterae gothicae (fractae)
 
 готовить
-parare [1]; praeparare [1]; coquere, o, coxi, coctum (pulmentarium; cibum; cenam); facessere, o, - (alicui periculum); adornare [1] (nuptias); struere [o, xi, ctum] (mortem alicui; sibi sollicitudinem); perficere [io, feci, fectum]; tractare [1] (dapes; venena)
+parare [1]; praeparare [1]; coquere [o, coxi, coctum] (pulmentarium; cibum; cenam); facessere, o, - (alicui periculum); adornare [1] (nuptias); struere [o, xi, ctum] (mortem alicui; sibi sollicitudinem); perficere [io, feci, fectum]; tractare [1] (dapes; venena)
 + готовить гибель кому-л. tractare pericula alicujus
 
 готовиться
@@ -12220,7 +12223,7 @@ finis [is, m]; confinium [ii, n] (arbor in confinio nata, in confinio furoris et
 + переходить в своих произведениях должные границы ultra legem tendere opus
 
 граничащий
-confinis [e]; conterminus [a, um];contiguus [a, um]; finitimus [a, um]; vicinus [a, um]
+confinis [e]; conterminus [a, um]; contiguus [a, um]; finitimus [a, um]; vicinus [a, um]
 
 граничить
 tangere [o, tetigi, tactum] (haec civitas Rhenum tangit); adjunctum esse (lateri castrorum); adjacēre, eo, ui, jectum; confinare [1]; terminari [or, atus sum] (stomachus palato terminatur); stringere [o, xi, ctum] (scytharum gens ultima Asiae stringit)
@@ -12283,7 +12286,7 @@ calefactor [oris, m]
 tonare [1]; clangere [o, -, -]; crepare [o, ui, itum]; strepere [o, ui, itum] (cornua strepunt); strepitare [1]
 
 греть
-apricare [1]; fovēre, eo, fovi, fotum; calefacere, io. feci, factum
+apricare [1]; fovēre [eo, fovi, fotum]; calefacere, io. feci, factum
 
 греться
 apricari [or, atus sum]; calēre [eo, ui, -]; calefieri, fio, factus sum
@@ -12533,7 +12536,7 @@ sordidare [1]; ungere [o, nxi, nctum]; inquinare [1]
 sordidus [a, um]; coenosus [a, um]; limosus [a, um]; lutulentus [a, um]; stercorosus [a, um] (aqua); stercoreus [a, um] (miles); squalus [a, um] (vestis); squalidus [a, um] (corpora; homo); spurcus [a, um] (saliva; umor); spurcatus [a, um] (helluo spurcatissimus); impurus [a, um]; immundus [a, um]; obsoletus [a, um] (sanguine, sordibus)
 
 грязь
-coenum [i, n]; faeculentia [ae, f] (cloacalis; morum); faex [cis, f] (terrena; salis); fimum [i, n]; subluvies [ei, f]; squales [is, f]; sordes, is f; squalentia [ae, f]; squalor; lutum [i, n]; sentina [ae, f]; spurcitia [ae, f]; spurcamen [inis, n]
+coenum [i, n]; faeculentia [ae, f] (cloacalis; morum); faex [cis, f] (terrena; salis); fimum [i, n]; subluvies [ei, f]; squales [is, f]; sordes [is, f]; squalentia [ae, f]; squalor; lutum [i, n]; sentina [ae, f]; spurcitia [ae, f]; spurcamen [inis, n]
 + дорога, скользкая от густой грязи via subluvie caenosa lubrica
 
 губа
@@ -12722,7 +12725,7 @@ Dalmatei [orum, mpl]
 Dalmatia [ae, f]
 
 дальнейший
-ulterior, ius
+ulterior [ius]
 + в дальнейшем porro; ulterius
 + это дело дальнее id enimvero hinc nunc abest
 
@@ -12744,7 +12747,7 @@ longius; ultra; porro; inferius; infra; postea; protinus
 + за пределами Ирана и дальше на запад этот вид не встречается extra limites Irani et longius ad occidentem haec species deest
 
 дамба
-agger [is, m]; moles [is, f]; obex, obicis m,f
+agger [is, m]; moles [is, f]; obex [obicis, m/f]
 
 Данаиды
 Danaides, um fpl
@@ -12934,7 +12937,7 @@ gratis; gratuite; sine mercede
 + дарственный экземпляр автора ex dono auctoris exemplar
 
 дата
-dies [ei, m]f; datum [i, n]
+dies [ei, m/f]; datum [i, n]
 + дата опубликования dies publicationis
 
 дательный
@@ -13031,14 +13034,14 @@ binio [onis, f]
 geminus [i, m]
 
 двойной
-dualis [e]; duplus [a, um]; duplex, icis; geminus [a, um]; geminatus [a, um]; gemellus [a, um]; bipartitus [a, um]; didymus [a, um]
+dualis [e]; duplus [a, um]; duplex [icis]; geminus [a, um]; geminatus [a, um]; gemellus [a, um]; bipartitus [a, um]; didymus [a, um]
 + двойное число numerus binarius
 
 двойственный
 dualis [e]; bifarius [a, um]
 
 двор
-forum [i, n]; cavaedium [ii, n]; comitatus [us, m] (императора), aula [ae, f]; regia [ae, f]
+forum [i, n]; cavaedium [ii, n]; comitatus [us, m] (императора); aula [ae, f]; regia [ae, f]
 + постоялый двор deversorium; deverticulum
 + скотный двор cohors pecuaria; stabula (n, pl)
 + крестьянский двор vicus (vicum vendere)
@@ -13057,7 +13060,7 @@ homo [inis, m] nobilis
 (братья, сестры) amitini, amitinae (от отцовой сестры); cosobrini, consobrinae (по матери); patrueles
 
 двоякий
-biformis [e]; dimorphus [a, um]; anceps, ancipitis; ambiguus [a, um]; bifarius [a, um]; duplex, icis
+biformis [e]; dimorphus [a, um]; anceps [ancipitis]; ambiguus [a, um]; bifarius [a, um]; duplex [icis]
 
 двояко
 duplici ratione (considerari potest)
@@ -13066,7 +13069,7 @@ duplici ratione (considerari potest)
 biconvexus [a, um]
 
 двуглавый
-biceps, bicipitis; anceps
+biceps [bicipitis]; anceps
 
 двугорбый
 bigibbus [a, um]
@@ -13084,7 +13087,7 @@ biennis [e]; biennalis [e]
 biformis [e]
 
 двуличный
-duplex, icis; ambiguus [a, um]; bilinguis [e]
+duplex [icis]; ambiguus [a, um]; bilinguis [e]
 
 двуногий
 bipes, bipedis
@@ -13264,7 +13267,7 @@ agere [o, egi, actum]; agitare [1]; facere [io, feci, factum] (humaniter; arroga
 deuterium [ii, n] (D)
 
 декабрь
-December, bris (abl. -bri) m; декабрьский December, bris
+December [bris (abl. -bri), m]; декабрьский December [bris]
 
 декада
 decas [adis, f]
@@ -13453,7 +13456,7 @@ aerarius [a, um]; pecuniarius [a, um]; nummarius [a, um]; nummatus [a, um]
 dies [ei, m/f]; lux [cis, f]; lumen [inis, n]; sol [is, m]
 + день недели feria
 + день отдыха feriae; dies festus
-+ день рождения natalis, is m
++ день рождения natalis [is, m]
 + Каким делом заполнить мне день? Qua materia subripiam diem?
 + выходной (нерабочий) день dies feriatus
 + согласно римскому обычаю, день начинается в полночь и в следующую полночь заканчивается more Romano dies a media nocte incipit et sequentis noctis media parte finitur
@@ -13691,7 +13694,7 @@ actiones [um, fpl]; opera [um, npl]; usus [us, m]; actuositas [atis, f]; actus [
 + поле деятельности theatrum (th. virtuti conscientia est)
 
 деятельный
-strenuus [a, um] (vir fortis ac strenuus); navus [a, um] (homo navus et industrius); vegetus [a, um] (mens; ingenium); actuosus [a, um]; activus [a, um]; sedulus [a, um]; impiger, gra, grum; operosus [a, um]
+strenuus [a, um] (vir fortis ac strenuus); navus [a, um] (homo navus et industrius); vegetus [a, um] (mens; ingenium); actuosus [a, um]; activus [a, um]; sedulus [a, um]; impiger [gra, grum]; operosus [a, um]
 
 джаз
 jazzensis musica [ae, f]
@@ -13700,10 +13703,10 @@ jazzensis musica [ae, f]
 bracae [arum, fpl] Genuenses
 
 джунгли
-jangala [orum, npl]; silva [ae, f] vetusta,vetustissima; silvae [arum, fpl]; loca [orum, npl] silvis humidis obsita
+jangala [orum, npl]; silva [ae, f] vetusta, vetustissima; silvae [arum, fpl]; loca [orum, npl] silvis humidis obsita
 
 диагноз
-diagnosis [is (eos), f]
+diagnosis [is/eos, f]
 + краткий диагноз diagnosis brevis
 + полный латинский (русский) диагноз diagnosis latina (rossica) plena
 + диагнозы, подлежащие исправлению diagnoses corrigendae
@@ -14052,7 +14055,7 @@ bonus [a, um]; probus [a, um]; benignus [a, um]; pius [a, um]
 + доброе расположение benevolentia
 
 добывать
-parare [1]; conficere [io, feci, fectum]; reportare [1]; conciliare [1]; extricare [1]; parere 3b; assequi, or, cutus sum
+parare [1]; conficere [io, feci, fectum]; reportare [1]; conciliare [1]; extricare [1]; parere 3b; assequi [or, cutus sum]
 + добывать корм pabulari
 
 добыча
@@ -14225,7 +14228,7 @@ probatus [a, um]; testatus [a, um]
 + доказанный факт res probata (testata)
 
 доказательство
-demonstratio [onis, f]; ostentus [us, m]; probatio [onis, f]; testis [is, m/f]; argumentum [i, n] (a. est ratio, quae, quod est dubium, per id, quod dubium non est, confirmat); argumentatio [onis, f] (Argumentatio est explicatio argumenti. Argumenta, non argumentatio.); apodixis [is (eos), f]; fides [ei, f]; testimonium [ii, n] (alicujus rei; dare, afferre); signum [i, n]; indicium [ii, n]; index [icis, m]; pignus [oris, n]; specimen [inis, n]; documentum [i, n]; experimentum [i, n]
+demonstratio [onis, f]; ostentus [us, m]; probatio [onis, f]; testis [is, m/f]; argumentum [i, n] (a. est ratio, quae, quod est dubium, per id, quod dubium non est, confirmat); argumentatio [onis, f] (Argumentatio est explicatio argumenti. Argumenta, non argumentatio.); apodixis [is/eos, f]; fides [ei, f]; testimonium [ii, n] (alicujus rei; dare, afferre); signum [i, n]; indicium [ii, n]; index [icis, m]; pignus [oris, n]; specimen [inis, n]; documentum [i, n]; experimentum [i, n]
 + в доказательство ссылаться на чьи-л. воспоминания fidem memoriae alicujus appellare
 + в доказательство чего-л. ad [in] fidem alicujus rei
 + изобилующий доказательствами argumentosus
@@ -14298,7 +14301,7 @@ debitum [i, n] (alicui solvere); debitio [onis, f] (gratiae); creditum [i, n]; a
 amplus [a, um] (dies); tardus [a, um] (nox); longus [a, um]; diuturnus [a, um]; longinquus [a, um]; laxus [a, um]; productus [a, um]; protensus [a, um]
 
 долго
-diu (ср.ст. diutius; diutissime); longe; multum; procul
+diu (ср. ст. diutius; diutissime); longe; multum; procul
 
 долговечность
 diuturnitas [atis, f]; perdurantia [ae, f]; vivacitas [atis, f]; firmitas [atis, f]; stabilitas [atis, f]
@@ -14317,7 +14320,7 @@ debitorius [a, um]
 diuturnus [a, um]
 
 долголетие
-longaevitas [atis, f];duratio [onis, f]
+longaevitas [atis, f]; duratio [onis, f]
 + дерево, отличающееся исключительным долголетием arbor longaevitate exquisita insignis
 
 долголетний
@@ -14544,7 +14547,7 @@ via [ae, f]; iter [itineris, n]; cursus [us, m]
 caritas [atis, f] (rei frumentariae, annonae; vini)
 
 дорогой
-carus [a, um]; pretiosus [a, um]; dives, itis; impensus [a, um]; magnus [a, um]; dilectus [a, um] (alicui; luce mihi dilectior); placitus [a, um]; desiderium [ii, n]
+carus [a, um]; pretiosus [a, um]; dives [itis]; impensus [a, um]; magnus [a, um]; dilectus [a, um] (alicui; luce mihi dilectior); placitus [a, um]; desiderium [ii, n]
 + прощайте, мои дорогие valete, desideria mea
 
 дородный
@@ -14634,7 +14637,7 @@ sufficiens [ntis]
 + достаточно, чтобы ты разрешил sufficit, ut sinas
 
 достигать
-accedere [o, cessi, cessum]; succedere (ad summum honorem); attingere [o, attigi, attactum]; tangere [o, tetigi, tactum] (haec civitas Rhenum tangit; portûs); pervenire [io, veni, ventum]; progredi [ior, gressus sum]; proficere, io, feci,fectum; expedire [4] (victoriam); adipisci, or, adeptus sum (senectutem); capere, io, cepi, captus sum (insulam; portum); tenēre [eo, ui, tentum] (portum); pertinēre; prehendere [o, ndi, nsum]; quaerere, o [sivi, situm]; scandere [o, scendi, scensum]; affectare; impetrare [1]; penetrare [1]; permeare [1]; porrigere [o, xi, ctum]; prominēre [eo, ui, -]
+accedere [o, cessi, cessum]; succedere (ad summum honorem); attingere [o, attigi, attactum]; tangere [o, tetigi, tactum] (haec civitas Rhenum tangit; portûs); pervenire [io, veni, ventum]; progredi [ior, gressus sum]; proficere [io, feci, fectum]; expedire [4] (victoriam); adipisci [or, adeptus sum] (senectutem); capere [io, cepi, captus sum] (insulam; portum); tenēre [eo, ui, tentum] (portum); pertinēre; prehendere [o, ndi, nsum]; quaerere, o [sivi, situm]; scandere [o, scendi, scensum]; affectare; impetrare [1]; penetrare [1]; permeare [1]; porrigere [o, xi, ctum]; prominēre [eo, ui, -]
 + это дерево достигаает возраста 200 лет haec arbor ad annum ducentesimum pervenit
 + многого достиг автор, объездивший всю Грузию plurimum auctor Iberia omni peragrata profecit
 + достигнуть желаемого frui votis; damnari voti
@@ -14653,7 +14656,7 @@ contiguus [a, um]
 fides [ei, f] (testimonii); auctoritas [atis, f]; veritas [atis, f]
 
 достоверный
-certus [a, um]; compertus [a, um]; exploratus [a, um]; testatus [a, um]; verus [a, um]; locuples, etis; luculentus [a, um]
+certus [a, um]; compertus [a, um]; exploratus [a, um]; testatus [a, um]; verus [a, um]; locuples [etis]; luculentus [a, um]
 
 достоинство
 virtus [utis, f] (arboris; equi); dignitas [atis, f]; gravitas [atis, f]; majestas [atis, f]; auctoritas [atis, f]; veneratio [onis, f]; gradus [us, m]
@@ -14722,7 +14725,7 @@ lucrum [i, n]; quaestus [us, m]; acceptum [i, n]; merces [ēdis, f] (praediorum)
 + доходы commoda (publica, populi)
 
 доходить
-accedere [o, cedi, cessum] (ad aliquem; aliquem; ad Aquinum; Carthaginem); procedere; attingere [o, attigi, attactum]; tangere [o, tetigi, tactum]; venire [io, veni, ventum] (usque ad mare); pervenire [io, veni, ventum]; progredi [ior, gressus sum]; redire; revolvere [o, volvi, volutum]; adire,eo, ii, itum (ad urbem)
+accedere [o, cedi, cessum] (ad aliquem; aliquem; ad Aquinum; Carthaginem); procedere; attingere [o, attigi, attactum]; tangere [o, tetigi, tactum]; venire [io, veni, ventum] (usque ad mare); pervenire [io, veni, ventum]; progredi [ior, gressus sum]; redire; revolvere [o, volvi, volutum]; adire [eo, ii, itum] (ad urbem)
 + растет по всему Карельскому перешейку и доходит до Выборга in toto isthmo Karelico provenit et ad Vyborg usque accedit
 + доходит до северных границ limites boreales attingit (tangit)
 + эта форма в Сибири доходит до Енисея haec forma in Sibiria usque ad flumen Jenissei pervenit (progreditur)
@@ -14992,7 +14995,7 @@ fatua [ae, f]; stulta [ae, f]; stolida [ae, f]
 (homo) stultus [i, m]; fatuus [i, m]; demens [ntis, m]; stupidus [i, m]; baceolus [i, m]
 
 дурачить
-infatuare [1] (aliquem aliqua re); alicujus, alicui os sublinĕre, o, levi, litum; sublectare [1]; ludificari [or, atus sum]; eludere, o, elusi, elusum
+infatuare [1] (aliquem aliqua re); alicujus, alicui os sublinĕre [o, levi, litum]; sublectare [1]; ludificari [or, atus sum]; eludere [o, elusi, elusum]
 
 дурачок
 maccus [i, m]
@@ -15001,7 +15004,7 @@ maccus [i, m]
 varo (baro) [onis, m]
 
 дурной
-improbus [a, um]; malus [a, um]; vitiosus [a, um]; pravus [a, um]; perversus [a, um]; taeter,tra, trum
+improbus [a, um]; malus [a, um]; vitiosus [a, um]; pravus [a, um]; perversus [a, um]; taeter [tra, trum]
 + дурное знамение prodigium [ii, n]
 + дурная слава infamia [ae, f]
 + дурное обращение vexatio [onis, f]
@@ -15062,7 +15065,7 @@ trucidator [oris, m]
 odoratus [a, um]; odorifer [era, erum]; odorus [a, um]; olens [ntis]; aromaticus [a, um]
 
 душить
-enecare,1 (avem; anguem); effocare,1; suffocare,1 (aliquem); trucidare,1 (plebem fenore); strangulare,1 (aliquem); gulam frangere [o, fregi, fractum]; jugulare,1
+enecare [1] (avem; anguem); effocare [1]; suffocare [1] (aliquem); trucidare [1] (plebem fenore); strangulare [1] (aliquem); gulam frangere [o, fregi, fractum]; jugulare [1]
 
 дыба
 equuleus / eculeus (in eculeum conjici, imponi)
@@ -15071,10 +15074,10 @@ equuleus / eculeus (in eculeum conjici, imponi)
 fumus [i, m]; nebula [ae, f]; odor [oris, m]; vapor [oris, m]
 
 дымить
-fumare,1
+fumare [1]
 
 дымиться
-fumare,1
+fumare [1]
 
 дымчато-серый
 fumagineus [a, um]; fumaginosus [a, um]; fumidus [a, um]; fumosus [a, um]
@@ -15100,7 +15103,7 @@ respiratio [onis, f]; anhelitus [us, m]; halitus [us, m]; spiritus [us, m] (vita
 respiratorius [a, um]; spiritalis [e]
 
 дышать
-spirare,1; respirare,1; spiritum ducere, movere, trahere, recipere
+spirare [1]; respirare [1]; spiritum ducere, movere, trahere, recipere
 
 дьявол
 diabolus [i, m]; cacodaemon [onis, m]; malus [i, m] (spiritus)
@@ -15235,7 +15238,7 @@ solus [a, um]; unicus [a, um]; singulis [e]; unigenitus [a, um]
 unitas [atis, f] (atque consensus); concordia [ae, f]; concentus [us, m]; consensus [us, m]
 
 едкий
-acer, acris, acre (humores); causticus [a, um]; acidus [a, um] (lingua); edax [cis] (humor); salsus [a, um]
+acer [acris, acre] (humores); causticus [a, um]; acidus [a, um] (lingua); edax [cis] (humor); salsus [a, um]
 
 её
 см. его
@@ -15342,7 +15345,7 @@ historiae naturalis
 naturalitas, naturae consentaneitas, naturali rationi congruentia
 
 естественный
-naturalis [e]; nativus [a, um]; fortuītus [a, um] (caespes); vivus [a, um] (saxum; pumex); simplex, icis
+naturalis [e]; nativus [a, um]; fortuītus [a, um] (caespes); vivus [a, um] (saxum; pumex); simplex [icis]
 + естественный отбор selectio naturalis
 + естественное распространение distributio naturalis
 + естественная система systema naturale
@@ -15355,7 +15358,7 @@ scientia naturalis; scientia naturae; physica; doctrina de rerum natura
 naturalista [ae, m]
 
 есть
-edere, o, edi, esum; esse; vesci, or, - (laurūs; columbas; sub umbra); tangere [o, tetigi, tactum] (cibos dente); sumere, o, mpsi, mptum (panem perfusum aquā frigidā; cibum); pappare,1; mandere, o, mandi, mansum; manducare,1
+edere [o, edi, esum]; esse; vesci [or, -] (laurūs; columbas; sub umbra); tangere [o, tetigi, tactum] (cibos dente); sumere [o, mpsi, mptum] (panem perfusum aquā frigidā; cibum); pappare [1]; mandere [o, mandi, mansum]; manducare [1]
 + хотеть есть esurire
 + ешь, пожалуйста vescere, sodes
 
@@ -15440,7 +15443,7 @@ salarium [ii, n]; merces [ēdis, f]; annua [orum, npl]; praebita [orum, npl] (an
 + состоять на жалованье stipendiari (alicui)
 
 жаловаться
-conqueri; queri [or, questus sum]; petere [o, ivi, itum]; lamentari [or, atus sum]; accusare,1 (aliquem de epistularum neglegentia, infrequentia)
+conqueri; queri [or, questus sum]; petere [o, ivi, itum]; lamentari [or, atus sum]; accusare [1] (aliquem de epistularum neglegentia, infrequentia)
 + на что ему жаловаться? quid habet quod queratur?
 
 жалость
@@ -15466,7 +15469,7 @@ frictus [a, um]; frixus [a, um]; assatus [a, um]; assus [a, um] (caro); tostus [
 + жареная говядина assa bubula
 
 жарить
-coquere, o, coxi, coctum; assare [1]; frigere [o, xi, ctum] (hordeum, panicum, nuces); torrēre, eo, ui, tostum
+coquere [o, coxi, coctum]; assare [1]; frigere [o, xi, ctum] (hordeum, panicum, nuces); torrēre, eo, ui, tostum
 
 жаркий
 calidus [a, um]; aestuosus [a, um]; fervens [ntis]; fervidus [a, um]; perfervidus [a, um]; acer, acre, acris (proelium)
@@ -15494,7 +15497,7 @@ caloris patientia [ae, f]
 messis [is, f]
 
 жать
-abscidere [o, si, ssum] (tritici messis absciditur); supponere [o, sui, situm] (falcem aristis); stringere, o, nxi, ctum (hordea); metere, o, ssui, messum (pabula falce; messem; arva); premere, o, ssi, ssum (aliquem ad pectora); pressare [1] (aliquid aliqua re)
+abscidere [o, si, ssum] (tritici messis absciditur); supponere [o, sui, situm] (falcem aristis); stringere, o, nxi, ctum (hordea); metere, o, ssui, messum (pabula falce; messem; arva); premere [o, ssi, ssum] (aliquem ad pectora); pressare [1] (aliquid aliqua re)
 
 жбан
 sinum [i, n] (для молока, вина и пр.)
@@ -15628,7 +15631,7 @@ vitellinus [a, um]
 morbus regius [arcuatus]
 
 желтый
-flavus [a, um]; luteus [a, um]; armeniacus [a, um]; cereus [a, um]; cerinus [a, um]; argillaceus [a, um]; lignicolor, oris; vitellinus [a, um]; chloroticus [a, um]; aureus [a, um]; canarinus [a, um]; alutaceus [a, um]; citreus [a, um]; citrinus [a, um]; leoninus [a, um]; melleus [a, um]; ochraceus [a, um]; arenicolor; gilvus [a, um]; sulfureus [a, um]; ravidus [a, um]; ravus [a, um]; stramineus [a, um]; fulvus [a, um]; crocatus [a, um]; croceus [a, um]
+flavus [a, um]; luteus [a, um]; armeniacus [a, um]; cereus [a, um]; cerinus [a, um]; argillaceus [a, um]; lignicolor [oris]; vitellinus [a, um]; chloroticus [a, um]; aureus [a, um]; canarinus [a, um]; alutaceus [a, um]; citreus [a, um]; citrinus [a, um]; leoninus [a, um]; melleus [a, um]; ochraceus [a, um]; arenicolor; gilvus [a, um]; sulfureus [a, um]; ravidus [a, um]; ravus [a, um]; stramineus [a, um]; fulvus [a, um]; crocatus [a, um]; croceus [a, um]
 
 желудок
 stomachus [i, m]; alvus [i, f/m]; venter [tris, m]; ventriculus [i, m]
@@ -15906,7 +15909,7 @@ adiposus [a, um]; pinguis [e]; unguinosus [a, um]; unctus [a, um]; crassus [a, u
 + жирный шрифт litterae crassae
 
 житель
-incola [ae, m]; inquilinus [i, m]
+incola [ae, m/f]; inquilinus [i, m]
 + местный житель indigena
 + житель колонии colonus
 + житель провинции provincialis
@@ -16108,7 +16111,7 @@ cura [ae, f]; curatio [oris, m] (corporis; hominum); tutela [ae, f] (tenuiorum);
 + снедаемый заботами aeger curis
 
 заботиться
-curare [1]; curae habere; curam adhibere; procurare [1]; tueri, eor, tuitus sum; consultare [1]; colere, o, ui. cultum; prospicere, io, xi, ctum; indulgēre, eo, lsi, ltum; servire [4]; inservire [4]
+curare [1]; curae habere; curam adhibere; procurare [1]; tueri, eor, tuitus sum; consultare [1]; colere, o, ui. cultum; prospicere, io, xi, ctum; indulgēre [eo, lsi, ltum]; servire [4]; inservire [4]
 + неусыпно заботиться vigilare (ad salutem rei publicae; pro aliquo)
 + заботиться о себе самом videre sibi
 + позаботиться об обеде для кого-л. prandium alicui videre
@@ -16507,7 +16510,7 @@ tardare [1] (facere aliquid; tardantes punire); cunctari [or, atus sum]; morari 
 mora [ae, f]; moramentum [i, n]; retardatio [onis, f] (r. et mora); tergiversatio [onis, f] (mora et t.); reprehensio [onis, f]; intermissio [onis, f]
 
 задний
-posticus [a, um]; posterior, ius; postremus [a, um]; aversus [a, um]
+posticus [a, um]; posterior [ius]; postremus [a, um]; aversus [a, um]
 
 задница
 culus [i, m]; nates [ium, fpl]; hedra [ae, f]; anus [i, m]
@@ -16573,7 +16576,7 @@ ignitabulum [i, n]; accensor [oris, m]
 accendere [o, ndi, nsum] (lumen; lucernam ex arā; rogos); succendere (rogum); incendere; inflammare [1]
 
 зажимать
-comprimere, o, essi, essum (linguam alicui)
+comprimere [o, essi, essum (linguam] alicui)
 
 зажиточный
 peculiosus [a, um]; pecuniosus [a, um]; fortunatus [a, um]; copiosus [a, um]; opulentus [a, um]
@@ -16582,13 +16585,13 @@ peculiosus [a, um]; pecuniosus [a, um]; fortunatus [a, um]; copiosus [a, um]; op
 + зажить получше se benignius tractare
 
 зазеленеть
-virescere,o, -, -; frondescere [o, -, -]
+virescere [o, -, -]; frondescere [o, -, -]
 
 заземление
 *fibula [ae, f] massae
 
 зазнаться
-magnos spiritus sibi sumere [o, mpsi,mptum]
+magnos spiritus sibi sumere [o, mpsi, mptum]
 
 зазубренный
 incisus [a, um]; dentatus [a, um]; denticulatus [a, um]; serratus [a, um]; serrulatus [a, um]; crenatus [a, um]
@@ -16974,7 +16977,7 @@ locum occupare [1]; locum tenere [eo, ui, tentum]; succedere [o, cedi, cessum] (
 torpere [eo, ui, -] (torpebat vox); intermori, ior, mortuus sum
 
 замкнутый
-clausus [a, um]; integer, gra, grum
+clausus [a, um]; integer [gra, grum]
 
 замок
 1. за́мок
@@ -17028,7 +17031,7 @@ consilium [ii, n]; inceptum [i, n]; tela [ae, f]
 ingeniosus [a, um] (res)
 
 замышлять
-inducere [o, xi,ctum] in animum; coquere [o, xi, ctum] (bellum; consilia secreto); concoquere; adoriri [ior, ortus sum] (majus nefas; oppugnare urbem); agere [o, egi, actum]; struere [o, xi, ctum] (alicui insidias); machinari [or, atus sum]; moliri [ior, itus sum]; meditari [or, atus sum]
+inducere [o, xi, ctum] in animum; coquere [o, xi, ctum] (bellum; consilia secreto); concoquere; adoriri [ior, ortus sum] (majus nefas; oppugnare urbem); agere [o, egi, actum]; struere [o, xi, ctum] (alicui insidias); machinari [or, atus sum]; moliri [ior, itus sum]; meditari [or, atus sum]
 + что он замышляет? Quid struit?
 
 занавес
@@ -17039,7 +17042,7 @@ curiosus [a, um]
 + занимательная ботаника botanica curiosa
 
 занимать
-obtinere [eo, ui, tentum]; occupare [1]; capere [io, cepi, captum] (urbem; castra hostium); obsidēre, eo, sedi, sessum; possidēre; insidēre; percipere [io, cepi, ceptum]; conducere [o, xi, ctum] (pecuniam)
+obtinere [eo, ui, tentum]; occupare [1]; capere [io, cepi, captum] (urbem; castra hostium); obsidēre [eo, sedi, sessum]; possidēre; insidēre; percipere [io, cepi, ceptum]; conducere [o, xi, ctum] (pecuniam)
 + это растение иногда занимает большие площади planta haec amplas interdum areas obtinet
 + занимать промежуточное положение locum intermedium obtinere
 + занимать, занять(взять в долг) деньги accipere mutuam pecuniam; sumere pecuniam ab aliquo; mutuari
@@ -17297,7 +17300,7 @@ retinetia [ae, f] (actarum rerum)
 memoriā tenēre; mandare aliquid memoriae [animo, menti]
 
 запонка
-*boto, onis m; orbiculus [i, m]; globulus [i, m]
+*boto [onis, m]; orbiculus [i, m]; globulus [i, m]
 
 запор
 claustrum [i, n]; sera [ae, f]; vectis [is, m]; obex [obicis, f]; pessulus [i, m]
@@ -17476,7 +17479,7 @@ sessio [onis, f]; consessus [us, m]; contio [onis, f]
 consiliarius [ii, m]; assessor [oris, m]
 
 заседать
-considere; sedēre, eo, sedi, sessum
+considere; sedēre [eo, sedi, sessum]
 + сенат заседает senatus agitur
 
 засека
@@ -17658,7 +17661,7 @@ tranquillitas [atis, f]; malacia [ae, f]
 struere [o, xi, ctum] (aures habere structas)
 
 затмение
-eclypsis [is (eos), f]; defectio [onis, f]; defectus [us, m]; obscuratio [onis, f]
+eclypsis [is/eos, f]; defectio [onis, f]; defectus [us, m]; obscuratio [onis, f]
 + произошло солнечное затмение solis defectio fuit
 + регулярные затмения солнца canonicae defectiones solis
 
@@ -17828,7 +17831,7 @@ muniens [ntis]; protectivus [a, um]; defensivus [a, um]
 + защитный слой stratum protectivum
 
 защищать
-defendere [o, ndi, nsum]; praesidēre, eo, sedi, sessum (alicui rei, aliquid; Juno, quae toris praesidet maritis; urbi; agros suos); esse, sum, fui [adesse]; praeesse; vindicare [1] (civem a miseriis; aliquem a verberibus; aliquem Grajorum armis); tegere, xi, ctum (se jure legum); contegere; protegere; saepire [4]; vallare [1]; vincire [4]; praemunire [4]; emunire [4]; obumbrare [1]; orare [1]; prohibēre [eo, ui, itum]
+defendere [o, ndi, nsum]; praesidēre [eo, sedi, sessum] (alicui rei, aliquid; Juno, quae toris praesidet maritis; urbi; agros suos); esse, sum, fui [adesse]; praeesse; vindicare [1] (civem a miseriis; aliquem a verberibus; aliquem Grajorum armis); tegere, xi, ctum (se jure legum); contegere; protegere; saepire [4]; vallare [1]; vincire [4]; praemunire [4]; emunire [4]; obumbrare [1]; orare [1]; prohibēre [eo, ui, itum]
 + защищать свою точку зрения suam opinionem defendere
 
 защищаться
@@ -17955,7 +17958,7 @@ hic, haec, hoc; domesticus [a, um]; localis [e]; vernaculus [a, um]; indigena
 salutare
 
 здоровый
-sanus [a, um]; salvus [a, um]; integer, gra, grum; fortis [e]; valens [ntis] (homo; bos; cibus); validus [a, um] (cibus; nondum ex morbo satis validus); vitalis [e]; saluber, bris, bre; bellus [a, um]; vigoratus [a, um] (juvenis)
+sanus [a, um]; salvus [a, um]; integer [gra, grum]; fortis [e]; valens [ntis] (homo; bos; cibus); validus [a, um] (cibus; nondum ex morbo satis validus); vitalis [e]; saluber [bris, bre]; bellus [a, um]; vigoratus [a, um] (juvenis)
 + быть здоровым valere (stomacho; sanus homo, qui bene valet)
 + находить кого-л. в добром здравии invenire aliquem fortem
 + возвращайся в добром здравии fac bellus revertare
@@ -17980,7 +17983,7 @@ valere [eo, ui, -]
 + здравствуй! Salve!
 
 здравый
-sanus [a, um]; integer, gra, grum; prudens [ntis]
+sanus [a, um]; integer [gra, grum]; prudens [ntis]
 
 зев
 faux [cis, f]; rictus; hiatus
@@ -18135,10 +18138,10 @@ malitia [ae, f]; ira [ae, f]; malignitas [atis, f]; odium [ii, n]; invidia [ae, 
 + вымещать злобу ultionem petere
 
 злобный
-acer, acris, acre (aper; leo); acerbus [a, um] (Libitina); atrox [cis] (responsum); truculentus [a, um] (voces); trux [cis] (vultus; facies); malignus [a, um]; malitiosus [a, um]; invidus [a, um]
+acer [acris, acre] (aper; leo); acerbus [a, um] (Libitina); atrox [cis] (responsum); truculentus [a, um] (voces); trux [cis] (vultus; facies); malignus [a, um]; malitiosus [a, um]; invidus [a, um]
 
 зловещий
-tristis [e] (somnium; exta); laevus [a, um]; sinister, tra, trum; lugubris [e]; maestus [a, um]; funestus [a, um]
+tristis [e] (somnium; exta); laevus [a, um]; sinister [tra, trum]; lugubris [e]; maestus [a, um]; funestus [a, um]
 
 зловоние
 foetor; odor malus
@@ -18242,7 +18245,7 @@ scaeva [ae, f]; monitus [us, m]; monstrum [i, n]; ostentum [i, n]
 celebritas [atis, f] (c. ac nomen); claritas [atis, f]
 
 знаменитый
-celeber, bris, bre; illustris [e]; nobilis [e]; clar(issim)us [a, um]; praeclarus [a, um]; magnificus [a, um]; insignis [e]; notus [a, um] (scriptor); inclitus [a, um]
+celeber [bris, bre]; illustris [e]; nobilis [e]; clar(issim)us [a, um]; praeclarus [a, um]; magnificus [a, um]; insignis [e]; notus [a, um] (scriptor); inclitus [a, um]
 
 знаменосец
 vexillifer [eri, m]; vexillarius [ii, m]; signifer [eri, m]; aquilifer [eri, m]; cantabrarius [ii, m]
@@ -18251,7 +18254,7 @@ vexillifer [eri, m]; vexillarius [ii, m]; signifer [eri, m]; aquilifer [eri, m];
 aquila; signum; vexillum
 
 знание
-cognitio [onis, f]; scientia [ae, f]; disciplina [ae, f]; experientia [ae, f]; mathesis [is (eos), f]; notitia [ae, f], scientiarum summa [ae, f], cognoscibilia universa, cuncta scibilia; ingenium (amor ingenii neminem umquam divitem fecit)
+cognitio [onis, f]; scientia [ae, f]; disciplina [ae, f]; experientia [ae, f]; mathesis [is/eos, f]; notitia [ae, f], scientiarum summa [ae, f], cognoscibilia universa, cuncta scibilia; ingenium (amor ingenii neminem umquam divitem fecit)
 + со знанием дела ex professo
 
 знатность
@@ -18336,7 +18339,7 @@ aestus (meridiei; caniculae); ardor; fervor
 + края, на которые изливается солнечный зной terrae, quo solis vergitur ardor
 
 знойный
-torridus [a, um]; acer, cris, cre (sol; solis potentia); igneus [a, um] (sol; aestas); calidus [a, um]; fervidus [a, um]; fervens [ntis]
+torridus [a, um]; acer [cris, cre] (sol; solis potentia); igneus [a, um] (sol; aestas); calidus [a, um]; fervidus [a, um]; fervens [ntis]
 + знойная зона zona torrida
 + знойным летом aestate torrida
 
@@ -18417,7 +18420,7 @@ umbella [ae, f]; umbrella [ae, f]
 zoologia [ae, f]
 
 зоркий
-acer, acris, acre (oculi; sensus videndi)
+acer [acris, acre] (oculi; sensus videndi)
 
 зоркость
 acies [ei, f] (incolumis)
@@ -18704,7 +18707,7 @@ liberari [or, atus sum]; abstergēre, eo, rsi, rsum (luctum; dolorem; metum); ex
 + сорная трава, от которой трудно избавиться mala herba qua liberari difficile est
 
 избегать
-vitare [1] (aspectum alicujus; iter illud; inimicum; alicui rei, huic verbo, infortunio); devitare [1]; evitare [1]; fugere, io, fugi, -; defugere (sermonem alicujus; proelium; disputationem); effugere (periculum; invidiam; mortem); subterfugere (alicui; periculum; tempestatem belli); aufugere; supersedēre, eo, sedi, sessum (aliquid facere; aliqua re; alicui rei, aliquid)
+vitare [1] (aspectum alicujus; iter illud; inimicum; alicui rei, huic verbo, infortunio); devitare [1]; evitare [1]; fugere, io, fugi, -; defugere (sermonem alicujus; proelium; disputationem); effugere (periculum; invidiam; mortem); subterfugere (alicui; periculum; tempestatem belli); aufugere; supersedēre [eo, sedi, sessum] (aliquid facere; aliqua re; alicui rei, aliquid)
 + во избежание недоразумения ad evitandam confusionem
 + он едва избежал, чтобы не… parum effugerat ne…
 + избегать войны arma procul habere
@@ -18983,7 +18986,7 @@ galbus [a, um]
 rutilus [a, um]
 
 излагать
-enarrare [1]; exponere [o, sui, situm]; proponere; expedire [4] (verbo; aliquid; de aliqua re; originem alicujus rei; alicujus rei causam); exsequi, or, cutus sum (aliquid verbis); disserere, o, ui, tum; dissertare [1]; complecti, or, xus sum; expandere [o, ndi, nsum]; peragere [o, egi, actum]
+enarrare [1]; exponere [o, sui, situm]; proponere; expedire [4] (verbo; aliquid; de aliqua re; originem alicujus rei; alicujus rei causam); exsequi [or, cutus sum] (aliquid verbis); disserere [o, ui, tum]; dissertare [1]; complecti, or, xus sum; expandere [o, ndi, nsum]; peragere [o, egi, actum]
 + в статье подробно излагаются новые методы исследования in hac commentatione methodi examinandi novae fuse exponuntur
 + сжато, кратко излагать stringere (narrationis rem)
 
@@ -19105,7 +19108,7 @@ tener [era, um] (mens); subtilis [e] (palatum); mollis [e]; delicatus [a, um]; f
 mollire [4]; emollire; effeminare [1]
 
 изнемогать
-succumbere [o, cubui, cubitum]; concidere, o, cidi, -
+succumbere [o, cubui, cubitum]; concidere [o, cidi, -]
 
 изношенный
 vietus [a, um] (vestis); vetus, eris (navis); obsoletus [a, um]; panneus [a, um]
@@ -19219,7 +19222,7 @@ collucatus [a, um]; lucidus [a, um]; relaxatus [a, um]
 incisus [a, um]
 
 изрекать
-fari, for, fatus sum; eloqui, or, cutus sum; dicere [o, xi, ctum]
+fari [for, fatus sum]; eloqui [or, cutus sum]; dicere [o, xi, ctum]
 
 изречение
 aphorismus [i, m]; dictum [i, n]; sententia [ae, f]; verbum [i, n]; elogium [ii, n]; fatum [i, n]
@@ -19366,10 +19369,10 @@ seu; sive; aut; vel; -ve; an; utrum (utrum ea vestra an nostra culpa est?)
 + большая разница, отказывается ли человек поступать дурно, или он не способен на это multum interest, utrum peccare aliquis nolit, an nesciat
 
 Илиада
-Ilias, adis f
+Ilias [adis, f]
 
 Илион
-Ilio, onis f
+Ilio [onis, f]
 
 илистый
 limosus [a, um]
@@ -19415,7 +19418,7 @@ vocare [1] (aliquid alio nomine); appellare [1]; titulare [1] (aliquem alicujus 
 + портик, именуемый Пойкиле porticus, quae Poecile vocatur
 
 иметь
-habēre [eo, ui, itum] (unicam filiam; magnam pecuniam); possidēre, eo, sedi, sessum; tenēre [eo, ui, tentum] (maria; multa); obtinēre; uti, or, usus sum
+habēre [eo, ui, itum] (unicam filiam; magnam pecuniam); possidēre [eo, sedi, sessum]; tenēre [eo, ui, tentum] (maria; multa); obtinēre; uti, or, usus sum
 + иметь значение significare [1]
 + иметь в виду vidēre [eo, vidi, visum]; cernere [crevi, cretum]; intuēri [eor, tuitus sum]
 + иметь вид videri [eor, visus sum]
@@ -19868,7 +19871,7 @@ exquisītor [oris, m] (prudentiae et intelligentiae); petitor [oris, m]; procus 
 + искатели правды qui vera requirunt
 
 искать
-inquirere; requirere (aliquem; libros); exquirere; quaerere [o, sivi, situm] (aliquem, occasionem); quaeritare [1]; vestigare (aliquem oculis); sequi, or, cutus sum; arcessere [o, ssivi, ssitum]; circumspicere [io, spexi, ctum]; indagare [1]; srutari [or, atus sum]; perscrutari [or, atus sum]
+inquirere; requirere (aliquem; libros); exquirere; quaerere [o, sivi, situm] (aliquem, occasionem); quaeritare [1]; vestigare (aliquem oculis); sequi [or, cutus sum]; arcessere [o, ssivi, ssitum]; circumspicere [io, spexi, ctum]; indagare [1]; srutari [or, atus sum]; perscrutari [or, atus sum]
 + искать случая (повода) к чему-л. quaerere causam alicujus rei
 + чтобы не искать мне примеров ни в древности, ни среди иноземцев ne et vetera et externa quaeram; quaeritare (hospitium)
 + искать покоя persequi otium
@@ -19944,7 +19947,7 @@ luella [ae, f] (sceleris); expiatio [onis, f]; liberatio [onis, f]; redemptio [o
 periculum [i, n]; experimentum [i, n]; tentamentum [i, n]
 
 искуситель
-temptator [oris, m]; tentator [oris, m]; satan (indecl.); satana(s) [ae, m]; seductor [oris, m]
+temptator [oris, m]; tentator [oris, m]; satan [indecl.]; satana(s) [ae, m]; seductor [oris, m]
 
 искусительница
 temptatrix [icis, f]
@@ -20046,7 +20049,7 @@ giganteus [a, um]; staturosus [a, um] (gigantes)
 
 исполнение
 completio [onis, f]; expletio [onis, f]; impletio [onis, f]; consummatio [onis, f]; administratio [onis, f] (rerum magnarum); effectus [us, m]; exsecutio [onis, f]; exercitatio [onis, f]
-+ приводить в исполнение expedire [4] (consilia sua); exsequi, or, cutus sum (negotia)
++ приводить в исполнение expedire [4] (consilia sua); exsequi [or, cutus sum] (negotia)
 + исполнение должности perfunctio [onis, f]
 + исполнение всех желаний omnium votorum expletio [onis, f]
 
@@ -20065,7 +20068,7 @@ actor [oris, m]; exactor [oris, m]; exsecutor [oris, m]; patrator [oris, m]
 evenire, io, eveni, eventum (eveniunt optata)
 
 исполнять
-complēre [eo, evi, etum]; explēre; implēre; exsecutare [1]; exsequi, or, cutus sum; persequi; facere [io, feci, factum]; facessere [o, -, -] (jussa, praecepta alicujus); conficere (quod facturum se promiserit); peragere [o, egi, actum]; consummare [1] (viam, mandatum); fungi, or, ctus sum (aliqua re; aliquam rem); administrare [1]; exhaurire, o, hausi, haustum; gerere [o, ssi, stum]; patrare [1]; perpetrare [1]; perferre [fero, tuli, latum]; praestare [1]
+complēre [eo, evi, etum]; explēre; implēre; exsecutare [1]; exsequi [or, cutus sum]; persequi; facere [io, feci, factum]; facessere [o, -, -] (jussa, praecepta alicujus); conficere (quod facturum se promiserit); peragere [o, egi, actum]; consummare [1] (viam, mandatum); fungi, or, ctus sum (aliqua re; aliquam rem); administrare [1]; exhaurire, o, hausi, haustum; gerere [o, ssi, stum]; patrare [1]; perpetrare [1]; perferre [fero, tuli, latum]; praestare [1]
 + исполнять должность administrare [1]; fungi, or, ctus sum; magistrare [1]
 + исполнять компьютерную программу programma patrare
 + исполнить все задания вовремя ad tempus omnes res administrare
@@ -20174,7 +20177,7 @@ examinator [oris, m]; expertor [oris, m]; tentator [oris, m]
 см. испытывать
 
 испытывать
-tentare [1] (temptare) (scientiam alicujus; Babylonios numeros); attentare [1]; experiri [ior, rtus sum]; examinare [1]; spectare [1]; accipere, io, cepi, ceptus sum; pati [ior, passus sum]; probare [1]; tangere [o, tetigi, tactum] (tales curas); scire [4] (hostes id scient); exsequi, or, cutus sum (aerumnam, egestatem); torquēre [eo, rsi, rtum] (aliquem mero); periculum alicujus rei facere [io, feci, factum]; experientia aliquid cognoscere [o, gnovi, gnitum]
+tentare [1] (temptare) (scientiam alicujus; Babylonios numeros); attentare [1]; experiri [ior, rtus sum]; examinare [1]; spectare [1]; accipere, io, cepi, ceptus sum; pati [ior, passus sum]; probare [1]; tangere [o, tetigi, tactum] (tales curas); scire [4] (hostes id scient); exsequi [or, cutus sum] (aerumnam, egestatem); torquēre [eo, rsi, rtum] (aliquem mero); periculum alicujus rei facere [io, feci, factum]; experientia aliquid cognoscere [o, gnovi, gnitum]
 + испытать на себе превратности судьбы maleficam naturam nancisci; habere (odium in aliquem; amorem erga aliquem; fidem alicui; spem alicujus rei)
 + испытать свою совесть examen conscientiae facere; se ipsum discutere; explorare intimos animi sui recessus
 
@@ -20236,7 +20239,7 @@ tabēre [eo, ui, -]; tabescere [eo, ui, -]; putrescere [o, -, -]; putescere [o, 
 
 исток
 см. источник
-fons [ntis, m]; origo [inis, f]; caput [itis, n] (caput aquae illud est, ubi primum nascitur, emergit); cunabula (n,pl: juris; urbis); stirp [srpis, f] (virtutis; juris)
+fons [ntis, m]; origo [inis, f]; caput [itis, n] (caput aquae illud est, ubi primum nascitur, emergit); cunabula [npl] (juris; urbis); stirp [srpis, f] (virtutis; juris)
 
 истолкование
 explanatio [onis, f]; explicatio [onis, f]; interpretatio [onis, f]; expositio [onis, f]; scholium [ii, n], scholion [ii, n]
@@ -20255,7 +20258,7 @@ interpretari [or, atus sum]; interpretationem facere [io, feci, factum]; vertere
 conterere [o, trivi, tritum] (radicem in pulverem); aliquid pinsere [o, pinsui (pinsi), pinsitum (pinsum, pistum)]; tundere [o, tutudi, tu(n)sum]; contundere; pulver(i)are [1]
 
 истончать
-tenuare [1] (vomer tenuatur ab usu);extenuare [1]; attenuare [1]
+tenuare [1] (vomer tenuatur ab usu); extenuare [1]; attenuare [1]
 
 истончение
 extenuatio [onis, f]
@@ -20264,7 +20267,7 @@ extenuatio [onis, f]
 calefactor [oris, m]; fornicator [oris, m]
 
 исторгать
-extorquēre [eo, rsi, rtum] (alicui veritatem); eripere; deripere, io, ui, reptum; (aliquid ex aliquo loco) evellere, o, vulsi, vulsum; (funditus) exstirpare [1]
+extorquēre [eo, rsi, rtum] (alicui veritatem); eripere; deripere [io, ui, reptum]; (aliquid ex aliquo loco) evellere, o, vulsi, vulsum; (funditus) exstirpare [1]
 
 историк
 rerum scriptor [oris, m]; historicus [i, m]; historiographus [i, m]
@@ -20547,7 +20550,7 @@ caseinum [i, n]
 fiscalis [e]
 
 казна
-(государственная) aerarium; publicum; fiscus; gaza, ae f (regia)
+(государственная) aerarium; publicum; fiscus; gaza [ae, f] (regia)
 + управлять казной fiscum agere
 
 казначей
@@ -20576,7 +20579,7 @@ bidens [ntis, m]; vanga [ae, f]
 limbus [i, m]; margo [inis, f]; limbus [i, m]; balteus [i, m]
 
 как
-quo modo; ut, uti; qui; qua; quemadmodum; qualiter; quanto;quam; sicut
+quo modo; ut, uti; qui; qua; quemadmodum; qualiter; quanto; quam; sicut
 + в то время как dum
 + до того как priusquam
 + как бы (как будто) quasi; ceu
@@ -20870,7 +20873,7 @@ delubrum [i, n]; fanum [i, n]
 muscipula [ae, f]
 
 каплун
-capo, onis m; capus [i, m]
+capo [onis, m]; capus [i, m]
 
 капля
 gutta [ae, f]; stilla [ae, f] (cruoris); lacrima [ae, f]
@@ -20922,7 +20925,7 @@ cyprinus carassius
 ultor [oris, m] (injuriarum); punitor [oris, m]; vindex [icis, m]
 
 карать
-multare [1] (aliquem morte;exsilio multatus;vinculis); punire [4]; piare [1]; infelicare [1]; infelicitare [1] (di te infelicent); domare [1] (delicta); castigare [1] (aliquem verberibus); poenam sumere [o, mpsi, mptum]; exsequi, or, cutus sum (violata jura; delicta; injurias); vindicare [1] (maleficia)
+multare [1] (aliquem morte; exsilio multatus; vinculis); punire [4]; piare [1]; infelicare [1]; infelicitare [1] (di te infelicent); domare [1] (delicta); castigare [1] (aliquem verberibus); poenam sumere [o, mpsi, mptum]; exsequi [or, cutus sum] (violata jura; delicta; injurias); vindicare [1] (maleficia)
 + строго (по)карать кого-л. in aliquem severe vindicare
 + караться строже taxari modo majore
 
@@ -21413,7 +21416,7 @@ Cimmerius [a, um]
 cineticus [a, um]
 
 кинжал
-pugio, onis m; sica [ae, f] (sicā confodere aliquem); mucro, onis m; gladius brevis
+pugio [onis, m]; sica [ae, f] (sicā confodere aliquem); mucro [onis, m]; gladius brevis
 + удар кинжалом pugionis ictus
 + заколол кинжалом pugione illum confodit; ferro illius sinum hausit
 + вонзить кинжал в кого-л., пронзить кого-л. кинжалом aliquem pugione confodere
@@ -21994,7 +21997,7 @@ infidus [a, um] (facinus; mare); dolosus [a, um]; insidiosus [a, um]; daedalus [
 
 коварство
 falsimonia [ae, f]; calumnia [ae, f]; astutia [ae, f]; malitia [ae, f]; fraus [fraudis, f]; fraudulentia [ae, f]; dolus [i, m]; calliditas [atis, f]
-+ он едва спасся от его коварства ejus insidias vix effugit; vix tot ex ejus insidiis elapsus est;vix occultas, quibus petebatur, insidias vitavit
++ он едва спасся от его коварства ejus insidias vix effugit; vix tot ex ejus insidiis elapsus est; vix occultas, quibus petebatur, insidias vitavit
 + пустить в ход коварство versari dolo / insidiari / machinari / astu rem gerere / dolos moliri / fraudulenter agere / tendēre insidias alicui
 
 ковать
@@ -22004,7 +22007,7 @@ cudere [o, di, sum]
 bubulcus [i, m] Americanus
 
 ковер
-tapes [etis, m]; tapete [is, n]; tapetum [i, n]; tapetium [ii, n]; vestis [is, f] (тж.vestis stragula); vestimentum [i, n]; stragulum [i, n]
+tapes [etis, m]; tapete [is, n]; tapetum [i, n]; tapetium [ii, n]; vestis [is, f] (тж. vestis stragula); vestimentum [i, n]; stragulum [i, n]
 
 коверкать
 supplantare [1] (verba)
@@ -22209,7 +22212,7 @@ geniculum [i, n]; genu [us, n]; poples [itis, m]
 genuflexio [onis, f]; geniculatus [us, m]; supplicium [ii, n]
 
 коленопреклоненный
-supplex, icis
+supplex [icis]
 
 коленчатый
 geniculatus [a, um]; nodosus [a, um]
@@ -22438,7 +22441,7 @@ imperium [ii, n]; ductus [us, m]; potestas [atis, f]; magistratus [uum, mpl]
 + поручить кому-л. командование над флотом praeponere aliquem navibus
 
 командовать
-jubere, eo, jussi, jussum; imperare [1]; praesidēre, eo, sedi, sessum (alicui rei, aliquid); edicere [o, xi, ctum]; praecipere [io, cepi, ceptum]
+jubere [eo, jussi, jussum]; imperare [1]; praesidēre [eo, sedi, sessum] (alicui rei, aliquid); edicere [o, xi, ctum]; praecipere [io, cepi, ceptum]
 + командовать армией praesidere exercitum; exercitui imperare / cum imperio praeesse
 + командовать флангом tenere cornu
 
@@ -22696,7 +22699,7 @@ equitatus [us, m]; eques (equites); equitum acies [ei, f] / copiae [arum, fpl] /
 + иметь сильную конницу equitatu valere
 
 конный
-eques, itis; equester, tris, tre; equinus [a, um]
+eques [itis]; equester [tris, tre]; equinus [a, um]
 + конный завод pecuaria equaria
 
 коновал
@@ -23241,10 +23244,10 @@ quaestus [us, f]; lucrum [i, n]; commodum [i, n]; utilitas [atis, f]
 корыто
 alveus [i, m]; linter [tris, m]; pila [ae, f]; labrum [i, n]
 + корыто, в котором кормят свиней aqualiculus
-+ корыто для стирки белья lacus,us,m
++ корыто для стирки белья lacus [us, m]
 
 корь
-morbilli (mpl)
+morbilli [mpl]
 
 корюшка
 salmo [onis, m] eperlatus
@@ -23262,7 +23265,7 @@ messor [oris, m]
 indirectus [a, um]; obliquus [a, um]; limus [a, um]; obstitus [a, um]
 
 косить
-metere, o, messui, messum; demetere (foenum); secare, o, secui, sectum; stringere, o, nxi, ctum
+metere [o, messui, messum]; demetere (foenum); secare [o, secui, sectum]; stringere [o, nxi, ctum]
 
 косматый
 crinitus [a, um]; jubatus [a, um]; comatus [a, um]; villosus [a, um]; hirsutus [a, um]
@@ -23319,7 +23322,7 @@ strabus [a, um]; homo distortis oculis
 clivus [i, m]; declivitas [atis, f]; declive [is, n]
 
 косой
-obliquus [a, um]; limus [a, um]; perversus [a, um]; strabo, onis
+obliquus [a, um]; limus [a, um]; perversus [a, um]; strabo [onis]
 
 косолапость
 pes [pedis, m] valgus; pes varus
@@ -23364,7 +23367,7 @@ sceleton [i, n]; ossamentum [i, n]
 rubus saxatilis
 
 косынка
-rica [ae, f] (caput&lt;acc.gr. rica velatus); collare [is, n] plicabile
+rica [ae, f] (caput &lt; acc. gr. rica velatus); collare [is, n] plicabile
 
 косьба
 messio [onis, f]
@@ -23451,7 +23454,7 @@ coefficiens [ntis, m]
 cancer [cri, m] (marinus)
 
 кравчий
-pincerna.[ae,.m]; pocilator [oris, m]; (stare) ad cyathos
+pincerna [ae, m]; pocilator [oris, m]; (stare) ad cyathos
 
 краденый
 furto ablatus [a, um]
@@ -23592,7 +23595,7 @@ rubedo [inis, f]; rubor [oris, m]; erythema [atis, n]
 (болезнь) scarlatina [ae, f]
 
 красный
-ruber, bra, um; rubens; rubeus [a, um]; rubidus [a, um]; rubicundus [a, um]; russus [a, um] (gingiva; vinum); rutilus [a, um]; rubiginosus [a, um]; coccineus [a, um]; purpureus [a, um]; vinicolor; vinosus [a, um];cerasinus [a, um]; granatinus [a, um]; puniceus [a, um]; carmesinus [a, um]; carmineus [a, um]; miniatus [a, um]; latericius [a, um]; corallinus [a, um]; cruentus [a, um]; sanguineus [a, um]; haematitius [a, um]; salmoneus [a, um]; salmonicolor; aeneus [a, um]; daucinus [a, um]; carneus [a, um]; incarnatus [a, um]; flammeus [a, um]; igneus [a, um]; phoeniceus [a, um]; porphyreus [a, um]; betinus [a, um]; fuchsinus [a, um]; scarlatinus [a, um]
+ruber, bra, um; rubens; rubeus [a, um]; rubidus [a, um]; rubicundus [a, um]; russus [a, um] (gingiva; vinum); rutilus [a, um]; rubiginosus [a, um]; coccineus [a, um]; purpureus [a, um]; vinicolor; vinosus [a, um]; cerasinus [a, um]; granatinus [a, um]; puniceus [a, um]; carmesinus [a, um]; carmineus [a, um]; miniatus [a, um]; latericius [a, um]; corallinus [a, um]; cruentus [a, um]; sanguineus [a, um]; haematitius [a, um]; salmoneus [a, um]; salmonicolor; aeneus [a, um]; daucinus [a, um]; carneus [a, um]; incarnatus [a, um]; flammeus [a, um]; igneus [a, um]; phoeniceus [a, um]; porphyreus [a, um]; betinus [a, um]; fuchsinus [a, um]; scarlatinus [a, um]
 + красное вино vinum rubellum / rubellianum / rubella coloris
 
 красота
@@ -23703,7 +23706,7 @@ spira [ae, f]; spirula [ae, f]
 firmare [1]; munire [4]
 
 крепиться
-se indurare [1]; invalescere [o ,ui, -]; in re perstare [o, stiti, statum]; perseverare [1]; animum obfirmare [1]
+se indurare [1]; invalescere [o, ui, -]; in re perstare [o, stiti, statum]; perseverare [1]; animum obfirmare [1]
 
 крепкий
 firmus [a, um]; robustus [a, um] (cornu); valens (truncus); validus [a, um] (homo; ungues aquilae); praevalidus [a, um]; fortis [e]; strenuus [a, um] (corpus); idoneus [a, um] (paries; navis); acer, acris [e] (odor); vegetus [a, um] (libertas); viridis [e] (senectus; aetas); vigoratus [a, um] (juvenis); vehemens (somnus); tenax (vincla); stabilis [a, um]; stipulus [a, um]; durus [a, um]; duratus [a, um]; induratus [a, um]; minime tener; fixus [a, um]; severus [a, um]; artus [a, um]; ferreus [a, um]; solidus [a, um]
@@ -23874,7 +23877,7 @@ crystallinus [a, um]; vitreus [a, um]
 nota [ae, f] dominatrix; criterium [ii/on, n], norma [ae, f], obrussa [ae, f]
 
 критик
-criticus [i, m]; judex [cis, m]; censor [oris, m]; (мелочный,придирчивый) auceps [ipis, m] syllabarum; obtrectator [oris, m]
+criticus [i, m]; judex [cis, m]; censor [oris, m]; (мелочный, придирчивый) auceps [ipis, m] syllabarum; obtrectator [oris, m]
 
 критика
 (ars) critica [ae, f]; censura [ae, f]; arbitrium [ii, n]; obstrigilatio [onis, f]
@@ -24156,7 +24159,7 @@ frangere [o, fregi, fractum]; confringere; comminuere [o, ui, utum]; conterere [
 grossularia [ae, f]; ribes [is, f] grossularia
 
 крылатый
-alatus [a, um]; alifer [era, um]; aliger [era, um]; volaticus [a, um] (Pegasus); volatilis [e] (bestia; puer); volucer, cris, cre; pennatus [a, um]; pinniger [era, um]
+alatus [a, um]; alifer [era, um]; aliger [era, um]; volaticus [a, um] (Pegasus); volatilis [e] (bestia; puer); volucer [cris, cre]; pennatus [a, um]; pinniger [era, um]
 + крылатый конь pennatus equus
 
 крыло
@@ -24375,7 +24378,7 @@ baptisterium [ii, n]
 купец
 mercator [oris, m]; qui mercaturam exercet; emporos [i, m]; negotiator [oris, m]
 + искусные купцы mutandis mercibus callidi
-+ купец торгующий мелочью mercis dividuae mercator; propola,ae,m
++ купец торгующий мелочью mercis dividuae mercator; propola [ae, m]
 + оптовый купец solidanus venditor
 
 купеческий
@@ -24905,7 +24908,7 @@ levis [e]; gravitate carens; expers [rtis] gravitatis; nihil gravitatis / ponder
 + легок на помине lupus in fabula
 + легкий слог facilis / promptus / expeditus sermo [onis, m]
 + легкое судно actuaria navis [is, f]
-+ легкая конница Celeres, um,m
++ легкая конница Celeres [um, m]
 
 легко
 leviter; perniciter; alacriter
@@ -24986,7 +24989,7 @@ situ corruptus [a, um]
 cubatio [onis, f]; cubatus [us, m]; cubitus [us, m]; secubitus [us, m]; supercubatio [onis, f]
 
 лежать
-cubare,o, ui, itum; jacere, eo, cui, (citum); procumbere [o, cubui, cubitum]; decumbere; decubare [o, cubui, cubitum]
+cubare [o, ui, itum]; jacere [eo, cui, (citum)]; procumbere [o, cubui, cubitum]; decumbere; decubare [o, cubui, cubitum]
 + лежать по-одному, порознь secubare
 + едва было место, где им можно было лечь vix erat, ubi jacerent / ubi sternuerunt corpora / quo se conjicerent / cui incubarent / ubi acquiescerent / ubi fusi in herba recubarent
 + лежать больным aegrotare; aegrum esse; morbo teneri / tentari / affici / afflictari / laborare
@@ -24995,7 +24998,7 @@ cubare,o, ui, itum; jacere, eo, cui, (citum); procumbere [o, cubui, cubitum]; de
 jacens [ntis]
 
 лежебока
-deses, desidis; desidiosus [i, m]
+deses [desidis]; desidiosus [i, m]
 
 лежкий
 durabilis [e]
@@ -25122,7 +25125,7 @@ custos [odis, m] silvarum; saltuarius [ii, m]
 praedium [ii, n] saltuarium
 
 лесной
-silvaticus [a, um]; silvester, tris, tre; silvanus [a, um]
+silvaticus [a, um]; silvester [tris, tre]; silvanus [a, um]
 
 лесоведение
 dryologia [ae, f]
@@ -25189,7 +25192,7 @@ annales [ium, mpl]; chronica [orum, npl]; fasti [orum, mpl]
 volatilis rei natura [ae, f]; volatilitas [atis, f]
 
 летучий
-volatilis [e]; volaticus [a, um] (desideria formae); volucer, cris, cre
+volatilis [e]; volaticus [a, um] (desideria formae); volucer [cris, cre]
 
 летчик
 *aviator [oris, m]
@@ -25202,7 +25205,7 @@ valetudinarium [ii, n]
 + психиатрическая лечебница dementium valetudinarium
 
 лечебный
-medicinalis [e]; medicatus [a, um]; medicosus [a, um]; officinalis [e]; saluber, bris, bre; sanifer
+medicinalis [e]; medicatus [a, um]; medicosus [a, um]; officinalis [e]; saluber [bris, bre]; sanifer
 + близ лечебных источников ad scaturigines medicatas (saniferas)
 
 лечение
@@ -25256,7 +25259,7 @@ mendaciter
 mendacitas [atis, f]; vanitas [atis, f]; falsitas [atis, f]; animus [i, m] propensus ad mentiendum
 
 лживый
-falsus [a, um] (homo); falsidicus [a, um] (homo); falsiloquus [a, um]; falsificus [a, um]; fallax, acis; mendax, acis (homo); mendaciloquius [a, um]; perjurus [a, um]
+falsus [a, um] (homo); falsidicus [a, um] (homo); falsiloquus [a, um]; falsificus [a, um]; fallax [acis]; mendax, acis (homo); mendaciloquius [a, um]; perjurus [a, um]
 
 ли
 an; …ne; num; si; utrum
@@ -25294,7 +25297,7 @@ liquidare [1]; expedire [4] (scruta; musti annonam)
 jubilatio [onis, m]; gratulatio [onis, m]; laetitia [ae, f]; exsultatio [onis, m]
 
 ликовать
-exsultare [1] animo; triumphare [1] (laetari et t.); triumphum agere [o, egi, actum]; ovare [1]; gestire [4]; fremere [o ,ui, itum] (громко) (cuncti simul ore fremebant); laetitia efferri [eferor, elatus sum]
+exsultare [1] animo; triumphare [1] (laetari et t.); triumphum agere [o, egi, actum]; ovare [1]; gestire [4]; fremere [o, ui, itum] (громко) (cuncti simul ore fremebant); laetitia efferri [eferor, elatus sum]
 
 лилейный
 liliaceus [a, um]
@@ -25590,13 +25593,13 @@ ademptio [onis, f] (provinciae); privatio [onis, f]; spoliatio [onis, f]
 + лишение имения ruina [ae, f] fortunarum
 
 лишенный
-carens [ntis]; destitutus [a, um]; expers [rtis]; orbus [a, um]; orbatus [a, um]; privatus [a, um] (re); inops [inopis]; egens, entis (e. virtutis, abundans felicitatis); egenus [a, um] (alicujus rei, aliquā re); vacuus [a, um] (domus tabulis pictis vacua); truncus [a, um] (alicujus rei, aliquā re); sterilis [e] (aliqua re; ab aliqua re; alicujus rei); viduus [a, um]; exsul; nudus [a, um]
+carens [ntis]; destitutus [a, um]; expers [rtis]; orbus [a, um]; orbatus [a, um]; privatus [a, um] (re); inops [inopis]; egens [entis] (e. virtutis, abundans felicitatis); egenus [a, um] (alicujus rei, aliquā re); vacuus [a, um] (domus tabulis pictis vacua); truncus [a, um] (alicujus rei, aliquā re); sterilis [e] (aliqua re; ab aliqua re; alicujus rei); viduus [a, um]; exsul; nudus [a, um]
 + не лишенный дара слова verborum non egens
 + лишенный права гражданства abalienatus jure civium
 + лишенный зрения и слуха (глухой и слепой) oculis et auribus captus
 + быть лишенным egere (auctoritate)
 + лишенный разума ratione destitutus
-+ лишенный наследства exhaeres,edis
++ лишенный наследства exhaeres [edis]
 + лишенный всякой помощи auxilio orbus / inops
 
 лишний
@@ -25620,7 +25623,7 @@ pubicus [a, um]
 mons [montis, m] Veneris; pubes [is, f]
 
 ловить
-capere [io, cepi, captum] (aves; pisces); captare [1] (feras; leporem laqueo; pisces arundine); prehendere [o, ndi,nsum]; comprehendere; tangere [o, tetigi, tactum] (volucres textis arundinibus); excipere [io, cepi, ceptum] (fugientes; bestias; turdos volitantes); aucupare [1]; aucupari [or, atus sum] (examina apium); venari [or, atus sum]
+capere [io, cepi, captum] (aves; pisces); captare [1] (feras; leporem laqueo; pisces arundine); prehendere [o, ndi, nsum]; comprehendere; tangere [o, tetigi, tactum] (volucres textis arundinibus); excipere [io, cepi, ceptum] (fugientes; bestias; turdos volitantes); aucupare [1]; aucupari [or, atus sum] (examina apium); venari [or, atus sum]
 + ловить друг друга на слове aucupari verba inter se
 + осы ловят мух vespae muscas venantur
 <ex><ex_orig>ловить рыбу</ex_orig> <ex_tran>piscari; piscatui operam dare; pisces captare; piscatum exercere; (удочкой) hamare; hamata linea piscari</ex_tran></ex>
@@ -25793,7 +25796,7 @@ Salmo [onis, m]
 tarandrus [i, m]; tarander [dri, m]; alces [is, f]
 
 лот
-(для измерения глубины) molochtus [i, m]; bolis, bolidis,f; catapirater [eris, m]
+(для измерения глубины) molochtus [i, m]; bolis [bolidis, f]; catapirater [eris, m]
 
 лотерейный
 билет fortuitae sortes [ium, fpl]
@@ -25924,7 +25927,7 @@ melius; potius; potissimum; magis; satius
 + лучше сходить к нему melius est illum adire
 
 лучший
-melior, ius; optimus [a, um]; potior, ius; potissimus [a, um]; electus [a, um]; princeps; prior, ius
+melior [ius]; optimus [a, um]; potior [ius]; potissimus [a, um]; electus [a, um]; princeps; prior [ius]
 + лучшие из людей summi hominum
 + лучший друг summus amicus
 
@@ -26897,7 +26900,7 @@ minus; parcius; infra
 + гораздо меньше multo minus
 
 меньший
-minor, us; deterior, ius
+minor [us]; deterior [ius]
 
 меньшинство
 minor pars [partis, f]; minoritas [atis, f]
@@ -27449,7 +27452,7 @@ transire [4] (aetas transiit); praeterire [4]; elabi [or, elapsus sum]; praeterl
 Petromizon marinus
 
 минувший
-elapsus [a, um]; praeteritus [a, um]; ulterior,ius
+elapsus [a, um]; praeteritus [a, um]; ulterior [ius]
 + приятно вспоминать о прошедшем juvat praeteritorum meminisse; juvat hic superioris aetatis memoria; vetera illa et jam paene oblitterata commeminisse placet
 
 минус
@@ -27658,7 +27661,7 @@ polytheismus [i, m]
 abundantia [ae, f] (Nili)
 
 многоводный
-abundans [ntis] (flumen; Nilus; amnis; fontibus,aquā); aquosus [a, um]
+abundans [ntis] (flumen; Nilus; amnis; fontibus, aquā); aquosus [a, um]
 
 многоговорящий
 loquax, acis
@@ -27667,7 +27670,7 @@ loquax, acis
 varietas [atis, f] (vir varietate promptissimus)
 
 многозначительный
-multiplex, icis; ambiguus [a, um]
+multiplex [icis]; ambiguus [a, um]
 
 многознающий
 multiscius [a, um]
@@ -27685,7 +27688,7 @@ perennis [e]; vetus (vinum); annosus [a, um]; longaevus [a, um]; grandaevus [a, 
 celebritas [atis, f] (loci; viae); frequentia [ae, f]; multitudo [inis, f]; turba [ae, f]; frequens copia [ae, f]; numerus [i, m] ingens; densa cohors [rtis, f]
 
 многолюдный
-celeber, bris, bre; populosus [a, um]; frequens, entis (via; theatrum; municipium;convivium); perfrequens; numerosus [a, um]; multus [a, um]; plurimus [a, um]
+celeber [bris, bre]; populosus [a, um]; frequens [entis] (via; theatrum; municipium; convivium); perfrequens; numerosus [a, um]; multus [a, um]; plurimus [a, um]
 + делать многолюдным frequentare (urbs frequentatur; frequentare solitudinem Italiae; locum cultoribus)
 + многолюдный город urbs populo frequens, incolarum plena, referta civibus
 
@@ -28257,11 +28260,11 @@ boletus [i, m]
 
 моча
 urina [ae, f]; lotium [ii, n]
-+ испускать мочу на / во что-либо immejere (-mejo, -minxi, -mictum)
++ испускать мочу на / во что-либо immejere [mejo, minxi, mictum]
 + недержание мочи ischuria; retention urinae
 + задержка мочи incontinentia urinae
 + мочи своей не стоит non valet suum lotium
-+ мочеиспукательный канал urether, -eris,m
++ мочеиспукательный канал urether [eris, m]
 + мочевой пузырь vesica [ae, f] urinaria
 + мочегонное medicamenta [orum, npl] diuretica
 + затрудненное (болезненное) мочеиспускание dysuria [ae, f]; stranguria [ae, f]
@@ -28566,7 +28569,7 @@ mutatio [onis, m]
 воду turbulentam facere [io, feci, factum] aquam; turbare [1] (aquam limo); turbidare [1] (aquam)
 
 мутный
-turbidus [a, um]; turbulentus [a, um] (aqua); turbatus [a, um]; puter, tris, tre
+turbidus [a, um]; turbulentus [a, um] (aqua); turbatus [a, um]; puter [tris, tre]
 + вода мутная от ила limo turbata aqua
 + в мутной воде in aqua turbida
 + ловить рыбку в мутной воде ali malo publico
@@ -28604,11 +28607,11 @@ carnifex [icis, m]; tortor [oris, m]; afflictator [oris, m]; vexator; [oris, m] 
 + мучительница tyranna [ae, f]
 
 мучительный
-miser [era, um] (cupido; amor; fames); acer, acris, acre (dolor; memoria); aeger [gra, um] (dolores); atrox (caedes; bellum; morbus); ferus [a, um] (dolores); anxius [a, um]
+miser [era, um] (cupido; amor; fames); acer [acris, acre] (dolor; memoria); aeger [gra, um] (dolores); atrox (caedes; bellum; morbus); ferus [a, um] (dolores); anxius [a, um]
 + мучительная казнь cruciatus [us, m]
 
 мучить
-habere [eo, ui,itum] aliquem miserrimum; conterere [o, trivi, tritum] (boves et vires agricolarum; aliquem oratione); lassare [1] (siti et fame lassari); coquere [o, xi, ctum] (cura, quae te coquit); enecare [1] (enectus frigore); tortare (vulnere tortari); afflictare [1] (atrocius quam bello afflictari; afflictari morbo); subigere [o, egi, actum] (aliquem inopiā; bello); agere [o, egi, actum] (stimulis); pessimare [1] (plebem; se ipsum); vexare [1] (rem publicam omni scelere); urere; exurĕre [o, ussi, ustum] (exustus siti); gravare [1] (labore; tot malis gravatus); verberare [1] (aures alicujus sermonibus); torquēre [eo, rsi, rtum] (memoriā malorum torqueri; aliquem eculeo; corpus suum); strangulare [1] (dolor strangulat); stimulare [1] (conscientia aliquem stimulat); cruciare [1]; excruciare [1]; excoriare [1]; flagellare [1]; infestare [1]; saevire [4]; cruciatus exercēre [eo, ui, itum] / admovēre [eo, movi, motum]; cruciatu afficere [io, feci, fectum]
+habere [eo, ui, itum] aliquem miserrimum; conterere [o, trivi, tritum] (boves et vires agricolarum; aliquem oratione); lassare [1] (siti et fame lassari); coquere [o, xi, ctum] (cura, quae te coquit); enecare [1] (enectus frigore); tortare (vulnere tortari); afflictare [1] (atrocius quam bello afflictari; afflictari morbo); subigere [o, egi, actum] (aliquem inopiā; bello); agere [o, egi, actum] (stimulis); pessimare [1] (plebem; se ipsum); vexare [1] (rem publicam omni scelere); urere; exurĕre [o, ussi, ustum] (exustus siti); gravare [1] (labore; tot malis gravatus); verberare [1] (aures alicujus sermonibus); torquēre [eo, rsi, rtum] (memoriā malorum torqueri; aliquem eculeo; corpus suum); strangulare [1] (dolor strangulat); stimulare [1] (conscientia aliquem stimulat); cruciare [1]; excruciare [1]; excoriare [1]; flagellare [1]; infestare [1]; saevire [4]; cruciatus exercēre [eo, ui, itum] / admovēre [eo, movi, motum]; cruciatu afficere [io, feci, fectum]
 + многое меня беспокоит и мучит multa sunt, quae me sollicitant anguntque
 + это мучит меня беспрестанно haec semper animum excruciant semperque sollicitant meum
 + для чего ты себя так мучишь cur sic te vexas / afflictas / discrucias
@@ -29216,7 +29219,7 @@ Nadir (indecl)
 periosteum [i, n]
 
 надлежать
-congruere [o, ui, -] (congruit Praesidi curare,ut…); decere [eo, ui, -]; condecere; convenire [io, veni, ventum]; competere [o, ivi, itum]; esse [sum, fui,, futurus]
+congruere [o, ui, -] (congruit Praesidi curare, ut…); decere [eo, ui, -]; condecere; convenire [io, veni, ventum]; competere [o, ivi, itum]; esse [sum, fui,, futurus]
 + юноше надлежит почитать старших по возрасту adulescentis est majores natu revereri
 
 надлежащий
@@ -29988,7 +29991,7 @@ monēre [eo, ui, itum]; admonēre; commonēre; commonefacere [io, feci, factum];
 + напомнить кому-либо о чем-либо alicujus animum revocare ad memoriam rei; rem / memoriam rei refricare
 
 напор
-impetus [us, m]; ictus [us, m]; incursus [us, m]; concursus [us, m];momentum [i, n]; procella [ae, f]
+impetus [us, m]; ictus [us, m]; incursus [us, m]; concursus [us, m]; momentum [i, n]; procella [ae, f]
 
 напоследок
 postremum; postremo; demum; denique; extremo; extremum; novissime; tandem; ultimo
@@ -30175,7 +30178,7 @@ forma [ae, f] (virgines forma excellente); facies [ei, f]; species [ei, f]; figu
 + нельзя полагаться на наружность fronti nulla fides
 
 наружный
-externus [a, um]; exterior, ius; exter [era, um]; extraneus [a, um]
+externus [a, um]; exterior [ius]; exter [era, um]; extraneus [a, um]
 
 наружу
 extrorsum; foras
@@ -30681,7 +30684,7 @@ socialista [ae, m] nationalis, factionis Hitlerianae assecla [ae, m]
 natio [onis, f]; gens [ntis, f]; populus [i, m]
 
 начало
-initium [ii, n] (dicendi; orationis; anni); principium [ii, n]; inceptum [i, n]; origo; exordium [ii, n]; exorsus; cunabula (n,pl: juris; urbis); elementum [i, n]; primum [i, n]; primordium [ii, n]; ortus [us, m]; coortus [us, m]; semen [inis, n]; stirps; radix; principatus [us, m]; caput [itis, n]; ingressus [us, m]; introitus [us, m]
+initium [ii, n] (dicendi; orationis; anni); principium [ii, n]; inceptum [i, n]; origo; exordium [ii, n]; exorsus; cunabula [npl] (juris; urbis); elementum [i, n]; primum [i, n]; primordium [ii, n]; ortus [us, m]; coortus [us, m]; semen [inis, n]; stirps; radix; principatus [us, m]; caput [itis, n]; ingressus [us, m]; introitus [us, m]
 + брать начало exoriri; incipere; exordium (initium, originem) capere (ducere); initium sumere [facere] ab aliqua re
 + в Тибете граница вечных снегов берет начало на высоте 5500 м над уровнем моря in Tibetia nix aeterna incipit a 5500 m supra mare
 + с начала a capite
@@ -30766,7 +30769,7 @@ non incognitus [a, um]; sat cognitus [a, um]
 azureus [a, um]; caelestis [e]; caeruleus [a, um]
 
 небесный
-caelestis [e] (astra; orbis; signa); caeles, itis; superus [a, um]
+caelestis [e] (astra; orbis; signa); caeles [itis]; superus [a, um]
 + наблюдать небесные знамения de caelo servare
 + небесные явления superae res
 
@@ -30967,7 +30970,7 @@ intempestive; inopportune; non opportune; male
 obscurus [a, um]
 
 невредимый
-incolumis [e]; salvus [a, um] (salvus et incolumis); immunis [e] (i. rediit); sospes, itis; integer [gra, um]; sanus [a, um]; innoxius [a, um]; innocuus [a, um]; intactus [a, um]; inviolatus [a, um]
+incolumis [e]; salvus [a, um] (salvus et incolumis); immunis [e] (i. rediit); sospes [itis]; integer [gra, um]; sanus [a, um]; innoxius [a, um]; innocuus [a, um]; intactus [a, um]; inviolatus [a, um]
 
 невроз
 neurisis [is / eos, f], nervorum angor [oris, m]
@@ -30982,7 +30985,7 @@ inaratus [a, um]
 incommodum [i, n]
 
 невыгодный
-deterior, ius; iniquus [a, um]; inopportunus [a, um]; incommodus [a, um]
+deterior [ius]; iniquus [a, um]; inopportunus [a, um]; incommodus [a, um]
 + быть невыгодным abs re esse
 
 невыделанный
@@ -31042,7 +31045,7 @@ scelio [onis, m]; carnifex [icis, m]; fur [is, m]; furcifer [eri, m]; gabalus [i
 Niger [gri, m]; Afer [Afri, m]; Nigrita [ae, m]; homo [inis, m] nigricolor, aethiops [iopis mf]
 
 неграмотный
-illitteratus [a, um]; indoctus [a, um]; analphabetus [a, um]; agrammatos,on
+illitteratus [a, um]; indoctus [a, um]; analphabetus [a, um]; agrammatos [on]
 
 негромкий
 raucus [a, um]
@@ -31051,7 +31054,7 @@ raucus [a, um]
 rarus [a, um] (silva)
 
 недавний
-recens [ntis]; crudus [a, um] (vulnus); repens [ntis]; propior, ius
+recens [ntis]; crudus [a, um] (vulnus); repens [ntis]; propior [ius]
 
 недавно
 nuper; brevi abhinc tempore; recenter; dudum; proxime; mox; heri; prope; nuperrime; novissime
@@ -31330,7 +31333,7 @@ indignus [a, um] (amor); falsus [a, um] (opprobria); immeritus [a, um]
 + быть незастроенным vacare (locus vacat)
 
 незатейливый
-tenuis [e] (victus; mensa; orator); simplex, icis; rusticus [a, um]
+tenuis [e] (victus; mensa; orator); simplex [icis]; rusticus [a, um]
 
 незаурядный
 praestans [ntis]; non mediocris [e]
@@ -31387,7 +31390,7 @@ caecus [a, um] (catuli modo nati); inanis [e] (lumina)
 statim (stant signa); inviolabiliter; firme; stabiliter
 
 незыблемость
-manentia, ae f
+manentia [ae, f]
 
 незыблемый
 ratus [a, um]; firmus [a, um]; stabilis [e]
@@ -31433,7 +31436,7 @@ inopia [ae, f] (argenti; frumenti, frumentaria; occasionis)
 incredibilis [e]
 
 неимущий
-homo sine censu, inops censu; egens,entis (locupletes ex egentibus facere); inanis (homo); vacuus (viator); nudus; indigens
+homo sine censu, inops censu; egens [entis] (locupletes ex egentibus facere); inanis (homo); vacuus (viator); nudus; indigens
 
 неискоренимый
 inexstirpabilis [e]; ineradicabilis [e]
@@ -32869,17 +32872,17 @@ pertinaciter
 pertinacia [ae, f]; obstinatio [onis, f]; pervicacia [ae, f]; animus [i, m] obstinatus; obstinatior voluntas [atis, f]
 
 неуступчивый
-obstinatus [a, um]; pervicax, acis; pertinax, acis
+obstinatus [a, um]; pervicax [acis]; pertinax, acis
 + быть неуступчивым retinere [retineo, tinui, tentum, 2] sententiam
 
 неусыпно
 vigilanter
 
 неусыпность
-vigilantia, ae f, cura [ae, f] magna (= intenta)
+vigilantia [ae, f], cura [ae, f] magna (= intenta)
 
 неусыпный
-assiduus [a, um] (custos); vigllans, antis
+assiduus [a, um] (custos); vigilans [antis]
 
 неутешный
 omne solatium repudiens [entis]
@@ -33482,7 +33485,7 @@ egēre [eo, ui, -] (aliquā re, alicujus rei); indigēre [eo, ui, -]; desiderare
 + нет рук для нив, которые в них так нуждаются desunt manus poscentibus arvis
 
 нуждающийся
-indigus [a, um] (alicujus rei; aliqua re); indigens; egens,entis (locupletes ex egentibus facere); egenus [a, um] (aliqujus rei, aliquā re); inops [inopis]
+indigus [a, um] (alicujus rei; aliqua re); indigens; egens [entis] (locupletes ex egentibus facere); egenus [a, um] (aliqujus rei, aliquā re); inops [inopis]
 + нуждающийся в помощи indigus opis
 + нуждающийся во всем egenus omnium rerum
 
@@ -33873,7 +33876,7 @@ habitaculum [i, n]; domicilium [ii, n]
 habitatio [onis, f]
 
 обитатель
-incola [ae, m]; habitator [oris, m]; colonus [i, m]; cultor [oris, m]; civis [is, m]
+incola [ae, m/f]; habitator [oris, m]; colonus [i, m]; cultor [oris, m]; civis [is, m]
 
 обитать
 (in)habitare [1]; incolere; colere [o, ui, cultum]; degere [o, degi, -]; vivere [o, xi, ctum]; commanēre [eo, nsi, nsum]; obsidēre [eo, sedi, sessum]
@@ -34941,7 +34944,7 @@ cultura [ae, f] olitoria
 olitorius [a, um]
 
 огорчать
-affligere [o, xi, ctum]; alicui aegre facere [io, feci, factum]; dolorem afferre [fero, tuli, latum]; dolore afficere [io, feci, factum]; exacerbare [1]; angere [o ,anxi, anctum/anxum]
+affligere [o, xi, ctum]; alicui aegre facere [io, feci, factum]; dolorem afferre [fero, tuli, latum]; dolore afficere [io, feci, factum]; exacerbare [1]; angere [o, anxi, anctum/anxum]
 + его смерть огорчила всех граждан mors ejus omnes cives afflixit
 
 огорчаться
@@ -35207,7 +35210,7 @@ vivificare [1]; revivificare [1]; frequentare [1] (orationem luminibus)
 vivificus [a, um] (vigor)
 
 ожидание
-exspectatio [onis, f]; spes [ei, f]; fides [ei, f]; praestolatio [onis, f]; opinio [onis, f]; praesumptio [onis, f]; anticipatio [onis, f]; prolepsis [eos, f] (acc.Gr)
+exspectatio [onis, f]; spes [ei, f]; fides [ei, f]; praestolatio [onis, f]; opinio [onis, f]; praesumptio [onis, f]; anticipatio [onis, f]; prolepsis [eos, f (acc. Gr)]
 + против ожидания contra exspectationem (spem)
 + мучительное ожидание exspectatio aegra
 + изнывающий от долгого ожидания aeger morae
@@ -35241,7 +35244,7 @@ viridificatio [onis, f]
 + широко применяются для озеленения городов multum ad urbium viridificationem adhibetur
 
 озерный
-lacuster, tris, tre; limneticus [a, um]
+lacuster [tris, tre]; limneticus [a, um]
 
 озеро
 lacus [us, m]; stagnum [i, n]
@@ -36540,7 +36543,7 @@ reliquus [a, um] (spes); residuus [a, um]
 reliquum [i, n] (temporis)
 
 остальной
-ceterus [a, um]; reliquus [a, um] (Alexandrēa reliquaque Aegyptus); ulterior, ius
+ceterus [a, um]; reliquus [a, um] (Alexandrēa reliquaque Aegyptus); ulterior [ius]
 + в остальную часть ночи reliquo noctis
 
 останавливать
@@ -37071,7 +37074,7 @@ resonare [o, avi, -]; respondēre [eo, ndi, nsum]
 + хорошо отзываться о ком-л. bene dicere alicui
 
 отирать
-abstergēre [eo, rsi,rsum] (sudorem et pulverem; labella)
+abstergēre [eo, rsi, rsum] (sudorem et pulverem; labella)
 
 отказ
 detrectatio [onis, f]; repulsa [ae, f]
@@ -38797,7 +38800,7 @@ inguen [inis, n]; regio [onis, f] inguinalis
 + пахотная земля arationes
 
 пахарь
-arator [oris, m];agricultor [oris, m]; agri cultor [oris, m], agricola [ae, m]
+arator [oris, m]; agricultor [oris, m]; agri cultor [oris, m], agricola [ae, m]
 
 пахать
 arare [1]; aratro moliri [ior, itus sum]; sulcare [1]; terram vertere [o, rti, rsum]
@@ -39574,7 +39577,7 @@ transportare [1] (onera et jumenta; equitem ratibus); transmittere [o, misi, mis
 transmittere [o, misi, missum] (ex Sicilia in Africam); transire [eo, ii, itum]; transfretare [1]; transvehere [o, xi, ctum]
 
 перепревший
-puter, tris, tre
+puter [tris, tre]
 
 перепродажа
 revenditio [onis, f]
@@ -40253,7 +40256,7 @@ flamma [ae, f]; ignis [is, m]; vapor [oris, m]; incendium [ii, n]; ardor [oris, 
 
 план
 ichnographia [ae, f]; mappa [ae, f]; propositum [i, n]; ratio [onis, f]; consilium [ii, n]; consultum [i, n]; tela [ae, f]; incursus [us, m]
-+ планы destinata (-orum,n) (destinatis alicujus adversari); destinatio (ex destinatione alicujus)
++ планы destinata [orum, n] (destinatis alicujus adversari); destinatio (ex destinatione alicujus)
 + следовать плану uti consilio
 + замыслы и планы spes cogitationum et consiliorum
 
@@ -40326,7 +40329,7 @@ planities [ei, f] (elata)
 + высокогорное плато planities altimontana (elatissima)
 
 платок
-involucre [is, n]; rica [ae, f] (caput<acc.gr. rica velatus); pannus [i, m]
+involucre [is, n]; rica [ae, f] (caput < acc. gr. rica velatus); pannus [i, m]
 + носовой платок sudarium [ii, n]; manutergium [ii, n]; chiromactrum [i, n]
 
 платформа
@@ -40633,7 +40636,7 @@ saliaris [e]
 spiritalis [a, um]; pneumaticus [a, um]
 
 по
-ad; per; secundum;e(x); propter; post; super (super corpora vadere); sub; tenus; via
+ad; per; secundum; e(x); propter; post; super (super corpora vadere); sub; tenus; via
 + по-божески divine
 + по-германски Germanice
 + по-гречески Graece
@@ -41266,7 +41269,7 @@ falsatio [onis, f]
 adulterator [oris, m]; falsarius [ii, m]; falsator [oris, m]
 
 подделывать
-supponere [o, posui, positum] (testamenta falsa); subjicere [io,jeci, jectum] (testamentum; librum); adulterare [1]; vitiare [1]; fallere [o, fefelli, falsum]
+supponere [o, posui, positum] (testamenta falsa); subjicere [io, jeci, jectum] (testamentum; librum); adulterare [1]; vitiare [1]; fallere [o, fefelli, falsum]
 
 поддельный
 subreptivus [a, um]; falsus [a, um] (litterae; denarius; testimonia); falsificatus [a, um]; mendax [acis] (pennae); adulterinus [a, um]; commenticius [a, um], fictus [a, um], facticius [a, um], spurius [a, um], apocryphus [a, um], suppositus [a, um], socors [socordis]; affectatus [a, um]
@@ -41770,7 +41773,7 @@ reus [i, m]
 ratio [onis, f]; ratus [us, m]; numeratio [onis, f]; calculatio [onis, f]
 
 подсчитывать
-calculare [1]; calculos, summam subducere [o, xi, ctum]; subducere;computare [1] (totum damnum); disputare [1]; rationem habere [eo, ui, itum]; numerare [1]; innumerare [1]
+calculare [1]; calculos, summam subducere [o, xi, ctum]; subducere; computare [1] (totum damnum); disputare [1]; rationem habere [eo, ui, itum]; numerare [1]; innumerare [1]
 
 подсылать
 submittere [o, misi, missum] (aliquem alicui)
@@ -41844,7 +41847,7 @@ subordinare [1]; subigere [o, egi, actum] (gentes); supponere [o, posui, positum
 + я стараюсь не подчиняться обстоятельствам, а подчинять их себе mihi res, non me rebus subjungere conor
 
 подчиняться
-obtemperare [1]; oboedire [io, ivi, -]; parēre [eo, ui, itum]; succumbere [o, cubui, cubitum] (tempori; fortunae); submittere [o, misi, missum] se (alicui); servire [io, ivi,itum]; cedere [o, cessi, cessum]; concedere
+obtemperare [1]; oboedire [io, ivi, -]; parēre [eo, ui, itum]; succumbere [o, cubui, cubitum] (tempori; fortunae); submittere [o, misi, missum] se (alicui); servire [io, ivi, itum]; cedere [o, cessi, cessum]; concedere
 + подчиниться условиям несправедливого мира se sub leges pacis iniquae tradere
 + подчиняться чьему-л. постановлению alicujus decreto stare
 
@@ -41966,7 +41969,7 @@ concedere [o, cessi, cessum]; permittere [o, misi, missum]; admittere; pati [ior
 columna [ae, f] vertebralis; spina [ae, f]
 
 позднее
-serius; tardius; dein(de);mox; postea; posthac
+serius; tardius; dein(de); mox; postea; posthac
 + вернись попозднее serus redeas
 + он поздно ушел serus abiit
 
@@ -42687,7 +42690,7 @@ praedium [ii, n]; villa [ae, f] (hilaris et amoena); feudus [i, m]; fundus [i, m
 hybrida [ae, f]
 
 помет
-excrementum [i, n]; stercus [oris, n] (equinum; columbinum); sordes, is f
+excrementum [i, n]; stercus [oris, n] (equinum; columbinum); sordes [is, f]
 
 пометка
 annotatio [onis, f]; nota [ae, f]; signum [i, n]
@@ -42844,7 +42847,7 @@ maledicta conjicere [ io, jeci, jectum]
 contumelia [ae, f] (contumeliam alicui facere, dicere; jacere in aliquem); convicium [i, n]; vituperatio [onis, f]
 
 поношенный
-detritus [a, um]; obsoletus [a,um]
+detritus [a, um]; obsoletus [a, um]
 
 понуждать
 admonere [eo, ui, itum] (aliquem verberibus)
@@ -43186,7 +43189,7 @@ contumelia [ae, f] (contumeliam alicui facere, dicere; jacere in aliquem)
 fides [ei, f] (pacis)
 
 поручать
-mittere [o, misi, missum]; committere (alicui rem, administrationem,negotia); transmittere (bellum Pompejo); praecipere [io, cepi, ceptum]; assignare [1]; delegare [1]; injungere [o, nxi, nctum]; tradere [o, didi, ditum] (alicui imperium navium); transferre [o, tuli, latum] (administrationem belli ad aliquem); demandare [1]; manadare (alicui, ut faciat aliquid); commendare; credere [o, didi, ditum] (vitam et fortunas alicui)
+mittere [o, misi, missum]; committere (alicui rem, administrationem, negotia); transmittere (bellum Pompejo); praecipere [io, cepi, ceptum]; assignare [1]; delegare [1]; injungere [o, nxi, nctum]; tradere [o, didi, ditum] (alicui imperium navium); transferre [o, tuli, latum] (administrationem belli ad aliquem); demandare [1]; manadare (alicui, ut faciat aliquid); commendare; credere [o, didi, ditum] (vitam et fortunas alicui)
 
 поручение
 mandatum [i, n] (dare alicui; accipere ab aliquo); jussum [i, n]; imperium [ii, n]; praeceptum [i, n]; negotium [ii, n]; causa [ae, f]; legatio [onis, f]; missio [onis, f]
@@ -43510,7 +43513,7 @@ constans [ntis]; perpes [etis]; perpetuus [a, um] (ver; pax; sopor); sempiternus
 + постоянный ток fluentum [i, n] continuum
 
 постоянство
-constantia [ae, f]; stabilitas [atis, f]; jugitas [atis, f]; manentia, ae f
+constantia [ae, f]; stabilitas [atis, f]; jugitas [atis, f]; manentia [ae, f]
 
 постричь
 tonsurare [1]; tondere [eo, totondi, tonsum]; tonsitare [1]
@@ -44760,7 +44763,7 @@ institutio [onis, f]; doctrina [ae, f]
 traditor [oris, m] (alicujus scientiae); professor [oris, m]; praeceptor [oris, m]; magister [tri, m]; doctor [oris, m]; institutor [oris, m]; instructor [oris, m]
 
 преподавать
-tradere [o, didi, ditum] (juventuti multa de sideribus); praecipere [io, cepi, ceptum]; docēre [eo, ui, ctum]; instituere [o ,ui, utum]
+tradere [o, didi, ditum] (juventuti multa de sideribus); praecipere [io, cepi, ceptum]; docēre [eo, ui, ctum]; instituere [o, ui, utum]
 
 препятствие
 impedimentum [i, n]; obstaculum [i, n]; impeditio [onis, f]; praepedimentum [i, n]; vinculum [i, n] (fugae); irritamentum [i, n]; mora [ae, f]
@@ -45584,7 +45587,7 @@ pertinentia [ae, f]; attributio [onis, f]; positio [onis, f]; res [ei, f] access
 submittere [o, misi, missum]
 
 принимать
-capere [io, cepi, captum] (pecuniam ab aliquo; praemia; cibum et potum; fessos hospitio); accipere [io, cepi, ceptum] (pecuniam; cibum; medicinam; aliquem hospitio); acceptare [1] (argentum; mercedes a discipulis; usuras; cognomina); excipere (aliquem clamore, plausu, tumultu; extremum spiritum alicujus); recipere; receptare; concipere; suscipere; admittere (aliquem ad se); sumere [o, mpsi, mptum] (cognomen; venenum); assumere (aliquid alicui; cibus assumitur intus); transumere; ascire [4]; asciscere; aestimare [1]; censere [eo, ui, censum]; dicere [o, xi, ctum]; existimare [1]; habere [eo, ui, itum]; ponere [o ,posui, positum]; tractare [1]; approbare [1]
+capere [io, cepi, captum] (pecuniam ab aliquo; praemia; cibum et potum; fessos hospitio); accipere [io, cepi, ceptum] (pecuniam; cibum; medicinam; aliquem hospitio); acceptare [1] (argentum; mercedes a discipulis; usuras; cognomina); excipere (aliquem clamore, plausu, tumultu; extremum spiritum alicujus); recipere; receptare; concipere; suscipere; admittere (aliquem ad se); sumere [o, mpsi, mptum] (cognomen; venenum); assumere (aliquid alicui; cibus assumitur intus); transumere; ascire [4]; asciscere; aestimare [1]; censere [eo, ui, censum]; dicere [o, xi, ctum]; existimare [1]; habere [eo, ui, itum]; ponere [o, posui, positum]; tractare [1]; approbare [1]
 + принять с распростертыми объятиями excipere aliquem manu et complexu
 + принять присягу jusjurandum accipere
 + у нас принято чтить великих людей est nobis in usu claros viros colere
@@ -46442,7 +46445,7 @@ laxare [1]; propagare [1]; continuare [1]; prorogare [1]; deferre [fero, tuli, l
 alimentarius [a, um]
 
 продовольствие
-alimentum [i, n]; cibus [i, m]; cibaria [orum, npl]; victus [us, m] (victus vestitusque); victualia (n.pl); annona [ae, f]; commeatus [us, m]; frumentum [i, n]
+alimentum [i, n]; cibus [i, m]; cibaria [orum, npl]; victus [us, m] (victus vestitusque); victualia [npl]; annona [ae, f]; commeatus [us, m]; frumentum [i, n]
 + иметь попечение о продовольствии annonae curam agere
 
 продолговатый
@@ -46633,7 +46636,7 @@ enasci [enascor, enatus sum]; nasci; exoriri; oriri [ior, ortus sum]; originem d
 tractus [a, um] (ab isto initio); natus [a, um]; oriundus [a, um]
 
 происхождение
-origo [inis, f]; ortus [us, m]; genus [eris, n] (nobile, plebejum); initia [orum, npl] (obscura); cunabula (n,pl: juris; urbis); stirps [stirpis, f] (incerta; homo Italicae stirpis); natio [onis, f]; radix [icis, f]; generatio [onis, f] [onis, f]; natalis [is, f]; partus [us, m]; principatus [us, m]; principium [ii, n]; profectio [onis, f]
+origo [inis, f]; ortus [us, m]; genus [eris, n] (nobile, plebejum); initia [orum, npl] (obscura); cunabula [npl] (juris; urbis); stirps [stirpis, f] (incerta; homo Italicae stirpis); natio [onis, f]; radix [icis, f]; generatio [onis, f] [onis, f]; natalis [is, f]; partus [us, m]; principatus [us, m]; principium [ii, n]; profectio [onis, f]
 + грек по происхождению Graecus genere
 + знатного происхождения и по отцу и по матери utrimque nobilis
 
@@ -47347,7 +47350,7 @@ florēre [eo, ui, -]; vigēre [eo, ui, -]; efflorescere [o, rui, -]
 florens [ntis]; prosper, prosperus [a, um]; beatus [a, um] (civitas)
 
 процент
-pro centum; centesima [ae, f] (pars); pars ex centum / per centum; (тж.процентная ставка) faenus [faenoris, n]
+pro centum; centesima [ae, f] (pars); pars ex centum / per centum; (тж. процентная ставка) faenus [faenoris, n]
 
 проценты
 usura [ae, f]; impendium [ii, n]
@@ -48193,13 +48196,13 @@ diluere [o, ui, utum] (aqua; vinum)
 dilutus [a, um]
 
 разбегаться
-diffugere [io,fugi, -]; discurrere [o, rri, rsum]; dilabi [or, lapsus sum]
+diffugere [io, fugi, -]; discurrere [o, rri, rsum]; dilabi [or, lapsus sum]
 
 разбирательство
 (судебное) cognitio [onis, f] causae
 
 разбирать
-eventilare [1]; analyzare [1]; inspicere [io, spexi, ctum]; intellegere [o, legi, lectum]; dijudicare [1]; disserere [o, ui, rtum]; percensēre [eo, ui, censum]; recensēre; disceptare [1] (controversiam, litem); enucleare [1]; explicare [1]; tractare [1] (definitionem alicujus rei; quaestionem; proeliorum vias); disjungere [o, nxi,nctum,]; distruere [o, xi, ctum]; dissolvere [eo, lvi, lutum]; (aedificium) deturbare [1]; (murum) demoliri [ior, itus]
+eventilare [1]; analyzare [1]; inspicere [io, spexi, ctum]; intellegere [o, legi, lectum]; dijudicare [1]; disserere [o, ui, rtum]; percensēre [eo, ui, censum]; recensēre; disceptare [1] (controversiam, litem); enucleare [1]; explicare [1]; tractare [1] (definitionem alicujus rei; quaestionem; proeliorum vias); disjungere [o, nxi, nctum]; distruere [o, xi, ctum]; dissolvere [eo, lvi, lutum]; (aedificium) deturbare [1]; (murum) demoliri [ior, itus]
 
 разбитый
 truncus [a, um] (tela)
@@ -48851,7 +48854,7 @@ destructivus [a, um]; edax [acis] (ignis; imber; tempus; vetustas)
 + разрушительное влияние effectus destructivus
 
 разрушить
-delere [eo,evi, etum]; exturbare [1] (omnem spem pacis); vertere [o, rti, rsum] (monia ab imo); subruere (libertatem)
+delere [eo, evi, etum]; exturbare [1] (omnem spem pacis); vertere [o, rti, rsum] (monia ab imo); subruere (libertatem)
 
 разрыв
 abruptio [onis, f]; ruptura [ae, f]; diruptio [onis, f]; rhexis [is, f]
@@ -49520,7 +49523,7 @@ conturbatus [a, um]
 nullius consilii esse [sum, fui, -]
 
 расти
-crescere [o, crevi, cretum]; increscere (maxime cibo eget, qui increscit); excrescere; enasci [or, enatus sum]; exoriri; oriri [ior,ortus sum]; provenire [io, veni, ventum]; habitare [1]; vigere [eo, ui, -]; augescere [o, -, -]; adaugescere; coalescere [o, lui, itum] (crimina impunita coalescunt); accedere [o, cessi, cessum]; intumescere [o, mui, -]; pullulare [1]; adulescere [o, evi, ultum]
+crescere [o, crevi, cretum]; increscere (maxime cibo eget, qui increscit); excrescere; enasci [or, enatus sum]; exoriri; oriri [ior, ortus sum]; provenire [io, veni, ventum]; habitare [1]; vigere [eo, ui, -]; augescere [o, -, -]; adaugescere; coalescere [o, lui, itum] (crimina impunita coalescunt); accedere [o, cessi, cessum]; intumescere [o, mui, -]; pullulare [1]; adulescere [o, evi, ultum]
 + цена на зкемлю растет pretium accedit agris
 + ольха растет в вышину alnus se subjicit
 
@@ -50138,7 +50141,7 @@ locarium [ii, n]
 
 рентген
 Radii X; radii Roentgeni
-+ рентген (мед.осмотр) examen radiologicum
++ рентген (мед. осмотр) examen radiologicum
 
 репа
 rapa [ae, f]; rapum [i, n]; rapina [ae, f]
@@ -50666,7 +50669,7 @@ Romaniensis [e]
 romanticus [a, um]
 
 ромашка
-chamomilla [ae, f]; chamaemēlon (um),i,n
+chamomilla [ae, f]; chamaemēlon(um) [i, n]
 
 ромб
 rhombus [i, m]
@@ -51419,7 +51422,7 @@ compendium [ii, n]; peculium [ii, n]
 conservare [1]; reservare [1]; condere [o, didi, ditum]
 
 сбивать
-contundere [o, tudi, tusum]; concutere [io, cussi, cussum]; configere [o, xi,xum]
+contundere [o, tudi, tusum]; concutere [io, cussi, cussum]; configere [o, xi, xum]
 + сбивать с толку infatuare; turbare; perturbare
 + сбиться с пути aberrare
 
@@ -51608,7 +51611,7 @@ lux [cis, f]; lumen [inis, n]; flamma [ae, f]
 + естественный свет lumen naturale
 1. часть мира
 orbis [is, m] (terrarum); mundus [i, m]
-+ Новый/Старый Свет Orbis Novus/Antiquus,Vetus.
++ Новый/Старый Свет Orbis Novus/Antiquus, Vetus.
 + изо всех на свете rerum (animal maximum rerum; dulcissime rerum)
 
 светать
@@ -52069,7 +52072,7 @@ canus [a, um]; incanus [a, um] (caput, homo); candidus [a, um] (barba; caput)
 septimus [a, um]
 
 сезон
-tempus anni; periodus,i,f
+tempus anni; periodus [i, f]
 
 сейчас
 hoc tempore; hodie; nunc
@@ -52935,7 +52938,7 @@ propensus [a, um]; pronus [a, um]; inclinatus [a, um]; proclivis [e]; idoneus [a
 declinabilis [e]
 
 склонять
-ducere [o, xi, ctum]; inducere (aliquem ad bellum;ad misericordiam;inducere aliquem ut mentiatur); perducere; permovēre [eo, movi, motum]; excitare [1]; hortari [or, atus sum]; impellere [o, pulsi, pulsum]; persuadēre [eo, suasi, suasum]; subigitare [1] (aliquem blanditiis); appellare [1] (aliquem de proditione; de stupro; stupri causa); flectere [o, xi, xum]; declinare [1]; reclinare; inclinare; submittere [o, misi, misssum]; attentare [1]
+ducere [o, xi, ctum]; inducere (aliquem ad bellum; ad misericordiam; inducere aliquem ut mentiatur); perducere; permovēre [eo, movi, motum]; excitare [1]; hortari [or, atus sum]; impellere [o, pulsi, pulsum]; persuadēre [eo, suasi, suasum]; subigitare [1] (aliquem blanditiis); appellare [1] (aliquem de proditione; de stupro; stupri causa); flectere [o, xi, xum]; declinare [1]; reclinare; inclinare; submittere [o, misi, misssum]; attentare [1]
 
 склоняться
 vergere [o, (versi), -] (vergi) (ad voluptates)
@@ -53046,7 +53049,7 @@ subitus [a, um] (mors)
 ephemerus [a, um]
 
 скороспелый
-ocior [ius]; praecox [cis]; celer [era,um] proventu
+ocior [ius]; praecox [cis]; celer [era, um] proventu
 
 скорость
 celeritas [atis, f]; rapiditas [atis, f]; velocitas [atis, f]
@@ -53844,7 +53847,7 @@ obscurus [a, um]; fervens [ntis] (ferventissimum tempus); tacitus [a, um] (sensu
 perturbatio [onis, f]; consternatio [onis, f]; confusio [onis, f]
 
 смущенный
-egens [ntis] consilii;commotus [a, um]; conturbatus [a, um]; perturbatus; consternatus [a, um]; percussus [a, um]
+egens [ntis] consilii; commotus [a, um]; conturbatus [a, um]; perturbatus; consternatus [a, um]; percussus [a, um]
 
 смыкать
 comprimere [o, pressi, pressum] (ordines)
@@ -53945,7 +53948,7 @@ demere [o, dempsi, demptum] (juga bobus; e suis umeris amictum); detrahere [o, x
 + снимать копию describere [o, psi, ptum]
 + снимать одежду spoliare [1]
 + снимать лагерь castra movēre [eo, movi, motum]
-+ снимать шляпу caput aperire [io,ivi/ii, rtum]
++ снимать шляпу caput aperire [io, ivi/ii, rtum]
 
 снимок
 icon [inis, f] (imago) photographica; photographia [ae, f]; effigies [ei, f]; imago [inis, f] expressa
@@ -54110,8 +54113,8 @@ casus [us, m]; obvenientia [ae, f]; eventum [i, n]; eventus [us, m]; res [ei, f]
 ulula [ae, f]; strix [strigis f]; noctua [ae, f]
 
 совершать
-facere [io, feci, factum] (impetum in hostem; eruptiones ex oppido; incursionem; scelus, facinus; caedem; furtum); efficere [io, feci, fectum]; perficere; conficere; committere [o, misi, missum] (delictum, dolum, furtum); admittere (scelus; stuprum cum aliquo); consummare [1]; patrare [1]; perpetrare [1]; pertendere [o, ndi, ntum]; praestare [o, stiti, stitum]; administrare [1] (caedem); exsequi [or, cutus sum] (iter; scelus;caedem); exigere [o, egi, actum]
-+ совершать возлияние defundere [o,fudi, fusum]; libare [1]
+facere [io, feci, factum] (impetum in hostem; eruptiones ex oppido; incursionem; scelus, facinus; caedem; furtum); efficere [io, feci, fectum]; perficere; conficere; committere [o, misi, missum] (delictum, dolum, furtum); admittere (scelus; stuprum cum aliquo); consummare [1]; patrare [1]; perpetrare [1]; pertendere [o, ndi, ntum]; praestare [o, stiti, stitum]; administrare [1] (caedem); exsequi [or, cutus sum] (iter; scelus; caedem); exigere [o, egi, actum]
++ совершать возлияние defundere [o, fudi, fusum]; libare [1]
 + совершать жертвоприношение immolare [1]; sacrificare [1]
 + совершать подлог subjicere [io, jeci, jectum]
 
@@ -54661,7 +54664,7 @@ celeres motus ingenii; ingenii celeritas [atis, f]
 mente acer [acris, acre]; alacer; sollers [rtis]; promptus [a, um] ingenio
 
 сообразно
-secundum;convenienter; congruenter; apte; accommodate
+secundum; convenienter; congruenter; apte; accommodate
 
 сообразный
 competens [ntis]; congruus [a, um]; congruens [ntis]; consentaneus [a, um] (sententia consentanea utilitati rerum); conveniens [ntis]; aptus [a, um]
@@ -54705,7 +54708,7 @@ homologus [a, um]
 congruentia [ae, f]; convenientia [ae, f]
 
 соответствовать
-congruere [o, ui, -]; consentire [io, nsi, nsum]; convenire [io, veni, ventum]; quadrare [1]; respondēre [eo, ndi,nsum]; adaptari [or, atus sum] (alter alteri); facere [io, feci, factum] (ad aliquid, alicui rei); suppetere [o, ii, itum]; dignum esse
+congruere [o, ui, -]; consentire [io, nsi, nsum]; convenire [io, veni, ventum]; quadrare [1]; respondēre [eo, ndi, nsum]; adaptari [or, atus sum] (alter alteri); facere [io, feci, factum] (ad aliquid, alicui rei); suppetere [o, ii, itum]; dignum esse
 + о, если бы сказанным тобой словам соответствовали дела utinam, quae dicis, dictis facta suppetant
 
 соответствующий
@@ -55709,7 +55712,7 @@ collidere [o, lisi, lisum]
 litigare [1] (cum aliquo; inter se de aliqua re); jurgare [1]; rixari [or, atus sum]; altercari [or, atus sum]
 
 ссуда
-commodatum [i, n] (accipere,rogare, reddere); creditum [i, n]; res rerum, fpl] creditae; usura [ae, f] (pecuniae; usurā juvare aliquem)
+commodatum [i, n] (accipere, rogare, reddere); creditum [i, n]; res rerum, fpl] creditae; usura [ae, f] (pecuniae; usurā juvare aliquem)
 + денежная ссуда pecuniae creditae; creditum; usura
 
 ссудить
@@ -56995,7 +56998,7 @@ viginti quattuor horis
 essentia [ae, f]; substantia [ae, f]; vis (virtutis; eloquentiae; verae amicitiae); summa [ae, f]; natura [ae, f]; res (ad rem pertinēre; de re magis quam de verbis laborare)
 + суть дела viscera causae; summa rei
 + видеть суть rem ipsam spectare
-+ письмо, суть которого заключалась в следующем litterae,quarum summa erat…
++ письмо, суть которого заключалась в следующем litterae, quarum summa erat…
 
 сухарь
 buccellatum [i, n] (солдатский паек); panis [is, m] buccelatus; biscoctum [i, n]; panis [is, m] biscoctus
@@ -57367,7 +57370,7 @@ talis; ejusmodi; hujuscemodi; tam; tantus
 + такие большие и такие прекрасные города urbes tantae et tales
 + столько пороков и таких серьезных tot tantaque vitia
 + такой… какой tantus… quantus (ut)
-+ налоги были такие, что… vectigalia tanta erant,ut…
++ налоги были такие, что… vectigalia tanta erant, ut…
 
 такса
 (расценка) taxa [ae, f]; taxatio [onis, f]; (порода собак) canis [is, f] taxoninus
@@ -58296,7 +58299,7 @@ mercaturam agere [o, egi, actum]; vendere [o, didi, ditum]; negotiari [or, atus 
 + торговать своей совестью animam lucro vendere
 
 торговаться
-de pretio licēri [eor, licitus sum], licitari [or, atus sum];l luctare [1]; negotiari [or, atus sum]
+de pretio licēri [eor, licitus sum], licitari [or, atus sum]; luctare [1]; negotiari [or, atus sum]
 + цена зависит от оценки (мнения) того, кто желает иметь, и того, кто желает отдать, а так как эти мнения не слишком хорошо совпадают, в конце концов, цена зависит от умения торговаться. Pretium pendet ab aestimatione illius habere et illius qui dare vult, et quia utriusque mensurae non bene inter se conveniunt, in fine pretium pendet ab arte negotiandi.
 
 торговец
@@ -62140,7 +62143,7 @@ pipiare [1]
 proboscis [idis, f]; manus [us, f]
 
 ход
-gressus [us, m]; ingressus; successus [us,;m] trames [itis, m]; meatus [us, m]; proventus [us, m]; motus [us, m]; ductus [us, m]; cursus [us, m]; decursus (morbi); calculus [i, m] (в играх)
+gressus [us, m]; ingressus; successus [us, m]; trames [itis, m]; meatus [us, m]; proventus [us, m]; motus [us, m]; ductus [us, m]; cursus [us, m]; decursus (morbi); calculus [i, m] (в играх)
 
 ходатай
 arbiter [tri, m]; deprecator [oris, m]
@@ -62241,7 +62244,7 @@ viverra [ae, f]; furo [onis, m]
 chorus [i, m]; chorea [ae, f]
 
 хоронить
-sepelire [io,ivi, sepultum]; condere [o, didi. Ditum] (corpus terra); fungi [or, nctus sum] sepulcro; tumulare [1] (aliquem); terram alicui injicere [io, jeci, jectum]; funerare [1]; ponere [o, posui, positum]; reponere; componere
+sepelire [io, ivi, sepultum]; condere [o, didi. Ditum] (corpus terra); fungi [or, nctus sum] sepulcro; tumulare [1] (aliquem); terram alicui injicere [io, jeci, jectum]; funerare [1]; ponere [o, posui, positum]; reponere; componere
 
 хороший
 bonus [a, um] (melior; optimus); probus [a, um] (merx, argentum, mores, mulier, vir, faber); idoneus [a, um] (homines; auctor)
@@ -62303,7 +62306,7 @@ forti pectore; fortiter; animose; acriter
 animus [i, m]; fortitudo [inis, f]; ferocia [ae, f]; audacia [ae, f]; virtus [utis, f]
 
 храбрый
-fortis [e] (vir, animus); ferox (ferocissimi per acies cecidissent); fidens [ntis] (homo; animus; fidens animi, animo); animosus [a, um]; acer, acris, acre
+fortis [e] (vir, animus); ferox (ferocissimi per acies cecidissent); fidens [ntis] (homo; animus; fidens animi, animo); animosus [a, um]; acer [acris, acre]
 
 храм
 templum [i, n] (Jovis); fanum [i, n]; sacrarium [ii, n]; aedes [is, f]; delubrum [i, n]; oraculum [i, n]
@@ -62606,7 +62609,7 @@ totus [a, um]; integer [gra, um]; universus [a, um]; omnis [e]; cunctus [a, um];
 + земля, разделенная ныне на части, некогда была одним целым mundi, quae nunc partes sunt, aliquando unitas fuit
 
 цель
-finis [is, m/f]; finalitas; terminus [i, m] (vitae; certos terminos habere); meta; scopus [i, m]; destinatum [i, n]; destinata (-orum,n); propositum [i, n]; calx [cis, f]; causa [ae, f]
+finis [is, m/f]; finalitas; terminus [i, m] (vitae; certos terminos habere); meta; scopus [i, m]; destinatum [i, n]; destinata [orum, n]; propositum [i, n]; calx [cis, f]; causa [ae, f]
 + попасть в цель destinata ferire
 + поставить себе целью affectare viam
 + достичь цели ad calcem pervenire; terere metam
