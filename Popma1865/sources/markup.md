@@ -7,8 +7,8 @@
 
 # Mark-up
 
-* `$$1$$` - every article starts with a unique number corresponding the item in lexicon.json
-* `+Amare+` - headwords
+* `$$1$$` - every article starts with a unique number corresponding the item in `lexicon.json`.
+* `+Amare+` - headword
 * `*...*` - quotation
 * `Dicitur =actori=, atque etiam =procuratori= tuo` - sign `=` marks headwords inside of the quotation
 * `#Cic. Phil. XIV.#` - souce of the citation
