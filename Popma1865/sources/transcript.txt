@@ -1343,29 +1343,9 @@ $$390$$
 (2) Vocabulum hocce in genere neutro h. l. esse positum, testatur Erythraeus in #Ind. Virgil. fol. 41. fac. 2. col b.# 
 (3) +Clypeus+ non dicitur [GGG], (quod raro in bonam partem accipitur) h. e. a celando, vel abscodendo. sed potius [GGG] h. e. a sculpendo, quod in eo imago et facies cuiusque redderetur. #Conf. Pcrotti Cornucop. Epigr. XXIII. col. 763. lin. 15, seqq.# 
 
-
-CLYPEVS est rotundus, cavus, el lotum protegit pectus. 
-Scutum, proprie clypeum coriaceum notans, est oblon— 
-gum, quadratum, et totnm munit corpus. Illum Graeci 
-vocant acr(éa, HocSvpEöv, et quidem hanc 0b causam, 
-quod forium similitudincm referat, quae longiores, quam 
-laliores esse solent. Virg. Aen. 111. 637: Argolici clypei, 
-aut Phoebeae lampadis instar. 1(1. VIII. 662: Sculis pro- 
-tecli (1) corpora longis. Liv. "111. 8: Clypeis antea Ro- 
-mani usi sunt, deinde, postquam facti sunt stipendiarii, 
-scula pro clypeis fecere. Serv. ad Aen. 1". ait, clypeos 
-esse peditum, scgta equilum, cum lamen Livius scribat, 
-mililibus primae classis, id est, praestantioribus, arma 
-imp€rala, galea, clypeus, ocreae, lorica, omnia ex aere; 
-secundae vero classis arma imperala, scutum pro . clypeo, 
-. et praeter loricam omnia eadem. Et Cic. Philipp. II. 
-42: Cum gladiis agmine quadrato sequunlur scutuli mi- 
-lites. Unde intelligitur, scuta tam peditum, quam equi- 
-tum fuisse, sed illorum longiora, horum vero breviora. 
-(1) Protecti, et non porrecti, (quod editores auctoris nostri 
-.nequaquam observarunt) rectissime legitur in emendatissi- 
-mis huius poétae editionibus, Frelloniano-Lugduncnsi impri— 
-mis, et in illa Erythraej, quae supra merito est Iiudata. 
+$$7777777$$
++Clypeus+ est rotundus, cavus, et totum protegit pectus. +Scutum+, proprie clypeum coriaceum notans, est oblongum, quadratum, et totum munit corpus. _Illum_ Graeci vocant [GGG], _Hoc_ [GGG], et quidem hanc ob causam, quod forium similitudinem referat, quae longiores, quam latiores esse solent. #Virg. Aen. III. 637#: *Argolici =clypei=, aut Phoebeae lampadis instar.* #1d. VIII. 662#: *=Scutis= protecti (1) corpora longis.* #Liv. V111. 8#: *=Clypeis= antea Romani usi sunt, deinde, postquam facti sunt stipendiarii, =scuta= pro =clypeis= fecere.* #Serv. ad Aen. 1X.# ait, +clypeos+ esse peditum, +scuta+ equitum, cum tamen Livius scribat, militibus primae classis, id est, praestantioribus, arma imperata, galea, +clypeus+, ocreae, lorica, omnia ex aere; secundae vero classis arma imperata, +scutum+ pro clypeo, et praeter loricam omnia eadem. #Et Cic. Philipp. II. 42#: *Cum gladiis agmine quadrato sequuntur =scutati= milites.* Unde intelligitur, +scuta+ tam peditum, quam equitum fuisse, sed _illorum_ longiora, _horum_ vero breviora.
+(1) Protecti, et non porrecti, (quod editores auctoris nostri nequaquam observarunt) rectissime legitur in emendatissimis huius poétae editionibus, Frelloniano-Lugduncnsi imprimis, et in illa Erythraei, quae supra merito est laudata. 
 
 
 +Coarguere+ est coércere et compensare: +Arguere+ osten- 
