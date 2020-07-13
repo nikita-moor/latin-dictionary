@@ -1347,34 +1347,12 @@ $$7777777$$
 +Clypeus+ est rotundus, cavus, et totum protegit pectus. +Scutum+, proprie clypeum coriaceum notans, est oblongum, quadratum, et totum munit corpus. _Illum_ Graeci vocant [GGG], _Hoc_ [GGG], et quidem hanc ob causam, quod forium similitudinem referat, quae longiores, quam latiores esse solent. #Virg. Aen. III. 637#: *Argolici =clypei=, aut Phoebeae lampadis instar.* #1d. VIII. 662#: *=Scutis= protecti (1) corpora longis.* #Liv. V111. 8#: *=Clypeis= antea Romani usi sunt, deinde, postquam facti sunt stipendiarii, =scuta= pro =clypeis= fecere.* #Serv. ad Aen. 1X.# ait, +clypeos+ esse peditum, +scuta+ equitum, cum tamen Livius scribat, militibus primae classis, id est, praestantioribus, arma imperata, galea, +clypeus+, ocreae, lorica, omnia ex aere; secundae vero classis arma imperata, +scutum+ pro clypeo, et praeter loricam omnia eadem. #Et Cic. Philipp. II. 42#: *Cum gladiis agmine quadrato sequuntur =scutati= milites.* Unde intelligitur, +scuta+ tam peditum, quam equitum fuisse, sed _illorum_ longiora, _horum_ vero breviora.
 (1) Protecti, et non porrecti, (quod editores auctoris nostri nequaquam observarunt) rectissime legitur in emendatissimis huius poétae editionibus, Frelloniano-Lugduncnsi imprimis, et in illa Erythraei, quae supra merito est laudata. 
 
+$$391$$
++Coarguere+ est coércere et compensare: +Arguere+ ostendere et patefacere. #Virg. Aen. IV. 13#: *Degeneres animos timor =arguit=.* Unde argumenta dicuntur, quae causam causae ostendunt. #Agr.# #R.#
 
-+Coarguere+ est coércere et compensare: +Arguere+ osten- 
-'dere et patefacere. Virg. Aen. IV. {3: Degeneres animos 
-timor arguit. Unde argumenta dicuntur, quae causam 
-causae ostendunt. #Agr.# #R.#
+$$392$$
++Codices+ et +Tabulae+ quantopere ab +adversariis+ differant, #Cicero docet pro Rosc. Com. II#: *Quod si eamdem vim, diligentiam auctoritatemque habent =adversaria=, quam =tabulae=; quid attinet =codicem= instituere? conscribere? ordinem conservare? memoriae tradere litterarum vetustatem?* Et paullo post: *Quid est, quod negligenter scribamus adversaria? quid est, quod diligenter conficiamus =tabulas=? qua de causa? quia haec sunt menstrua, illae sunt aeternae; haec delentur statim, illae servantur sancte; haec parvi temporis memoriam, illae perpetuae existimationis fidem, et religionem amplectuntur; haec sunt deiecta, illae in ordinem confectae. Itaque =adversaria= in iudicium protulit memo; codicem protulit, tabulas recitavit.* +Adversaria+ itaque dicuntur tabulae ad quotidianum usum paratae, in quibus cursim et negligenter ea scribimus, quae postea curatius in certas et perpetuo mansuras tabulas ordine ac disposite perscribimus, deductaque ex eo adpellatio videtur, quod ibi statui soleant, ubi nobis adsidue obversantur: quasi adversus nos posita, inde etiam adversarii dicti; quasi in quos perpetuo incurramus, vel qui se nobis adsidue opponant; hoc enim proprie adversarium significat. Haec ex Hotomanno notat Verburgius.
 
-
-CODICES et TABVLAE quantopere ab adversariis differant, 
-'Cicero docet pro Rosc. Com. II: Quod si eamdem vim, 
-diligentiam auctoritatemgue habent adversaria, quam ta- 
-• bulae; quid attinet codicem instituere? conscribere? ordinem 
-conservare? memoriae traderc Jitterarum vetustatem? Et 
-paullo post: Quid cst, quod negligenter scribamus adver- 
-saria? quid est, quod• diligenter conficiamus tabulas? qua 
-de causa? quia haec sunt menstrua, illae sunt aelernae;,haec delentur statim, illae servantur sancte; haec rvi 
-temporis memoriam, illae perpetuae eristimationis dem, 
-et religionem amplectuntur; haec sunt deiecta, illae in or- 
-dinem confectae. Itaque adversaria in iudicium protulil 
-.memo,• codicem protulit, tabulas recitavit. Adversaria itaque 
-dicuntur tabulae ad quotidianum usum paratae, in qui- 
-bus cursim et negligentcr ea scribimus, quae postea 
-curatius in certas et perpetuo mansuras tabulas ordine 
-ac disposite perscribimus, deductaque ex eo adpellatio 
-videtur, quod ibi statui soleant, ubi nobis adsiduc ob- 
-vcrsantur: quasi advcrsus nos posita. indc etiam adver- 
-•sarii dicti; quasi in quos perpetuo incurramus, vel qui 
-se nobis adsldue opponant; hoc enim proprie adversa- 
-rium significat. Haec ex Hotomanno notat Verburgius. 
 CODICILLI voce nihil Romani denotabant aliud, quam 
 •scripturam quamdam ad alios missam. Hinc saepe co- 
 dicillos pro epist05s ponit Cicero epist. ad Fam. lv. 
@@ -1387,7 +1365,9 @@ recte colligas codicillos, quos deinde imperatores tam-
 quam ultimac voluntatis genus ad robarunt, nihil aliud 
 fuisse quam epistolas scriplas ad {aeredes de eo, quod 
 ost mortem suam scribentes •ab haeredibus fieri vellent. 
-eineccius lib. II. A. R. p. 543. 
+eineccius lib. II. A. R. p. 543.
+
+ 
 COENA est vesperlinum epulum, a xotvi, quod idem, 
 ac communis, dictum, quia post diurnas operas tota 
 tfamilia congregata simul pascltur. Prandium est cibus 
