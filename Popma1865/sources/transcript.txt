@@ -1363,20 +1363,11 @@ $$394$$
 $$395$$
 +Coenaculum+ (1) est locus in superiore parte aedium, in quo Romani olim cibum sumebant, et homines pauperiores atque inquilini etiam habitabant. (Nos Subalpini appellamus _le soffite_). Antiqui enim palam et in commune vescebantur, nec ulli convivium singulare erat, ne in occulto deliciae luxuriam gignerent. #Leg. Stukii II. A. C. 14. fol. 197. fac. b.# Ideoque Isidorus coenaculum sentit dictum a communione. Unde et coenobium, sc. congregatio, aliis est. +Coenatio+ seu coenatiuncula, est locus ad coenandum in imo domus, laute et magnifice instructus (2). #Plaut. Amph. III. 1. 3#: *In superiore qui habito =coenaculo=.* #Sen. Ep. XC#: *Qui versatilia =coenationum= laquearia ita coagmentat, ut subinde alia facies atque alia succedat, et toties tecta, quoties fercula mutentur.* #Svet. Ner. XXXI#: *=Coenationes= laqueatae tabulis eburneis versatilibus, ut flores; fistulatis, ut unguenta desuper spargerentur.* 
 (1) +Coenacula+ dicuntur, ad quae scalis ascenditur. #Fest.# 
-(2) Demum vocabulo a Graecis mutuato appellabatur triclinium quoque. Ita enim #Cic. Attic. ep. III. 50#: *Cum secundis saturnalibus ad Philippum vesperi venisset, villa ita completa militibus, ut vix triclinium, ubi coenaturus ipse Caesar esset, vacaret.* Quo magis est mirandum, Servium eruditum quippe grammaticum, in commentar. #ad Virg. Aen. 1. 698#, temere negare, triclinium ipsum coenationem significare. Ita enim scribit: *Antiqui stibadia (a similitudine Sigmae litterae graecae, quae hac forma scribebatur C, Sigmae appellata) non habebant, sed stratis tribus lectis epulabantur. Unde triclinium sterni dicitur. Sic et Cicero sterni triclinia, et in foro sterni iubebat. Unde apparet, errare eos, qui triclinium dicunt ipsam basilicam, vel coenationem.* Haec ille.
+(2) Demum vocabulo a Graecis mutuato appellabatur triclinium quoque. Ita enim #Cic. Attic. ep. III. 50#: *Cum secundis saturnalibus ad Philippum vesperi venisset, villa ita completa militibus, ut vix triclinium, ubi coenaturus ipse Caesar esset, vacaret.* Quo magis est mirandum, Servium eruditum quippe grammaticum, in #commentar. ad Virg. Aen. 1. 698#, temere negare, triclinium ipsum coenationem significare. Ita enim scribit: *Antiqui stibadia (a similitudine Sigmae litterae graecae, quae hac forma scribebatur C, Sigmae appellata) non habebant, sed stratis tribus lectis epulabantur. Unde triclinium sterni dicitur. Sic et Cicero sterni triclinia, et in foro sterni iubebat. Unde apparet, errare eos, qui triclinium dicunt ipsam basilicam, vel coenationem.* Haec ille.
  
 $$396$$
-+Cogitare+ ex mente Nonii Marcelli est dubitare; De- 
-liberare vero est confirmare. Unde Turpilius: Quaeso 
-cogita ac delibera (1) It. Certum ac deliberatum est, 
-me illis obsequi.
-(1) Sed cogitare scelus minus est, quam suscfpere scelas. 
-fioc est facti atque operis; illud vero animi. Bechmannus 
-de O. L.L. p. 7. reiicit, quod Cicero et alii utrumque longe 
-aliter capiant Gesnerus thes. v. cogito. Interdum sane, qui 
-fateor. Sed non dst perpetua haec differentia. Nam 
-saepe dicitur qui consilium petit, et cogitat de profectione» 
-qui proficisci iam ante constituit. 
++Cogitare+ ex mente Nonii Marcelli est dubitare; +Deliberare+ vero est confirmare. Unde #Turpilius#: *Quaeso cogita ac delibera* (1) #It.# *Certum ac deliberatum est, me illis obsequi.*
+(1) Sed cogitare scelus minus est, quam suscipere scelus. Hoc est facti atque operis; illud vero animi. #Bechmannus de O. L.L. p. 7.# reiicit, quod Cicero et alii utrumque longe aliter capiant #Gesnerus thes. v. cogito.# Interdum sane, qui +cogitare+ se dicit nondum constitutum sibi certi quidquam fatetur. Sed non est perpetua haec differentia. Nam +deliberare+ saepe dicitur qui consilium petit, et +cogitat+ de profectione qui proficisci iam ante constituit.
 
  
 COGNITOR est, qui praesentis causam novit, et eius de- 
