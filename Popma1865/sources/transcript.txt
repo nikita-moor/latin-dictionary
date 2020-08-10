@@ -111,17 +111,7 @@ $$33$$
 +Acerbum+ est, quod fit in personam, +Iniquum+, quod in legem. #H.#
 
 $$34$$
-+Acerosum+ et +Aceratum+, utrumque nove positum, sed distanti proprietate signatum. +Acerosum+ namque panem farre minus purgato, ac sordibus a candido separato dicendum veteres putaverunt. #Lucil. XXV.#:
-<lg>
-  <l>Quae gallam bibere ac rugis conducere ventris</l>
-  <l>Farre =aceroso=, olei decumano pane coëgit.</l>
-</lg>
-Hunc Graeci ὑπόπυρον vocant. +Aceratum+ vero est lutum paleis mixtum, quo utuntur laterarii. #Lucil. ap. Non. V. 97.#:
-<lg>
-  <l>Nam laterem qui ducit, habet nil amplius unquam</l>
-  <l>Quam commune lutum e paleis, coenumque =aceratum=.</l>
-</lg>
-#R.#
++Acerosum+ et +Aceratum+, utrumque nove positum, sed distanti proprietate signatum. +Acerosum+ namque panem farre minus purgato, ac sordibus a candido separato dicendum veteres putaverunt. #Lucil. XXV.#: *<lg><l>Quae gallam bibere ac rugis conducere ventris</l><l>Farre =aceroso=, olei decumano pane coëgit.</l></lg>* Hunc Graeci ὑπόπυρον vocant. +Aceratum+ vero est lutum paleis mixtum, quo utuntur laterarii. #Lucil. ap. Non. V. 97.#: *<lg><l>Nam laterem qui ducit, habet nil amplius unquam</l><l>Quam commune lutum e paleis, coenumque =aceratum=.</l></lg>* #R.#
 
 $$35$$
 +Acerra+ et +Thuribulum+ fere pro iisdem habentur. #Festus# +acerram+ dicit esse aram, quae ante mortuum poni solebat, in qua odores incendebant. Alii arculam, inquit, esse dicunt thurariam, ubi thus reponebant. Antiquitatum scriptores ita distinguunt, ut +acerra+ sit arcula thuraria, +thuribulum+ vero, quo thus adoletur. V. #Nieup. Antiq. Rom. lv. 3. 10#.
@@ -142,16 +132,7 @@ $$39$$
 (1) +Acta+ proprie magisque usitate dicuntur de iis, quae in pace, in senatu, iudicio, foro, republica quis egerit. #Cic. Philipp. I. 7#, +Actum+ dicit, quod rarum: *Ecquid est, quod tam proprie possit dici actum eius, qui togatus in republica cum potestate imperioque versatus sit, quam lex?* #Ovidius# aliique postea +acta+ etiam de quolibet privato usurpant, contra usum veterum. +Acta+ a recentioribus et in Iure pro ipsis commentariis et monumentis actorum sumuntur. +In acta mittere+, proverbii speciem habet pro divulgare, publicare. #Senec. de Benef. II. 10#: *Beneficium in acta non mitto.* #Sallustius# hoc verbo, +acta+, utitur de rebus gestis in bello ut in #lugurtha LIII#: *milites alius alium laeti appellant, =acta= edocent atque audiunt.* Et #Cic. Orator. XV.#
 
 $$40$$
-+Acta+ et +Litus+ differunt. Non enim omnia +litora+ sunt +acta+, sed secretior amoeniorque +litoris+ secessus. #Corn. Nep. VIII#, refert, *Agesilaum in =acta= cum suis accubuisse, sine ullo tecto, quum in Aegyptum ivisset, stratumque habuisse tale, ut terra tecta esset stramentis.* Ad quem locum ita commentatur #Cellarius#: ἀκτή litus maris Homero saepe, etiam ripa tiberiana #Dionysio Halicarnasseo lib. X. f. 677.# #Cicero Verr. VII. 25#: *In =acta= cum mulierculis iacebat ebrius*; et #31#: *Uxorem eius tot in =acta= dies secum habere*; quod paullo ante dixerat +litus+ in insula Syracusis post Arethusae fontem, *amoeno, et ab arbitris remoto loco*. #Virg. Aen. V. 613#:
-<lg>
-  <l>At procul in sola secreta Troades =acta=</l>
-  <l>Amissum Anchisen flebant.</l>
-</lg>
-#Prudent. adv. Symmach. I. 436#:
-<lg>
-  <l>Invenit expositum secreti in =littoris acta=.</l>
-</lg>
-#Tacitus Hist. III. 76.# amoena +litorum+ dixit pro eo, quod #Cicero# et reliqui scriptores +actus+ vocant.
++Acta+ et +Litus+ differunt. Non enim omnia +litora+ sunt +acta+, sed secretior amoeniorque +litoris+ secessus. #Corn. Nep. VIII#, refert, *Agesilaum in =acta= cum suis accubuisse, sine ullo tecto, quum in Aegyptum ivisset, stratumque habuisse tale, ut terra tecta esset stramentis.* Ad quem locum ita commentatur #Cellarius#: ἀκτή litus maris Homero saepe, etiam ripa tiberiana #Dionysio Halicarnasseo lib. X. f. 677.# #Cicero Verr. VII. 25#: *In =acta= cum mulierculis iacebat ebrius*; et #31#: *Uxorem eius tot in =acta= dies secum habere*; quod paullo ante dixerat +litus+ in insula Syracusis post Arethusae fontem, *amoeno, et ab arbitris remoto loco*. #Virg. Aen. V. 613#: *<lg> <l>At procul in sola secreta Troades =acta=</l> <l>Amissum Anchisen flebant.</l> </lg>*  #Prudent. adv. Symmach. I. 436#: *<lg> <l>Invenit expositum secreti in =littoris acta=.</l> </lg>* #Tacitus Hist. III. 76.# amoena +litorum+ dixit pro eo, quod #Cicero# et reliqui scriptores +actus+ vocant.
 
 $$41$$
 +Actarii+, inquit #Vellus Longus#, appellantur scriptores actorum. +Actuarii+ sunt hi, qui actum agunt. #(I. 7. D. de Minor.)# Quae differentia, meo quidem iudicio, inepta est. Nam +Actuarii+ dicuntur, qui acta per notas scribebant, excipiebantque orationes oratorum. #Suet. Caes. LV#: *Augustus existimat magis ab =Actuarii= exceptam, male subsequentibus verba dicentis, quam ab ipso editam.* #Sen. Ep. XXXIII#: *Non quidem haec, quae alienis verbis commodatur, et =Actuarii= vice fungitur.* Eos autem, qui actum agunt, administrant aut gerunt (nam haec promiscue iurisconsulti efferunt), non +Actuarios+, sed +Actores+ dici constat, ex #Plinio#, #Tacito# et aliis.
@@ -178,12 +159,7 @@ $$46$$
 +Actus+ _est_, ubi vehiculum vel iumentum agere, armentaque traiicere licet, non etiam trahere lignum, aut lapidem; +Iter+ vero est, quo quis pedes, vel eques, commeare potest, praeterea sella aut lectica vehi, non item iumentum ducere, vel vehiculum. Sed +Via+ appellatur, qua ius est eundi, agendi, trahendi quoque, et ferendi erectam hastam, si modo fructus non laedantur. Ilaque +actus+ continet +iter+, +via+ utrumque #(I. 1. D. de Servitut. Rust. Praed.)#. Et +actus+ quidem in latitudine habet pedes quatuor. +Iter+ pedes duos, aut tres. +Via+ in porrecto octo edes, in anfracto, id est flexu, sexdecim ex leg. XII. #Tabul. Ulp. Instit. 2.# +Iter+ est ius eundi, ambulandi hominis, non etiam iumentum agendi, vel vehiculum. +Actus+ est ius agendi vel iumentum, vel vehiculum. Itaque qui +iter+ habet, +actum+ non habet. Qui +actum+ habet, +iter+ habet, eoque uti potest et sine iumento. +Via+ est ius eundi et agendi et ambulandi. Nam +iter+ et +actum+ in se +via+ continet.
 
 $$47$$
-+Actus+ _fabulae_ seu _comoediae_, est pars fabulae seu comoediae. De numero autem actuum comoediae loquitur #Hor. Ep. ad Pis. V. 189. seq.# hunc in modum:
-<lg>
-  <l>Neve minor quinto, neu sit productior actu</l>
-  <l>=Fabula=, quae posci vult et spectata reponi.</l>
-</lg>
-+Actio+ autem comoediae est ipsa per gestus repraesentatio. Quamquam et _oratoris actio_ dicitur pronunciatio cum gestu ac vocis moderatione. Unde histriones fabularum _Actores_ dicuntur, non _Gestores_. Et qui consulis personam gerit, _consulem agere_ dicitur, et qui scurram imitatur, _scurram_ quoque _agere_. #H.#
++Actus+ _fabulae_ seu _comoediae_, est pars fabulae seu comoediae. De numero autem actuum comoediae loquitur #Hor. Ep. ad Pis. V. 189. seq.# hunc in modum: *<lg> <l>Neve minor quinto, neu sit productior actu</l> <l>=Fabula=, quae posci vult et spectata reponi.</l> </lg>* +Actio+ autem comoediae est ipsa per gestus repraesentatio. Quamquam et _oratoris actio_ dicitur pronunciatio cum gestu ac vocis moderatione. Unde histriones fabularum _Actores_ dicuntur, non _Gestores_. Et qui consulis personam gerit, _consulem agere_ dicitur, et qui scurram imitatur, _scurram_ quoque _agere_. #H.#
 
 $$48$$
 +Acuere+ et +Exacuere+, praepositione distinguuntur. #Corn.# #Front.# #R.#
@@ -195,11 +171,7 @@ $$50$$
 +Acutus+ et +Argutus+ differunt. #Cicero de opt. genere orat. II#, ad docendum adhiberi vult "sententias acutas", ad delectandum "argutas". #Id. Coel. VIII#: *Si mihi ad haec =acute arguteque= responderit.*
 
 $$51$$
-+Ad+ denotat motum ad locum. +Apud+, factum in loco. #Fl. Sosip.# +Ad+ est nota termini, quo quid tendit; +Apud+ vero est proximitatis nota. Et _hoc_, post verba motus non adhibetur; _illud_, verba motus vel antecedit, vel subsequitur, ut: "=Ad= te eo. Transeo =ad= forum." #Lucil. Sat. X#:
-<lg>
-  <l>Intro nos vocat =ad= sese, tenet intus =apud= se.</l>
-</lg>
-Interdum tamen +ad+ sumitur pro +apud+. #Liv. X. 35#: *Minus cladis caeterum non plus animorum =ad= hostes erat.* #Virg. Aen. I. 24#: *Prima quod =ad= Troiam pro caris gesserat Argis.* Contra +apud+ pro +Ad+. #Modestinus Pandect. 2. I. 27. D. de Statu Lib.# Cum +apud+ eum, *cui dare iussus est dominium quoque servi, pervenit.* #Venuleius de Officio Proconsulis, 6. I. 11.# #D. de Officio Proc.#: *Reiicere legatus =apud= proconsulem debet.*
++Ad+ denotat motum ad locum. +Apud+, factum in loco. #Fl. Sosip.# +Ad+ est nota termini, quo quid tendit; +Apud+ vero est proximitatis nota. Et _hoc_, post verba motus non adhibetur; _illud_, verba motus vel antecedit, vel subsequitur, ut: "=Ad= te eo. Transeo =ad= forum." #Lucil. Sat. X#: *<lg> <l>Intro nos vocat =ad= sese, tenet intus =apud= se.</l> </lg>* Interdum tamen +ad+ sumitur pro +apud+. #Liv. X. 35#: *Minus cladis caeterum non plus animorum =ad= hostes erat.* #Virg. Aen. I. 24#: *Prima quod =ad= Troiam pro caris gesserat Argis.* Contra +apud+ pro +Ad+. #Modestinus Pandect. 2. I. 27. D. de Statu Lib.# Cum +apud+ eum, *cui dare iussus est dominium quoque servi, pervenit.* #Venuleius de Officio Proconsulis, 6. I. 11.# #D. de Officio Proc.#: *Reiicere legatus =apud= proconsulem debet.*
 
 $$52$$
 +Ad+, aut proprie personam significat, ut: "eo =ad= Pompeium"; aut locum, ut: "abiit =ad= theatrum". +At+, differentiam rerum significat, ut cum dicimus: "Scipio est bellator, =at= Marcus Cato orator". #Fest.# #R.#
@@ -307,11 +279,7 @@ $$83$$
 +Adversaria+ indices sunt seu commentarii, in quibus memoriae causa res adnotantur. +Tabulae+ seu +codicilli+, in quibus res ordine explicantur.
 
 $$84$$
-+Adversus+ refertur ad personam tantum. +Contra+ ad locum et personam, ut volunt Grammatici; cum tamen +Adversus+ etiam ad locum referatur. #Ter. Phorm. I. 2. 38 sq.#:
-<lg><l>....ex =adversum= ei loco</l></lg>
-Tonstrina (h. e. apta sedes otiosis et nugivendis) 
-<lg><l>erat quaedam....</l></lg>
-#Cic. Divin. I. 45#: *Ara Aio loquenti =adversus= eum locum consecrata est.* Sed cum ad personam referuntur, hoc differunt; quod +adversus+ levius est, quam +contra+. Nam +contra+ inimicitias, dissidia et nocendi voluntatem ostendit: +Adversus+ etiam cum bona voluntate est, et _erga_ significat. #Cato de Consulatu# suo: *Omnia plena hostium, copiae magnae =contra= me sedebant.* #Ter. Andr. I. 1. 15#: *Id gratum fuisse =adversum= te habeo gratiam.* #Cic. Nat. Deor. II. 2#: *Pietas =adversus= Deos.* +Adversum+ semper praepositio est, ut: "=Adversum= te habeo gratiam". +Adversus+ interdum participium, ab Adverto. #Donat. ad. Ter.#
++Adversus+ refertur ad personam tantum. +Contra+ ad locum et personam, ut volunt Grammatici; cum tamen +Adversus+ etiam ad locum referatur. #Ter. Phorm. I. 2. 38 sq.#: *<lg> <l>....ex =adversum= ei loco</l> </lg>* Tonstrina (h. e. apta sedes otiosis et nugivendis) *<lg> <l>eratquaedam....</l> </lg>* #Cic. Divin. I. 45#: *Ara Aio loquenti =adversus= eum locum consecrata est.* Sed cum ad personam referuntur, hoc differunt; quod +adversus+ levius est, quam +contra+. Nam +contra+ inimicitias, dissidia et nocendi voluntatem ostendit: +Adversus+ etiam cum bona voluntate est, et _erga_ significat. #Cato de Consulatu# suo: *Omnia plena hostium, copiae magnae =contra= me sedebant.* #Ter. Andr. I. 1. 15#: *Id gratum fuisse =adversum= te habeo gratiam.* #Cic. Nat. Deor. II. 2#: *Pietas =adversus= Deos.* +Adversum+ semper praepositio est, ut: "=Adversum= te habeo gratiam". +Adversus+ interdum participium, ab Adverto. #Donat. ad. Ter.#
 
 $$85$$
 +Adversus+ ostendit frontem, +aversus+ tergum. +Adversum+ te, adversarius est; +adversus+ te, imitator est. #R.#
@@ -329,12 +297,7 @@ $$88$$
 (1) Incestus, quia Venus ad non castas nuptias, quae contra leges vel mores fiunt, non venit cum suo caesto. #Lutat. in II. Statii Thebaid.# Scortatio quaevis passim incestus nomine donatur. #R.#
 
 $$89$$
-+Advocatus+, graece παράκλητος, est qui gratiae et auctoritatis causa adest amico in iudicio, sive ut ius suggerat, ut iurisconsultus, sive ut praesentia sua adversarii iniuriam propulset, ut amicus, sive demum ut adsit periclitanti, auxiliaturus, si quid opus sit. Huius officium +Advocatio+ dicitur. +Patronus+ est (1) qui alicui se beneficiis patrem praestat, seu, qui in iudicio causas oratione defendit, ut orator et causidicus, unde +patrocinari+ pro auxiliari, et +patrocinium+ pro auxilio ponitur. +Advocati+ suscipiunt personas, +procuratores+ negotia. +Advocati+ debent esse iurisperiti, non item +procuratores+. _Illi_ sunt quasi tutores, _hi_ quasi curatores. +Advocato+ meo sum cliens, +procuratori+ mandator, vel dominus. +Advocati+ nomen generalius est et honestius, quam +patroni+, quod #Ovid. de Art. amandi III, 531# festive expressit:
-<lg>
-  <l>Munera det dives, ius qui profitebitur, adsit,</l>
-  <l>Facundus causam saepe clientis agat.</l>
-</lg>
-#Asconius Pedianus# in #Divinationem#: *Qui defendit alterum iudicio, aut =patronus= dicitur, si orator est, aut =advocatus=, si aut ius suggerit, aut praesentiam suam commodat amico* (2). Idem: Vel ut consulantur, conveniunt +advocati+, vel ut alterutri parti apud arbitros adsint, vel ut ipsi iudices in rem aliquam capiantur. Et hoc olim. Posterior autem aetas +advocatum+ dixit quemcumque causarum actorem. +Patronus+ _caussam_ agit, seu orat, nempe orator: +Advocatus+ tantum adest, ut gratia et auctoritate reo prosit. Ita aetate #Ciceronis# et ante his utebantur. Sed postea +Advocatus+ idem, quod +patronus+ valere coepit. #Paraeus. R. Auct. Dial. de Orat. I#: *Horum temporum diserti =causidici=, et =advocati=, et =patroni=, et quidvis potius, quam oratores vocantur.* #Ulpian. de omnibus Tribunalib. 8. Lib. I. de extr. Cog.#: *=Advocatos= accipere debemus omnes omnino, qui causis agendis quoquo studio operantur.* +Advocatur+ daturus patrocinium. +Invocatur+ praebiturus auxilium; +Evocatur+ praestiturus obsequium.
++Advocatus+, graece παράκλητος, est qui gratiae et auctoritatis causa adest amico in iudicio, sive ut ius suggerat, ut iurisconsultus, sive ut praesentia sua adversarii iniuriam propulset, ut amicus, sive demum ut adsit periclitanti, auxiliaturus, si quid opus sit. Huius officium +Advocatio+ dicitur. +Patronus+ est (1) qui alicui se beneficiis patrem praestat, seu, qui in iudicio causas oratione defendit, ut orator et causidicus, unde +patrocinari+ pro auxiliari, et +patrocinium+ pro auxilio ponitur. +Advocati+ suscipiunt personas, +procuratores+ negotia. +Advocati+ debent esse iurisperiti, non item +procuratores+. _Illi_ sunt quasi tutores, _hi_ quasi curatores. +Advocato+ meo sum cliens, +procuratori+ mandator, vel dominus. +Advocati+ nomen generalius est et honestius, quam +patroni+, quod #Ovid. de Art. amandi III, 531# festive expressit: *<lg><l>Munera det dives, ius qui profitebitur, adsit,</l><l>Facundus causam saepe clientis agat.</l></lg>* #Asconius Pedianus# in #Divinationem#: *Qui defendit alterum iudicio, aut =patronus= dicitur, si orator est, aut =advocatus=, si aut ius suggerit, aut praesentiam suam commodat amico* (2). Idem: Vel ut consulantur, conveniunt +advocati+, vel ut alterutri parti apud arbitros adsint, vel ut ipsi iudices in rem aliquam capiantur. Et hoc olim. Posterior autem aetas +advocatum+ dixit quemcumque causarum actorem. +Patronus+ _caussam_ agit, seu orat, nempe orator: +Advocatus+ tantum adest, ut gratia et auctoritate reo prosit. Ita aetate #Ciceronis# et ante his utebantur. Sed postea +Advocatus+ idem, quod +patronus+ valere coepit. #Paraeus. R. Auct. Dial. de Orat. I#: *Horum temporum diserti =causidici=, et =advocati=, et =patroni=, et quidvis potius, quam oratores vocantur.* #Ulpian. de omnibus Tribunalib. 8. Lib. I. de extr. Cog.#: *=Advocatos= accipere debemus omnes omnino, qui causis agendis quoquo studio operantur.* +Advocatur+ daturus patrocinium. +Invocatur+ praebiturus auxilium; +Evocatur+ praestiturus obsequium.
 (1) +Patronus+ de eo qui alium manu mittit, et suo praesidio defendit. #Plaut. Mostell. I. 3. II. et. III. 2. 59.# Ita servi heros appellabant +patronos+, a quibus forte servati. #Plaut. Men. V. 7. 42.# #R.#
 (2) Aut +procurator+, si absentis negotium suscipit, aut +cognitor+, si praesentis causam novit, et sic tuetur ut suam. Ergo #Cicero# dixit cognitorem familiarissimum defensorem. #Pedian.# #R.#
 
@@ -519,15 +482,7 @@ $$145$$
 +Alvus+ proprie virorum est, alias dicitur venter animalis, +Uterus+ mulierum, est enim locus, quo foetus conceptus continetur. +Venter+ utriusque, proprie autem est corporis regio ima, alimentorum receptaculum. #Agr.# Consumit +venter+, +uterus+ parit, egerit +alvus+. #P.#
 
 $$146$$
-+A manu+ est is, qui amanuensis aliter dicitur, cuius scilicet opera et manu ad scribendum utimur. +Ad manum+, praesto adest ad imperata facienda. Hanc vero differentiam omnino vanam ac irritam esse, testatur #Claud. Salmasius#, eminentioris litteraturae eximie peritus vir, in #notis et animadv. ad Prooem. Comment.# Simplicii in #Epicteti Enchirid. p. 8.# his verbis: *Falsi sunt viri doctissimi, quibus hactenus persuasum fuit, discrimen esse inter servos =ad manum=, et amanuenses, sive =a manu=, quasi hi tantum sic vocati essent, quorum opera dominus in excipiendo, quae dictaret, et scribendo uteretur.* Nam +a manu+ servus, et +ad manum+ idem. Ut _servus a veste_, et _ad vestem_, et alia id genus complura. Servi enim amanuenses, quos etiam προχείρους graece dictos licet hariolari, erant in ministerio quotidiano, et dominis semper praesto esse debebant, qui propterea et ad manum servi dicebantur, et continebantur illorum appellatione muliones, vestitores, obsonatores, vestiarii, cellarii, cubicularii, arcarii, coqui, placentarii, tonsores, pistores, lecticarii et alii homines huiusmodi. Attamen scribae videntur quibusdam κατ΄ἐξοχὴν amanuenses dicti, quia praeter caeteros urbani ministerii famulos erant maxime ad manum. Rusticani enim ministerii servos dominis suis non semper ad manum praesto fuisse, docet nos #Paulus III#: #Sent. Tit. VII#: *Servis, inquit, amanuensibus legatis omnes, qui ex conversatione urbana et in ministerio fuerint, debebuntur, nisi ex his aliqui perpetuo ad opus rusticum transferantur.* Addit mox: *dubitatum esse, an venatores servi, vel aucupes inter urbana ministeria continerentur.* Quod idem est, ac si dixisset, inter amanuenses. #Cic. de Orat. III. 60#: *Quem servum ille habuit =ad manum=.* #Svet. in Aug.#: *Thallo =a manu=, quod pro epistola prodita denarios quingentos accepisset, crura fregit.* Sic +A pedibus+ dicitur, qui negotia domini pedibus exsequitur. +Ad pedes+ olim erat, qui stabat pone dominum accumbentem, et coenanti ministrabat. Nam lecti tricliniares in medio coenationum sternebantur, ut spatium, quantum satis esset ministrantibus, relinqueretur. #Cic. ad Att. VIII. 5#: *Policem, servum =a pedibus= meum, Romam misi.* #Senec. de Benef. III. 27#: *Servus qui coenanti =ad pedes= steterat.* #Mart. Ep. VIII. 20. 19#:
-<lg>
-  <l>Misto lagenam replet =ad pedes= vino.</l>
-</lg>
-#Id. II. 23.# tamen dixit:
-<lg>
-  <l>Omnia cum retro pueris obsonia mittas:</l>
-  <l>Cur non mensa tibi ponitur =a pedibus=?</l>
-</lg>
++A manu+ est is, qui amanuensis aliter dicitur, cuius scilicet opera et manu ad scribendum utimur. +Ad manum+, praesto adest ad imperata facienda. Hanc vero differentiam omnino vanam ac irritam esse, testatur #Claud. Salmasius#, eminentioris litteraturae eximie peritus vir, in #notis et animadv. ad Prooem. Comment.# Simplicii in #Epicteti Enchirid. p. 8.# his verbis: *Falsi sunt viri doctissimi, quibus hactenus persuasum fuit, discrimen esse inter servos =ad manum=, et amanuenses, sive =a manu=, quasi hi tantum sic vocati essent, quorum opera dominus in excipiendo, quae dictaret, et scribendo uteretur.* Nam +a manu+ servus, et +ad manum+ idem. Ut _servus a veste_, et _ad vestem_, et alia id genus complura. Servi enim amanuenses, quos etiam προχείρους graece dictos licet hariolari, erant in ministerio quotidiano, et dominis semper praesto esse debebant, qui propterea et ad manum servi dicebantur, et continebantur illorum appellatione muliones, vestitores, obsonatores, vestiarii, cellarii, cubicularii, arcarii, coqui, placentarii, tonsores, pistores, lecticarii et alii homines huiusmodi. Attamen scribae videntur quibusdam κατ΄ἐξοχὴν amanuenses dicti, quia praeter caeteros urbani ministerii famulos erant maxime ad manum. Rusticani enim ministerii servos dominis suis non semper ad manum praesto fuisse, docet nos #Paulus III#: #Sent. Tit. VII#: *Servis, inquit, amanuensibus legatis omnes, qui ex conversatione urbana et in ministerio fuerint, debebuntur, nisi ex his aliqui perpetuo ad opus rusticum transferantur.* Addit mox: *dubitatum esse, an venatores servi, vel aucupes inter urbana ministeria continerentur.* Quod idem est, ac si dixisset, inter amanuenses. #Cic. de Orat. III. 60#: *Quem servum ille habuit =ad manum=.* #Svet. in Aug.#: *Thallo =a manu=, quod pro epistola prodita denarios quingentos accepisset, crura fregit.* Sic +A pedibus+ dicitur, qui negotia domini pedibus exsequitur. +Ad pedes+ olim erat, qui stabat pone dominum accumbentem, et coenanti ministrabat. Nam lecti tricliniares in medio coenationum sternebantur, ut spatium, quantum satis esset ministrantibus, relinqueretur. #Cic. ad Att. VIII. 5#: *Policem, servum =a pedibus= meum, Romam misi.* #Senec. de Benef. III. 27#: *Servus qui coenanti =ad pedes= steterat.* #Mart. Ep. VIII. 20. 19#: *<lg> <l>Misto lagenam replet =ad pedes= vino.</l> </lg>* #Id. II. 23.# tamen dixit: *<lg> <l>Omnia cum retro pueris obsonia mittas:</l> <l>Cur non mensa tibi ponitur =a pedibus=?</l> </lg>*
 
 $$147$$
 +Amator+ fingere potest, +Amans+ vere amat. #Donat.# +Amator+, qui ad tempus, +Amicus+ qui perpetuo amat. #Donat.# +Amans+ in actione, +Amator+ est in proclivitate. #R.#
@@ -872,12 +827,7 @@ $$251$$
 (2) Qui sic dicuntur a C. Iulio Caesare, dictatore, primo Romanorum monarcha, cuius parentes fuerunt L. Caesar, praetor, et Aurelia, C. Cottae filia, primariae dignitatis ac castae latinitatis foemina, ita ut, #Theodoro Petreio# in #chronologica romanor. imperator. historia p. 3.# scribente, nitide atque eleganter romane loqueretur; qua et ab infantia filium ita imbuit, vix ut ullum suo tempore superiorem, nedum parem, in scribendo loquendoque Caesar habuisse existimetur. Ideoque #C. Velleius Paterculus II. 36.# eum eloquendi facultate merito Ciceroni fecit proximum. 
 
 $$252$$
-+Aula+, a graeca voce αὐλὴ, est locus in aedibus subdialis; italice <span lang="it">atrio</span>, <span lang="it">cortile</span>. +Aulae+ nomine donatur etiam domus principum, propterea quod complures +aulas+ sive atria habere consuevit. Sed toto coelo errant, qui +aulam+ nominant quae Italis est <span lang="it">una gran sala</span>. Haec enim a #Vitruvio (lib. VI. c. 10.)# aliisque latinis optimae notae scriptoribus +conclave maximum+ appellatur, vel, si locum velimus significare, in quem multi confluant alicuius audiendi causa, +auditorium+. #Virg. Aen. III. 353#: 
-<lg>
-  <l>Illos porticibus rex excipiebat in amplis; </l>
-  <l>=Aulaï= in medio libabant pocula Bacchi.</l>
-</lg>
-#Senec. Ira. II. 33#: *Rarissimam rem in =aula= consequi senectutem.* #Cic. Orat. II. 86#: *=Conclave= illud ubi epularetur Scopas.* #Svet. Tib. XI#: *Cum circa scholas et =auditoria= professorum assiduus esset.* #Th. Vall.#
++Aula+, a graeca voce αὐλὴ, est locus in aedibus subdialis; italice <span lang="it">atrio</span>, <span lang="it">cortile</span>. +Aulae+ nomine donatur etiam domus principum, propterea quod complures +aulas+ sive atria habere consuevit. Sed toto coelo errant, qui +aulam+ nominant quae Italis est <span lang="it">una gran sala</span>. Haec enim a #Vitruvio (lib. VI. c. 10.)# aliisque latinis optimae notae scriptoribus +conclave maximum+ appellatur, vel, si locum velimus significare, in quem multi confluant alicuius audiendi causa, +auditorium+. #Virg. Aen. III. 353#: *<lg> <l>Illos porticibus rex excipiebat in amplis;</l>  <l>=Aulaï= in medio libabant pocula Bacchi.</l> </lg>* #Senec. Ira. II. 33#: *Rarissimam rem in =aula= consequi senectutem.* #Cic. Orat. II. 86#: *=Conclave= illud ubi epularetur Scopas.* #Svet. Tib. XI#: *Cum circa scholas et =auditoria= professorum assiduus esset.* #Th. Vall.#
 
 $$253$$
 +Avarorum+ tria sunt genera: +avidi+, +miseri+, +aridi+. #Ter. Heaut. III. 2. 15#: *Sed habet patrem quemdam, avidum, miserum atque aridum.* Avidum cum arido coniungit etiam #Plaut. Pers. II. 3. 14#: *Nam id demum lepidum est, triparcos homines, vetulos, avidos, aridos.* Est vero +avidus+, undique corradens pecuniam. #Ter. Eun. I. 2.51#: *=Miser= est, qui quum habeat, uti non audet.* #Hor. Ep. ad Pis. 70#: *Quaerit, et inventis =miser= abstinet, et timet uti.* +Aridus+ est tenax nec ulli quidquam largiens. #Plaut. Aul. II. 4. 18#: *Pumex non est aeque =aridus=, atque hic est senex.* #Id. Pers. I. 42#: *Nam tu aquam a pumice nunc postulas, qui ipse sitit.* V. #Westerhovius ad Ter. Heaut. I. c.#
@@ -900,17 +850,7 @@ $$258$$
 (2) +Severus+ non levis, sed seria alacriter agens est. Sic "pater severus" adhibeat disciplinae severitatem, non tamen nimis severe, et quod liberis asseverat faciendum esse, in eo ipsos perseveranter perseverare iubeat, sine qua perseverantia omnis asseveratio vana foret. +Torvus+ autem est, qui torto vultu spectat, et de brutis ac bestiis proprie dicitur. Inde #Virg. Ecl. II. 63#: *=Torva= leaena lupum sequitur.* Dicitur et "homo torvus", quando est horribilis, et aspectu formidabilis.
 
 $$259$$
-+Aut+, +Sive+, +Vel+ inter se differunt. +Aut+ ei +vel+ diversis rebus interponitur, +sive+ iisdem rebus diverso nomine explicandis, vel cum geminatur rebus indifferentibus. Porro etiam +aut+ et +vel+ habent aliquid discriminis. Licet enim utrumque diversis rebus interponatur, tamen +aut+ proprie est διαζευτικὸν, et contraria invicem ita, ut alterutrum excludat, v. g. "=aut= dies, =aut= nor"; vel proprie est ὑποδιαζευτικὸν, et diversa, nihil excipiendo, coniungit, v. g. "=vel= tu, =vel= uxor tua, =vel= e tua familia quispiam adfligetur". Hinc non satis recte dicitur: "Ampullae scorteae fuerunt, =aut= fictiles, =vel= ex aere". Quam locutionem in #Casaubono# notavit #Scioppius Iud. de Stil. Histor. p. 448# et in #Thuano p. 120#; quamvis, quod #Scioppium# fortasse latuit, haec distinctio non usquequaque a veteribus, praesertim a poëtis custodita fuerit, v. g. apud #Martialem Epigr. IV. 78. 6.#
-<lg>
-  <l>Tunc ego, non oculos, sed ventrem pascere veni. </l>
-  <l>Aut appone dapes, Vare, vel aufer opes.</l>
-</lg>
-#It. I. 92#:
-<lg>
-  <l>Cum tua non edas, carpis mea carmina, Laeli:</l>
-  <l>Carpere vel noli nostra, vel ede tua.</l>
-</lg>
-At quid poëtis non licet, pro metri ratione? Sed apud historicos et oratores huiusmodi exempla similiter quamvis parcissime occurrunt. Si de praeteritis, et in praeterito loqueris, tunc +vel+ rectius διαζευτικὸν est, et pro +aut+ ponitur, v. g. #Curt. III. 1. 183#: *Oraculi sortem =vel= elusit, =vel= implevit.* Sin autem in praesenti vel futuro hoc efferendum foret, tunc +vel+ locum habere, secundum linguae ἀκρίβειαν non posset, sed +aut+ rectius substituendum esset, v. g. "oraculi sortem =aut= eludet, =aut= implebit"; quamvis nec desint, praesertim apud comicos, exempla, ubi +vel+ etiam in praesenti tempore ponitur pro +aut+. #Ter. Eun. II. 3. 27#: *Hanc tu mihi =vel= vi, =vel= clam, vel precario fac tradas.* Haec vero differentia non videtur esse perpetua, vel usquequaque a veteribus custodita. Sunt enim nonnulla exempla in contrarium. Ila enim #Cicero Off. III. 10#: *Pace =vel= Quirini, =vel= Romuli dixerim.* #Tacit. Annal. IV. 47#: *Nec multo post necessitas abiit, =sive= omissa simulatio.*
++Aut+, +Sive+, +Vel+ inter se differunt. +Aut+ ei +vel+ diversis rebus interponitur, +sive+ iisdem rebus diverso nomine explicandis, vel cum geminatur rebus indifferentibus. Porro etiam +aut+ et +vel+ habent aliquid discriminis. Licet enim utrumque diversis rebus interponatur, tamen +aut+ proprie est διαζευτικὸν, et contraria invicem ita, ut alterutrum excludat, v. g. "=aut= dies, =aut= nor"; vel proprie est ὑποδιαζευτικὸν, et diversa, nihil excipiendo, coniungit, v. g. "=vel= tu, =vel= uxor tua, =vel= e tua familia quispiam adfligetur". Hinc non satis recte dicitur: "Ampullae scorteae fuerunt, =aut= fictiles, =vel= ex aere". Quam locutionem in #Casaubono# notavit #Scioppius Iud. de Stil. Histor. p. 448# et in #Thuano p. 120#; quamvis, quod #Scioppium# fortasse latuit, haec distinctio non usquequaque a veteribus, praesertim a poëtis custodita fuerit, v. g. apud #Martialem Epigr. IV. 78. 6#: *<lg> <l>Tunc ego, non oculos, sed ventrem pascere veni.</l>  <l>Aut appone dapes, Vare, vel aufer opes.</l> </lg>* #It. I. 92#: *<lg> <l>Cum tua non edas, carpis mea carmina, Laeli:</l> <l>Carpere vel noli nostra, vel ede tua.</l> </lg>* At quid poëtis non licet, pro metri ratione? Sed apud historicos et oratores huiusmodi exempla similiter quamvis parcissime occurrunt. Si de praeteritis, et in praeterito loqueris, tunc +vel+ rectius διαζευτικὸν est, et pro +aut+ ponitur, v. g. #Curt. III. 1. 183#: *Oraculi sortem =vel= elusit, =vel= implevit.* Sin autem in praesenti vel futuro hoc efferendum foret, tunc +vel+ locum habere, secundum linguae ἀκρίβειαν non posset, sed +aut+ rectius substituendum esset, v. g. "oraculi sortem =aut= eludet, =aut= implebit"; quamvis nec desint, praesertim apud comicos, exempla, ubi +vel+ etiam in praesenti tempore ponitur pro +aut+. #Ter. Eun. II. 3. 27#: *Hanc tu mihi =vel= vi, =vel= clam, vel precario fac tradas.* Haec vero differentia non videtur esse perpetua, vel usquequaque a veteribus custodita. Sunt enim nonnulla exempla in contrarium. Ila enim #Cicero Off. III. 10#: *Pace =vel= Quirini, =vel= Romuli dixerim.* #Tacit. Annal. IV. 47#: *Nec multo post necessitas abiit, =sive= omissa simulatio.*
 
 $$260$$
 +Autor+ proprie, qui aliquid inchoat, et perficit, et sic idem est, ac factor, Graecis quasi αὐτουργὸς, ab αὐτὸς, ideoque tantum per _t_ scribi debet. Qui per _th_ scribunt +author+, decipiuntur nominibus authentes et authenticus, quae Graecis sunt αὐθέντης, αὐθεντικὸς. Verum longe alia res est. Immo etiam +autor+ est, qui autoritate sua approbat, ut aliquid agamus. #Plaul. Aul. II. 2. 73#: *Impero =autorque= sum, ut tu me cuivis castrandum loces.* Unde tutores pupillorum +autores+ vocamus, quorum autoritate illi faciunt omnia. Caeterum +autorem+, non tantum de personis, puta Deo, angelis, et hominibus dici, sed aliquando etiam intellectus expertibus tribui, multis exemplis corroborat #Rud. Goclen. lib. I. Problem. Grammaticor. c. 31. p. 26.# Sed +auctor+ per _ct_ scriptus generaliter illum denotat, qui aliquid auget; specialiter vero, qui in auctionibus pretio aucto ius dominii in se transtulit. Itaque falluntur, qui autorem et auctorem unum idemque esse, ideoque duo haec vocabula indifferenter scribenda statuunt. #H.# (1). 
@@ -10590,1255 +10530,460 @@ Ernesti de negotiationibus romanis disput. Lips. 4 737'.
 V. Mercator. 
 
 $$1219$$
-+Nemo+ de persona semper dicitur, ut _nemo_ homo. +Nullus+ tam de re, quam de persona, et est universalis negativa et omnia excludit. #Leg. Strauchius loc. alias alleg. p. 447. col. b.# Sed +nonnemo+ est aliquis, seu quispiam. Quod exemplorum probationem non desiderate. #Front.#
++Nemo+ de persona semper dicitur, ut "nemo homo". +Nullus+ tam de re, quam de persona, et est universalis negativa et omnia excludit. #Leg. Strauchius loc. alias alleg. p. 447. col. b.# Sed +nonnemo+ est aliquis, seu quispiam. Quod exemplorum probationem non desiderate. #Front.#
 
-NEMVS. V. Lvcvs. 
-NEPOS est qui ex filio vel filia natus est, quique 
-Gallis dicitur petit Differt a filio fratri8 vel sorori8, 
-quem Itali appellant nipote. Horat. Od. I. {O. : Mer— 
-curi, facunde nepos Atlantis. TH. VALL. 
-NEQUITIA V. MALITIA. 
-NESC10 prorsus cuncta; sed ignoro aliquid. H. 
-NIHIL adverbium; nihili nomen est. Huius oppositur• 
-est frugi. Sed nihili est, qui non hili, h. e. cuiusvis 
-est minimi. Est autem hilum proprie medius volae sero— 
-biculus. mud si dicas, quantitatem notas, sin hoc, mo- 
-res. Sosip. 
-NIMBI et IMBRES dicuntur repentinae et praecipites. 
-pluviae quae summa cadunt vi et cito desinunt. Nimbus. 
-mterdum quoque vasis est genus, quo vina•, unguenta 
-et alii liquores funduntur. Inde Martialis Epigr. XIV. { {2: 
-Ab love qui veniet, miscenda ad pocula largas Fundet 
-nimbus aquas: hic tibi vina dabit. Pluvias Ipsas voca— 
-mus lentas et iuges, quae non effuse ingruunt, sed 
-durant tamen diuLius, vel aquae e caelo guttatim mis— 
-sae distillationem. V. Imber. 
-NISVS ingenio, nirus corpore. H. 
-NITI est conari, et labore contendere, seu re aliqua, 
-inclinando in illam, sese fulcire, nixu virium seu suw 
-onere aliquid conari. Virg. Georg. 111. 172: Valido 
-nitens sub pondere faginus axis InstrepaL. Obniti est 
-contra adversa ct diffcilia luctari et obfirmari, quod 
-plus est, Liv. XXXIV. 46: Scutis.corporibusque ipsis obniai 
-ur ebant. 
-OBILIS nobilitatererum; Generous, qui Grecis 
-appellatur. Ita hic ex generatione; ille ex re est. Nobilis 
-etiam in malam partem sumi docet Valla Elegant. v. 35. 
-359. quando nempe in ordine meretricio quasi excellens, 
-vel maxime inter alia notum, nobile scortum dicitur. Ce— 
-terum inter simpliciter nobiles et equites hanc dari diffe-- 
-Google 
-Digitizers by 
+$$1220$$
++Nemus+. V. %Lucus%.
 
+$$1221$$
++Nepos+ est qui ex filio vel filia natus est, quique Gallis dicitur <span lang="fr">petit fils</span>. Differt a +filio fratris+ vel +sororis+, quem Itali appellant <span lang="it">nipote</span>. #Horat. Od. I. 10. 1#: *Mercuri, facunde =nepos= Atlantis.* #Th. Vall.#
 
-rentiam, Ioann. Limpaeus de Tur. Publ. Imp. Rom. 
-Jib. VI. cap. 2. n. 9. tom. 2. tradit, quod ex ignobili quis, 
-nobilis, at non ex ignobili eques possit fieri. 
-NOCENS a nefario et impio distat, 
-ita ut nocens levius 
--videri possit. Cic. Off. 11. {4: Nec tamen ut hoc 
-dum esl; ita habendum est religioni, nocentcm aliquando, 
-.modo ne nefarium impiumque, defendere. Non. 
-NOCENS est detrimentum dans; Nefarium, quod ne fari 
-uidem licet. Si non melius, distinctius tamen Hildebran- 
-us h. l. Nocens est, qui in hominem; impius et nefarius, 
--qui in patriam et parentes delinquit. Nefarius proprie est, 
-cuius tam grave scelus est, ut ne ad far quidem, 1. e. ad 
-sacrificia admitlatur. Sacrificia enim non fiebant sine- 
-mola salsa, i. e. farre tosto cum sale. Heckelius confan— 
-dit nefarium cum nefando. Nefandum enim ex Asconio• 
-•notat non fandum, sed nefarium, quod sacra farre pera— 
-genda polluit. 
-NOCERE videtur levius, quam iniuriam facerc. Cic. de- 
-Fin. 111. 71: Alienum esse a sapiente non modo iniuriam 
-cui facere, verum etiam nocere; v. Vavassor. antibarb. 
-NOCTE partem; Noctu totum dicimus. Hoc temporis est 
-adverbium; illud nomen. Sic noctu dicimus coenavi, et 
-hac nocte nihil brevius. H. 
-NOMEN est, quod quisque proprium et certum habet, ut 
-Cicero, Roma; derivatur aulem a nosco, quia per id, quic- 
-quid nominamus, agnoscitur. Grammatici nomen defi— 
-niunt, quod significat substantiam, vel qualitatem pro- 
-priam, vel communem cum casu. Apud Ictos nomen idem, 
-quod debitum esse ex Gifanii Observ. LL. p. 347. constat, 
-Vocabulum est, cuius significatio est communis, ut homo, 
-urbs. Varro de LL. VII. 23 : Vocabula quae a nominibus 
-oriuntur, si a similibus nominibus similia esse debent, 
-dicemus, quoniam gemina sunt, Parma, Alba, Roma, Par- 
-•menses, Albenses, Romenses. ld. IX. I: Non enim idem 
-oppidum, et Roma, cum oppidum sit vocabulum, Roma 
-nomen. 
-NOMINATIO nominat, quem appellal; sic datur apud 
-politicos et Ictos nominatio ad munera, quae ipsam 
-creationem denotat; ut et nominator, qui aliquem ad' 
-magistratum, tutelam, aliudve munus publicum Milli- 
-navit. Vid. Schardii Lexicon luridicum p. 625. Appel- 
-latio appellanlis vox est in ministerio, el appellat 
-potentiorem propter iniuriam, ut, cum invocat auxilium• 
-Digitizers 
-0081e 
+$$1222$$
++Nequitia+ V. %Malitia%.
 
+$$1223$$
++Nescio+ prorsus cuncta; sed +ignoro+ aliquid. #H.#
 
-magistralug, vel cum pecuniøm repscil R. Quotapler 
-autem in iure sit appellatio, dooet Idem Schardius log. 
-iam cit. p. 92. col. b. Front. 
-NOTARE inter et ANIMADVERTERE obtinet discrimen. Sae- 
-a»ius quidem hic poni videnlur sedsicu— 
-ratius attendamus. datur differentia. Cic. de Or. 11. 8 : 
-Non est dubium, quin, si quis animadverurit, qeid, siL, 
-uare alii melius, qnam alii dicant, id possiL notare. 
-ld. Off. 111. 31; Notationes animadversionesque morutn; 
-v. Vavass. antib. p. 566. In priori exemplo animadvert- 
-tere est aUendere, notare autem observare; in posterioci 
-idistinguilur notalio, au' POIius nola ab animadversione 
-tamquam poenae diversae. De notaüone ila. Ulp. V, D. 
-ae iure. iudic. : Ait praetor, cuing de ea re iurisdiclio 
-GI. Melius scripsisset, cuius ea de re notatio est. Etenim 
-notalionis nomen etiam ad eos pertinet, qui iurisdi- 
-ctionem non habent, sed habent de quavis alia causa 
-cognitionem; v. Gronov. ad Liv. XXVII. 25. Animadversio 
-saepe eadem est cum nota censoria. sed adhibetur etiam 
-de poena proprie. Erat autem animadversio et lenior, 
-:quae ignomimam tantum inussit, et gravior, quae de- 
-.trimenlum intulit. Notatio reperitur de iudicio iudicis; 
-notare vero et nota significationem reprehenden(li et igno- 
-minia quadam afliciendi habent. Paucis si res oxpedienda 
--est, animadversio interdum graviot• est nota. Dicitur,enim etiam de poena capitali 8 lustiniano in Instit. sub 
-finem. 
-NOSCEHE V. SCIMVS. 
-NOTAT vel locum quis . yel personatn, vel noxiam; 
-annotat, qui notae (d) quid adlicit. Sic notarius notat 
-'res notnbiles, iisque alias notatu dignas subinde annotat 
-et subnotat- Comenius. 
-N0THvs•appellatur. qui ex concubina, non ex uxore 
-legitima natug esl, sed patrem certum habet. Latini 
-centiores vocant (ilium, quia sine legitimo 
-matrimonio tantum naturae coniunctuone nascitur. Spu- 
-.rius esti qui patre inoerlo aut illicito genitus est. veluti 
-(D,Est autem nota proprie signum. quo aliquid notatur et 
-designatu•. Sed quoniam turpiLudine aliqua allecti. noti ple- 
-rumque esse solent, apud Latinos vulgare est, ut nota in ma- 
-aam pangm etiam capiaur, et scribeme •Doleto loc. alleg. fol. 
-au. 001. I, labwn Cwpitudinemque 
-Goog e 
+$$1224$$
++Nihil+ adverbium; +nihili+ nomen est. Huius oppositum est frugi. Sed +nihili+ est, qui non hili, h. e. cuiusvis est minimi. Est autem hilum proprie medius volae scrobiculus. _Illud_ si dicas, quantitatem notas, sin _hoc_, mores. #Sosip.#
 
+$$1225$$
++Nimbi+ et +Imbres+ dicuntur repentinae et praecipites pluviae quae summa cadunt vi et cito desinunt. +Nimbus+ interdum quoque vasis est genus, quo vina, unguenta et alii liquores funduntur. Inde #Martialis Epigr. XIV. 112#: *Ab Iove qui veniet, miscenda ad pocula largas Fundet nimbus aquas: hic tibi vina dabit.* +Pluvias+ ipsas vocamus lentas et iuges, quae non effuse ingruunt, sed durant tamen diutius, vel aquae e caelo guttatim missae distillationem. V. %Imber%.
 
-seoflatione, adulterio, stupro, ineesto: quagi. 
-id est passim, et vutgo conceptus, ab 
-iilä muliebri parte, qua mater illum in lucem edidit, 
-quam veteres spurium dicebant rm; 
-scribunt Plutarchus et Isidorus. Cum enim pater igno— 
-retur, out is sit, quem habere non licet, mater autcm 
-semper certa sit, filius dicitur spurius aut spurii fllius, 
-a muliebri parte matris. Quint. 111. 6: NdSov qui non 
-sit legitimus, Graeci vocant; latinum rei nomen, ut 
-Cato quoque in oratione quadam testatus est, non ha-• 
-bemus; ideoque utimur peregrino. Leg. Perotti Cornu— 
-copiae Epigr. I. c. 68. lin. 56. seq. Modestinus Pan- 
-dec!arum D. de Statu Hom. I. 23: Vulgo concepti di— 
-cuntur, qui patrem demonstrare non possunt : vel qui 
-ossunt quidem, sed eum habent, quem habere non, 
-cet; qui et spurii appellantur. Caeterum critici circa 
-hanc differentiam mire variant, de quo multa afert Aeg. 
-Menagius in Amoenit. iur. civ. c. 39. p. 357. s. 
-NOVISSIMVM ordinis; ultimum orbis. Alias novissimuw 
-est ultimo factum; Ultimum quod est maxime ultra. An. 
-autem aliquid sit ulterius, et quidnam tandem ultimum, 
-ex mente Comenii minime possumus assequi. Fronto. 
-Novu est, quod nunc primum accidit, seu nunc de— 
-mum est factum. Necesse enim est, res novas nasci, 
-quia decedunt veteres. Sic novos etiam dicimus, quo— 
-rum nulli maiores clari fuere, sed ipsi per se ipsos 
-clari esse incipiunt et in civitat& consequuntur magi- 
-str6tus. Recens quod nuper; ut lex nova, quae primum 
-perfertur; eadem recens, quia non diu ante Suit lata. 
-Novum Rd rem; recens ed tempus pertinet. Cic. pro 
-Flacco VI : Meminerilis, quorum rerum invidia, lege: 
-hac recenti et nova, certus est inquisitioni comitum nu-. 
-merus constitutus. ld. ad Brutum: Hanc ipsam recøn.. 
-em novam devoravit. luv. Sat. 11. {02 : Res memoranda 
-novi8 annalibus atque recenti Historia. 
+$$1226$$
++Nisus+ ingenio, +nixus+ corpore. #H.#
 
+$$1227$$
++Niti+ est conari, et labore contendere, seu re aliqua, inclinando in illam, sese fulcire, nixu virium seu sub onere aliquid conari. #Virg. Georg. 111. 172#: *Valido nitens sub pondere faginus axis Instrepat.* +Obniti+ est contra adversa et difficilia luctari et obfirmari, quod plus est, #Liv. XXXIV. 46#: *Scutis corporibusque ipsis =obnixi= urgebant.*
 
-NOXA (f) est corpus, quod nocuit, noxia ipsum ma— 
-leficium inquil lustinianus imperator Institutuonum lv. 
-(I) Noca enim plane etiam maleaoium et pecaLun quale- 
-cumque denotat, non modo in ium nostro (L. XLV. a 'I. De 
-Leg. I. l. 4. et-l. 32. D. de Noxal. Act.) sed In duodecim Ta- 
-bulia. ut testatur L. nn. D. de Verb. Sign.• uamvis eo 
-loco multae editionea nozae, noziae praelerani. i. 
-Digitizee by 
-008 Ie 
+$$1228$$
++Nobilis+ nobilitate rerum; +Generosus+, qui Grecis γενναῖος appellatur. Ita _hic_ ex generatione; _ille_ ex re est. +Nobilis+ etiam in malam partem sumi docet #Valla Elegant. V. 35. 359.# quando nempe in ordine meretricio quasi excellens, vel maxime inter alia notum, "nobile scortum" dicitur. Ceterum inter simpliciter nobiles et equites hanc dari differentiam, #Ioann. Limnaeus de Iur. Publ. Imp. Rom. lib. VI. cap. 2. n. 9. tom. 2.# tradit, *quod ex ignobili quis =nobilis=, at non ex ignobili eques possit fieri*.
 
+$$1229$$
++Nocens+ a +nefario+ et +impio+ distat, ita ut +nocens+ levius videri possit. #Cic. Off. II. 14#: *Nec tamen ut hoc fugiendum est; ita habendum est religioni, =nocentem= aliquando, modo ne =nefarium= =impiumque=, defendere*. #Non.#
 
-tit. 8., in quem Valla (l) graviter invehitur, putatque 
-ineptum esse, noxam appellare ipsum corpus, quod de— 
-:liquit. Contra contendunt interpretes iuris, recte lusti- 
-nianum dixisse, noxam servum, qui noa:am fecit, quia 
-a nocendo formatur nora; quae tanien ratio parum firma 
-est, cum ab eadem quoque origine sit noria. Melius . 
-•ut mihi quidem videtur, opposuissent, nonm duplici 
-significatu dixisse iuris auctores, sicuti dicuntur operae, 
-et actiones et homines, qui agunt, carcer et ergastulum, 
-loca custodiae et vincti, qui in illis custodiunlur. Sed 
-omnino illa noriae significatio, quam luslinianus tradit, 
-non est in communi latini sermonis usu. Itaque vera 
-et propria horum vocabulorum differentia est, quod 
-ooza (2) generale nomen est, quo omne id, quod nocct, 
-intelligitur, tam culpa, quam laesio, vel poena. Noxio 
-•tantum significat maleficium et peccatum. Unde formulae 
-illae loquendi: Nozam sarcire, pro damnum sarcire; 
-nome vel in noum dedere, id est, animal mancipiumve 
-vivum tradere poenae pro damno dato : Noxis solvi et 
-solutum esse, pro carere delicto, 0b quod possit no-xali 
-iudicio agi. Item noxiam committere, id est damnum 
-dare, et aestimatio noxiae; quae omnia in iurisconsul- 
-torum libris passim occurrunt. 
-NOXA peccatum leve. Virg. Aen. I. : Unius 0b no- 
-sam et furias. NOJia, nocentia, Virg. Aen. VII. 326 : 
-Iraeque et crimina noxia cordi. Non. R. 
-NVCES dicuntur omnia, quae foris corio duriore te- 
-guntur et intus habent quod est esui, ut, avellanae, 
-mglandes, castaneae, amygdala; Poma (3) vero sunt, 
-quae foris habent quod edendo est, et durum intus in- 
-cludunt, ut tradunt Macrobius et Servius. Quo pertinet 
-dictum Cascelli iurisconsulti qui, Vatinio gladiatorium 
-munus edente, cum ab aedilibus edictum esset, ne quis 
-in arenam, nisi pomum mitteret, consullus a quodam 
-(l) Hic Elegant. lib. VI. cap. 35. p. 446. Servium frustra 
-reprehendit. quod noxiam pro culpa positam esse dixerit. 
-Forte Valla noster, alioquin vir doctissimus, Plautum aliosque 
-lures ex antiquis non legit, qui multis in IOCIS vocabulum 
-occe in eum sensum usurpant. 
-(2) Noza poena est, nozia culpa. Fronto. R. 
-(3) Hoc vocabulum derivatur a nonnulis aro rot' 
-h. e. potione, quoniam ex omnibus ferme pomis potiones 
-Wossunt fled, et nebant quoque antiquitus. 
-Google 
-Digitizeö by 
+$$1230$$
++Nocens+ est detrimentum dans; +Nefarium+, quod ne fari quidem licet. Si non melius, distinctius tamen #Hildebrandus# h. l. +Nocens+ est, qui in hominem; +impius+ et +nefarius+, qui in patriam et parentes delinquit. +Nefarius+ proprie est, cuius tam grave scelus est, ut ne ad far quidem, i. e. ad sacrificia admittatur. Sacrificia enim non fiebant sine mola salsa, i. e. farre tosto cum sale. #Heckelius# confundit +nefarium+ cum +nefando+. +Nefandum+ enim ex #Asconio# notat non fandum, sed +nefarium+, quod sacra farre peragenda polluit.
 
+$$1231$$
++Nocere+ videtur levius, quam +iniuriam facere+. #Cic. de Fin. III. 71#: *Alienum esse a sapiente non modo iniuriam cui facere, verum etiam nocere*; v. #Vavassor. antibarb.#
 
-nuz pinea pomum esset. Nam alioquin proprie non 
-rerat pomum. Frequenter tamen pomi nomen generale 
-eest, quo continetur omnis fructus arborum esui aptus 
-Sive molli corio tegatur, Sive duro. Qua ratione nuces, 
-ficos, et uvas escarias poma esse iurisconsulti scribunt,,.et Plinius HN. xv. 24: poma vocat nuces iuglandes; Pal- 
-ladius castaneas: Proceras fagos, et poma hirsuta virentis 
-*castaneae. Item ficus. Se quoque miratur pingui gran- 
-descere succo. Et solitum gaudent vincere poma modum. 
-NVMERVS et MDDvs non sunt synonima. Hor. Ep. ad 
-Pis. 2M : Accessit numerisque modisque licentia maior. 
-Evidentiorem differentiam constituit Cic. Orat. xx: Quid- 
-quid sub aurium mensuram aliquam cadit, numerus 
-vocatur, etiamsi absit a versu. Modus aestimatur sono et 
-intervallo vocum et concenlu. Ab aliis autem modos nu- 
-merosque• non pro diversis haberi, passim occurrit. Ita 
-harmonia vel concenlus phrygius per numeros exprimi- 
-mitur. Lucret. 11. 620: Et phrygio stimulat numero cava 
-tibia mentes. Propertius, 11. 22. 46: Et Phrygis insanos 
-caeditur ad numeros? Tibullus, I. 4. 70: Et secet ad 
-prygios vilia membra modos. Ovid. Fast. lv. 214: Ti- 
-la dat phrygios, ut dedit ante modos. Sed quis nescit, 
-poétas, 0b metrum, differentias vocum saepe negligere ? 
-v. Bartholinus de tibiis p. 'M 7. s. 
-NVMERVS et PES (év9æb', Bérpoy) quid differant, do- 
-cetQuintil. Inst. Or. IX. 4: Nempe rhythmi spatio temporum 
-constant; metro etiam ordine, v. c. dactylus semper ha- 
-bet primam longam, numerus autem etiam tertiam. Ita- 
-que omnis pes est numerus, non autem omnis numerug 
-etiam pes. Quod tenendum est propterea quod interdum 
-numeri manifeste ponuntur pro pedibus. 
-NYMvs est maleria forma publica (f) percussa, cuius 
-vis ex imposita aestimatione constat. Pecuniae vero ap- 
-pellatione nummi continentur, et hoc amplius omnes 
-res Sive mobiles, Sive soli, et tam iura quam corpora, 
-ut tradunt iuris auctores, in se habent. Augustinus de 
-Discipl. Christian. : Quidquid homines possident in terra, 
-(I) EL quidem ad rerum, praeclare gestarum memoriam, 
-quemadmodum scribiL Brissonius de Formul. lv. p. 354. Et 
-tales nummos curiose ac studiose adhibita explicatione, iam- 
-ridem exjbuere Octavius de Strada a Rosberg, EzechieL 
-panhemius et Carolus meus Patinus, Virl sane digni, ut [o- 
-atque Minervae epulis quotidie intersint. 
-Google 
-Digitizer} by 
+$$1232$$
++Nocte+ partem; +Noctu+ totum dicimus. _Hoc_ temporis est adverbium; _illud_ nomen. Sic +noctu+ dicimus coenavi, et hac +nocte+ nihil brevius. #H.#
 
+$$1233$$
++Nomen+ est, quod quisque proprium et certum habet, ut Cicero, Roma; derivatur autem a nosco, quia per id, quicquid nominamus, agnoscitur. Grammatici nomen definiunt, quod significat substantiam, vel qualitatem propriam, vel communem cum casu. Apud Ictos +nomen+ idem, quod debitum esse ex #Gifanii Observ. LL. p. 347.# constat. +Vocabulum+ est, cuius significatio est communis, ut homo, urbs. #Varro de LL. VII. 23#: *Vocabula quae a nominibus oriuntur, si a similibus nominibus similia esse debent, dicemus, quoniam gemina sunt, Parma, Alba, Roma, Parmenses, Albenses, Romenses.* #Id. IX. I#: *Non enim idem oppidum, et Roma, cum oppidum sit vocabulum, Roma nomen.*
+ 
+ $$1234$$
++Nominatio+ nominat, quem appellat; sic datur apud politicos et Ictos nominatio ad munera, quae ipsam creationem denotat; ut et nominator, qui aliquem ad magistratum, tutelam, aliudve munus publicum nominavit. Vid. #Schardii Lexicon Iuridicum p. 625#. +Appellatio+ appellantis vox est in ministerio, et appellat ad potentiorem propter iniuriam, ut, cum invocat auxilium magistratus, vel cum pecuniam reposcit. #R.# Quotuplex autem in iure sit appellatio, docet idem #Schardius loc. iam cit. p. 92. col. b.# #Front.#
 
-omnia, quorum domini sant', pecunia vocatur servtw 
-sit, vas, ager. arbor, pecx. Et ideo pecunia. quia antiqui, 
-quidquid in pecoribus ponebaai. 
-NVNCIATVR (I) de longinquo, denuaciattar de praesenü, 
-renunGaIur de excusando et repudiando. Cic. Verr. 11. 
-6: Renunciata est tota conditio. Obnunciattm mala res; 
-Annunciatur bona, sed fu,lura. Donat. et Agr. 
-NVNCVPARE HAEBEDEM et SCRIBERE UAEREDEM differunt. 
-Nuncupre hceredem proprie est, non scriptm quem quis 
-sibi successorem velit, noüare, sed verbis palam ex- 
-primere. Unde tatamentum per ouncupalionem scripto 
-opponilur. L. xxl. XXII. de Test. Torreniius ad Svet, 
-Culig. p. 38. Addam, quae protulit Gæn. in thes. 
-nuncupo. In testamentis etiam sedem habet hoc verbum, 
-quoties non scripte, sed voce iudicia sua ultima 
-turi exprimunt ac declarant. Iulianus in lege: Si itø, 
-de boa. possess. secundum tab. Quidam teslammlum: io 
-tabuli8 sibi feat." Nio autem impuberi per nutwupgtionetb' 
-substituit; et paullo post: Nam, quemadmodun scrip& 
-haerede filio separalim ab haeredibus ita nttncupaøt 
-polest videri separatim a scripti8 patris bone— 
-rum psseuio dari. Nuncupatum baeredem a "tipto di- 
-slinguit. Ut sit is modus, cuius rneminit lustmianus, 
-Instit. de test. S finali. Budaeus. Nuncupre igitur ese 
-voluntatem suam circa haeredis institutionem, legatorum 
-dationem, caeterasque testamenti parbß coram se#rw 
-testibus, lingua et voce exprimere, nonincrequ noa seri-, 
-plis aut tabulis; v. lusl•ül. de TesiamL. ordin. t. S ult. 
-Pilisci 
-NVNQVAM plus asseveralionis habeL, quam •on; ut Vir.9— 
-Aen. 11. 670: N—uam omnes hodie moriamur inulåi., 
-R. 
-NWTIAE•. Ad nupLiäs vel connubium requirebatur, 
-uterque contnahentium esset et liber et civis 5; 
-inter servw vero, liberæque apal. 
-(l) Nunciare est rem nnno signiflcare. Sim loquent@ 
-Comenio, est nuncius is. qui aliünde quid nunciat, laeturu 
-nuncium hilariter annuncians, tristem dolenter obnuncicns. 
-Praenumciew pøaenunciae aliqtid nondom lactam; Renuncigs 
-anert, quod alter; nnegciavit; Internuxius ab. anero ad 
-terum transmeando intern-unciat. ludex pronunciat sentel>' 
-Siam, reoque denunciat pegnami sed arena ne 
-enunciat: quandoque omcium *udicis renunciat, atque tuü 
-in locum eius rengnci"ur aliug. 
-Google 
-Digitizeö by 
+$$1235$$
++Notare+ inter et +Animadvertere+ obtinet discrimen. Saepius quidem hic poni videntur ut ισοδύναμα, sed si curatius attendamus, datur differentia. #Cic. de Or. II. 8#: *Non est dubium, quin, si quis =animadverterit=, quid, sit, quare alii melius, quam alii dicant, id possit =notare=.* #Id. Off. III. 31#: *=Notationes= =animadversionesque= morum*; v. #Vavass. antib. p. 566.# In priori exemplo +animadvertere+ est attendere, +notare+ autem observare; in posteriori distinguitur notatio, aut potius nota ab animadversione tamquam poenae diversae. De notatione ita. #Ulp. V. D. de iure. iudic.#: *Ait praetor, cuius de ea re iurisdictio est. Melius scripsisset, cuius ea de re notatio est. Etenim notationis nomen etiam ad eos pertinet, qui iurisdictionem non habent, sed habent de quavis alia causa cognitionem*; v. #Gronov. ad Liv. XXVII. 25.# Animadversio saepe eadem est cum nota censoria, sed adhibetur etiam de poena proprie. Erat autem +animadversio+ et lenior, quae ignominiam tantum inussit, et gravior, quae detrimentum intulit. +Notatio+ reperitur de iudicio iudicis; +notare+ vero et +nota+ significationem reprehendendi et ignominia quadam afficiendi habent. Paucis si res expedienda est, animadversio interdum gravior est nota. Dicitur,enim etiam de poena capitali a #Iustiniano# in #Instit. sub finem#.
 
+$$1236$$
++Noscere+ V. %Scimus%.
 
-NVTARE capitis. gnnuere vel innuere narium, labiorum, 
-superciliorum, nictare oculorum est. Non. Plaut. Asin. 
-w. f. 39: Neque illa ulli homini nulet, niclet, ant 
-nuat. R. 
-o. 
-OBEDIO semper in Imis; Obsequor malis quoque. H. 
-OBSCVRVS (4) natura; Obscuratus obscurus factus. H. 
-OBSTARE est se obiicere, vel opponere, hoc est ad- 
-versari, impedire. Unde obstaculum quod idem est ac 
-impedimentum obstans. Obsistere qualibet re impedire. 
-Plaut. Curcul. II. 3. E: Obstant, obsistunt, ineedunt 
-cum suis sententiis. 
-OBSECRATIO erat, cum Dii irati precibus ro abantur. 
-Generaliter significat preces, deprecationem ve obtesta- 
-tionem. Unde Ciceromanae formulae: Obsecratione uti, 
-et obsecrationem repudiare. Leg. Dole(us loc. alleg. fol. 
-413. fac. a. col. 2. Diversa autem obsecrationum genera 
-apud antiquos fuisse, docet acutissimus vir, Brissonius 
-de Form. VIII. p. 717. Supplicatio, cum 0b rem bene 
-ac feliciter gestam inprimis 0b victoriam gratulatio 
-vel honor Diis habebalur. Liv. XXVII. I f: Supplicatio circa 
-omnia pulvinaria, et obsecratio in unum diem indicta- 
-ld. xxxl. 9: Supplicationibus habitis iam, et obsecratione 
-circa omnia pulvinaria facia. Svet. Claud. XXII: Utque 
-0b dira aut in urbc, aut in capitolio visa, obsecratio ha- 
-beretur. Obtestatio dicituu•, cum per eas res adiuramus 
-eum, qu€m rogamus, de uibus agitur causa. Donat. R. 
-OBSECRO, OBTESTOR et VPPLICO maiorem vim habent, 
-quam oro et rogo. Nam obsecrare est quasi sacra et res 
-carissimas postulare; obleslari est precari cum mentione 
-earum rerum, per quas petimus, ut per Deos. per se; 
-supplicare est plicato genu orare; orare (2) est humiliter 
-(l) Ambiguus sermo habet duas significationes, Obscures u- 
-nam. sed latentem. Yid. Gell. 11. 12. R. 
-(2) Oramus, quae bona sunt, supplicamus in adversis magis, 
-vel cum lacrimis. Donat. Orare est placidos petere, obsecrare, 
-iratos rogare. Donat. Rogare ut hominem, orare ut Deum. O- 
-rare est petere, exorare, impetrare. Orcmus quae bona sunt, 
-suppticamus in adversis magis, vel cum lacrimis. 
-Orare proprie est praemedßatum sermonem toqui, et dicitur 
-Au.onii Popmae etc. 
-D.gltzee by 
-0081e 
+$$1237$$
++Notat+ vel locum quis, vel personam, vel noxiam; +annotat+, qui notae (1) quid adlicit. Sic notarius notat res notabiles, iisque alias notatu dignas subinde annotat et subnotat. #Comenius#.
+(1) Est autem _nota_ proprie signum, quo aliquid notatur et designatur. Sed quoniam turpitudine aliqua allecti, noti plerumque esse solent, apud Latinos vulgare est, ut nota in malam partem etiam capiatur, et scribente #Doleto loc. alleg. fol. III. col. I#, labem turpitudinemque significet.
 
+$$1238$$
++Nothus+ appellatur, qui ex concubina, non ex uxore legitima natus est, sed patrem certum habet. Latini recentiores vocant "naturalem filium", quia sine legitimo matrimonio tantum naturae coniunctione nascitur. +Spurius+ est, qui patre incerto aut illicito genitus est, veluti ex scortatione, adulterio, stupro, vel incesto: quasi σποράδην id est passim, et vulgo conceptus, ab illa muliebri parte, qua mater illum in lucem edidit, quam veteres spurium dicebant ἀπὸ τῆς σπορᾶς, ut scribunt #Plutarchus# et #Isidorus#. Cum enim pater ignoratur, aut is sit, quem habere non licet, mater autem semper certa sit, filius dicitur +spurius+ aut "spurii filius", a muliebri parte matris. #Quint. III. 6#: *Νόθον qui non sit legitimus, Graeci vocant; latinum rei nomen, ut Cato quoque in oratione quadam testatus est, non habemus; ideoque utimur peregrino.* #Leg. Perotti Cornucopiae Epigr. I. c. 68. lin. 56. seq.# #Modestinus Pandectarum D. de Statu Hom. I. 23#: *Vulgo concepti dicuntur, qui patrem demonstrare non possunt: vel qui possunt quidem, sed eum habent, quem habere non licet; qui et =spurii= appellantur.* Caeterum critici circa hanc differentiam mire variant, de quo multa affert #Aeg. Menagius# in #Amoenit. iur. civ. c. 39. p. 357. s.#
 
-et cum veneratione petere; rogare cum precibus suppli— 
-care. Cic. Sext. LXIX: Vos obtzstor alque obseero. ld. 
-Quint. xxx : Te obsecrat obtestaturque Quintius. ld. Verr. 
-w. 39: Rogat eos alque oral. Plaut. Mil. lv. 1. 24 : 
-Nunc te orare atque obsecrare iussit. Sall. Historiar. I: 
-Quod ego vos oro alque obsecro. ld. lug. LVIII : Lacru- 
-mans per amicitiam perque rempublicam obsecrat. Ter. 
-Andr. II. f. {2: Ipsum hunc orabo; huic supplicabo. 
-OBSEQVIVM assentatoris est, veritas amici. Donat. R. 
-OBTINEMVS nondum nostra; Relinemus quae nostra 
-sunt. Obtinemus, quae aliorum in periculum 
-vocari possunt; Relinemus ea, quae perire non ossunt, 
-nisi nostra voluntate, itaque in illo maior est dihcultas. 
-R. Goclenius I. c. p. 219. H. 
-OBTRECTO, DETRAHO differunt. Obtreclo significat, ut 
-ait Festus, contra alienam senlentiam tractare seu ma— 
-Erasmus : Obtrectat, qui obloquitur, qui male 
-praedicat de alio. Detrahit, qui minuit laudem alicuius; 
-M. Gesn. thes. v. obtrecto. 
-OCCASIO respicit solum tempus ad rem perficiendam 
-idoneum, et est, Cicerone loquente. ipsa tempestivitas; 
-Facultas vero omnia instrumenta obtinet et adiumenta. 
-Goclen. H. 
-OCCIDERE 0b caedem dictum est, interficere et perimere 
-prisca sunt, iugulare 0b iugulum, necare a nece, inter- 
-cere a facto, perimere ab emtione quasi iure tollere. 
-aed. R. 
-OCCVLTE latent. clam caelant: alteri non prodere, al- 
-teri caelare habitui naturali inest. Front. R. 
-OCVLISSIMVM, CARISSIMVM. Plaut. Curc. I. 4. {1: Ocu- 
-lissimum ostium. Ocutatum pro praesenti posuit idem 
-Plautus cum dixit: Oculata die. ld. Truc. 11. 6. 8: Pluris 
-est oculatus testis unus, quam auriti decem, id est, qui 
-se vidisse dicat. Oculitus quoque dicitur, ut funditus, 
-quasi ore agere. Sic quando cum homine, seu Deo iungitur, 
-preeari denotat; quando vero cum re. signiflcaL petere. Ab an- 
-tiquis eliam positus est pro agere. Vid. Perotli Cornucop. E- 
-pigr. xl. col. 641. lin. 33. seqq. Ceterum oro plus est. quam 
-rogo; obsecro plus quam oro; obtestor plus, quam obsecro; 
-ambio magna. Ideoque plus faciL orans. quam ro cns, et o- 
-bgecrang plus, quam orans. Differentia illa, quam gonatus 
-tert, qua orare es' placidos petere, obsecrare iratos rogare, 
-nerito explodenda egg, quum loca vecerum ei refragentur. 
-Digitizer} by 
-008 Ie 
+$$1239$$
++Novissimum+ ordinis; +ultimum+ orbis. Alias +novissimum+ est ultimo factum; +Ultimum+ quod est maxime ultra. An autem aliquid sit ulterius, et quidnam tandem +ultimum+, ex mente #Comenii# minime possumus assequi. #Fronto.#
 
+$$1240$$
++Novum+ est, quod nunc primum accidit, seu nunc demum est factum. Necesse enim est, res novas nasci, quia decedunt veteres. Sic novos etiam dicimus, quorum nulli maiores clari fuere, sed ipsi per se ipsos clari esse incipiunt et in civitate consequuntur magistratus. +Recens+ quod nuper; ut "lex nova", quae primum perfertur; eadem "recens", quia non diu ante fuit lata. +Novum+ ad rem; +recens+ ad tempus pertinet. #Cic. pro Flacco VI#: *Memineritis, quorum rerum invidia, lege hac =recenti= et =nova=, certus est inquisitioni comitum numerus constitutus.* #Id. ad Brutum#: *Hanc ipsam =recentem= =novam= devoravit.* #Iuv. Sat. II. 102#: *Res memoranda =novis= annalibus atque =recenti= Historia.*
 
-_venitus, quo significatur tam carum esse quam ocu- 
-lu,n. Fest. R. 
-ODIvm et Drsslmvm distant, quia illud hostile, hoc 
-civile est. Distinguit ila Cic. pro Ligar. VI: Secessionem 
-tu illam existimasti, Caesar, Initio non bellum, non ho- 
-stile odium, sed civile dissidlum. Odium inveterata ira 
-constat, non dissidium. Odium apertum est, simutlas oc- 
-culta eL obscura. Sed non dissimulamus, hoc non esse 
-.perpetuum. Nam simultas etiam de apertis inimiciliis 
-usurpalur a Ciceronianis non raro. Goclen. R. 
-ODOR obiecti est. v. g. gratus vini odor; odoratus su- 
-biecti, 
-hominis, qui olfacit. 
-ODORVM est, quod ex se odorem mittit, ut odora viola. 
-Oderalum, quod aliunde accipit odorem, ut templum 
-sodoratum. Serv. Martial. VI. 8. 5: Tantus veris honos, 
-.et odorae gratia Florae. Confunduntur tamen haec in- 
-terdum, et odoratum idem est quod odorum. Virg. Georg. 
-111. 414: Disce el odoratam stabulis accendere cedrum. 
-ld. Aen. VI. 658: Inler odoratum lauri nemus. Interdum 
-tamen, in primis apud poétas, odorum etiam est, quod 
-odorem aliunde accipit, v. c. Virg. odora canum vis, 
-idest vis canum, quae pervestigat aliquid et odoratur. 
-OFFERIMVS non merentibus, reddimus merentibus. Do- 
-mat. R. 
-OFFICINA est locus, in quo artifices opera faciunt; 
-Apotheca est repositorium, ubi res conditae adservantur; 
-italice: magazzino; Taberna (I), ubi opera vel merces 
-venduntur, cui, qui praeest, institor vocatur, ut magister 
-officinae, etsi cadem esse potest oncinc et taberna, ut, 
-sutrina. R. Conf. Vallae Elegant. IV, qui simul negat, 
-hanc differentiam esse perpetuam, cap. u. p. 283, et 
--ex eo Goclenii observat. LL. p. 239. Sic dicitur omcina 
-pictoris, statuarii, fabri, sutoris et aliorum opi(icum : 
-taberna vero argentaria, vinaria, ferraria, cauponaria 
-et similes, quae in libris lurisconsultorum passim no- 
-minantur. Paulus Sententiar. D. de Fund. instr. VII. et 
-XIII. 2. Quod cum discipulis eorum, qui omcinis vel ia- 
-bernis praesunt, contractum est, in magistros, vel insti- 
-tores, In solidum actio datur. Quamquam illi ipsi luris- 
-.consulti D. de Verb. sign. CLxxxnI. Tabernaeappellatione 
-(l) Tabernas alicubi accipit Cicero pro omeinis, in quibas 
--operarii conducti open faciunt. R. 
-Google 
-Dig.t.zecd by 
+$$1241$$
++Noxa+ (1) est corpus, quod nocuit, +noxia+ ipsum maleficium inquit #Iustinianus imperator Institutionum IV. tit. 8.#, in quem #Valla# (2) graviter invehitur, putatque ineptum esse, +noxam+ appellare ipsum corpus, quod deliquit. Contra contendunt interpretes iuris, recte #Iustinianum# dixisse, noxam servum, qui +noxam+ fecit, quia a nocendo formatur +noxa+; quae tamen ratio parum firma est, cum ab eadem quoque origine sit +noxia+. Melius, ut mihi quidem videtur, opposuissent, +noxam+ duplici significatu dixisse iuris auctores, sicuti dicuntur operae, et actiones et homines, qui agunt, carcer et ergastulum, loca custodiae et vincti, qui in illis custodiuntur. Sed omnino illa +noxiae+ significatio, quam #Iustinianus# tradit, non est in communi latini sermonis usu. Itaque vera et propria horum vocabulorum differentia est, quod +noxa+ (3) generale nomen est, quo omne id, quod nocet, intelligitur, tam culpa, quam laesio, vel poena. +Noxia+ tantum significat maleficium et peccatum. Unde formulae illae loquendi: +Noxam+ sarcire, pro damnum sarcire; +noxae+ vel in +noxum+ dedere, id est, animal mancipiumve vivum tradere poenae pro damno dato: Noxis solvi et solutum esse, pro carere delicto, ob quod possit noxali iudicio agi. Item "noxiam committere", id est damnum dare, et "aestimatio noxiae"; quae omnia in iurisconsultorum libris passim occurrunt.
+(1) +Noxa+ enim plane etiam maleficium et peccatum qualecumque denotat, non modo in iure nostro #(L. XLV. § 1. De Leg. I. 1. 4. et 1. 32. D. de Noxal. Act.)# sed In duodecim Tabulis, ut testatur #L. 238. fin. D. de Verb. Sign.#; quamvis eo loco multae editiones +noxae+, +noxiae+ praeferant. #R.#
+(2) Hic #Elegant. lib. VI. cap. 35. p. 446.# Servium frustra reprehendit, quod +noxiam+ pro culpa positam esse dixerit. Forte #Valla# noster, alioquin vir doctissimus, #Plautum# aliosque plures ex antiquis non legit, qui multis in locis vocabulum hocce in eum sensum usurpant. 
+(3) +Noxa+ poena est, +noxia+ culpa. #Fronto.# #R.#
 
+$$1242$$
++Noxa+ peccatum leve. #Virg. Aen. I.#: *Unius ob =noxam= et furias.* +Noxia+, nocentia, #Virg. Aen. VII. 326#: *Iraeque et crimina =noxia= cordi.* #Non.# #R.#
 
-intelligünt omne aedificium, quod est utile ad habi= 
-tandum vel commorandum, auclore Ulp. Sic Catullus. 
-carm. xxxvrl. {O: Frontem tabernae scipionibus scribam. 
-OFFICIVM est voluntarium et semper . cum ratione et. 
-mente coniunctum; Sludium est voluntatis, at non af- 
-fectionis, carens plerumque ratione. Labore corpus ipsum 
-defatigatur. H. 
-OFFICIVM (l) maius est, quam studium, quod est vo- 
-luntas hominis attentior atque impensior. Donal. R. Be- 
-nefcium maius, quam omcium. Goclen. H. 
-OLEA (2) est arbor ipsa, unde derivatur oleum; Oli- 
-va (3), fructus ipse. Unde est olivum. Legimus lamen 
-olivam et de arbore, ut apud Virg. Ecl. VIII. {6: In— 
-cumbens tereti Damon, sic coepit, olivae. Serv. 
-OLIM et QVONDAM et ALIQVANDO, tria tempora tenent, 
-praeteriti, praesentis et futuri. Affatim inveniuntur e- 
-xempla. Pracsentis demus, quod difficile videlur. Virg. 
-Aen. v. 425: Tumidis submersum tundilur olim Fluc- 
-tibus. ld. Aen. II. 367: Quondam etiam victis redit in 
-praecordia virtus. Cic. Expergiscimini aliquando et ca- 
-pessite rempublicam. Agr. R. 
-OMEN fit ore; Auspicium aspectu; Augurium garritu 
-avium. H. 
-ONITTO totum : Intermitlo partem; Remilto relaxando 
-continuationem. Gocl. H. 
-OMNIS ad quantitatem discretam; Totus ad continuam 
-refertur. Sive omnis de universis numero distinctis, ut 
-omnis grex; lotus est unius corporis plenitudo vel de 
-corpore integro dicitur, ut tota domus, licet poétae non- 
-semper hanc differentiam observent. quorum testimonia 
-Nomus adducit. (Plaut. Aulul. I. d. 33: Pervigilat noctes 
-Iotas. Italiee: Veglia Ie notti intere. E contrario: Pervi- 
-ilat noctes omnes, esset italice: Vcgtia tutte Ie nolti. 
-[ic. Philipp. 11. 27: Totos dies potabatur. TH. VALL. ) 
-OMNIS nullum excipit; Cuncti omnes in uno loco; 
-Universi quasi ad unum versi. H. 
-(1) Omcium. ab emciendo, ab eo, quod quaeritur quid em- 
-cere eo unumquemque conveniat, pro conditione personae* 
-Donat. R. 
-(2) Olec profert oleosas olivas e quibus olearius in olivaria 
-mola exprimit oleitatem et conflcit oleum, excipitque oliVum 
-expressum in vasa olearia, foliis oleaceis et frugibus oleaginis 
-alio reservatis. Comenius. 
-(3) Alii: Oliva fructus et arbor, olea fructus, oleum liquor. R• 
-Digitizer} by 
-008 le 
+$$1243$$
++Nuces+ dicuntur omnia, quae foris corio duriore teguntur et intus habent quod est esui, ut, avellanae, iuglandes, castaneae, amygdala; +Poma+ (1) vero sunt, quae foris habent quod edendo est, et durum intus includunt, ut tradunt #Macrobius# et #Servius#. Quo pertinet dictum #Cascelli# iurisconsulti qui, #Vatinio# gladiatorium munus edente, cum ab aedilibus edictum esset, ne quis in arenam, nisi +pomum+ mitteret, consultus a quodam, an +nux+ pinea +pomum+ esset. Nam alioquin proprie non erat +pomum+. Frequenter tamen +pomi+ nomen generale est, quo continetur omnis fructus arborum esui aptus, sive molli corio tegatur, sive duro. Qua ratione +nuces+, ficos, et uvas escarias +poma+ esse iurisconsulti scribunt, et #Plinius HN. XV. 24#: +poma+ vocat +nuces+ iuglandes; #Palladius# castaneas: *Proceras fagos, et =poma= hirsuta virentis castaneae*. Item ficus. Se quoque miratur pingui grandescere succo. Et solitum gaudent vincere +poma+ modum.
+(1) Hoc vocabulum derivatur a nonnulis ἀπὸ τοῦ πώματος, h. e. potione, quoniam ex omnibus ferme +pomis+ potiones possunt fieri, et fiebant quoque antiquitus. 
 
+$$1244$$
++Numerus+ et +Modus+ non sunt synonima. #Hor. Ep. ad Pis. 211#: *Accessit numerisque modisque licentia maior.* Evidentiorem differentiam constituit #Cic. Orat. XX#: *Quidquid sub aurium mensuram aliquam cadit, numerus vocatur, etiamsi absit a versu.* +Modus+ aestimatur sono et intervallo vocum et concentu. Ab aliis autem modos numerosque non pro diversis haberi, passim occurrit. Ita harmonia vel concentus phrygius per numeros exprimitur. #Lucret. II. 620#: *Et phrygio stimulat numero cava tibia mentes.* #Propertius, II. 22. 16#: *Et Phrygis insanos caeditur ad numeros?* #Tibullus, I. 4. 70#: *Et secet ad phrygios vilia membra modos.* #Ovid. Fast. IV. 214#: *Tibia dat phrygios, ut dedit ante modos. Sed quis nescit, poëtas, ob metrum, differentias vocum saepe negligere?* v. #Bartholinus de tibiis p. 117. s.#
 
-'OMNES seiunctos ex diversis locis constitutos; Cuncti 
-•coniunctos respicit. 
-ONERATVS est qualicumque pressus pondere, seu cui 
-onus est imposilum; Onerosum autem, quod onerat; 
-Onuslus, cui onus ipsum honori est, ut si quis hostium 
-spolia ferat; sed oneratus adspirationem non habet, quia 
-ab onere venit; Honestus, quia etiam ab honore descendit, 
-retinet adspirationem. Servius. 
-ONVS vehiculorum, et maius est: Sarcina hominum, 
-•et minus est. Front. R. 
-OPACVS et UMBROSVS non semper sunt synonyma. Curt. 
-v. 4: Hinc perpetuum iugum, quod opacum eL umbro- 
-sum, quod aestas levat. Opacum est, quod in umbra est, 
--aut umbra ipsa apud Cic., et illud, quod radios non 
-transmittit, qualis est terra. Scaliger Exerc. exot. 80. f. 
-Opaca vocantur umbrosa. Opaci posies sunt frondibus 
-inumbrati. Propert. lv. {0. 64. Umbrosum est arborum 
-adsitarum proceritate amoenum. Hor. Od. 111. d. 23 : 
-umbrosam ripam, v. Pitiscus ad Curlium. 
-OPEM FERRE dicitur in malis rebus et iis, qui de sa- 
-lute dubii sunt. Ter. Andr. 111. I. {5: Fer opem! serva 
-me. Opitulari et opilutatio dicta ab opem tollendo, hoc 
-est, ferendo. ld. Andr. I. 3. 5: Sin opitulor, huius 
-minas. Donat. R. 
-OPERA est labor, aclio et industria, ut cum dicimus, 
-operam dare, navare, sumere, perdere; Opus est id, 
-quod opera perficitur, aut post operam exslat, ut opus 
-rusticum, lexlorium, fabrile, caelatum, sculptum. Unde 
-opus facere, locare, conducere, elegantes et usitalae lo- 
-Cutiones. Ter. Heaut. I. d. 21: Quod in opere faciundo 
-operae consumis tuae. Varro de LL. w: Sl quid datum 
-pro opera, aut opere. Merces a merendo. Interdum tamen 
-opus pro opera sumitur. Cic. Off. II. 3: Neque agricul- 
-tura, neque frugum fructuumque reliquorum perceptio 
-et conservatio sine hominum opera ulla esse potuisset. 
-ld. lb. II. 4: Adde ductus aquarum, derivationes nu- 
-minum, agrorum irrigationes, moles oppositas fluctibus, 
-ortus manu factos, quae unde sine hominum opere ha- 
-ere possemus? 
-OPERA est. si scientes laeserimus, culpa, si nescienles; 
--alterum sceleris, allerum stultitiae est. Donat. R. 
-OPERA est labor et industria, quae adhibetur circa a en- 
-dum: operatio vero est ipsa actio. Anton. in Virg. Ecl. Ilf. R. 
-Google 
-Digitizers by 
+$$1245$$
++Numerus+ et +Pes+ (ῥυθμός, μέτρον) quid differant, docet #Quintil. Inst. Or. IX. 4#: *Nempe =rhythmi= spatio temporum constant; =metro= etiam ordine*, v. c. dactylus semper habet primam longam, +numerus+ autem etiam tertiam. Itaque omnis pes est +numerus+, non autem omnis +numerus+ etiam pes. Quod tenendum est propterea quod interdum numeri manifeste ponuntur pro pedibus.
 
+$$1246$$
++Numus+ est materia forma publica (1) percussa, cuius vis ex imposita aestimatione constat. +Pecuniae+ vero appellatione nummi continentur, et hoc amplius omnes res sive mobiles, sive soli, et tam iura quam corpora, ut tradunt iuris auctores, in se habent. #Augustinus de Discipl. Christian.#: *Quidquid homines possident in terra, omnia, quorum domini sunt, =pecunia= vocatur, servus sit, vas, ager, arbor, pecus. Et ideo =pecunia=, quia antiqui, quidquid in pecoribus ponebant.*
+(1) Et quidem ad rerum, praeclare gestarum memoriam, quemadmodum scribit #Brissonius de Formul. IV. p. 354.# Et tales +nummos+ curiose ac studiose adhibita explicatione, iampridem exibuere #Octavius de Strada a Rosberg#, #Ezechiel Spanhemius# et #Carolus meus Patinus#, Viri sane digni, ut Iovis atque Minervae epulis quotidie intersint.
 
-OPERA.M et OPERAS ita distinguit Servius, ut opera si— 
-gnificet actionem, operae homines mercede conductos 
-Cic. pro Flacco XXXVIII : Operae facessant, servitia si— 
-leant. Sed lurisconsulti frequenter operas actiones et 
-ministeria vocant in titulo; quem de operis libertorum 
-fecerunt, atque etiam ipse CIC. Off. 111: Pleraque sunt 
-hominum operis effecta Et alibi: Operas in scriptura pro 
-magistro dat. Ilaque puto rectius dici de actione operam 
-et operas, de personis operas tantum. V. Opus. 
-OPES num. plur. divilias et potentiam significat; num. 
-singul. auxilium; utroque numero omnem conatum. 
-Opim quando dicimus, nympham significamus : si au- 
-tem dicimus opem. auxilium; cui enim opes sunt, is fa- 
-cile polest opem ferre. Opes num. plur. eliam auxilia 
-et census accipimus. Nam Ops (2) Terra est uxor Sa-- 
-turni, quam Graeci Rheam vocant. Serv. 
-OPINAMVR, quae putamus; quae putamus, incerta sunt. 
-Donat. R. 
-OPINIO hominem suspectum, vel gratiosum facit; rama 
-vel commendat, ve! destruit. Opinio ostendit; rama in-- 
-dicat; rumor tumultuatur. 
-OPORTET (3) et Opvs minus sunt; Necesse plus. Porro• 
-opprtet instar speciei se habet; licet est genus. Sed decet' 
-convenit personis et temporibus. Goclen. H. 
-Opvs est quod fit operando. Italice: lavoro. Opera, 
-quod uno die quis in agro operatur. Italice: una gior- 
-nata.di lavoro. Cat. De re rust. 11 : Ad rationem operum 
-erarumque villicum revoca. Nos: Chiama il caslaldo a 
-ar il conto dei lavori falli, e delle giornate in essi im- 
-piegale. TH. VALL. 
-OPPIDVM minus est et vilius; Urbs nobilior; dicitur 
-.enim oppidum muris et fossis cinctum seu locus urbatus, 
-(l) Huius vools significatio tam elegans est ac trita. ut, Io- 
-quente Doleto, sexcentos ferme loquendi modos a latinis scri- 
-toribus usurpat08 in se contineat. Leg. Nonius Marcellus de 
-ropriet. Sermon. fol. 256 fac. a. 
-(2) Ops antiquis mullitudo est, et ponitur non solum pro 
-opem ferente, sed et pro opulento Unde inops et cops pro co- 
-ops. Vid. Laurembergii AnLiquar. p. 311. col. b. 
-(8) Oportd declarat perfectionem omcii. ut: praernia virtutis 
-oportet esse sancta et casta, i. e. inviolata. Cicero. Licet di- 
-CiLur id. quod legibus et iure permittitur. Goclen. Oportet est. 
-quod rationi. honestati; licet quod legibus eL iuri scripto est 
-consentaneum. R. 
-Google 
-Digitizeö by 
+$$1247$$
++Nunciatur+ (1) de longinquo, +denunciatur+ de praesenti, +renunciatur+ de excusando et repudiando. #Cic. Verr. II. 6#: *=Renunciata= est tota conditio. =Obnunciatur= mala res; Annunciatur bona, sed futura.* #Donat.# et #Agr.#
+(1) +Nunciare+ est rem nunc gestam significare. Sim loquente #Comenio#, est _nuncius_ is, qui aliunde quid +nunciat+, laetum _nuncium_ hilariter +annuncians+, tristem dolenter +obnuncians+. _Praenuncius_ +praenunciat+ aliquid nondum factum; _Renuncius_ affert, quod alter +renunciavit+; _Internuncius_ ab altero ad alterum transmeando +internunciat+. Iudex +pronunciat+ sententiam, reoque +denunciat+ poenam, sed arcana reipublicae non  +enunciat+: quandoque officium iudicis +renunciat+, atque tum in locum eius +renunciatur+ alius.
 
+$$1248$$
++Nuncupare haeredem+ et +Scribere haeredem+ differunt. +Nuncupare haeredem+ proprie est, non scripto, quem quis sibi successorem velit, nominare, sed verbis palam exprimere. Unde testamentum per nuncupationem scripto opponitur. #L. XXI. XXII. de Test. Torrentius ad Svet. Calig. p. 38.# Addam, quae protulit #Gesn. in thes.# v. nuncupo. In testamentis etiam sedem habet hoc verbum, quoties non scripte, sed voce iudicia sua ultima morituri exprimunt ac declarant. #Iulianus# in lege: *Si ita*, de bon. possess. secundum tab. *Quidam testamentum in tabulis sibi fecit: filio autem impuberi per nuncupationem substituit*; et paullo post: *Nam, quemadmodum scripto haerede filio separatim ab haeredibus partis; ita nuncupato potest videri separatim a scriptis patris haeredibus bonorum possessio dari.* Nuncupatum haeredem a scripto distinguit. Ut sit is modus, cuius meminit #Iustinianus Instit. de test. § finali.# #Budaeus.# +Nuncupare+ igitur est voluntatem suam circa haeredis institutionem, legatorum dationem, caeterasque testamenti partes coram septem testibus, lingua et voce exprimere, +nominareque+ non scriptis aut tabulis; v. #Iustin. de Testam. ordin. t. II. § ult.# Pitisci lex.
 
-ab .anüqao grbare, quod idem est atque arare. Aratro 
-enim cuvitatis muros antiqui solebant describere. Unde 
-metropolis urbs et xar' Roma dicitur urbs. Svet. 
-Aug. Lill : Urbe oppidove ullo egresses. Confunduntur 
-tamen haec duo ab optimis scriptoribus non semel, 
-neque ulla re aliqua differunt, nisi etymologia. Cic. de 
-Leg. I: Eiusmodi coniunctionem tectorum, oppidum vel 
-urbem appellarunt. ld. de Div. I : Pheras venisse, quae 
-erat urbs m Thessalia turn admodum nobilis, in eo igituc 
-oppido. Varro de LL. w: Quare et oppida, quae prius 
-c:rcumducta aratro ab orbe et urvo urbes. Sulpilius ad 
-Ciceronem de Corintho, Aegino et Megara : Quae oppida 
-quodam tempore norenlissima fuerunt. 
-OPPORTVNE dicimus, quum, verbi gratia, invitati ad 
-ipsum tempus incipientis prandii venimus. In ipso tem- 
-pore, quum iam prandio apposito. Donat. R. 
-ORA et ORAE licet paria esse videantur, tamen, ut ge- 
-nere, ita intellectu distant. Nam quoties neutrius est 
-generis, vultus vel facies nostra significatur. Virg. Aen. 
-*11. 373: Ora citatorum dextra detorsit equorum. Quo- 
-ties foeminini, cuiuslibet rei fines. Virg. Aen. I. 307 : 
-Exire locos ue Explorare novos, quas vento accesserit 
-orcs. Non. k. 
-ORATIO (f) est, quae copiose, graviter et ornate rem 
-exponit; Sermo (2) est oratio remissa et finitima quo- 
-tidianae locutionl•, vel ut Servius definit, sermo est con- 
-serlio orationis et confabulatio duorum vel plurium, a 
-serendo dictus. Unde et pro familiari colloquio et fabu- 
-ratione sumitur, ut quod Plaut. in Sticho lv. 4. 71. 
-dixit, lupus est in sermone, hoc Ter. Eun. IV. f. 21. 
-dixit. lupus est in fabula, Sermo omnium gentium est, 
-loquela dialectus cui)ibet genti propria. Concio est, quae 
-in magno conventu adfectus concitare studet. et genus, 
-quod vocant rhetores deliberativum, in primis sequitur. 
-stilus in verbis. Oratio ad 
-ORATIO in sensu est, 
-res refertur, stilus non est in tempore, sed prolata 
-(I) Grammatici orationem vocant congruam dictionum or— 
-dinationem, quae perfectam habeat sententiam. 
-Ote qui a compositis et simul contextis verbis sic 
-dicitur. otandum autem, orationem magis ad oratorem perti- 
-nere. quoniam ex omni parce perfecta est, dum numerog. 
-wras acque affectus habet: Sermon-em vero magis ad philo- 
-sophum. Leg. Peroni Cornucup. col. 1043. 
-D.g'tzee by 
-008 le 
+$$1249$$
++Nunquam+ plus asseverationis habet, quam +non+; ut #Virg. Aen. II. 670#: *=Nunquam= omnes hodie moriemur inulti.* #Donat.# #R.#
 
+$$1250$$
++Nuptiae+. Ad +nuptias+ vel +connubium+ requirebatur, uterque contrahentium esset et liber et civis romanus; inter servos vero, liberosque et servos +contubernium+ erat. #R.#
 
-Oratione; oratio est et in cognitione et ih prdatu'. 
-Donat. ld. Orationem in sententiis dicunt esse, sti— 
-lum in verbis, argomentum in rebus. Ter. Andr. Prol. 
-XII : Dissimili oratione sunt factae ac stilo. Vulgo cum 
-Donato ita distinguit interpretum chorus, ut oratio no— 
-tet stilus Cic. Brut. Xl,v: Huius ora— 
-tiones tantum argutiarum, tantum exemplorum, tan— 
-tum urbanitatis habent, ut paene attico stilo scriptae 
-esse videantur. Phaedr. Prol. 111. 29 : Librum exarabD 
-tertium Aesopi stilo. Possit tamen et hendiadys videri 
-ul sensus Sit, dissimili oratione sunt scriptae. Sic 
-Terent. Pborm. Prol. v: Tenui esse oratione et scriptura 
-levi; v. Westerbovius ad hunc Ter. locum. 
-ORATOR est, gui in causis publicis et privatis perfecta 
-ütitur eloquentla, seu qui in iudiciis vel in concionibus 
-causas agit. Proprie autem is est oralör, qui aliquid ro- 
-at, cuius foemininum oratriJ. Oratorem etiam legatum 
-esignare, Carolus Paschalius in Legato cap. 2. p. 7. 
-seq. testatur. Conf. Schardii Lexic. lurid. p. 657. loc. 
-b. Exorator (f), qui aliquid impetravit, qm artem elo- 
-quenfiae profitetur, declamator, qui aut docendi alios . 
-aut se exercendi gratia fictam causam privatim agit, ut 
-ossit veram publice orare. Rhetor, qui rhetoricam pro- 
-tetur. Aliquando tamen, ut quidem semper apud Grae- 
-cos, rhetor accipitur pro oratore, vel declamatore. Valla 
-IV. c. 81. Cic. de Nat. Deor. II: Ego, inquit, incautus, 
-qui cum academico et eodem rhetore congredi conatus 
-sum. Nam neque indisertum academicum pertimuissem, 
-neque sine ista philosopbia rhetorem, quamvis eloquentem. 
-ORDINATIO simplex est; Dispositio vaga. C. Front. 
-ORDO vel bonorum vel malorum dicitur: Grea vel bo- 
-norum vel malorum ei levium est. Cic. Cat. II. {O: In 
-his gregibus omnes aleatores, omnes impuri impudicique 
-versantur. Donat. R. 
-ORO est plus, quam rogö; obsecro plus . quam oro; 
-obtestor plus, quam obsecro; ambio magna. V. Obsecro R. 
-ORTVS est natus; Oriundus et prognatus originem du- 
-cens; et prior quidem refertur praesertim ad locum; 
-posterior ad personas. Conrad. in parergis p. 490. Al- 
-ciatus monuit, distinguendum esse inter oriundum et 
-(I) Orator est. cui cauga defendenda mandatar; ezorator iat 
-aaecti signiücalionem babe'. Donat. R. 
-Google 
-Digitizer} by 
+$$1251$$
++Nutare+ capitis, +annuere+ vel +innuere+ narium, labiorum, superciliorum, +nictare+ oculorum est. #Non. Plaut. Asin. IV. 1. 39#: *Neque illa ulli homini =nutet=, =nictet=, =annuat=*. #R.# 
 
+$$1252$$
++Obedio+ semper in bonis; +Obsequor+ in malis quoque. #H.#
 
-•ortum, ut ille dicatur regpectu originis maiorum suo- 
-•rum, hic respeclu suae; Ideoque non sit provincialis, 
-qui genus e provincia duxit, ipse vero extra illam pro- 
-vinciam natus est. Sicut Liv. xxrv. 6. ait: Nati Cartha- 
-gine, oriundi Syracusis. Cues. B. G. 11. 29 : Ipsi erant 
-ex Cimbris Teutonisque prognati. Verum Guil. Fornerius 
-subtilem hanc differentiam iuris auclores promiscue usur- 
-pando sustulisse, contendit, conf. Gesn. thes. v. oriundus. H.
+$$1253$$
++Obscurus+ (1) natura; +Obscuratus+ obscurus factus. #H.#
+(1) +Ambiguus+ sermo habet duas significationes, +Obscurus+ unam, sed latentem. Vid. #Gell. II. 12.# #R.#
 
-OSCINES et PRAEPETES differunt. Quaedam enim aves 
-ore, quaedam volatu auspicium faciunt. Quae ore, oscines 
-• dicebantur, auctore Varrone de LL. v. 7.; quae alis et 
-volatu, alites et praepetes. De quibus Festus et Servius. 
-Aves, inquit, aut oscines, aut praepetes sunt. Oscines, 
-quae futura praedicunt; praepetes, quae volatu augurium. 
-significant, et quidem prosperum. Praepetes autem quidam 
-tdtctas volunt, quod secundum auspicium ferrent prae- 
-volando, seque ante augurem ferendo: alii quod ante 
-indicarent, quam peterelur: alii, quod praetervolarent. 
-V. Caroli animadv, in Gellium p. 338. 
+$$1254$$
++Obstare+ est se obiicere, vel opponere, hoc est adversari, impedire. Unde obstaculum quod idem est, ac impedimentum obstans. +Obsistere+ qualibet re impedire. #Plaut. Curcul. II. 3. 12#: *=Obstant=, =obsistunt=, incedunt cum suis sententiis.*
+
+$$1255$$
++Obsecratio+ erat, cum Dii irati precibus rogabantur. Generaliter significat preces, deprecationem vel obtestationem. Unde Ciceronianae formulae: *=Obsecratione= uti, et =obsecrationem= repudiare*. #Leg. Doletus loc. alleg. fol. 113. fac. a. col. 2.# Diversa autem obsecrationum genera apud antiquos fuisse, docet acutissimus vir, #Brissonius de Form. VIII. p. 717.# +Supplicatio+, cum ob rem bene ac feliciter gestam, inprimis ob victoriam, gratulatio vel honor Diis habebatur. #Liv. XXVII. 11#: *=Supplicatio= circa omnia pulvinaria, et =obsecratio= in unum diem indicta.* #Id. XXXI. 9#: *=Supplicationibus= habitis iam, et =obsecratione= circa omnia pulvinaria facia.* #Svet. Claud. XXII#: *Utque ob dira aut in urbe, aut in capitolio visa, =obsecratio= haberetur.* +Obtestatio+ dicitur, cum per eas res adiuramus eum, quem rogamus, de quibus agitur causa. #Donat.# #R.#
+
+$$1256$$
++Obsecro+, +Obtestor+ et +Supplico+ maiorem vim habent, quam +oro+ et +rogo+. Nam +obsecrare+ est quasi sacra et res carissimas postulare; +obtestari+ est precari cum mentione earum rerum, per quas petimus, ut per Deos, per se; +supplicare+ est plicato genu orare; +orare+ (1) est humiliter et cum veneratione petere; +rogare+ cum precibus supplicare. #Cic. Sext. LXIX#: *Vos =obtestor= atque =obsecro=.* #Id. Quint. XXX#: *Te =obsecrat= =obtestaturque= Quintius.* #Id. Verr. IV. 39#: *=Rogat= eos atque =orat=.* #Plaut. Mil. IV. 1. 24#: *Nunc te =orare= atque =obsecrare= iussit.* #Sall. Historiar. I#: *Quod ego vos =oro= atque =obsecro=.* #Id. Iug. LVIII#: *Lacrumans per amicitiam perque rempublicam =obsecrat=.* #Ter. Andr. II. 1. 12#: *Ipsum hunc =orabo=; huic =supplicabo=.* 
+(1) +Oramus+, quae bona sunt, +supplicamus+ in adversis magis, vel cum lacrimis. #Donat.# +Orare+ est placidos petere, +obsecrare+, iratos rogare. #Donat.# +Rogare+ ut hominem, +orare+ ut Deum. +Orare+ est petere, +exorare+, impetrare.<br/>+Orare+ proprie est praemeditatum sermonem loqui, et dicitur quasi ore agere. Sic quando cum homine, seu Deo iungitur, precari denotat; quando vero cum re, significat petere. Ab antiquis etiam positus est pro agere. Vid. #Perotti Cornucop. Epigr. XI. col. 641. lin. 33. seqq.# Ceterum +oro+ plus est, quam +rogo+; +obsecro+ plus quam +oro+; +obtestor+ plus, quam +obsecro+; +ambio+ magna. Ideoque plus facit +orans+, quam +rogans+, et +obsecrans+ plus, quam +orans+. Differentia illa, quam #Donatus# adfert, qua orare est placidos petere, obsecrare iratos rogare, merito explodenda est, quum loca veterum ei refragentur. 
+
+$$1257$$
++Obsequium+ assentatoris est, +veritas+ amici. #Donat.# #R.#
+
+$$1258$$
++Obtinemus+ nondum nostra; +Retinemus+ quae nostra sunt. +Obtinemus+, quae aliorum potestate in periculum vocari possunt; +Retinemus+ ea, quae perire non possunt, nisi nostra voluntate, itaque in illo maior est difficultas. #R.# #Goclenius I. c. p. 219.# #H.#
+
+$$1259$$
++Obtrecto+, +Detraho+ differunt. +Obtrecto+ significat, ut ait #Festus#, contra alienam sententiam tractare seu maledicere. #Erasmus#: *=Obtrectat=, qui obloquitur, qui male praedicat de alio. =Detrahit=, qui minuit laudem alicuius*; v. #Gesn. thes.# v. obtrecto.
+
+$$1260$$
++Occasio+ respicit solum tempus ad rem perficiendam idoneum, et est, #Cicerone# loquente, ipsa tempestivitas; +Facultas+ vero omnia instrumenta obtinet et adiumenta. #Goclen.# #H.#
+
+$$1261$$
++Occidere+ ob caedem dictum est, +interficere+ et +perimere+ prisca sunt, +iugulare+ ob iugulum, +necare+ a nece, +interficere+ a facto, +perimere+ ab emptione quasi iure tollere. #Paed.# #R.#
+
+$$1262$$
++Occulte+ latent, +clam+ caelant: alteri non prodere, alteri caelare habitui naturali inest. #Front.# #R.#
+
+$$1263$$
++Oculissimum+, +Carissimum+. #Plaut. Curc. I. 4. 17#: *=Oculissimum= ostium.* +Oculatum+ pro praesenti posuit idem #Plautus# cum dixit: *=Oculata= die*. #Id. Truc. II. 6. 8#: *Pluris est =oculatus= testis unus, quam auriti decem*, id est, qui se vidisse dicat. +Oculitus+ quoque dicitur, ut funditus, penitus, quo significatur tam carum esse quam oculum. #Fest.# #R.#
+
+$$1264$$
++Odium+ et +Dissidium+ distant, quia _illud_ hostile, _hoc_ civile est. Distinguit ita #Cic. pro Ligar. VI#: *Secessionem tu illam existimasti, Caesar, initio non bellum, non hostile =odium=, sed civile =dissidium=.* +Odium+ inveterata ira constat, non dissidium. +Odium+ apertum est, +simultas+ occulta et obscura. Sed non dissimulamus, hoc non esse perpetuum. Nam +simultas+ etiam de apertis inimicitiis usurpatur a Ciceronianis non raro. #Goclen.# #R.#
+
+$$1265$$
++Odor+ obiecti est, v. g. gratus vini odor; +odoratus+ subiecti, hominis, qui olfacit. 
+
+$$1266$$
++Odorum+ est, quod ex se odorem mittit, ut "odora viola". +Odoratum+, quod aliunde accipit odorem, ut "templum odoratum". #Serv. Martial. VI. 8. 5#: *Tantus veris honos, et =odorae= gratia Florae.* Confunduntur tamen haec interdum, et +odoratum+ idem est quod +odorum+. #Virg. Georg. III. 414#: *Disce et =odoratam= stabulis accendere cedrum.* #Id. Aen. VI. 658#: *Inter =odoratum= lauri nemus.* Interdum tamen, in primis apud poëtas, odorum etiam est, quod +odorem+ aliunde accipit, v. c. #Virg.# *odora canum vis*, id est vis canum, quae pervestigat aliquid et +odoratur+. 
+
+$$1267$$
++Offerimus+ non merentibus, +reddimus+ merentibus. #Donat.# #R.#
+
+$$1268$$
++Officina+ est locus, in quo artifices opera faciunt; +Apotheca+ est repositorium, ubi res conditae adservantur; italice: <span lang="it">magazzino</span>; +Taberna+ (1), ubi opera vel merces venduntur, cui, qui praeest, institor vocatur, ut magister officinae, etsi eadem esse potest +officina+ et +taberna+, ut, sutrina. #R.# Conf. #Vallae Elegant. IV#, qui simul negat, hanc differentiam esse perpetuam, #cap. 44. p. 283#, et ex eo #Goclenii observat. LL. p. 239.# Sic dicitur officina pictoris, statuarii, fabri, sutoris et aliorum opificum: +taberna+ vero argentaria, vinaria, ferraria, cauponaria et similes, quae in libris Iurisconsultorum passim nominantur. #Paulus Sententiar. D. de Fund. instr. VII. et XIII. 2.# Quod cum discipulis eorum, qui +officinis+ vel +tabernis+ praesunt, contractum est, in magistros, vel institores, in solidum actio datur. Quamquam illi ipsi Iurisconsulti #D. de Verb. sign. CLXXXIII.# +Tabernae+ appellatione intelligunt omne aedificium, quod est utile ad habitandum vel commorandum, auctore #Ulp.# Sic #Catullus. carm. XXXVII. 10#: *Frontem =tabernae= scipionibus scribam.*
+(1) +Tabernas+ alicubi accipit #Cicero# pro +officinis+, in quibus operarii conducti opere faciunt. #R.#
+
+$$1269$$
++Officium+ est voluntarium et semper cum ratione et mente coniunctum; +Studium+ est voluntatis, at non affectionis, carens plerumque ratione. Labore corpus ipsum defatigatur. #H.#
+
+$$1270$$
++Officium+ (1) maius est, quam +studium+, quod est voluntas hominis attentior atque impensior. #Donat.# #R.# +Beneficium+ maius, quam +officium+. #Goclen.# #H.#
+(1) +Officium+, ab efficiendo, ab eo, quod quaeritur quid efficere eo unumquemque conveniat, pro conditione personae. #Donat.# #R.#
+
+$$1271$$
++Olea+ (1) est arbor ipsa, unde derivatur oleum; +Oliva+ (2), fructus ipse. Unde est olivum. Legimus tamen olivam et de arbore, ut apud #Virg. Ecl. VIII. 16#: *Incumbens tereti Damon, sic coepit, =olivae=.* #Serv.#
+(1) +Olea+ profert oleosas olivas e quibus olearius in olivaria mola exprimit oleitatem et conficit oleum, excipitque olivum expressum in vasa olearia, foliis oleaceis et frugibus oleaginis alio reservatis. #Comenius#.
+(2) Alii: +Oliva+ fructus et arbor, +olea+ fructus, oleum liquor. #R.#
+
+$$1272$$
++Olim+ et +Quondam+ et +Aliquando+, tria tempora tenent, praeteriti, praesentis et futuri. Affatim inveniuntur exempla. Praesentis demus, quod difficile videtur. #Virg. Aen. V. 125#: *Tumidis submersum tunditur =olim= Fluctibus.* #Id. Aen. II. 367#: *=Quondam= etiam victis redit in praecordia virtus.* #Sall. Catil. LII.#: *Expergiscimini =aliquando= et capessite rempublicam.* #Agr.# #R.#
+
+$$1273$$
++Omen+ fit ore; +Auspicium+ aspectu; +Augurium+ garritu avium. #H.#
+
+$$1274$$
++Omitto+ totum : +Intermitto+ partem; +Remitto+ relaxando continuationem. #Gocl.# #H.#
+
+$$1275$$
++Omnis+ ad quantitatem discretam; +Totus+ ad continuam refertur. Sive +omnis+ de universis numero distinctis, ut "omnis grex"; +totus+ est unius corporis plenitudo vel de corpore integro dicitur, ut "tota domus", licet poëtae non semper hanc differentiam observent, quorum testimonia #Nonius# adducit. (#Plaut. Aulul. I. 1. 33#: *Pervigilat noctes =totas=.* Italice: <span lang="it">Veglia le notti intere</span>. E contrario: Pervigilat noctes _omnes_, esset italice: <span lang="it">Veglia tutte le notti</span>. #Cic. Philipp. II. 27#: *=Totos= dies potabatur.* #Th. Vall.#) 
+
+$$1276$$
++Omnis+ nullum excipit; +Cuncti+ omnes in uno loco; +Universi+ quasi ad unum versi. #H.#
+
+$$1277$$
++Omnes+ seiunctos ex diversis locis constitutos; +Cuncti+ coniunctos respicit.
+
+$$1278$$
++Oneratus+ est qualicumque pressus pondere, seu cui onus est impositum; +Onerosum+ autem, quod onerat; +Onustus+, cui onus ipsum honori est, ut si quis hostium spolia ferat; sed +oneratus+ adspirationem non habet, quia ab onere venit; _Honestus_, quia etiam ab honore descendit, retinet adspirationem. #Servius#.
+
+$$1279$$
++Onus+ vehiculorum, et maius est: +Sarcina+ hominum, et minus est. #Front.# #R.#
+
+$$1280$$
++Opacus+ et +Umbrosus+ non semper sunt synonyma. #Curt. V. 4#: *Hinc perpetuum iugum, quod =opacum= et =umbrosum=, quod aestas levat.* +Opacum+ est, quod in umbra est, aut umbra ipsa apud #Cic.#, et illud, quod radios non transmittit, qualis est terra. #Scaliger Exerc. exot. 80. 1.# +Opaca+ vocantur umbrosa. Opaci postes sunt frondibus inumbrati. #Propert. IV. 10. 61.# Umbrosum est arborum adsitarum proceritate amoenum. #Hor. Od. III. 1. 23#: *umbrosam ripam*. v. #Pitiscus ad Curlium#.
+
+$$1281$$
++Opem ferre+ dicitur in malis rebus et iis, qui de salute dubii sunt. #Ter. Andr. III. 1. 15#: *Fer opem! serva me.* +Opitulari+ et _opitulatio_ dicta ab opem tollendo, hoc est, ferendo. #Id. Andr. I. 3. 5#: *Sin opitulor, huius minas.* #Donat.# #R.#
+
+$$1282$$
++Opera+ est labor, actio et industria, ut cum dicimus, "operam dare, navare, sumere, perdere"; +Opus+ est id, quod opera perficitur, aut post operam exstat, ut "opus rusticum, textorium, fabrile, caelatum, sculptum". Unde "opus facere, locare, conducere", elegantes et usitatae locutiones. #Ter. Heaut. I. 1. 21#: *Quod in =opere= faciundo =operae= consumis tuae.* #Varro de LL. IV#: *Si quid datum pro =opera=, aut =opere=. Merces a merendo.* Interdum tamen +opus+ pro +opera+ sumitur. #Cic. Off. II. 3#: *Neque agricultura, neque frugum fructuumque reliquorum perceptio et conservatio sine hominum =opera= ulla esse potuisset.* #Id. Ib. II. 4#: *Adde ductus aquarum, derivationes fluminum, agrorum irrigationes, moles oppositas fluctibus, ortus manu factos, quae unde sine hominum =opere= haere possemus?*
+
+$$1283$$
++Opera+ est, si scientes laeserimus, +culpa+, si nescientes; alterum sceleris, alterum stultitiae est. #Donat.# #R.#
+
+$$1284$$
++Opera+ est labor et industria, quae adhibetur circa agendum: +operatio+ vero est ipsa actio. #Anton. in Virg. Ecl. III.# #R.#
+
+$$1285$$
++Operam+ et +Operas+ ita distinguit #Servius#, ut +opera+ significet actionem, +operae+ homines mercede conductos (1). #Cic. pro Flacco XXXVIII#: *=Operae= facessant, servitia sileant.* Sed Iurisconsulti frequenter +operas+ actiones et ministeria vocant in titulo, quem de operis libertorum fecerunt, atque etiam ipse #Cic. Off. III#: *Pleraque sunt hominum =operis= effecta.* Et alibi: *=Operas= in scriptura pro magistro dat.* Ilaque puto rectius dici de actione +operam+ et +operas+, de personis +operas+ tantum. V. %Opus%.
+(1) Huius vocis significatio tam elegans est ac trita, ut, loquente #Doleto#, sexcentos ferme loquendi modos a latinis scritoribus usurpatos in se contineat. Leg. #Nonius Marcellus de Propriet. Sermon. fol. 256 fac. a.#
+
+$$1286$$
++Opes+ num. plur. divitias et potentiam significat; num. singul. auxilium; utroque numero omnem conatum. +Opim+ quando dicimus, nympham significamus: si autem dicimus +opem+, auxilium; cui enim +opes+ sunt, is facile potest opem ferre. +Opes+ num. plur. eliam auxilia et census accipimus. Nam +Ops+ (1) Terra est uxor Saturni, quam Graeci Rheam vocant. #Serv.#
+(1) +Ops+ antiquis multitudo est, et ponitur non solum pro opem ferente, sed et pro opulento. Unde inops et cops pro coops. Vid. #Laurembergii Antiquar. p. 311. col. b.#
+
+$$1287$$
++Opinamur+, quae putamus; quae +putamus+, incerta sunt. #Donat.# #R.#
+
+$$1288$$
++Opinio+ hominem suspectum, vel gratiosum facit; +fama+ vel commendat, vel destruit. +Opinio+ ostendit; +fama+ indicat; +rumor+ tumultuatur.
+
+$$1289$$
++Oportet+ (1) et +Opus+ minus sunt; +Necesse+ plus. Porro +oportet+ instar speciei se habet; +licet+ est genus. Sed +decet+ convenit personis et temporibus. #Goclen.# #H.#
+(1) +Oportet+ declarat perfectionem officii, ut: *praemia virtutis =oportet= esse sancta et casta*, i. e. inviolata. #Cicero#. +Licet+ dicitur id, quod legibus et iure permittitur. #Goclen.# +Oportet+ est, quod rationi, honestati; +licet+ quod legibus et iuri scripto est consentaneum. #R.#
+
+$$1290$$
++Opus+ est quod fit operando. Italice: <span lang="it">lavoro</span>. +Opera+, quod uno die quis in agro operatur. Italice: <span lang="it">una giornata di lavoro</span>. #Cat. De re rust. II#: *Ad rationem =operum= =erarumque= villicum revoca.* Nos: <span lang="it">Chiama il castaldo a far il conto dei lavori falli, e delle giornate in essi impiegale</span>. #Th. Vall.#
+
+$$1291$$
++Oppidum+ minus est et vilius; +Urbs+ nobilior; dicitur enim +oppidum+ muris et fossis cinctum seu locus urbatus, ab antiquo _urbare_, quod idem est atque arare. Aratro enim civitatis muros antiqui solebant describere. Unde metropolis _urbs_ et κατ’ ἐξοχήν Roma dicitur _urbs_. #Svet. Aug. LIII#: *=Urbe= =oppidove= ullo egressus.* Confunduntur tamen haec duo ab optimis scriptoribus non semel, neque ulla re aliqua differunt, nisi etymologia. #Cic. de Leg. I#: *Eiusmodi coniunctionem tectorum, =oppidum= vel =urbem= appellarunt.* #Id. de Div. I#: *Pheras venisse, quae erat =urbs= in Thessalia tum admodum nobilis, in eo igitur =oppido=.* #Varro de LL. IV#: *Quare et =oppida=, quae prius circumducta aratro ab orbe et urvo =urbes=.* #Sulpitius# ad #Ciceronem# de Corintho, Aegino et Megara: *Quae =oppida= quodam tempore florentissima fuerunt.*
+ 
+$$1292$$
++Opportune+ dicimus, quum, verbi gratia, invitati ad ipsum tempus incipientis prandii venimus. +In ipso tempore+, quum iam prandio apposito. #Donat.# #R.#
+
+$$1293$$
++Ora+ et +Orae+ licet paria esse videantur, tamen, ut genere, ita intellectu distant. Nam quoties neutrius est generis, vultus vel facies nostra significatur. #Virg. Aen. XII. 373#: *=Ora= citatorum dextra detorsit equorum.* Quoties foeminini, cuiuslibet rei fines. #Virg. Aen. I. 307#: *Exire locosque Explorare novos, quas vento accesserit =oras=.* #Non.# #R.#
+
+$$1294$$
++Oratio+ (1) est, quae copiose, graviter et ornate rem exponit; +Sermo+ (2) est oratio remissa et finitima quotidianae locutioni, vel ut #Servius# definit, +sermo+ est consertio orationis et confabulatio duorum vel plurium, a serendo dictus. Unde et pro familiari colloquio et fabulatione sumitur, ut quod #Plaut. in Sticho IV. 1. 71.# dixit, *lupus est in =sermone=*, hoc #Ter. Eun. IV. 1. 21.# dixit, *lupus est in fabula*. +Sermo+ omnium gentium est, +loquela+ dialectus cuilibet genti propria. +Concio+ est, quae in magno conventu adfectus concitare studet, et genus, quod vocant rhetores deliberativum, in primis sequitur.
+(1) Grammatici +orationem+ vocant congruam dictionum ordinationem, quae perfectam habeat sententiam.
+(2) Utpote qui a compositis et simul contextis verbis sic dicitur. Notandum autem, +orationem+ magis ad oratorem pertinere, quoniam ex omni parte perfecta est, dum numeros, figuras atque affectus habet; +Sermonem+ vero magis ad philosophum. #Leg. Peroni Cornucop. col. 1043.#
+
+$$1295$$
++Oratio+ in sensu est, +stilus+ in verbis. +Oratio+ ad res refertur, +stilus+ non est in tempore, sed prolata oratione; +oratio+ est et in cognitione et in prolatu. #Donat. Id.# +Orationem+ in sententiis dicunt esse, +stilum+ in verbis, _argumentum_ in rebus. #Ter. Andr. Prol. XII#: *Dissimili oratione sunt factae ac stilo.* Vulgo cum #Donato# ita distinguit interpretum chorus, ut oratio notet διάνοιαν, stilus λέξιν. #Cic. Brut. XLV#: *Huius orationes tantum argutiarum, tantum exemplorum, tantum urbanitatis habent, ut paene attico stilo scriptae esse videantur.* #Phaedr. Prol. III. 29#: *Librum exarabo tertium Aesopi stilo.* Possit tamen et hendiadys videri ut sensus sit, dissimili oratione sunt scriptae. Sic #Terent. Phorm. Prol. V#: *Tenui esse oratione et scriptura levi*; v. #Westerhovius# ad hunc #Ter.# locum.
+
+$$1296$$
++Orator+ est, qui in causis publicis et privatis perfecta utitur eloquentia, seu qui in iudiciis vel in concionibus causas agit. Proprie autem is est +orator+, qui aliquid rogat, cuius foemininum +oratrix+. +Oratorem+ etiam legatum designare, #Carolus Paschalius in Legato cap. 2. p. 7. seq.# testatur. Conf. #Schardii Lexic. Iurid. p. 657. loc. b.# +Exorator+ (1), qui aliquid impetravit, qui artem eloquentiae profitetur, +declamator+, qui aut docendi alios, aut se exercendi gratia fictam causam privatim agit, ut possit veram publice orare. +Rhetor+, qui rhetoricam profitetur. Aliquando tamen, ut quidem semper apud Graecos, +rhetor+ accipitur pro oratore, vel declamatore. #Valla IV. c. 81.# #Cic. de Nat. Deor. II#: *Ego, inquit, incautus, qui cum academico et eodem =rhetore= congredi conatus sum. Nam neque indisertum academicum pertimuissem, neque sine ista philosophia =rhetorem=, quamvis eloquentem.*
+(1) +Orator+ est, cui causa defendenda mandatur; +exorator+ iam effecti significationem habet. #Donat.# #R.#
+
+$$1297$$
++Ordinatio+ simplex est; +Dispositio+ vaga. #C.# #Front.#
+
+$$1298$$
++Ordo+ vel bonorum vel malorum dicitur: +Grex+ vel bonorum vel malorum et levium est. #Cic. Cat. II. 10#: *In his =gregibus= omnes aleatores, omnes impuri impudicique versantur.* #Donat.# #R.#
+
+$$1299$$
++Oro+ est plus, quam +rogo+; +obsecro+ plus, quam +oro+; +obtestor+ plus, quam +obsecro+; +ambio+ magna. V. %Obsecro%. #R.#
+
+$$1300$$
++Ortus+ est natus; +Oriundus+ et +prognatus+ originem ducens; et prior quidem refertur praesertim ad locum; posterior ad personas. #Conrad. in parergis p. 490.# #Alciatus# monuit, distinguendum esse inter +oriundum+ et +ortum+, ut _ille_ dicatur respectu originis maiorum suorum, _hic_ respectu suae; ideoque non sit provincialis, qui genus e provincia duxit, ipse vero extra illam provinciam natus est. Sicut #Liv. XXIV. 6.# ait: *Nati Carthagine, oriundi Syracusis.* #Caes. B. G. II. 29#: *Ipsi erant ex Cimbris Teutonisque prognati.* Verum #Guil. Fornerius# subtilem hanc differentiam iuris auctores promiscue usurpando sustulisse, contendit, conf. #Gesn. thes.# v. _oriundus_. #H.#
+
+$$1301$$
++Oscines+ et +Praepetes+ differunt. Quaedam enim aves ore, quaedam volatu auspicium faciunt. Quae ore, +oscines+ dicebantur, auctore #Varrone de LL. V. 7.#; quae alis et volatu, alites et +praepetes+. De quibus #Festus# et #Servius#: *Aves, inquit, aut =oscines=, aut =praepetes= sunt. =Oscines=, quae futura praedicunt; =praepetes=, quae volatu augurium significant, et quidem prosperum.* +Praepetes+ autem quidam dictas volunt, quod secundum auspicium ferrent praevolando, seque ante augurem ferendo: alii quod ante indicarent, quam peteretur: alii, quod praetervolarent. V. #Caroli animadv. in Gellium p. 338.#
 
 $$1302$$
 +Osculum+ est officii, ut cum advenientes discedentesve salutamus atque osculamur; vel religionis, ut #Virg. Aen. II. 490#: *Amplexaeque tenent postes, atque =oscula= figunt.* #Tib. I. 2. 86#: *Et dare sacratis =oscula= liminibus.* +Suavium+ vero est amoris furtivi et illiciti, et libidinis. Unde et pro amoribus dicunt comici, "meum =suavium="; ut apud Graecos φίλημα simul et +osculum+ et amores significat. #Varro de Vita populi rom.# Itaque hoc ab ore dicitur +osculum+: hoc a suavitate +suavium+, quod simile sit suavitati. +Basia+ pudicorum affectuum, et piorum coniugum. #Donat.# #R.#
 
-OSSA HOMINIS MORTVI LEGERE et OSSA HOMINI MORTVO 
-LEGERE quod differant, ex Rosino cognoscimus, in quo 
-ad leg. 6. p. f. legg. {2 lab. (homini mortuo ne ossa 
-legito, quo post funus facias. extra quam si belli endove 
-hostico mortuus escit), ita commenlatum reperimus : 
-'Legis sententia haec est, ut posteaquam crematum cor- 
-pus sit, ossa e cineribus legantur, statimque loco pro— 
-limo in terram condantur, ne, si alium in locum sepe- 
-liendi causa deportarentur, luctus duplicaretur et sumtus. 
-Excipitur autem hac lege, si quis aut in militia, aut 
-peregre sit mortuus ut scilicet fieri ei funus non Ii- 
-ouerit; tum enim neque luctus, neque sumtus augelur_. 
-Google 
-Digitizer} by 
+$$1303$$
++Ossa hominis mortui legere+ et +Ossa homini mortuo legere+ quod differant, ex #Rosino# cognoscimus, in quo ad #leg. 6. p. 1. legg. 12 tab.# (homini mortuo ne _ossa_ legito, quo post funus facias, extra quam si belli endove hostico mortuus escit), ita commentatum reperimus: Legis sententia haec est, ut posteaquam crematum corpus sit, _ossa_ e cineribus legantur, statimque loco proximo in terram condantur, ne, si alium in locum sepeliendi causa deportarentur, luctus duplicaretur et sumtus. Excipitur autem hac lege, si quis aut in militia, aut peregre sit mortuus, ut scilicet fieri ei funus non licuerit; tum enim neque luctus, neque sumtus augetur. Itaque et in pandectis is sumtus funeris probatur, quum peregre mortuus in suum transfertur. Aliter tamen iam interpretatur, et verius quidem, #Iac. Raevardus#, quum ita scribit: Mullum interesse puto inter +ossa homini mortuo legere+, et inter +ossa hominis mortui legere+. Nam _ossa hominis_ quae dispersa sunt et non cohaerent, quum simul colliguntur, tunc _hominis ossa legi_ dicuntur. #Sen. de Ira II#: *Dignus fuit, cui permitteret a convivio ad ossa filii legenda discedere.* Sed +homini mortuo leguntur ossa+, quum eius cadaveri aliqua _ossa_ adimuntur; eoque sensu vivis _ossa legere_ dixit idem #Sen. de Consol.# Legere quidem pro adimere et auferre veteres dixisse non est obscurum, si consideremus, eum dicendum esse sacrilegum, qui adimit. qui aufert res Deo consecratas. Perlinet autem lex ad hunc morem fortasse, de quo #Festus# scribit, membrum mortuo abscindi solitum dici, quum digitus eius decidebatur, ad quod servatum iusta fierent, reliquo corpore combusto, id quod hac lege decemviri prohibuerunt, nisi quis aut peregre, aut iu bello mortuus esset. Tum enim permiserunt et _ossa legi_, quod post funus fiat, hoc est membrum aliquod adimi, ad quod servatum iusta Romae Gerent, reliquo corpore apud peregrinos combusto. #Rosin. l. c. p. 564.#
 
+$$1304$$
++Ostentum+ #(D. de Verb. Sign. XXXVIII. 135.)# est, quod praeter consuetudinem apparet, veluti si videatur caelum ardere aut spectrum aliquod se ostendat; +Portentum+, quod porro et diutius tendit, futurumque aliquid postea indicat; ut ululatus canum, statuarum deiectiones; +Prodigium+ (quod mores faciunt, #Corn. Front.#) quodcumque ante praedicit detrimentum; +Monstrum+, quo contra naturam est, et eo monet futura, ut homo tripes, minotaurus (1). #Cic. de N. Deor. II. 3#: *Praedictiones vero, et praesensiones rerum futurarum quid aliud declarant nisi hominibus, ea quae sint, ostendi, monstrari, praedici. Ex quo illa =ostenta=, =monstra=, =portenta=, et =prodigia= dicuntur.* Est tamen interdum, ut priora duo latius accipiantur, et +ostentum+ significet omne contra naturam cuiusque rei factum genitumve; +portentum+ quicquid mirum et inusitatum evenit. In +ostento+ raritas admirationem facit; in +monstro+ rectus ordo naturae vertitur; in +portento+ differtur eventus, in +prodigio+ detrimentum significatur. #Lucil. Sat. XV. p. 171#: *Multa homines =portenta= in Homero versificata. =Monstra= putant, quorum imprimis Polyphemus.*
+(1) #Perottus in Cornucopiae epigr. II. col. 196. lin. 28. seq.# quatuor haec nomina inter se sic differre dicit, ut +ostentum+ statim futurum aliquid indicet, qualia sunt sereno die facta tonitrua, cometae, mulae partus et similia. #Leg. Doleti phras. et form. LL. eleg. fol. 121, fac. a. col. 1.# +Portentum+, licet naturale sit, raro tamen se ostendit et futurum aliquid cum temporis intervallo denunciat. Ideoque aliquando etiam pro re inani, falsa atque ridicula ponitur. +Prodigium+, etsi et naturaliter fit, atque persaepe evenit; semper tamen mali quid praesagit. Quapropter et prodigium quidam dictum volunt quasi porro agendum. +Monstrum+ proprie contra naturam, ut si homo cum bruti capite pedibusve nascatur, quae et praemonstra aliquando dicuntur, quasi porro aliquid monstrantia, sive monentia.
 
-Itaque et in pandectis is sumtus funeris probatur, quuw 
-peregre mortuus in suum transfertur. Aliter tamen iam 
-Interpretalur. et verius quidem, Iac. Raevardus. quum 
-ita scribil: Mullum interesse pulo inter ossa homini mor- 
-Juo legere, et inter ossa hominis morlui legere. Nam 08B. 
-hominis quae dispersa sunt et non cohaerent, quutu 
-simul colliguntur, tunc homini8 ossa legi dicunlur. Sen.. 
-de Ira II : Dignus fuit, cui permitteret a convivio ad ossa 
-filii legenda discedere. Sed homini mortuo leguntur ossa, 
-quum eius cadaveri aliqua ossa adimuntur; eoque sensu 
-vivis ossa legere dixit idem Sen. de Consol. Legere qui-- 
-dem pro adlmere et auferre veteres dixisse non est ob- 
-scurum, si consideremus, eum dicendum esse sacrilegum, 
-qui adimit. qui aufert res Deo consecratas. Perlinet au- 
-tem lex ad hunc morem fortasse, de quo Festus scribit, 
-membrum mortuo abscindi solitum dici, quum digilus 
-eius decidebatuc, ad quod servatum iusta fierent, reliquo 
-corpore combusto, id quod bac lege decemviri prohi- 
-buerunt, nisi quis aut peregre, aut iu bello mortuus 
-esset. Tum enim permiserunt et ossa legi, quod post 
-funus fiat, hoc est membrum aliquod adimi, ad quod 
-servalum iusta Romae Gerent, reliquo corpore apud pe— 
-regrinos combusto. Rosin. l. c. p. 564. 
-OSTENTVM (D. dc Verb. Sign. xxxvnl. {35.) est, quoå 
-praeter consuetudinem apparel, veluti si videatur caelun 
-ardere aut spectrum aliquod se ostendat; Portentum, 
-quod porro et diulius tendit, futurumque aliquid postea 
-indicat; ut ululatus canum, statuarum deiectiones; Pro— 
-digium (quod mores faciunt, Corn. Front.) uodcumque. 
-ante praedicit detrimentum; Monstrum, quo contra na- 
-turam est, et eo monet futura, ut homo tripes, mino— 
-taurus (f). Cic. de N. Deor. II. 3 : PraedicLiones vero, 
-(1) Perottus in Cornucopiae epigr. 11. col. 196. lin. 28. seq.. 
-quatuor haec nomina inter se sic differre dicit, ut ostentum 
-statim futurum aliquid indicet, qualia sunt sereno die facta to- 
-nitrua. cometae, mulae partus eL similia. Leg. Doleti phras, et 
-form. LL. eleg. fol. 121, fac. a. col. 1. Portentum, licet na- 
-turale sit, raro tamen se ostendit et futurum aliquid cum tem- 
-poris intervallo denunciat. Ideoque aliquando etiam pro re 
-inani, falsa atque ridicula ponitur. Prodtgium, etsi et natura- 
-liter fit. atque persaepe eveniL; spmper Lamen mali quid prae- 
-sagit. Quapropter et prodigium quidam dictum volunt quasi 
-porro agendum, Monstrum proprie contra naturam-, ut 
-Google 
-Digitizeö by 
+$$1305$$
++Otiosum esse+ et +Nihil agere+ differunt. #Plin. Ep. I. 9#: *Satius est, =otiosum esse=, quam =nihil agere=.* #Cic. Phil. XI. 8#: *=Otioso= vero, et =nihil agenti= privato, quando imperium senatus dedit?* +Otiosum esse+ proprie notat ab ordinario ac molesto labore interquiescere, et vel musis, vel aliis iucundis rebus operam dare; +nihil agere+ vero tempus sine ullo labore, sive molesto, sive iucundo, transigere. #Plinii# locum ita interpretatur #Gesnerus in thes.#, voce _otiosus_: Bonis litteris vacate nullis negotiis molestis impeditum est, melius quam frustra et nequidquam occupari, movere, sed nihil promovere; conf. #Dornmeier. de vitios. Cic. Imit. § 47.#
 
+$$1306$$
++Ovare+ minus erat, quam +triumphare+. Nam si bellum quod iam confectum est, non fuisset ab initio hostibus indictum, aut sine sanguine confectum, non dabatur +triumphus+, sed tantum +ovabant+. #Plaut. Bacch. IV. 9. 146-150.# Vid. etiam #Alex. ab Alex. VI. cap. 17.# #R.#
 
-sgr 
-et praesensioncs rerum futurarum aid aliud declarant 
-nisi hominibus, ea quae sint, osten i, monstrari, prae— 
-dici. Ex quo illa ostenta, monstra, portenta, et prodigia 
-dicuntur. Est tamen interdum, ut priora duo latius ace 
-cipiantur, et ostenlum significet omne contra naturam 
-cuiusque rei factum genitumve; portentum quicquid mi- 
-rum et inusitatum evenit. In ostento raritas admiratio• 
-nem facit; in monstro rectus ordo naturae vertitur; in 
-portento differtur eventus, in prodigio detrimentum si- 
-gnificatur. Lucil. Sat. xv. p. 171. Multa homines por- 
-tenta in Homero versificata. Monstra putant, quorum 
-imprimis Polyphemus. 
-OTIOSVM ESSE et NIHIL AGERE differunt. Plin. Ep. I. 
-9 : Satius est, otiosum esse. quam nihil agere. Cic. Phil. 
-II. 8 : Olioso vero, et nihil agenti privato, quando im— 
-perium senatus dedit? Otiosum esu proprie notat ab 
-ordinario ac molesto labore interquiescere, et vel musis; 
-vel aliis iucundis rebus operam dare; nihil agere vero 
-tempus sine ullo labore, Sive molesto, Sive iucundo, 
-transigere. Plinii locum ita interpretatur Gesnerus in 
-thes, voce otiosus: Bonis litteris vacate nullis negotiis- 
-molestis impeditum est, melius quam frustra et nequid- 
-quam occupari, movere, sed mhil promovere; conf. 
-Dornmeier. de vitios. Cic. Imit. S 47. 
-OVARE minus erat, quam triumphare. Nam si bellum 
-quod iam confectum est, non fuisset ab initio hostibus 
-indictum, aut sine sanguine confectum . non dabatur 
-triumphus, sed tantum ovabant. Plaut. Bacch. IV. 9. {46 — 
-{50. Vid. etiam Alex. 8b Alex. VI. cap. {T. R. 
-OVILE et SEPTA eamdem rem notant, et pro synony- 
-mis habentur. Servius ad Virg. Ecl. I. 74. itø: Septa 
-proprie sunt loca in campo martio inclusa tabulatis, in 
-quibus Stans populus romanus tufragia ferre consueverat. 
-Sed quoniam haec septa similia sunt ovilibus, duo haec iu- 
-vicem pro se ponuntur, ut hoc loco Virgilius septa pw 
-ovilibus posuit. Sunt tamen qui tueantur, locum suffra— 
-giorum In campo martio diversa ratione modo ovile, 
-modo septa dici. Ovilis nomine gaudebal. quod inclusus 
-erat tabulatis. Idem seplorum nomen habebat, ex quo 
-homo cum bruti capite pedibusve nascatur, quae et praemon— 
-stra aliquando dicuntur, quasi porro •liquid monstranLia, sire 
-monentia. 
-Google 
-Digitizeö by 
+$$1307$$
++Ovile+ et +Septa+ eamdem rem notant, et pro synonymis habentur. #Servius ad Virg. Ecl. I. 74.# ita: *=Septa= proprie sunt loca in campo martio inclusa tabulatis, in quibus stans populus romanus suffragia ferre consueverat. Sed quoniam haec =septa= similia sunt =ovilibus=, duo haec invicem pro se ponuntur, ut hoc loco Virgilius septa pro ovilibus posuit.* Sunt tamen qui tueantur, locum suffragiorum In campo martio diversa ratione modo ovile, modo septa dici. +Ovilis+ nomine gaudebat, quod inclusus erat tabulatis. Idem septorum nomen habebat, ex quo septis erat circumdatus marmoreis, de quibus #Cic. Ep. ad Att. IV. 16#: *Efficiemus rem gloriosissimam. Nam in campo martio =septa= tributis comitiis marmorea sumus et tecta facturi, eaque cingemus excelsa porticu, ut mille passuum conficiatur. Simul adiungetur huic operi villa etiam publica.* Conf. #Borrichius de ant. fac. c. 2. § 6.# et #Nardinus VI. c. 6.#
 
+$$1308$$
++Pabulatorem+ inter et +Frumentatorem+ haec differentia est, ut _ille_ equis et iumentis, _hic_ hominibus supportet alimenta.
 
-septis erat circumdatus marmoreis, de quibus Cic. Ep. 
-ad Att. lv. {6: Effciemus rem gloriosissimam. Nam In 
-•campo martio septa tributis comitiis marmorea sumus 
-et tecta facturi, eaque cingemus excelsa porticu, ut mille 
-passuum conficiatur. Simul adiungetur huic operi villa 
-etiam publica. Conf. Borrichius de ant. fac. c. 2. S 6. 
-el Nardinus VI. c. 6. 
-PABVLATOREM inter et FRVMENTATOREM haec differentia 
-est, ut ille equis et iumentis, hic hominibus supportet 
-alimenta. 
-PACISCI est de re certa et indubilata, seu de dandis 
-et reddendis ceria conditione convenire, ut pacisci nu- 
-ptias vel mercedem, pacisci ne petatur; Transigere vero 
-est rem dubiam, et litem incerlam neque finitam, aliquo 
-dato, relento, promissove decidere . auctore Ulpiano D. 
--de Trans. I. Virg. Aen. v. 230. Vitamque volunt pro 
-laude pacisci. 
-PACTVM (D. de Pact. I. et VI.) est contractus inter duos 
-pluresve, qui proprium nomen habet, ut emlio, venditio, 
-locatio, aut conductio; Paclum convenlum (I) est, quod 
-inter aliquos convenit tantum, nec proprium contractus 
-nomen adsumit; ita adpellatum, quod non lege firme- 
-tur, sed ex solo conventu valeat, ut iurisconsulti scri- 
-bunt. Auctor Rhet. ad Herenn. 11. 13: Sunt item pacta, 
-quae sine legibus observantur, ex conventu. 
-PACTVM et PACTIO sunl diversa apud oratores et histo- 
-ricos, apud quos paclio est conventio de re communi 
-aut publica inter collegus, socios, mancipes, aut eos, 
-qui pacem vel amiciliam conditionibus diclis paciscun— 
-tur; paclum vero est conventio de re quacumque et 
-inter quoslibet. Ponitur etiam pro conditione, vel modo; 
-(I) Pactum Conventum in iure adpellatur sine coniunctione 
-seu conventione media; nudum pactum intelligitur, quod solo 
-consensu constat. Nam alterum vestitum adpellant, boc est. 
-aliquo certo iure formalum, quod praeter consensum partium 
-etiam vim habet ex iure ciVili, tunc aliud nomen accipit. 
-Boc proprie actionem parit; illud exceptionem dumtaxat. Leg. 
-Gocl. loc. cit. p. 240. seq. 
-Google 
-Digitized by 
+$$1309$$
++Pacisci+ est de re certa et indubitata, seu de dandis et reddendis certa conditione convenire, ut "pacisci nuptias" vel "mercedem", "pacisci ne petatur"; +Transigere+ vero est rem dubiam, et litem incertam neque finitam, aliquo dato, relento, promissove decidere, auctore #Ulpiano D. de Trans. I.# #Virg. Aen. V. 230#: *Vitamque volunt pro laude =pacisci=.*
 
+$$1310$$
++Pactum+ #(D. de Pact. I. et VI.)# est contractus inter duos pluresve, qui proprium nomen habet, ut emtio, venditio, locatio, aut conductio; +Pactum conventum+ (1) est, quod inter aliquos convenit tantum, nec proprium contractus nomen adsumit; ita adpellatum, quod non lege firmetur, sed ex solo conventu valeat, ut iurisconsulti scribunt. #Auctor Rhet. ad Herenn. II. 13#: *Sunt item =pacta=, quae sine legibus observantur, ex =conventu=.*
+(1) +Pactum Conventum+ in iure adpellatur sine coniunctione seu conventione media; +nudum pactum+ intelligitur, quod solo consensu constat. Nam alterum vestitum adpellant, hoc est, aliquo certo iure formatum, quod praeter consensum partium etiam vim habet ex iure civili, et tunc aliud nomen accipit. _Hoc_ proprie actionem parit; _illud_ exceptionem dumtaxat. #Leg. Gocl. loc. cit. p. 240. seq.#
 
-ut cum dicimus nullo pacto, aut aliquo pacto aliquid 
-fieri. Vid. Dolet. loc. persaepe alleg. fol. 124. fac. b. 
-col. 2. Sall. Catil. xxvr: Collegam suum Antonium pac— 
-lione provinciae perpulerat, ne contra rempublicam sen- 
-tiret. Cic. Caecin. XVIII : Quod edictum magistratus, quod 
-foedus, aut pactio. ld. ad Att. lv. 18: Haec pactio non 
-verbis, sed nominibus et perscriptionibus multorum ta- 
-bulis cum esse facta diceretur. Sed apud iurisconsullos 
-nullam vocabulot•um istorum differentiam esse animad— 
-vertimus. Nam et nudam pactionem, el nudum paclum 
-promiscue et indistincte dicunt, ut ex ipsorum responsis 
-liquet. 
-PACTVS dicilur, qui cum altero convenit; Depectus qui 
-turpiter pactus est. Cic. pro Sext. Roscio xxxvrd: Cum 
-illo partem suam depacisci. Ulpian. ad Edict. x. D. de 
-Calumn. 111 : Hoc edicto tenetur etiam is, qui depectus 
-est.• Depectus aulem dicitur turpiter pactus. Simililer 
-paclor, qui convenit, aut socielatem convit cum altero 
-Sive proprie, qui inter parles paciscitur; depector, qm 
-turpis quaestus, aut lucri gratia rem aliquam pacisci— 
-tur. Cic. Verr. VII. 21 : Foederum interpretes, societatis 
-pactores, religionis auctores. Apud Apol. Litium depector 
-omnium falsorum commentator. 
-PAEDAGOGVS. puerorum ductor, et subinde etiam doctor, 
-praesertim morum et valetudinis curator; Praeceptor 
-artes et lilteras docet. Ille olim servus; hic fere liber et 
-honeslus. Plin. Ep. v. 16. Ut nutrices, ut paedagogos, ut 
-raeceptores, pro suo quemque officio diligebat. Paraeus. 
-h. Paedagogus instituit; Magister docet. Sen. de Ira, 11. 
-22: Pertinebit ad rem, praeceptores, paedagogosque pueris 
-placidos dari. H. 
-PAGI sunl villae rusticanae in eodem tractu et parte 
-regionis dispositae; dictae a pangendo, et iungendo, non, 
-ut grammatici opinantur, id est, a 
-fontibus, quod illi, qui in uno pago habitant, plerum- 
-que uno et eodem fonte utantur (f). Vici (2) sunt plures 
-iunctae domus, remotae ab urbe, et sine moenibus; 
-(l) Ald. Manut. de quaest. per Epist. 3.'7. Vicus est vel extra 
-urbem vel In urbe. In urbe est continuata series domorum. 
-non ipsa via. 
-(2) Yid. Perotti Cornucopiae Epigr. 11, col. 156. lin. 47, seqq. 
-Hic pagani dicli, quasi ex eodem fonW potantes, hoc est, vile 
-lann 
-Google 
-Digitizer: by 
+$$1311$$
++Pactum+ et +Pactio+ sunt diversa apud oratores et historicos, apud quos +pactio+ est conventio de re communi aut publica inter collegas, socios, mancipes, aut eos, qui pacem vel amicitiam conditionibus dictis paciscuntur; +pactum+ vero est conventio de re quacumque et inter quoslibet. Ponitur etiam pro conditione, vel modo; ut cum dicimus "nullo pacto", aut "aliquo pacto aliquid fieri". Vid. #Dolet. loc. persaepe alleg. fol. 121. fac. b. col. 2.# #Sall. Catil. XXVI#: *Collegam suum Antonium =pactione= provinciae perpulerat, ne contra rempublicam sentiret.* #Cic. Caecin. XVIII#: *Quod edictum magistratus, quod foedus, aut =pactio=.* #Id. ad Att. IV. 18#: *Haec =pactio= non verbis, sed nominibus et perscriptionibus multorum tabulis cum esse facta diceretur.* Sed apud iurisconsultos nullam vocabulorum istorum differentiam esse animadvertimus. Nam et "nudam pactionem", et "nudum pactum" promiscue et indistincte dicunt, ut ex ipsorum responsis liquet.
 
+$$1312$$
++Pactus+ dicitur, qui cum altero convenit; +Depectus+ qui turpiter pactus est. #Cic. pro Sext. Roscio XXXVIII#: *Cum illo partem suam depacisci.* #Ulpian. ad Edict. X. D. de Calumn. III#: *Hoc edicto tenetur etiam is, qui =depectus= est. =Depectus= autem dicitur turpiter =pactus=.* Similiter +pactor+, qui convenit, aut societatem coivit cum altero, sive proprie, qui inter partes paciscitur; +depector+, qui turpis quaestus, aut lucri gratia rem aliquam paciscitur. #Cic. Verr. VII. 21#: *Foederum interpretes, societatis =pactores=, religionis auctores.* Apud #Apol.# Litium +depector+ omnium falsorum commentator.
 
-dicuntur aatem vici quod viat circum habeant. Itaque 
-pagi sunt pa&s pwrinciarutn, seu praetecturae. in ui- 
-bus vici insunt, et nonnumquam etiam oppida; ul el- 
-vetia olim divisa erat in qualuor pagos, (vulgo Canzoni), 
-qui urbes duodecim eL vicos quadringentos habebant. 
-Tac. Ann. I. 56: Reliqui omissis pagi8, vicisque. ld. de 
-Mor. Germ. XII: Eliguntur in iisdem comitiis et prin- 
-cipes, qui iura per pagos vicosque reddant. 
-PAIAM est aperte, manifesle, et coram pluribus; Vulgo 
-esl plerumque, (ere, communiter, passim el a mullis, 
-vel In mullis locis. Unde vulgaris mulier in iure civili 
-dicitur, quae vulgo et passim sui copiam facil. Aperte 
-ad verba pertinet non obscura. Virgil. Georg. 111. 494 : 
-Hinc laet1S vituli vulgo moriuntur in herbis. Marcellus 
-Digest. xxvl. de Ritu nupt. Probrum etiam intelligilur 
-in his mulieribus esse, quae turpiter viverent, vulgoque 
-quaestum facerent, eliamsi non palam, id est, cum Inultis 
-corpus miscerent, etiamsi non in propalulo, veluti in 
-lupanari. 
-PALLAS et MINERVA sunt nomina eiusdem deae. Pallas 
-dicilur belli, Minerva quum dicitur, pacis praeses est. 
-Sed discrimen istud raro curant scriptorcs, praesertim 
-poötae. 
-PALLOREM Burmannus ad Lucan. 111. 625. a squalore 
-ita separat, ut proprie sik in coloris mutatione a situ, 
-squalor a sordibus inductis. Sed ipse dubium relinquit, 
-an semper illum canonem vel scriptores, vel librarii 
-certe observarint. Defenderat autem Burmannus ad Quin- 
-til. Decl. v. {9. pallorem a librariis male poni pro 
-squalore, ea in re Heinsium non nimis provide seculus, 
-qui in scriptorum emendatione saepe pro pallidus re- 
-posuit aqualidus, pro paueo, squaleo, sed contra fidem 
-librorum; quamquam negari non polest, haec duo no- 
-mina confundi. Gesn. thes. v. pallor et pallidus. 
-PALPITATIO fit praeter naturam. et accidit homini, elsi 
-nullum membrum moveat; Tremor ex dimidia parle vo— 
-luntarius est motus. Illos enim tremere dicimus. qui cum 
-membrum movere conanlur, libere id et pro usu suo 
-non possunt, nec protensum, nec suspensum servare, 
-sed ilS membrum a facultate in altum sublatum ondere 
-suo xarwqdpera',rursumque a faeullate anima i erigi- 
-tur, quae vicissitudo motus tremor est. Deinde tremoris su- 
-biectum est cutis, caro cum musculis, nervis et ossibus : 
-Dagltzet by 
-0081e 
+$$1313$$
++Paedagogus+, puerorum ductor, et subinde etiam doctor, praesertim morum et valetudinis curator; +Praeceptor+ artes et litteras docet. _Ille_ olim servus; _hic_ fere liber et honestus. #Plin. Ep. V. 16#: *Ut nutrices, ut =paedagogos=, ut =praeceptores=, pro suo quemque officio diligebat.* #Paraeus#. #R.# +Paedagogus+ instituit; +Magister+ docet. #Sen. de Ira, II. 22#: *Pertinebit ad rem, =praeceptores=, =paedagogosque= pueris placidos dari.* #H.#
 
+$$1314$$
++Pagi+ sunt villae rusticanae in eodem tractu et parte regionis dispositae; dictae a pangendo, et iungendo, non, ut grammatici opinantur, ἀπὸ τῶν πηγῶν, id est, a fontibus, quod illi, qui in uno +pago+ habitant, plerumque uno et eodem fonte utantur (1). +Vici+ (2) sunt plures iunctae domus, remotae ab urbe, et sine moenibus; dicuntur autem +vici+ quod _vias_ circum habeant. Itaque +pagi+ sunt partes provinciarum, seu praefecturae, in quibus +vici+ insunt, et nonnumquam etiam _oppida_; ut Helvetia olim divisa erat in quatuor +pagos+, (vulgo _Cantoni_), qui urbes duodecim et +vicos+ quadringentos habebant. #Tac. Ann. I. 56#: *Reliqui omissis =pagis=, =vicisque=.* #Id. de Mor. Germ. XII#: *Eliguntur in iisdem comitiis et principes, qui iura per =pagos= =vicosque= reddant.*
+(1) #Ald. Manut. de quaest. per Epist. 3. 7.# +Vicus+ est vel extra urbem vel in urbe. In urbe est continuata series domorum, non ipsa via.
+(2) Vid. #Perotti Cornucopiae Epigr. II. col. 156. lin. 47. seqq.# Hic _pagani_ dicti, quasi ex eodem fonte potantes, hoc est, villani.
 
-palpitatio vero carnis solum cutisque est erectus. Postremo 
-•m tremore membrum sursum deorsumve, dextrmsam 
-•vel sinistrorsum movetur continue; palpi/alione vero in 
-eodem situ manens, et immotum nunc distendilur, re- 
-•pletum quasi a corpore extraneo, nunc subsidit; et prop- 
-terea in palpitatione facultas animalis nullo modo lae- 
-ditur, quia palpitans membrum pro voluntate movere 
-polest aeger: tremor vero a facultatis motricis imbecil- 
-• lilate, vel ab ea onerala proficiscitur. Haec illustris 
-Thomas Heinesius Var. Lect. II. cap. 3. p. 449. H. 
-PAPILLAE et MAMILLAE differentiam ita definil Servius 
-ad Virg. Aen. xl. 803. Papilla est breve illud, unde 
-Iac trahitur; mamilla est omnis eminentia uberis; conf. 
-Gesneri thes. voc. papilla. 
-PAR esse dicitur, quod tantumdem habet. ant virium 
-aut magniludinis, quamquam alia sit forma aut specie : 
-•ut contra simile, quod eandem figuram habet, magni- 
-tudine dispari. Ita, duobus angulis reclis pares sunt, 
-ui triangulum constituunt, quamquam dissimiies, qua- 
-ratum quadrato simile quamquam possit esse dispar. 
-Sic inlelligenda sunt illa Quinctlliani x. 4: T. Livius 
-immorlalem illam Sallustii velocitatem diversis virtu— 
-tibus consecutus est. Nam mihi egregie dixisse videtur 
-•Servilius Nonianus, pares eo magis, quam similes. Liv. 
-xxxv. 43: Similia omnia magis visa hominibus, quam 
-paric; cet. v. Pitiscus ad Curt. v. 5. Paria. si res bre- 
-vibus expedienda est, conveniunt in omnibus, similic 
-tantum in aliquibus. Par respicit plerumque aetatem ac 
-dignitatem, raro mores; similis mores magis, ac corporis 
-• formam. 
-PARANYNPHiS, quasi assecla sponsi, deductor sponsi. 
-Nynphagogus, qui deducit sponsam. Promnestria mulier, 
-quae adest sponsae, deducit eam ad lectum, solvit ei 
-&cingulum, laline pronuba. Goclen. R. 
-PARARE (I) est ad necessitatem inslruere; Apparare est 
-ad dignitatem et pompam parare, ut apparare coenam, 
-nuplias. Ter. Heaut. l. 74: Ideo alios festinare, lectos 
-•sternere, coenam apparare. 
-PARENTARE et IVSTA ALICVI PACERE pro synonymis haud 
-• raro habentur. Enimvero, quum synonyma linguam potius 
-(l) Hoe verbum pro comparare seu emere, etiam sumi tradit 
-•Gilanius loc. cit. p. 169. 
-Digitizee by 
-0081e 
+$$1315$$
++Palam+ est aperte, manifeste, et coram pluribus; +Vulgo+ est plerumque, fere, communiter, passim et a mullis, vel in mullis locis. Unde "vulgaris mulier" in iure civili dicitur, quae +vulgo+ et passim sui copiam facil. +Aperte+ ad verba pertinet non obscura. #Virgil. Georg. III. 494#: *Hinc laetis vituli =vulgo= moriuntur in herbis.* #Marcellus Digest. XXVI. de Ritu nupt.#: *Probrum etiam intelligitur in his mulieribus esse, quae turpiter viverent, =vulgoque= quaestum facerent, etiamsi non =palam=*, id est, cum multis corpus miscerent, etiamsi non in propatulo, veluti in lupanari.
 
+$$1316$$
++Pallas+ et +Minerva+ sunt nomina eiusdem deae. +Pallas+ dicitur belli, +Minerva+ quum dicitur, pacis praeses est. Sed discrimen istud raro curant scriptores, praesertim poëtae.
 
-imperfectam faciant, quam perfectam, et ab initio •sy 
-nonynja procul dubio e linguis exulaverint, discrimina 
-vocum accuratius exculienda sunt, ut pateal, synonyma 
-olim non fuisse synonyma. Ipse Budaeus putavit, paren— 
-tare idem esse ac iusta facere ad 2. D. de in ius voc. 
-Sed iu8ta a lege sunt, et iure pontificio; at contra multi 
-qui nullis illis legibus obstricti essent, ultra ad virorurn 
-fortium sepulcra parentarunt, ut Caligula, qui sicnbi cla— 
-rorum virorum sepulcra cognosceret, inferias manibus- 
-dabat. Svet. Caligul. 111. Ut Adrianus et Severus impe— 
-ratores Pompeio parentarunt. Xiphilinus in Adrian. et 
-Sever. Alexander heroibus. qui m Troiae obsidione ce— 
-ciderant. Plutarch. in Alex. 
-A parentalibus differunt inferiae, quae privatae sunt 
-feriae, uti parentalia publica, atque omnis parenlatio a 
-civibus aut incolis festo colebatur. 
-PARERE est obedire; Apparere autem est videri. Servius. 
-Parere minus est quam servire. Tac. in Agricola de Bri- 
-tannis, XIII: Iam domiti ut pareanl, nondum ul serviant. 
-Paraeus. R. 
-PARIETES privatorum tecta ambiunt ac suslinent : Moenia 
-et muri urbem muniunt. TK. VALL. 
-PAnMA el PELTA breve scutum est, comparatione cum 
-Romanorum clypeis facta: pella tamen est brevior, quam 
-parma. Nep. Iphic. x! : Quum ante illum imperatorem 
-maximis clypers uterentur. ille e contrario peltam pro 
-parma fecit, a quo peltastae equites adpellantur, ut ad 
-motus concursusque essent leviores. 
-PARSI semel, peperci sae ius. R. 
-PARTICEPS est qui certam {abet partem, non divise agit, 
-ut socius. Ascon. Pedian. R. 
-PARVM', PARVMPER. V. Aliquantum. 
-PARVVM in tempore; Breve in spatio: EJiguum in cor- 
-pore infantis; Pusillum in corpore pumilionis. Corn. Front. 
-PASCI proprie bestiarum et pecudum est: Vesci homi- 
-num : mud ad saginam dumtaxatrefertur; hocad victum at— 
-que etiam usum quarumlibet rerum; ut vesci voluptatibus 
-dixit Cic. Vesci auris vitalibus, sermoneLucret. Interdum 
-tamen pasci hominum est pro foveri et sustenlari. vesci e- 
-tiarn bestiarum. Cic. pasci scelere et maleficio. Sic idem 
-Cicero ad Attic. (et quidem in bona significatione) dicit 
-pasci (id est, delectari) alicuius bibliotheca. Quando 
-autem Ovid. Amor. I. 15. 39. infit: Pascitur in vivis 
-Google 
-Digitizeö by 
+$$1317$$
++Pallorem+ #Burmannus ad Lucan. III. 625.# a +squalore+ ita separat, ut proprie sit in coloris mutatione a situ, +squalor+ a sordibus inductis. Sed ipse dubium relinquit, an semper illum canonem vel scriptores, vel librarii certe observarint. Defenderat autem #Burmannus ad Quintil. Decl. V. 19.# +pallorem+ a librariis male poni pro +squalore+, ea in re #Heinsium# non nimis provide secutus, qui in scriptorum emendatione saepe pro +pallidus+ reposuit +squalidus+, pro +palleo+, +squaleo+, sed contra fidem librorum; quamquam negari non potest, haec duo nomina confundi. #Gesn. thes.# v. _pallor_ et _pallidus_.
 
+$$1318$$
++Palpitatio+ fit praeter naturam, et accidit homini, etsi nullum membrum moveat; +Tremor+ ex dimidia parte voluntarius est motus. Illos enim _tremere_ dicimus, qui cum membrum movere conantur, libere id et pro usu suo non possunt, nec protensum, nec suspensum servare, sed iis membrum a facultate in altum sublatum pondere suo κατωφέρεται, rursumque a facultate animali erigitur, quae vicissitudo motus +tremor+ est. Deinde +tremoris+ subiectum est cutis, caro cum musculis, nervis et ossibus: +palpitatio+ vero carnis solum cutisque est effectus. Postremo in +tremore+ membrum sursum deorsumve, dextrorsum vel sinistrorsum movetur continue; +palpitatione+ vero in eodem situ manens, et immotum nunc distenditur, repletum quasi a corpore extraneo, nunc subsidit; et propterea in +palpitatione+ facultas animalis nullo modo laeditur, quia palpitans membrum pro voluntate movere potest aeger: +tremor+ vero a facultatis motricis imbecillitate, vel ab ea onerata proficiscitur. Haec illustris #Thomas Reinesius Var. Lect. II. cap. 3. p. 149.# #H.#
 
-337 
-Livor, tunc eleganter pascere, pro crescere usurpalur. 
-Varro R. R. 11, 2. de ovibus: Quaecumque iubentur. 
-vescuntur, ut folia ficulnea, et palea et vinacea. 
-PASCENTIA sunt, quae ex se pascunlur, ut prata; et 
-pascentia mancipia, quia pascuntnr, ideo etiam pastores 
-vocantur; Pabulantia vero, quae iis utuntur, ut iumenta. 
-Corn. Fronto. 
-PASSIM aliquid inveniri rerum, de re corporali recte 
-dicimus;,41atim de re aliqua incorporali: primum enim 
-de incessu, alterum de affatu dictum. Agr. R. 
-PASTUS significat cibum, et omnium animantium ge- 
-neri, praecipue homini convenit. et lunc est substantivum. 
-Quando vero est adiectivum, tunc significat eum, qui 
-cibum sumpsit. Pastio proprie est non tam actus ipse 
-pascendi, quam cibus, et de brutis tantum dicitur, ut 
-pastio villatica. Pabtdum id ipsum idemque significat, 
-sed est proprie cibus herbaceus, foeniceus, paleaceus, 
-stramentlcius, potius quam seminum. Varro R. R. 111. 
-2: Altera est villatica pastio, altera agrestis. 
-PATENS, est quod ad tempus patet, et quod aperitur, 
-et clauditur, ut ianuae, portae patentes, oculi; patulum, 
-quod semper et per se naturahter patet, ut nares; Bos 
-patulus, qui cornua diversa et late distantia habet. 
-Plaut. Truc. 11. 2. 22: Arbor pattda, et patulae quadrae, 
-Virg. de fago, Eglog. I. 4. et Aen. VII. "5. Sic nares 
-atulae, Georg. I. 376 et patulae puppes, Georg. 111. 
-}63. Conf. Taubmanni Commentarii ad Virgilii Culic. 
-v. {6. Patulus mundus Lucret. VI. 407. 
-PATRII dii sunt singulis civitatibus, ut Minerva Athenis, 
-luno Carthagini, Baccus Thebis, Pluto Elidi, etc. Indi— 
-getes autem proprie sunt dii ex hominibus facti, quasi 
-in diis agentes, ut Aeneas, Romulus, Serv. 
-PATRIVM a atria, palernum a patre. R. 
-PATRONVS dicitur, qui defendit accusatum vel quem- 
-que alium a flictum in ludicio; Advocatus, qui aut ius 
-suggerit, aut praesentiam suam commodatamico, seu venit 
-paratus ad alium defendendum, etiamsi nihil agat, Valla 
-lv. (2. Procurator. qui negotium absentis nomine su- 
-scipit; Cognitor, qui praesentis causam novit, el sic tuetur, 
-(l) Patronus aut temporale nomen est defensoris, aut certe 
-appellatio, per quam ostenditur, quid illi cultus aut Obse uii 
-deneatur. Parens autem veri amoris nomen est. Donat. 
-Atuonii Popmae etc. 
-Google 
-Digitizeö by 
+$$1319$$
++Papillae+ et +Mamillae+ differentiam ita definit #Servius ad Virg. Aen. XI. 803.#: *=Papilla= est breve illud, unde lac trahitur; =mamilla= est omnis eminentia uberis*; conf. #Gesneri thes.# voc. _papilla_.
 
+$$1320$$
++Par+ esse dicitur, quod tantumdem habet aut virium aut magnitudinis, quamquam alia sit forma aut specie: ut contra +simile+, quod eandem figuram habet, magnitudine dispari. Ita, duobus angulis rectis pares sunt, qui triangulum constituunt, quamquam dissimiles, quadratum quadrato simile quamquam possit esse dispar. Sic intelligenda sunt illa #Quinctiliani X. 1#: *T. Livius immortalem illam Sallustii velocitatem diversis virtutibus consecutus est. Nam mihi egregie dixisse videtur Servilius Nonianus, =pares= eo magis, quam =similes=.* #Liv. XXXV. 43#: *=Similia= omnia magis visa hominibus, quam =paria=*; cet. v. #Pitiscus ad Curt. V. 5.# +Paria+, si res brevibus expedienda est, conveniunt in omnibus, +similia+ tantum in aliquibus. +Par+ respicit plerumque aetatem ac dignitatem, raro mores; +similis+ mores magis, ac corporis formam. 
 
-338 
-ut saam. Hic solemni ritu; ille solo mandatu sine ulla 
-caerimonia fuisse dicitur. V. Ileineccii antiq. Rom. 
-ad inslit. LV. lit. 10. p. 293. Hodie huiusmodi functio 
-causidicorum et procuratorum saliem, i. e. cogni&orum, 
-neminibus continelur. Aseon. Pedian. Vid Goclen. loc. 
-saepissime denomin. p. 2M. H. 
-Discrimen quidem est maximum, idque varium, .in4er 
-patronum clientis alque tgtorem, quem paterfamilias Ii- 
-beris, quos in potestate habebat, aut eLiam feminis, propter 
-infirmitatem consilii dubal; quod satis patet, si evolvamus 
-Heineccium de Tutelis in antiqu. I. tit. 13. seq. Interim 
-tamen et patroai erant clientum tutores, quorum lutelae 
-illi et opes eorum suberant, quosque et consiliis et cura 
-sollicite prolegebunt. 
-PATVLVN V. PATENS. 
-PAVLVM, PAVLISPZR V. Aliquantam. 
-PATDVS est semper limens; Pavens ex causa. Serv. 
-PAVCITAS refertur ad quantitatem disa•etam, seu nu- 
-merum, et øpponilur pluribus; ParvUas ad quantitatem 
-continuam eL ad corpus, et opponiur nagais. ld Gocl. 
-xvl. 11. 
-PAVLO NINVS est propemodum pene, ed opponilttr 
-paulo magis: Paululum remissionis est, et significat ali- 
-quantulum, atqee opponilur Tö moltum vel plusculum, 
-aliquando idem et, quod paulisper; Paulisper vero si- 
-gniticat temporis modum, hoc est brevitalem. Goelen. R. 
-PAVPER a paulo lure, mendicus, a minus, cui, cum opus 
-est, minus est. Varro. R. 
-PAYPERTAS (l) est ipsa pauperis conditio; Pauperies est 
-damnum, sine iniuria facientis datum, ut cum animal, 
-quod sensu et ratione caret, damnum intulerit, de quo 
-prodita est actio, si quadrupes pauperiem fecisse dicatur; 
-per quam consequimur, ut vel detur ipsum animal, quod 
-noxiam commisit, vel noxae et damni aestimatio prae- 
-stelur. (Inst. si quadrup. pauperi.) Sed interdum pauperies 
-significat ipsam paupertatem, utapud Horatium non semel. 
-Sed differentia nugatoria videlur, quum compluribus ve- 
-terum locis confutari possit. 
-(l) Paupertas minus, egestas plus est. Senec. Epist. : 
-Non est quod paupertas oos a philosopbia revocet, ne egestas 
-quidem. Et Epist. LIX•. Quanta verborum nobis paupertas, imo 
-egestas sit, numquam magis, quam bodierno dae intellexi. B. 
-Google 
-Digitizeö by 
+$$1321$$
++Paranymphus+, quasi assecla sponsi, deductor sponsi. +Nymphagogus+, qui deducit sponsam. +Promnestria+ mulier, quae adest sponsae, deducit eam ad lectum, solvit ei cingulum, latine +pronuba+. #Goclen.# #R.#
 
+$$1322$$
++Parare+ (1) est ad necessitatem instruere; +Apparare+ est ad dignitatem et pompam parare, ut "apparare coenam, nuptias". #Ter. Heaut. I. 1. 74#: *Ideo alios festinare, lectos sternere, coenam =apparare=.* 
+(1) Hoc verbum pro comparare seu emere, etiam sumi tradit #Gifanius loc. cit. p. 169.#
 
-339 
-PAX est inter personas publicas et dicitur de maximis 
-principum dissidiis, ita ut eontraria sit bello cum ex- 
-ternis. R. Cøncmüa seu odium inter privatas, et dicitur 
-de rebus domeslicis, ita ut sedilionibus domesticis ad- 
-versetur. Panaet. R. Compositio est inter offensas.. Go- 
-clen. H. 
-PECCAT (f) aliquando, qui, quod debuit, fecii, sed 
-non rune; Delinquit proprie, qui fecit, quod non de- 
-buit. H. 
-PECORA mixtura animalium; Pecudes non item. H. 
-PECVARIA ab eo, quod est pecuare, venit. Nam pecua, 
-ut ait in Pompeiana Cicero, ab eo, quod est pecu, venit, 
-ut genu, genua. Serv. R. 
-PEDALE mensura est pedis; Pedule vero pedibus in- 
-volvendis praestat utilitatem. Front. 
-PEIVS est a malo, quod in usu est, et creberrime 
-frequentatur; Deterius vero a bono. ut minoris sit me- 
-riti, quam id, quod placet. Non. Marc. 
-PENE notat imperfectionem; Fere raritatem. Iul. Sca- 
-lig. R. 
-PENETRALE dicitur, quod penetrat; Penelrabile, quod 
-penetratur. Serv. H. 
-PENNA est id, quo avium alae vesliunlur. Pluma mol- 
-lior est, et lotum corpus legit. Colum. VILI. 2: Gullinae 
-sint rubicundae, vel fuscae plumae, nigrisque pennis. 
-TH. VALL. 
-PERCONTATVM a conto dicitur, quo nautae utuntur ad 
-exploranda loca navibus opportuna. Percunclnlum vero 
-ab eo, quod 9 cunctis perquiratur. Donat. R. 
-PERCVLSVM animo, prcussum corpore dicimus. Cicero : 
-Tamquam i:lla face perculsos esse. Pereellere proprie ita 
-est impellere, ut loco moveatur, impulsum est, 
-diciturque tam de animo, quam de corpore. Cum ad 
-auimum refertur, est illum quasi loco movere et gradu 
-deiicere, cerle eflicere, ut consilium mulet. Eodem modo 
-percutere et de corpore et de animo adhibetur. Animum 
-percutere suspicione religionis, Sen. Ep. XLI. Saepissime 
-tamen a librariis confundi videas percellere et percu- 
-tere. V. BenUeius ad Horat. Epod. et cel. Ernesti ad 
-Svet. Tib. xl. Hinc Svet. Calig. xxxv. Lipsius et Peri- 
-(I) Commerui minoris culpae est, peccavi multo minoris, 
-vel levioris. Donat. R. 
-Google 
-Digitizeö by 
+$$1323$$
++Parentare+ et +Iusta alicui facere+ pro synonymis haud raro habentur. Enimvero, quum synonyma linguam potius imperfectam faciant, quam perfectam, et ab initio synonyma procul dubio e linguis exulaverint, discrimina vocum accuratius excutienda sunt, ut pateat, synonyma olim non fuisse synonyma. Ipse #Budaeus# putavit, parentare idem esse ac iusta facere #ad 2. D. de in ius voc.# Sed +iusta+ a lege sunt, et iure pontificio; at contra multi qui nullis illis legibus obstricti essent, ultra ad virorum fortium sepulcra +parentarunt+, ut Caligula, qui sicubi clarorum virorum sepulcra cognosceret, inferias manibus dabat. #Svet. Caligul. III.# Ut Adrianus et Severus imperatores Pompeio +parentarunt+. #Xiphilinus in Adrian. et Sever.# Alexander heroibus, qui in Troiae obsidione ceciderant. #Plutarch. in Alex.#<br/>A +parentalibus+ differunt +inferiae+, quae privatae sunt feriae, uti parentalia publica, atque omnis parentatio a civibus aut incolis festo colebatur.
 
+$$1324$$
++Parere+ est obedire; +Apparere+ autem est videri. #Servius.# +Parere+ minus est quam +servire+. #Tac. in Agricola de Britannis, XIII#: *Iam domiti ut =pareant=, nondum ut =serviant=.* #Paraeus.# #R.#
 
-340 
-zonius legere iubent: non alia de causa repente perculie, 
-pro vulgato percussit, quod est proprium latinorum de 
-repentina pernicie, in primisque Svetonii, verbum. Svet. 
-Tib. v. Ner. xxxv: Percussit nimis lene, quam re, verbum 
-est. V. cel. Ernesti not. ad Svet. Calig. xxxv. et Gesneri 
-thes. Obtinet etiam differentia inter verba percellere et 
-ad/igere. Gravius enim ad/igere est, quam perceUere. 
-Cic. Tusc. nl. E : Existimant enim, dilS immortalibus 
-se facilius satisfacluros, si eorum plaga perculsi, adßictos 
-se et stratos esse fateantur. V. Gesn. thes. v. perceno. 
-PERCVTERE de instrumentis gravioribus dicitur, quibus 
-vulneramur, vel occidimur; Verberare de virgis et fu- 
-siibus. Conf. Gifanii observat. LL. p. 350. 
-PERDERE plus; Amittere minus. Sed quod litteratores 
-quidam dicunt, perdimus consulto, amittgmus inconsulto, 
-ei refragari Latinorum usum constat.,Leg. Goclen. loc. 
-cit. p. 2M. seq. H. 
-PERDITVM, quod inveniri non potest; Proßigatum, 
-quod potest. Pedian. R. 
-PEREGRI in loco, peregre ad locum significat, ut pere— 
-rinatus, peregre profectus. Plaut. Persa. I. 1. 30: Quia 
-erus peregri est. ld. Amphit. II. 2. 217: Ita nunc ho- 
-mines immutantur postquam peregre advenimus. Sed 
-haec differentia, cuius auctor Charisius, non est certa 
-et perpetua; et constat, veteres fropter amnitatem lit- 
-terarum E et I promiscue haec ta ia efferre here et heri, 
-vespere et vesperi, praefiscine et praefiscini. 
-PEREGRINVS est quicumque extra patriam versatur. 
-Differt ab advena, hospiæ, incola. Namque peregrinus di- 
-cilur habita ratione loci, unde venit; advena, loci, ad 
-quem venil; hospes, loci ubi est; incola demum habita 
-ratione habitationis. Praeterea inter advenas et convenas 
-hoc discrimen intercedit, quod illi ex uno loco adve- 
-niant; hi ex pluribus locis in eumdem conveniant. Plaut. 
-Poen. v. 2. 71: Nequam te esse oportet, hominem pe- 
-re rinum atque advenam qui irrideas. TAC. Dial. de orat. 
-VI : advenae quoque et peregrini, iam in municipiis et 
-coloniis suis auditos, cum primum urbem adtigerunt, 
-requirunt ac vultus agnoscere concupiseunt. Cic. Off. I. 
-34: Peregrini et incolae omcium est nihil praeter suum 
-negotium agere. ld. Orat. I. 9 : Romulus pastores et 
-convenas congregavit. ld. ibid. J. {9: Is, qui nuper Ro- 
-mae fuit, Menedemus hospes meus. TH. VALL. 
-Digitizee by 
-0081e 
+$$1325$$
++Parietes+ privatorum tecta ambiunt ac sustinent: +Moenia+ et +muri+ urbem muniunt. #Th. Vall.#
+
+ $$1326$$
++Parma+ et +Pelta+ breve scutum est, comparatione cum Romanorum clypeis facta: +pelta+ tamen est brevior, quam +parma+. #Nep. Iphic. XI#: *Quum ante illum imperatorem maximis clypeis uterentur, ille e contrario =peltam= pro =parma= fecit, a quo peltastae equites adpellantur, ut ad motus concursusque essent leviores.*
+
+$$1327$$
++Parsi+ semel, +peperci+ saepius. #R.#
+
+$$1328$$
++Particeps+ est qui certam habet partem, non divise agit, ut +socius+. #Ascon. Pedian.# #R.#
+
+$$1329$$
++Parum+, +Parumper+. V. %Aliquantum%.
+
+$$1330$$
++Parvum+ in tempore; +Breve+ in spatio; +Exiguum+ in corpore infantis; +Pusillum+ in corpore pumilionis. #Corn. Front.#
+
+$$1331$$
++Pasci+ proprie bestiarum et pecudum est; +Vesci+ hominum. _Illud_ ad saginam dumtaxat refertur; _hoc_ ad victum atque etiam usum quarumlibet rerum; ut *vesci voluptatibus* dixit #Cic.# *Vesci auris vitalibus*, sermone #Lucret.# Interdum tamen +pasci+ hominum est pro foveri et sustentari, +vesci+ etiam bestiarum. #Cic.#: *=pasci= scelere et maleficio*. Sic idem #Cicero ad Attic.# (et quidem in bona significatione) dicit *pasci* (id est, delectari) *alicuius bibliotheca*. Quando autem #Ovid. Amor. I. 15. 39.# infit: *=Pascitur= in vivis Livor*, tunc eleganter +pascere+, pro crescere usurpatur. #Varro R. R. II, 2.# de ovibus: *Quaecumque iubentur, =vescuntur=, ut folia ficulnea, et palea et vinacea.*
+
+$$1332$$
++Pascentia+ sunt, quae ex se pascuntur, ut prata; et +pascentia mancipia+, quia pascuntur, ideo etiam pastores vocantur; +Pabulantia+ vero, quae iis utuntur, ut iumenta. #Corn. Fronto.#
+
+$$1333$$
++Passim+ aliquid inveniri rerum, de re corporali recte dicimus; +Affatim+ de re aliqua incorporali: _primum_ enim de incessu, _alterum_ de affatu dictum. #Agr.# #R.#
+
+$$1334$$
++Pastus+ significat cibum, et omnium animantium generi, praecipue homini convenit, et tunc est substantivum. Quando vero est adiectivum, tunc significat eum, qui cibum sumpsit. +Pastio+ proprie est non tam actus ipse pascendi, quam cibus, et de brutis tantum dicitur, ut "pastio villatica". +Pabulum+ id ipsum idemque significat, sed est proprie cibus herbaceus, foeniceus, paleaceus, stramenticius, potius quam seminum. #Varro R. R. III. 2#: *Altera est villatica =pastio=, altera agrestis.*
+
+ $$1335$$
++Patens+, est quod ad tempus patet, et quod aperitur, et clauditur, ut ianuae, portae patentes, oculi; +patulum+, quod semper et per se naturaliter patet, ut nares; Bos patulus, qui cornua diversa et late distantia habet. #Plaut. Truc. II. 2. 22#: *Arbor =patula=, et =patulae= quadrae*, #Virg. de fago, Eglog. I. 4. et Aen. VII. 115.# Sic *nares patulae*, #Georg. I. 376# et *patulae puppes*, #Georg. III. 363.# Conf. #Taubmanni Commentarii ad Virgilii Culic. V. 16.# *Patulus mundus* #Lucret. VI. 107.#
+
+$$1336$$
++Patrii dii+ sunt singulis civitatibus, ut Minerva Athenis, Iuno Carthagini, Baccus Thebis, Pluto Elidi, etc. +Indigetes+ autem proprie sunt dii ex hominibus facti, quasi in diis agentes, ut Aeneas, Romulus, #Serv.#
+
+$$1337$$
++Patrium+ a patria, +paternum+ a patre. #R.#
+
+$$1338$$
++Patronus+ (1) dicitur, qui defendit accusatum vel quemque alium a flictum in iudicio; +Advocatus+, qui aut ius suggerit, aut praesentiam suam commodat amico, seu venit paratus ad alium defendendum, etiamsi nihil agat, #Valla IV. 12.# +Procurator+, qui negotium absentis nomine suscipit; +Cognitor+, qui praesentis causam novit, et sic tuetur, ut suam. _Hic_ solemni ritu; _ille_ solo mandatu sine ulla caerimonia adcitus fuisse dicitur. V. #Heineccii antiq. Rom. ad instit. IV. lit. 10. p. 293.# Hodie huiusmodi functio causidicorum et procuratorum saltem, i. e. cognitorum, neminibus continetur. #Ascon. Pedian.# Vid #Goclen. loc. saepissime denomin. p. 241.# #H.#<br/> Discrimen quidem est maximum, idque varium, inter +patronum clientis+ atque +tutorem+, quem paterfamilias liberis, quos in potestate habebat, aut etiam feminis, propter infirmitatem consilii dubat; quod satis patet, si evolvamus #Heineccium de Tutelis in antiqu. I. tit. 13. seq.# Interim tamen et patroni erant clientum tutores, quorum tutelae illi et opes eorum suberant, quosque et consiliis et cura sollicite protegebant.
+(1) +Patronus+ aut temporale nomen est defensoris, aut certe appellatio, per quam ostenditur, quid illi cultus aut obsequii debeatur. +Parens+ autem veri amoris nomen est. Donat. 
+
+$$1339$$
++Patulum+ V. %Patens%.
+
+$$1340$$
++Paulum+, +Paulisper+ V. %Aliquantum%.
+
+$$1341$$
++Pavidus+ est semper timens; +Pavens+ ex causa. #Serv.#
+
+$$1342$$
++Paucitas+ refertur ad quantitatem disacetam, seu numerum, et opponitur pluribus; +Parvitas+ ad quantitatem continuam et ad corpus, et opponitur magnis. #Id Gocl. XVI. II.#
+
+$$1343$$
++Paulo minus+ est propemodum pene, ed opponitur _paulo magis_: +Paululum+ remissionis est, et significat aliquantulum, atque opponitur τῶ _multum_ vel _plusculum_, aliquando idem et, quod paulisper; +Paulisper+ vero significat temporis modum, hoc est brevitatem. #Goclen.# #R.#
+
+$$1344$$
++Pauper+ a paulo lare, +mendicus+, a minus, cui, cum opus est, minus est. #Varro.# #R.#
+
+$$1345$$
++Paupertas+ (1) est ipsa pauperis conditio; +Pauperies+ est damnum, sine iniuria facientis datum, ut cum animal, quod sensu et ratione caret, damnum intulerit, de quo prodita est actio, "si quadrupes =pauperiem= fecisse" dicatur; per quam consequimur, ut vel detur ipsum animal, quod noxiam commisit, vel noxae et damni aestimatio praestetur. #(Inst. si quadrup. pauperi.)# Sed interdum +pauperies+ significat ipsam paupertatem, ut apud #Horatium# non semel. Sed differentia nugatoria videtur, quum compluribus veterum locis confutari possit.
+(1) +Paupertas+ minus, +egestas+ plus est. #Senec. Epist. XVII#: *Non est quod =paupertas= nos a philosophia revocet, ne =egestas= quidem.* Et #Epist. LIX#: *Quanta verborum nobis =paupertas=, imo =egestas= sit, numquam magis, quam hodierno die intellexi.* #R.#
+
+$$1346$$
++Pax+ est inter personas publicas et dicitur de maximis principum dissidiis, ita ut contraria sit bello cum externis. #R.# +Concordia+ seu +otium+ inter privatas, et dicitur de rebus domesticis, ita ut seditionibus domesticis adversetur. #Panaet.# #R.# +Compositio+ est inter offensas. #Goclen.# #H.#
+
+$$1347$$
++Peccat+ (1) aliquando, qui, quod debuit, fecit, sed non recte; +Delinquit+ proprie, qui fecit, quod non debuit. #H.#
+(1) Commerui minoris culpae est, peccavi multo minoris, vel levioris. #Donat.# #R.#
+
+$$1348$$
++Pecora+ mixtura animalium; +Pecudes+ non item. #H.#
+
+$$1349$$
++Pecuaria+ ab eo, quod est pecuare, venit. Nam +pecua+, ut ait in #Pompeiana# #Cicero#, ab eo, quod est +pecu+, venit, ut genu, genua. #Serv.# #R.#
+
+$$1350$$
++Pedale+ mensura est pedis; +Pedule+ vero pedibus involvendis praestat utilitatem. #Front.#
+
+$$1351$$
++Peius+ est a malo, quod in usu est, et creberrime frequentatur; +Deterius+ vero a bono, ut minoris sit meriti, quam id, quod placet. #Non. Marc.#
+
+$$1352$$
++Pene+ notat imperfectionem; +Fere+ raritatem. #Iul. Scalig.# #R.#
+
+$$1353$$
++Penetrale+ dicitur, quod penetrat; +Penetrabile+, quod penetratur. #Serv.# #H.#
+
+$$1354$$
++Penna+ est id, quo avium alae vestiuntur. +Pluma+ mollior est, et lotum corpus legit. #Colum. VIII. 2#: *Gullinae sint rubicundae, vel fuscae =plumae=, nigrisque =pennis=.* #Th. Vall.#
+
+$$1355$$
++Percontatum+ a conto dicitur, quo nautae utuntur ad exploranda loca navibus opportuna. +Percunctatum+ vero ab eo, quod a cunctis perquiratur. #Donat.# #R.#
+
+$$1356$$
++Perculsum+ animo, +percussum+ corpore dicimus. #Cicero#: *Tamquam illa face perculsos esse.* +Percellere+ proprie ita est impellere, ut loco moveatur, impulsum est, diciturque tam de animo, quam de corpore. Cum ad animum refertur, est illum quasi loco movere et gradu deiicere, certe efficere, ut consilium mutet. Eodem modo +percutere+ et de corpore et de animo adhibetur. *Animum percutere suspicione religionis*, #Sen. Ep. XLI.# Saepissime tamen a librariis confundi videas +percellere+ et +percutere+. V. #Bentleius ad Horat. Epod.# et cel. #Ernesti ad Svet. Tib. XI.# Hinc #Svet. Calig. XXXV.# Lipsius et Perizonius legere iubent: non alia de causa repente +percutit+, pro vulgato +percussit+, quod est proprium latinorum de repentina pernicie, in primisque #Svetonii#, verbum. #Svet. Tib. V. Ner. XXXV#: *=Percussit= nimis lene, quam re, verbum est.* V. cel. #Ernesti not. ad Svet. Calig. XXXV.# et #Gesneri thes.# Obtinet etiam differentia inter verba +percellere+ et +adfligere+. Gravius enim +adfligere+ est, quam +percellere+. #Cic. Tusc. III. 12#: *Existimant enim, diis immortalibus se facilius satisfacturos, si eorum plaga =perculsi=, =adflictos= se et stratos esse fateantur.* V. #Gesn. thes.# v. _percello_. 
+
+$$1357$$
++Percutere+ de instrumentis gravioribus dicitur, quibus vulneramur, vel occidimur; +Verberare+ de virgis et fustibus. Conf. #Gifanii observat. LL. p. 350.#
+
+$$1358$$
++Perdere+ plus; +Amittere+ minus. Sed quod litteratores quidam dicunt, "perdimus consulto", "amittimus inconsulto", ei refragari. Latinorum usum constat. Leg. #Goclen. loc. cit. p. 241. seq.# #H.#
+
+$$1359$$
++Perditum+, quod inveniri non potest; +Profligatum+, quod potest. #Pedian.# #R.#
+
+$$1360$$
++Peregri+ in loco, +peregre+ ad locum significat, ut _peregrinatus_, peregre profectus. #Plaut. Persa. I. 1. 30#: *Quia herus =peregri= est.* #Id. Amphit. II. 2. 217#: *Ita nunc homines immutantur postquam =peregre= advenimus.* Sed haec differentia, cuius auctor #Charisius#, non est certa et perpetua; et constat, veteres propter affinitatem litterarum E et I promiscue haec talia efferre here et heri, vespere et vesperi, praefiscine et praefiscini.
+
+$$1361$$
++Peregrinus+ est quicumque extra patriam versatur. Differt ab +advena+, +hospite+, +incola+. Namque +peregrinus+ dicitur habita ratione loci, unde venit; +advena+, loci, ad quem venit; +hospes+, loci ubi est; +incola+ demum habita ratione habitationis. Praeterea inter +advenas+ et +convenas+ hoc discrimen intercedit, quod _illi_ ex uno loco adveniant; _hi_ ex pluribus locis in eumdem conveniant. #Plaut. Poen. V. 2. 71#: *Nequam te esse oportet, hominem =peregrinum= atque =advenam= qui irrideas.* #Tac. Dial. de orat. VII#: *=advenae= quoque et =peregrini=, iam in municipiis et coloniis suis auditos, cum primum urbem adtigerunt, requirunt ac vultus agnoscere concupiscunt.* #Cic. Off. I. 34#: *=Peregrini= et =incolae= officium est nihil praeter suum negotium agere.* #Id. Orat. I. 9#: *Romulus pastores et =convenas= congregavit.* #Id. ibid. I. 19#: *Is, qui nuper Romae fuit, Menedemus =hospes= meus.* #Th. Vall.#
 
 
 PERPVGA est, qui ad hostes profugit. Aliquando dicitur 
@@ -13097,22 +12242,19 @@ seq. ubi editio Cruquiana et Thomae Treteri Index le—
 gunt inprimis quatinus; Quatinus, heu ! nefas, virtutem 
 incolumem odimus. El Satyr. I. 3. 76. seq. Denique 
 quatinus excidi penitus vitium irae, Cetera item neque- 
-unt (f). Svet. Claud. xxvl : Confirmavitque quatenus ma— 
-(1) Perperam noster Horatianis hisce exemplis nititur con- 
-nrmare, aliquod discrimen intercedere inter quatenuset ua- 
-tings. Namque optimae quaeque editiones un locis allatis; 
-babent: guatenus. Tu. VAL. 
-Google 
-Digitizeö by 
-
-
-369 
+unt (1). Svet. Claud. xxvl : Confirmavitque quatenus ma— 
 trimonia sibi male cederent, mansurum se in coelibatu. 
 Plin. Epist. 111 : 7 : Et quatenus nobis denegatur diu vi— 
 vere, relinquamus ali uid, quo nos vixisse testemur. 
 luven. Sat. XII. {02 : 
 uatenus hic non sunt, nec ve— 
-males elephanti. 
+males elephanti.
+(1) Perperam noster Horatianis hisce exemplis nititur con- 
+nrmare, aliquod discrimen intercedere inter quatenuset ua- 
+tings. Namque optimae quaeque editiones un locis allatis; 
+babent: guatenus. #Th. Vall.# 
+
+
 QVATIO est violenter agito, vel impello; guasso est in 
 varias partes iacio vel moveo cum magna Indignatione 
 magnaque vehementia, quod gravius et violentius est, 
@@ -13144,32 +12286,21 @@ tintinnabulum; v. Burmanni notas ad Phaedr. l. c.
 QVILIBET non universale, sed indcfinitum est. Univer- 
 sale autem est unusquisque sed quisque indefinitum eiüs- 
 modi, quod distributive sumitur. 
-QVIS ad unum indefinitum refer(ur, ut Cic. Fam. 
-: Si quem tuorum fidelium voles, ad me mittas. Quis- 
-quis vero, vel quicumque ad universos confuse (liciture 
-Similiter quot certum desiderat numecum; Quolquot ve} 
-quotcumque omnes denotat, ut observavit Priscianus. 
-QVIS et QVID interrogativa sunt; Qui et quod relativa; 
-Quidquid et quodcumque indefinita. H. 
-Awonii Popmae etc. 
+
+$$1520$$
++Quis+ ad unum indefinitum refertur, ut #Cic. Fam. IV. 1#: *Si =quem= tuorum fidelium voles, ad me mittas.* +Quisquis+ vero, vel +quicumque+ ad universos confuse dicitur. Similiter +quot+ certum desiderat numerum; +Quotquot+ vel +quotcumque+ omnes denotat, ut observavit #Priscianus#.
+
+$$1521$$
++Quis+ et +Quid+ interrogativa sunt; +Qui+ et +quod+ relativa; +Quidquid+ et +quodcumque+ indefinita. #H.#
 
 $$1522$$
 +Quot+ de discretis; +Quantum+ de substantia. #H.#
 
-QVOTANNIS et QVOTIDIE tempus continuatum significant: 
-In singulos an-nos et in dies singulos, tempus interruptum; 
-per intervallc annorum et dierum, seu quolannis, fere est 
-continuum: singulis annis intervallum. Sic quotidie est 
-continuum; singuli8 diebus est intervallum. Cie. Attic. 
-v. Quotidie vel polius in dies singulæ breviores litteras 
-ad (e milLo. Ulp. ad Sabinum 23. leg. {3 D. de Trilico 
-D. de Anøuis. Hderes meus amphoras decem quot- 
-annis in a.nos singu108 daco. Labeo posterior. II. Vini 
-Falerni, quod domi nasceretur, quotanni8 in amos,siøguJe8 
-binos culleos haeres meus Ac.cio dalo. 
+$$1523$$
++Quotannis+ et +Quotidie+ tempus continuatum significant: +In singulos annos+ et +in dies singulos+, tempus interruptum; per _intervalla annorum et dierum_, seu +quotannis+, fere est continuum: +singulis annis+ intervallum. Sic +quotidie+ est continuum; +singulis diebus+ est intervallum. #Cic. Attic. V. 7#: *=Quotidie= vel potius in =dies singulos= breviores litteras ad te mitto.* #Ulp. ad Sabinum 23. leg. 13 D. de Tritico XVII. D. de Annuis.#: *Haeres meus amphoras decem =quotannis= in =annos singulos= dato.* #Labeo posterior. II.#: *Vini Falerni, quod domi nasceretur, =quotannis= =in annos singulos= binos culleos haeres meus Accio dato.*
 
 $$1524$$
-+Quotus+ interrogat; +Quotusquisque+ paucimem simul infert. #H.#
++Quotus+ interrogat; +Quotusquisque+ paucitatem simul infert. #H.#
 
 RACEMI sunt uvae minores et exilioribus granis, qai 
 plerumque a vindemiatoribus sub pampino latentes fal- 

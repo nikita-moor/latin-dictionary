@@ -14,6 +14,7 @@
 * `#Cic. Phil. XIV.#` - souce of the citation
 * `_Hoc_` - italic text, is used almost exclusively for the words "Hoc", "Ille", "Illud", and so on.
 * `"..."` - similar to quotations, this is an example of the word use (see Agmen). This tag is rare.
+* `V. %Avis%.` — percent sign adds links to other articles
 
 
 # Notepad++
