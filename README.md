@@ -1,3 +1,8 @@
+# Notice
+
+This repository is being moved to [@latin-dict](https://github.com/latin-dict/) and will be closed after migration.
+
+
 # Latin dictionaries
 
 [Read more](https://nikita-moor.github.io/dictionaries/) about these dictionaries.
